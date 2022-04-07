@@ -1,0 +1,4185 @@
+,location,date,variant,num_sequences,perc_sequences,num_sequences_total
+12,Angola,2020-07-06,Epsilon,0,0.0,3
+36,Angola,2020-08-31,Epsilon,0,0.0,1
+60,Angola,2020-09-28,Epsilon,0,0.0,10
+84,Angola,2020-10-12,Epsilon,0,0.0,29
+108,Angola,2020-10-26,Epsilon,0,0.0,7
+132,Angola,2020-12-07,Epsilon,0,0.0,6
+156,Angola,2020-12-21,Epsilon,0,0.0,93
+180,Angola,2021-01-04,Epsilon,0,0.0,5
+204,Angola,2021-01-11,Epsilon,0,0.0,16
+228,Angola,2021-01-25,Epsilon,0,0.0,52
+252,Angola,2021-02-08,Epsilon,0,0.0,42
+276,Angola,2021-02-22,Epsilon,0,0.0,39
+300,Angola,2021-03-08,Epsilon,0,0.0,113
+324,Angola,2021-03-22,Epsilon,0,0.0,121
+348,Angola,2021-04-05,Epsilon,0,0.0,137
+372,Angola,2021-04-19,Epsilon,0,0.0,83
+396,Angola,2021-05-03,Epsilon,0,0.0,34
+420,Angola,2021-05-17,Epsilon,0,0.0,5
+444,Angola,2021-05-31,Epsilon,0,0.0,7
+468,Angola,2021-06-14,Epsilon,0,0.0,22
+492,Angola,2021-06-28,Epsilon,0,0.0,59
+516,Angola,2021-07-12,Epsilon,0,0.0,46
+540,Angola,2021-07-26,Epsilon,0,0.0,10
+564,Angola,2021-08-09,Epsilon,0,0.0,4
+588,Angola,2021-08-23,Epsilon,0,0.0,1
+612,Angola,2021-09-06,Epsilon,0,0.0,20
+636,Angola,2021-09-20,Epsilon,0,0.0,57
+660,Angola,2021-10-04,Epsilon,0,0.0,33
+684,Argentina,2020-05-11,Epsilon,0,0.0,151
+708,Argentina,2020-05-25,Epsilon,0,0.0,167
+732,Argentina,2020-06-08,Epsilon,0,0.0,67
+756,Argentina,2020-06-22,Epsilon,0,0.0,79
+780,Argentina,2020-07-06,Epsilon,0,0.0,63
+804,Argentina,2020-07-20,Epsilon,0,0.0,113
+828,Argentina,2020-08-03,Epsilon,0,0.0,103
+852,Argentina,2020-08-17,Epsilon,0,0.0,113
+876,Argentina,2020-08-31,Epsilon,0,0.0,138
+900,Argentina,2020-09-14,Epsilon,0,0.0,50
+924,Argentina,2020-09-28,Epsilon,0,0.0,56
+948,Argentina,2020-10-12,Epsilon,0,0.0,39
+972,Argentina,2020-10-26,Epsilon,0,0.0,102
+996,Argentina,2020-11-09,Epsilon,0,0.0,58
+1020,Argentina,2020-11-23,Epsilon,0,0.0,63
+1044,Argentina,2020-12-07,Epsilon,0,0.0,49
+1068,Argentina,2020-12-21,Epsilon,0,0.0,71
+1092,Argentina,2021-01-04,Epsilon,0,0.0,49
+1116,Argentina,2021-01-11,Epsilon,1,3.03,33
+1140,Argentina,2021-01-25,Epsilon,0,0.0,62
+1164,Argentina,2021-02-08,Epsilon,3,4.35,69
+1188,Argentina,2021-02-22,Epsilon,1,1.75,57
+1212,Argentina,2021-03-08,Epsilon,3,4.62,65
+1236,Argentina,2021-03-22,Epsilon,4,2.26,177
+1260,Argentina,2021-04-05,Epsilon,4,2.04,196
+1284,Argentina,2021-04-19,Epsilon,6,2.01,298
+1308,Argentina,2021-05-03,Epsilon,6,1.78,337
+1332,Argentina,2021-05-17,Epsilon,7,2.07,338
+1356,Argentina,2021-05-31,Epsilon,4,1.33,301
+1380,Argentina,2021-06-14,Epsilon,2,0.49,407
+1404,Argentina,2021-06-28,Epsilon,1,0.26,380
+1428,Argentina,2021-07-12,Epsilon,0,0.0,356
+1452,Argentina,2021-07-26,Epsilon,0,0.0,336
+1476,Argentina,2021-08-09,Epsilon,0,0.0,480
+1500,Argentina,2021-08-23,Epsilon,0,0.0,447
+1524,Argentina,2021-09-06,Epsilon,0,0.0,447
+1548,Argentina,2021-09-20,Epsilon,0,0.0,313
+1572,Argentina,2021-10-04,Epsilon,0,0.0,237
+1596,Argentina,2021-10-18,Epsilon,0,0.0,361
+1620,Argentina,2021-11-01,Epsilon,0,0.0,553
+1644,Argentina,2021-11-15,Epsilon,0,0.0,332
+1668,Argentina,2021-11-29,Epsilon,0,0.0,117
+1692,Argentina,2021-12-13,Epsilon,0,0.0,87
+1716,Argentina,2021-12-27,Epsilon,0,0.0,94
+1740,Aruba,2020-08-17,Epsilon,0,0.0,4
+1764,Aruba,2020-08-31,Epsilon,0,0.0,1
+1788,Aruba,2021-01-25,Epsilon,2,7.69,26
+1812,Aruba,2021-02-08,Epsilon,1,0.88,114
+1836,Aruba,2021-02-22,Epsilon,13,8.44,154
+1860,Aruba,2021-03-08,Epsilon,15,12.0,125
+1884,Aruba,2021-03-22,Epsilon,14,14.14,99
+1908,Aruba,2021-04-05,Epsilon,6,6.52,92
+1932,Aruba,2021-04-19,Epsilon,5,3.45,145
+1956,Aruba,2021-05-03,Epsilon,1,0.71,140
+1980,Aruba,2021-05-17,Epsilon,0,0.0,101
+2004,Aruba,2021-05-31,Epsilon,0,0.0,107
+2028,Aruba,2021-06-14,Epsilon,0,0.0,89
+2052,Aruba,2021-06-28,Epsilon,0,0.0,24
+2076,Aruba,2021-07-12,Epsilon,0,0.0,29
+2100,Aruba,2021-07-26,Epsilon,0,0.0,97
+2124,Aruba,2021-08-09,Epsilon,0,0.0,341
+2148,Aruba,2021-08-23,Epsilon,0,0.0,525
+2172,Aruba,2021-09-06,Epsilon,0,0.0,261
+2196,Aruba,2021-09-20,Epsilon,0,0.0,140
+2220,Aruba,2021-10-04,Epsilon,0,0.0,177
+2244,Aruba,2021-10-18,Epsilon,0,0.0,37
+2268,Aruba,2021-11-15,Epsilon,0,0.0,68
+2292,Aruba,2021-11-29,Epsilon,0,0.0,43
+2316,Aruba,2021-12-13,Epsilon,0,0.0,61
+2340,Australia,2020-05-11,Epsilon,0,0.0,148
+2364,Australia,2020-05-25,Epsilon,0,0.0,103
+2388,Australia,2020-06-08,Epsilon,0,0.0,94
+2412,Australia,2020-06-22,Epsilon,0,0.0,172
+2436,Australia,2020-07-06,Epsilon,0,0.0,814
+2460,Australia,2020-07-20,Epsilon,0,0.0,2733
+2484,Australia,2020-08-03,Epsilon,0,0.0,4183
+2508,Australia,2020-08-17,Epsilon,0,0.0,3020
+2532,Australia,2020-08-31,Epsilon,0,0.0,1987
+2556,Australia,2020-09-14,Epsilon,0,0.0,770
+2580,Australia,2020-09-28,Epsilon,0,0.0,323
+2604,Australia,2020-10-12,Epsilon,0,0.0,182
+2628,Australia,2020-10-26,Epsilon,0,0.0,132
+2652,Australia,2020-11-09,Epsilon,0,0.0,63
+2676,Australia,2020-11-23,Epsilon,0,0.0,64
+2700,Australia,2020-12-07,Epsilon,0,0.0,49
+2724,Australia,2020-12-21,Epsilon,4,2.82,142
+2748,Australia,2021-01-04,Epsilon,4,1.92,208
+2772,Australia,2021-01-11,Epsilon,5,6.76,74
+2796,Australia,2021-01-25,Epsilon,2,2.0,100
+2820,Australia,2021-02-08,Epsilon,2,3.77,53
+2844,Australia,2021-02-22,Epsilon,3,3.75,80
+2868,Australia,2021-03-08,Epsilon,1,1.41,71
+2892,Australia,2021-03-22,Epsilon,0,0.0,122
+2916,Australia,2021-04-05,Epsilon,0,0.0,123
+2940,Australia,2021-04-19,Epsilon,1,0.64,157
+2964,Australia,2021-05-03,Epsilon,0,0.0,204
+2988,Australia,2021-05-17,Epsilon,0,0.0,117
+3012,Australia,2021-05-31,Epsilon,0,0.0,108
+3036,Australia,2021-06-14,Epsilon,0,0.0,132
+3060,Australia,2021-06-28,Epsilon,0,0.0,247
+3084,Australia,2021-07-12,Epsilon,0,0.0,767
+3108,Australia,2021-07-26,Epsilon,0,0.0,1742
+3132,Australia,2021-08-09,Epsilon,0,0.0,2734
+3156,Australia,2021-08-23,Epsilon,0,0.0,3198
+3180,Australia,2021-09-06,Epsilon,0,0.0,3744
+3204,Australia,2021-09-20,Epsilon,0,0.0,3526
+3228,Australia,2021-10-04,Epsilon,0,0.0,1824
+3252,Australia,2021-10-18,Epsilon,0,0.0,2410
+3276,Australia,2021-11-01,Epsilon,0,0.0,1883
+3300,Australia,2021-11-15,Epsilon,0,0.0,2078
+3324,Australia,2021-11-29,Epsilon,0,0.0,1992
+3348,Australia,2021-12-13,Epsilon,0,0.0,2800
+3372,Australia,2021-12-27,Epsilon,0,0.0,1726
+3396,Austria,2020-05-11,Epsilon,0,0.0,34
+3420,Austria,2020-05-25,Epsilon,0,0.0,41
+3444,Austria,2020-06-08,Epsilon,0,0.0,1
+3468,Austria,2020-06-22,Epsilon,0,0.0,1
+3492,Austria,2020-07-06,Epsilon,0,0.0,2
+3516,Austria,2020-07-20,Epsilon,0,0.0,11
+3540,Austria,2020-08-03,Epsilon,0,0.0,9
+3564,Austria,2020-08-17,Epsilon,0,0.0,22
+3588,Austria,2020-08-31,Epsilon,0,0.0,44
+3612,Austria,2020-09-14,Epsilon,0,0.0,35
+3636,Austria,2020-09-28,Epsilon,0,0.0,39
+3660,Austria,2020-10-12,Epsilon,0,0.0,30
+3684,Austria,2020-10-26,Epsilon,0,0.0,84
+3708,Austria,2020-11-09,Epsilon,0,0.0,181
+3732,Austria,2020-11-23,Epsilon,0,0.0,159
+3756,Austria,2020-12-07,Epsilon,0,0.0,137
+3780,Austria,2020-12-21,Epsilon,0,0.0,45
+3804,Austria,2021-01-04,Epsilon,0,0.0,315
+3828,Austria,2021-01-11,Epsilon,0,0.0,136
+3852,Austria,2021-01-25,Epsilon,0,0.0,250
+3876,Austria,2021-02-08,Epsilon,0,0.0,385
+3900,Austria,2021-02-22,Epsilon,0,0.0,415
+3924,Austria,2021-03-08,Epsilon,0,0.0,464
+3948,Austria,2021-03-22,Epsilon,0,0.0,567
+3972,Austria,2021-04-05,Epsilon,0,0.0,291
+3996,Austria,2021-04-19,Epsilon,0,0.0,353
+4020,Austria,2021-05-03,Epsilon,0,0.0,329
+4044,Austria,2021-05-17,Epsilon,0,0.0,619
+4068,Austria,2021-05-31,Epsilon,0,0.0,389
+4092,Austria,2021-06-14,Epsilon,0,0.0,398
+4116,Austria,2021-06-28,Epsilon,0,0.0,750
+4140,Austria,2021-07-12,Epsilon,0,0.0,505
+4164,Austria,2021-07-26,Epsilon,0,0.0,771
+4188,Austria,2021-08-09,Epsilon,0,0.0,623
+4212,Austria,2021-08-23,Epsilon,0,0.0,623
+4236,Austria,2021-09-06,Epsilon,0,0.0,585
+4260,Austria,2021-09-20,Epsilon,0,0.0,513
+4284,Austria,2021-10-04,Epsilon,0,0.0,444
+4308,Austria,2021-10-18,Epsilon,0,0.0,437
+4332,Austria,2021-11-01,Epsilon,0,0.0,634
+4356,Austria,2021-11-15,Epsilon,0,0.0,561
+4380,Austria,2021-11-29,Epsilon,0,0.0,165
+4404,Austria,2021-12-13,Epsilon,0,0.0,183
+4428,Bahrain,2020-06-08,Epsilon,0,0.0,1
+4452,Bahrain,2020-06-22,Epsilon,0,0.0,2
+4476,Bahrain,2020-07-06,Epsilon,0,0.0,11
+4500,Bahrain,2020-08-03,Epsilon,0,0.0,3
+4524,Bahrain,2020-08-31,Epsilon,0,0.0,3
+4548,Bahrain,2020-09-14,Epsilon,0,0.0,2
+4572,Bahrain,2020-09-28,Epsilon,0,0.0,2
+4596,Bahrain,2020-10-12,Epsilon,0,0.0,10
+4620,Bahrain,2020-10-26,Epsilon,0,0.0,45
+4644,Bahrain,2020-11-09,Epsilon,0,0.0,6
+4668,Bahrain,2020-11-23,Epsilon,0,0.0,38
+4692,Bahrain,2021-02-08,Epsilon,0,0.0,1
+4716,Bahrain,2021-02-22,Epsilon,0,0.0,2
+4740,Bahrain,2021-03-22,Epsilon,0,0.0,7
+4764,Bahrain,2021-04-05,Epsilon,0,0.0,2
+4788,Bahrain,2021-04-19,Epsilon,0,0.0,42
+4812,Bahrain,2021-05-03,Epsilon,0,0.0,9
+4836,Bahrain,2021-05-17,Epsilon,0,0.0,57
+4860,Bahrain,2021-05-31,Epsilon,0,0.0,46
+4884,Bahrain,2021-06-14,Epsilon,0,0.0,24
+4908,Bahrain,2021-06-28,Epsilon,0,0.0,84
+4932,Bahrain,2021-07-12,Epsilon,0,0.0,69
+4956,Bahrain,2021-07-26,Epsilon,0,0.0,106
+4980,Bahrain,2021-08-09,Epsilon,0,0.0,48
+5004,Bahrain,2021-09-06,Epsilon,0,0.0,227
+5028,Bahrain,2021-10-04,Epsilon,0,0.0,186
+5052,Bahrain,2021-10-18,Epsilon,0,0.0,372
+5076,Bahrain,2021-11-01,Epsilon,0,0.0,467
+5100,Bahrain,2021-11-15,Epsilon,0,0.0,370
+5124,Bangladesh,2020-05-11,Epsilon,0,0.0,124
+5148,Bangladesh,2020-05-25,Epsilon,0,0.0,168
+5172,Bangladesh,2020-06-08,Epsilon,0,0.0,69
+5196,Bangladesh,2020-06-22,Epsilon,0,0.0,111
+5220,Bangladesh,2020-07-06,Epsilon,0,0.0,175
+5244,Bangladesh,2020-07-20,Epsilon,0,0.0,139
+5268,Bangladesh,2020-08-03,Epsilon,0,0.0,66
+5292,Bangladesh,2020-08-17,Epsilon,0,0.0,26
+5316,Bangladesh,2020-08-31,Epsilon,0,0.0,25
+5340,Bangladesh,2020-09-14,Epsilon,0,0.0,35
+5364,Bangladesh,2020-09-28,Epsilon,0,0.0,8
+5388,Bangladesh,2020-10-12,Epsilon,0,0.0,20
+5412,Bangladesh,2020-10-26,Epsilon,0,0.0,15
+5436,Bangladesh,2020-11-09,Epsilon,0,0.0,27
+5460,Bangladesh,2020-11-23,Epsilon,0,0.0,30
+5484,Bangladesh,2020-12-07,Epsilon,0,0.0,57
+5508,Bangladesh,2020-12-21,Epsilon,0,0.0,25
+5532,Bangladesh,2021-01-04,Epsilon,0,0.0,53
+5556,Bangladesh,2021-01-11,Epsilon,0,0.0,15
+5580,Bangladesh,2021-01-25,Epsilon,0,0.0,62
+5604,Bangladesh,2021-02-08,Epsilon,0,0.0,42
+5628,Bangladesh,2021-02-22,Epsilon,0,0.0,36
+5652,Bangladesh,2021-03-08,Epsilon,0,0.0,14
+5676,Bangladesh,2021-03-22,Epsilon,0,0.0,156
+5700,Bangladesh,2021-04-05,Epsilon,0,0.0,87
+5724,Bangladesh,2021-04-19,Epsilon,0,0.0,131
+5748,Bangladesh,2021-05-03,Epsilon,0,0.0,56
+5772,Bangladesh,2021-05-17,Epsilon,0,0.0,58
+5796,Bangladesh,2021-05-31,Epsilon,0,0.0,99
+5820,Bangladesh,2021-06-14,Epsilon,0,0.0,69
+5844,Bangladesh,2021-06-28,Epsilon,0,0.0,112
+5868,Bangladesh,2021-07-12,Epsilon,0,0.0,244
+5892,Bangladesh,2021-07-26,Epsilon,0,0.0,174
+5916,Bangladesh,2021-08-09,Epsilon,0,0.0,149
+5940,Bangladesh,2021-08-23,Epsilon,0,0.0,140
+5964,Bangladesh,2021-09-06,Epsilon,0,0.0,131
+5988,Bangladesh,2021-09-20,Epsilon,0,0.0,126
+6012,Bangladesh,2021-10-04,Epsilon,0,0.0,94
+6036,Bangladesh,2021-10-18,Epsilon,0,0.0,136
+6060,Bangladesh,2021-11-01,Epsilon,0,0.0,94
+6084,Bangladesh,2021-11-15,Epsilon,0,0.0,118
+6108,Bangladesh,2021-11-29,Epsilon,0,0.0,112
+6132,Bangladesh,2021-12-13,Epsilon,0,0.0,45
+6156,Bangladesh,2021-12-27,Epsilon,0,0.0,24
+6180,Bangladesh,2022-01-05,Epsilon,0,0.0,3
+6204,Belgium,2020-05-11,Epsilon,0,0.0,134
+6228,Belgium,2020-05-25,Epsilon,0,0.0,67
+6252,Belgium,2020-06-08,Epsilon,0,0.0,15
+6276,Belgium,2020-06-22,Epsilon,0,0.0,38
+6300,Belgium,2020-07-06,Epsilon,0,0.0,39
+6324,Belgium,2020-07-20,Epsilon,0,0.0,39
+6348,Belgium,2020-08-03,Epsilon,0,0.0,146
+6372,Belgium,2020-08-17,Epsilon,0,0.0,130
+6396,Belgium,2020-08-31,Epsilon,0,0.0,54
+6420,Belgium,2020-09-14,Epsilon,0,0.0,87
+6444,Belgium,2020-09-28,Epsilon,0,0.0,246
+6468,Belgium,2020-10-12,Epsilon,0,0.0,130
+6492,Belgium,2020-10-26,Epsilon,0,0.0,363
+6516,Belgium,2020-11-09,Epsilon,0,0.0,204
+6540,Belgium,2020-11-23,Epsilon,0,0.0,241
+6564,Belgium,2020-12-07,Epsilon,0,0.0,148
+6588,Belgium,2020-12-21,Epsilon,0,0.0,347
+6612,Belgium,2021-01-04,Epsilon,0,0.0,242
+6636,Belgium,2021-01-11,Epsilon,0,0.0,293
+6660,Belgium,2021-01-25,Epsilon,1,0.07,1378
+6684,Belgium,2021-02-08,Epsilon,0,0.0,1820
+6708,Belgium,2021-02-22,Epsilon,0,0.0,1808
+6732,Belgium,2021-03-08,Epsilon,0,0.0,2237
+6756,Belgium,2021-03-22,Epsilon,0,0.0,2935
+6780,Belgium,2021-04-05,Epsilon,0,0.0,3438
+6804,Belgium,2021-04-19,Epsilon,0,0.0,2911
+6828,Belgium,2021-05-03,Epsilon,0,0.0,3338
+6852,Belgium,2021-05-17,Epsilon,0,0.0,3108
+6876,Belgium,2021-05-31,Epsilon,0,0.0,2952
+6900,Belgium,2021-06-14,Epsilon,0,0.0,1995
+6924,Belgium,2021-06-28,Epsilon,0,0.0,1181
+6948,Belgium,2021-07-12,Epsilon,0,0.0,2640
+6972,Belgium,2021-07-26,Epsilon,0,0.0,3960
+6996,Belgium,2021-08-09,Epsilon,0,0.0,4006
+7020,Belgium,2021-08-23,Epsilon,0,0.0,4534
+7044,Belgium,2021-09-06,Epsilon,0,0.0,4495
+7068,Belgium,2021-09-20,Epsilon,0,0.0,3113
+7092,Belgium,2021-10-04,Epsilon,0,0.0,2926
+7116,Belgium,2021-10-18,Epsilon,0,0.0,3315
+7140,Belgium,2021-11-01,Epsilon,0,0.0,3530
+7164,Belgium,2021-11-15,Epsilon,0,0.0,2729
+7188,Belgium,2021-11-29,Epsilon,0,0.0,3076
+7212,Belgium,2021-12-13,Epsilon,0,0.0,3087
+7236,Belgium,2021-12-27,Epsilon,0,0.0,1493
+7260,Belgium,2022-01-05,Epsilon,0,0.0,59
+7284,Belize,2020-08-17,Epsilon,0,0.0,4
+7308,Belize,2020-08-31,Epsilon,0,0.0,1
+7332,Belize,2020-09-28,Epsilon,0,0.0,2
+7356,Belize,2020-10-12,Epsilon,0,0.0,4
+7380,Belize,2020-10-26,Epsilon,0,0.0,6
+7404,Belize,2020-11-09,Epsilon,0,0.0,1
+7428,Belize,2020-12-21,Epsilon,0,0.0,7
+7452,Belize,2021-01-04,Epsilon,0,0.0,14
+7476,Belize,2021-01-11,Epsilon,0,0.0,7
+7500,Belize,2021-01-25,Epsilon,0,0.0,16
+7524,Belize,2021-02-08,Epsilon,0,0.0,26
+7548,Belize,2021-02-22,Epsilon,1,9.09,11
+7572,Belize,2021-03-08,Epsilon,1,33.33,3
+7596,Belize,2021-03-22,Epsilon,1,50.0,2
+7620,Belize,2021-04-19,Epsilon,0,0.0,3
+7644,Belize,2021-05-03,Epsilon,0,0.0,1
+7668,Belize,2021-05-17,Epsilon,0,0.0,15
+7692,Belize,2021-05-31,Epsilon,0,0.0,3
+7716,Belize,2021-06-14,Epsilon,0,0.0,1
+7740,Belize,2021-06-28,Epsilon,0,0.0,32
+7764,Belize,2021-07-12,Epsilon,0,0.0,18
+7788,Belize,2021-07-26,Epsilon,0,0.0,58
+7812,Belize,2021-08-09,Epsilon,0,0.0,63
+7836,Belize,2021-08-23,Epsilon,0,0.0,16
+7860,Benin,2021-02-08,Epsilon,0,0.0,109
+7884,Benin,2021-03-08,Epsilon,0,0.0,121
+7908,Benin,2021-04-05,Epsilon,0,0.0,176
+7932,Benin,2021-04-19,Epsilon,0,0.0,8
+7956,Benin,2021-05-03,Epsilon,0,0.0,25
+7980,Benin,2021-05-17,Epsilon,0,0.0,32
+8004,Benin,2021-05-31,Epsilon,0,0.0,27
+8028,Benin,2021-06-14,Epsilon,0,0.0,9
+8052,Benin,2021-06-28,Epsilon,0,0.0,14
+8076,Benin,2021-07-12,Epsilon,0,0.0,28
+8100,Benin,2021-07-26,Epsilon,0,0.0,36
+8124,Benin,2021-08-09,Epsilon,0,0.0,34
+8148,Benin,2021-08-23,Epsilon,0,0.0,74
+8172,Benin,2021-09-06,Epsilon,0,0.0,57
+8196,Bosnia and Herzegovina,2020-05-11,Epsilon,0,0.0,1
+8220,Bosnia and Herzegovina,2020-06-08,Epsilon,0,0.0,2
+8244,Bosnia and Herzegovina,2020-07-20,Epsilon,0,0.0,1
+8268,Bosnia and Herzegovina,2020-08-31,Epsilon,0,0.0,1
+8292,Bosnia and Herzegovina,2020-09-14,Epsilon,0,0.0,1
+8316,Bosnia and Herzegovina,2020-09-28,Epsilon,0,0.0,1
+8340,Bosnia and Herzegovina,2020-10-12,Epsilon,0,0.0,1
+8364,Bosnia and Herzegovina,2020-11-09,Epsilon,0,0.0,2
+8388,Bosnia and Herzegovina,2020-11-23,Epsilon,0,0.0,2
+8412,Bosnia and Herzegovina,2020-12-07,Epsilon,0,0.0,3
+8436,Bosnia and Herzegovina,2020-12-21,Epsilon,0,0.0,1
+8460,Bosnia and Herzegovina,2021-01-04,Epsilon,0,0.0,2
+8484,Bosnia and Herzegovina,2021-01-11,Epsilon,0,0.0,5
+8508,Bosnia and Herzegovina,2021-01-25,Epsilon,0,0.0,12
+8532,Bosnia and Herzegovina,2021-02-08,Epsilon,0,0.0,5
+8556,Bosnia and Herzegovina,2021-02-22,Epsilon,0,0.0,11
+8580,Bosnia and Herzegovina,2021-03-08,Epsilon,0,0.0,16
+8604,Bosnia and Herzegovina,2021-03-22,Epsilon,0,0.0,9
+8628,Bosnia and Herzegovina,2021-04-05,Epsilon,0,0.0,3
+8652,Bosnia and Herzegovina,2021-04-19,Epsilon,0,0.0,17
+8676,Bosnia and Herzegovina,2021-05-17,Epsilon,0,0.0,2
+8700,Bosnia and Herzegovina,2021-05-31,Epsilon,0,0.0,1
+8724,Bosnia and Herzegovina,2021-06-14,Epsilon,0,0.0,23
+8748,Bosnia and Herzegovina,2021-06-28,Epsilon,0,0.0,16
+8772,Bosnia and Herzegovina,2021-07-12,Epsilon,0,0.0,21
+8796,Bosnia and Herzegovina,2021-07-26,Epsilon,0,0.0,12
+8820,Bosnia and Herzegovina,2021-08-09,Epsilon,0,0.0,9
+8844,Bosnia and Herzegovina,2021-08-23,Epsilon,0,0.0,7
+8868,Bosnia and Herzegovina,2021-09-06,Epsilon,0,0.0,1
+8892,Bosnia and Herzegovina,2021-09-20,Epsilon,0,0.0,2
+8916,Bosnia and Herzegovina,2021-10-04,Epsilon,0,0.0,42
+8940,Bosnia and Herzegovina,2021-10-18,Epsilon,0,0.0,184
+8964,Bosnia and Herzegovina,2021-11-01,Epsilon,0,0.0,124
+8988,Bosnia and Herzegovina,2021-11-15,Epsilon,0,0.0,164
+9012,Bosnia and Herzegovina,2021-11-29,Epsilon,0,0.0,123
+9036,Bosnia and Herzegovina,2021-12-13,Epsilon,0,0.0,165
+9060,Botswana,2020-09-14,Epsilon,0,0.0,1
+9084,Botswana,2020-09-28,Epsilon,0,0.0,10
+9108,Botswana,2020-10-12,Epsilon,0,0.0,6
+9132,Botswana,2020-10-26,Epsilon,0,0.0,6
+9156,Botswana,2020-11-09,Epsilon,0,0.0,6
+9180,Botswana,2020-11-23,Epsilon,0,0.0,8
+9204,Botswana,2020-12-07,Epsilon,0,0.0,10
+9228,Botswana,2020-12-21,Epsilon,0,0.0,17
+9252,Botswana,2021-01-04,Epsilon,0,0.0,13
+9276,Botswana,2021-01-11,Epsilon,0,0.0,6
+9300,Botswana,2021-01-25,Epsilon,0,0.0,66
+9324,Botswana,2021-02-08,Epsilon,0,0.0,29
+9348,Botswana,2021-02-22,Epsilon,0,0.0,10
+9372,Botswana,2021-03-08,Epsilon,0,0.0,11
+9396,Botswana,2021-03-22,Epsilon,0,0.0,64
+9420,Botswana,2021-04-05,Epsilon,0,0.0,7
+9444,Botswana,2021-05-03,Epsilon,0,0.0,7
+9468,Botswana,2021-05-17,Epsilon,0,0.0,19
+9492,Botswana,2021-05-31,Epsilon,0,0.0,48
+9516,Botswana,2021-06-14,Epsilon,0,0.0,102
+9540,Botswana,2021-06-28,Epsilon,0,0.0,196
+9564,Botswana,2021-07-12,Epsilon,0,0.0,106
+9588,Botswana,2021-07-26,Epsilon,0,0.0,68
+9612,Botswana,2021-08-09,Epsilon,0,0.0,38
+9636,Botswana,2021-08-23,Epsilon,0,0.0,82
+9660,Botswana,2021-09-06,Epsilon,0,0.0,294
+9684,Botswana,2021-09-20,Epsilon,0,0.0,112
+9708,Botswana,2021-10-04,Epsilon,0,0.0,58
+9732,Botswana,2021-10-18,Epsilon,0,0.0,92
+9756,Botswana,2021-11-01,Epsilon,0,0.0,53
+9780,Botswana,2021-11-15,Epsilon,0,0.0,116
+9804,Botswana,2021-11-29,Epsilon,0,0.0,124
+9828,Botswana,2021-12-13,Epsilon,0,0.0,272
+9852,Botswana,2021-12-27,Epsilon,0,0.0,143
+9876,Brazil,2020-05-11,Epsilon,0,0.0,311
+9900,Brazil,2020-05-25,Epsilon,0,0.0,183
+9924,Brazil,2020-06-08,Epsilon,0,0.0,194
+9948,Brazil,2020-06-22,Epsilon,0,0.0,179
+9972,Brazil,2020-07-06,Epsilon,0,0.0,296
+9996,Brazil,2020-07-20,Epsilon,0,0.0,168
+10020,Brazil,2020-08-03,Epsilon,0,0.0,224
+10044,Brazil,2020-08-17,Epsilon,0,0.0,231
+10068,Brazil,2020-08-31,Epsilon,0,0.0,157
+10092,Brazil,2020-09-14,Epsilon,0,0.0,221
+10116,Brazil,2020-09-28,Epsilon,0,0.0,195
+10140,Brazil,2020-10-12,Epsilon,0,0.0,196
+10164,Brazil,2020-10-26,Epsilon,0,0.0,202
+10188,Brazil,2020-11-09,Epsilon,0,0.0,238
+10212,Brazil,2020-11-23,Epsilon,0,0.0,361
+10236,Brazil,2020-12-07,Epsilon,0,0.0,513
+10260,Brazil,2020-12-21,Epsilon,0,0.0,469
+10284,Brazil,2021-01-04,Epsilon,0,0.0,578
+10308,Brazil,2021-01-11,Epsilon,0,0.0,510
+10332,Brazil,2021-01-25,Epsilon,0,0.0,888
+10356,Brazil,2021-02-08,Epsilon,0,0.0,991
+10380,Brazil,2021-02-22,Epsilon,0,0.0,1270
+10404,Brazil,2021-03-08,Epsilon,0,0.0,1817
+10428,Brazil,2021-03-22,Epsilon,0,0.0,1929
+10452,Brazil,2021-04-05,Epsilon,0,0.0,2797
+10476,Brazil,2021-04-19,Epsilon,0,0.0,3791
+10500,Brazil,2021-05-03,Epsilon,0,0.0,3804
+10524,Brazil,2021-05-17,Epsilon,0,0.0,3247
+10548,Brazil,2021-05-31,Epsilon,0,0.0,4137
+10572,Brazil,2021-06-14,Epsilon,0,0.0,5088
+10596,Brazil,2021-06-28,Epsilon,0,0.0,4466
+10620,Brazil,2021-07-12,Epsilon,0,0.0,5548
+10644,Brazil,2021-07-26,Epsilon,0,0.0,5381
+10668,Brazil,2021-08-09,Epsilon,0,0.0,5217
+10692,Brazil,2021-08-23,Epsilon,0,0.0,4130
+10716,Brazil,2021-09-06,Epsilon,0,0.0,5469
+10740,Brazil,2021-09-20,Epsilon,0,0.0,5701
+10764,Brazil,2021-10-04,Epsilon,0,0.0,4572
+10788,Brazil,2021-10-18,Epsilon,0,0.0,4449
+10812,Brazil,2021-11-01,Epsilon,0,0.0,3014
+10836,Brazil,2021-11-15,Epsilon,0,0.0,2757
+10860,Brazil,2021-11-29,Epsilon,0,0.0,2547
+10884,Brazil,2021-12-13,Epsilon,0,0.0,1332
+10908,Brazil,2021-12-27,Epsilon,0,0.0,252
+10932,Brunei,2021-01-04,Epsilon,0,0.0,2
+10956,Brunei,2021-01-25,Epsilon,0,0.0,1
+10980,Brunei,2021-02-08,Epsilon,0,0.0,2
+11004,Brunei,2021-07-26,Epsilon,0,0.0,16
+11028,Brunei,2021-08-23,Epsilon,0,0.0,12
+11052,Brunei,2021-11-01,Epsilon,0,0.0,12
+11076,Brunei,2021-11-15,Epsilon,0,0.0,118
+11100,Brunei,2021-11-29,Epsilon,0,0.0,125
+11124,Brunei,2021-12-13,Epsilon,0,0.0,32
+11148,Brunei,2021-12-27,Epsilon,0,0.0,11
+11172,Bulgaria,2020-05-11,Epsilon,0,0.0,3
+11196,Bulgaria,2020-05-25,Epsilon,0,0.0,3
+11220,Bulgaria,2020-07-20,Epsilon,0,0.0,1
+11244,Bulgaria,2020-08-03,Epsilon,0,0.0,1
+11268,Bulgaria,2020-08-17,Epsilon,0,0.0,6
+11292,Bulgaria,2020-08-31,Epsilon,0,0.0,3
+11316,Bulgaria,2020-09-14,Epsilon,0,0.0,5
+11340,Bulgaria,2020-09-28,Epsilon,0,0.0,4
+11364,Bulgaria,2020-10-12,Epsilon,0,0.0,2
+11388,Bulgaria,2020-10-26,Epsilon,0,0.0,2
+11412,Bulgaria,2020-11-09,Epsilon,0,0.0,5
+11436,Bulgaria,2020-11-23,Epsilon,0,0.0,5
+11460,Bulgaria,2020-12-07,Epsilon,0,0.0,7
+11484,Bulgaria,2020-12-21,Epsilon,0,0.0,50
+11508,Bulgaria,2021-01-04,Epsilon,0,0.0,39
+11532,Bulgaria,2021-01-11,Epsilon,0,0.0,56
+11556,Bulgaria,2021-01-25,Epsilon,0,0.0,92
+11580,Bulgaria,2021-02-08,Epsilon,0,0.0,220
+11604,Bulgaria,2021-02-22,Epsilon,0,0.0,251
+11628,Bulgaria,2021-03-08,Epsilon,0,0.0,407
+11652,Bulgaria,2021-03-22,Epsilon,0,0.0,630
+11676,Bulgaria,2021-04-05,Epsilon,0,0.0,557
+11700,Bulgaria,2021-04-19,Epsilon,0,0.0,371
+11724,Bulgaria,2021-05-03,Epsilon,0,0.0,253
+11748,Bulgaria,2021-05-17,Epsilon,0,0.0,118
+11772,Bulgaria,2021-05-31,Epsilon,0,0.0,38
+11796,Bulgaria,2021-06-14,Epsilon,0,0.0,103
+11820,Bulgaria,2021-06-28,Epsilon,0,0.0,125
+11844,Bulgaria,2021-07-12,Epsilon,0,0.0,176
+11868,Bulgaria,2021-07-26,Epsilon,0,0.0,239
+11892,Bulgaria,2021-08-09,Epsilon,0,0.0,494
+11916,Bulgaria,2021-08-23,Epsilon,0,0.0,798
+11940,Bulgaria,2021-09-06,Epsilon,0,0.0,863
+11964,Bulgaria,2021-09-20,Epsilon,0,0.0,739
+11988,Bulgaria,2021-10-04,Epsilon,0,0.0,881
+12012,Bulgaria,2021-10-18,Epsilon,0,0.0,996
+12036,Bulgaria,2021-11-01,Epsilon,0,0.0,1024
+12060,Bulgaria,2021-11-15,Epsilon,0,0.0,547
+12084,Bulgaria,2021-11-29,Epsilon,0,0.0,120
+12108,Cambodia,2020-11-09,Epsilon,0,0.0,2
+12132,Cambodia,2020-11-23,Epsilon,0,0.0,4
+12156,Cambodia,2020-12-07,Epsilon,0,0.0,15
+12180,Cambodia,2020-12-21,Epsilon,0,0.0,1
+12204,Cambodia,2021-01-04,Epsilon,0,0.0,5
+12228,Cambodia,2021-01-25,Epsilon,2,100.0,2
+12252,Cambodia,2021-02-08,Epsilon,0,0.0,3
+12276,Cambodia,2021-02-22,Epsilon,0,0.0,12
+12300,Cambodia,2021-03-08,Epsilon,0,0.0,14
+12324,Cambodia,2021-03-22,Epsilon,0,0.0,13
+12348,Cambodia,2021-04-05,Epsilon,0,0.0,3
+12372,Cambodia,2021-04-19,Epsilon,0,0.0,39
+12396,Cambodia,2021-05-03,Epsilon,0,0.0,56
+12420,Cambodia,2021-05-17,Epsilon,0,0.0,52
+12444,Cambodia,2021-05-31,Epsilon,0,0.0,69
+12468,Cambodia,2021-06-14,Epsilon,0,0.0,76
+12492,Cambodia,2021-06-28,Epsilon,0,0.0,94
+12516,Cambodia,2021-07-12,Epsilon,0,0.0,81
+12540,Cambodia,2021-07-26,Epsilon,0,0.0,121
+12564,Cambodia,2021-08-09,Epsilon,0,0.0,87
+12588,Cambodia,2021-08-23,Epsilon,0,0.0,106
+12612,Cambodia,2021-09-06,Epsilon,0,0.0,96
+12636,Cambodia,2021-09-20,Epsilon,0,0.0,132
+12660,Cambodia,2021-10-04,Epsilon,0,0.0,107
+12684,Cambodia,2021-10-18,Epsilon,0,0.0,135
+12708,Cambodia,2021-11-01,Epsilon,0,0.0,135
+12732,Cambodia,2021-11-15,Epsilon,0,0.0,143
+12756,Cambodia,2021-11-29,Epsilon,0,0.0,149
+12780,Cambodia,2021-12-13,Epsilon,0,0.0,130
+12804,Cambodia,2021-12-27,Epsilon,0,0.0,96
+12828,Cameroon,2020-05-11,Epsilon,0,0.0,4
+12852,Cameroon,2020-05-25,Epsilon,0,0.0,8
+12876,Cameroon,2020-06-22,Epsilon,0,0.0,4
+12900,Cameroon,2020-08-17,Epsilon,0,0.0,2
+12924,Cameroon,2020-10-26,Epsilon,0,0.0,1
+12948,Cameroon,2020-11-09,Epsilon,0,0.0,4
+12972,Cameroon,2020-11-23,Epsilon,0,0.0,7
+12996,Cameroon,2020-12-07,Epsilon,0,0.0,2
+13020,Cameroon,2020-12-21,Epsilon,0,0.0,4
+13044,Cameroon,2021-01-04,Epsilon,0,0.0,23
+13068,Cameroon,2021-01-11,Epsilon,0,0.0,9
+13092,Cameroon,2021-01-25,Epsilon,0,0.0,23
+13116,Cameroon,2021-02-08,Epsilon,3,5.88,51
+13140,Cameroon,2021-02-22,Epsilon,0,0.0,19
+13164,Cameroon,2021-03-08,Epsilon,0,0.0,27
+13188,Cameroon,2021-03-22,Epsilon,0,0.0,5
+13212,Cameroon,2021-04-19,Epsilon,0,0.0,7
+13236,Cameroon,2021-08-09,Epsilon,0,0.0,3
+13260,Cameroon,2021-08-23,Epsilon,0,0.0,57
+13284,Cameroon,2021-09-06,Epsilon,0,0.0,116
+13308,Cameroon,2021-09-20,Epsilon,0,0.0,106
+13332,Cameroon,2021-10-04,Epsilon,0,0.0,54
+13356,Canada,2020-05-11,Epsilon,0,0.0,903
+13380,Canada,2020-05-25,Epsilon,0,0.0,597
+13404,Canada,2020-06-08,Epsilon,0,0.0,211
+13428,Canada,2020-06-22,Epsilon,0,0.0,203
+13452,Canada,2020-07-06,Epsilon,0,0.0,107
+13476,Canada,2020-07-20,Epsilon,0,0.0,204
+13500,Canada,2020-08-03,Epsilon,0,0.0,295
+13524,Canada,2020-08-17,Epsilon,0,0.0,586
+13548,Canada,2020-08-31,Epsilon,0,0.0,737
+13572,Canada,2020-09-14,Epsilon,0,0.0,728
+13596,Canada,2020-09-28,Epsilon,0,0.0,758
+13620,Canada,2020-10-12,Epsilon,0,0.0,1061
+13644,Canada,2020-10-26,Epsilon,0,0.0,1096
+13668,Canada,2020-11-09,Epsilon,0,0.0,1442
+13692,Canada,2020-11-23,Epsilon,0,0.0,1937
+13716,Canada,2020-12-07,Epsilon,1,0.04,2316
+13740,Canada,2020-12-21,Epsilon,5,0.21,2431
+13764,Canada,2021-01-04,Epsilon,12,0.47,2565
+13788,Canada,2021-01-11,Epsilon,10,0.5,2004
+13812,Canada,2021-01-25,Epsilon,32,0.7,4574
+13836,Canada,2021-02-08,Epsilon,35,1.16,3026
+13860,Canada,2021-02-22,Epsilon,39,0.99,3951
+13884,Canada,2021-03-08,Epsilon,48,1.05,4581
+13908,Canada,2021-03-22,Epsilon,99,1.39,7112
+13932,Canada,2021-04-05,Epsilon,88,0.9,9805
+13956,Canada,2021-04-19,Epsilon,123,1.15,10654
+13980,Canada,2021-05-03,Epsilon,151,1.37,11006
+14004,Canada,2021-05-17,Epsilon,66,0.77,8584
+14028,Canada,2021-05-31,Epsilon,29,0.49,5887
+14052,Canada,2021-06-14,Epsilon,14,0.33,4215
+14076,Canada,2021-06-28,Epsilon,5,0.13,3712
+14100,Canada,2021-07-12,Epsilon,0,0.0,1536
+14124,Canada,2021-07-26,Epsilon,1,0.04,2454
+14148,Canada,2021-08-09,Epsilon,0,0.0,7056
+14172,Canada,2021-08-23,Epsilon,0,0.0,13081
+14196,Canada,2021-09-06,Epsilon,0,0.0,13793
+14220,Canada,2021-09-20,Epsilon,0,0.0,8908
+14244,Canada,2021-10-04,Epsilon,0,0.0,7154
+14268,Canada,2021-10-18,Epsilon,0,0.0,8016
+14292,Canada,2021-11-01,Epsilon,0,0.0,6544
+14316,Canada,2021-11-15,Epsilon,0,0.0,5627
+14340,Canada,2021-11-29,Epsilon,0,0.0,5146
+14364,Canada,2021-12-13,Epsilon,0,0.0,5219
+14388,Canada,2021-12-27,Epsilon,0,0.0,63
+14412,Chile,2020-05-11,Epsilon,0,0.0,106
+14436,Chile,2020-05-25,Epsilon,0,0.0,84
+14460,Chile,2020-06-08,Epsilon,0,0.0,81
+14484,Chile,2020-06-22,Epsilon,0,0.0,8
+14508,Chile,2020-07-06,Epsilon,0,0.0,61
+14532,Chile,2020-07-20,Epsilon,0,0.0,35
+14556,Chile,2020-08-03,Epsilon,0,0.0,36
+14580,Chile,2020-08-17,Epsilon,0,0.0,25
+14604,Chile,2020-08-31,Epsilon,0,0.0,65
+14628,Chile,2020-09-14,Epsilon,0,0.0,54
+14652,Chile,2020-09-28,Epsilon,0,0.0,44
+14676,Chile,2020-10-12,Epsilon,0,0.0,66
+14700,Chile,2020-10-26,Epsilon,0,0.0,47
+14724,Chile,2020-11-09,Epsilon,0,0.0,10
+14748,Chile,2020-11-23,Epsilon,0,0.0,17
+14772,Chile,2020-12-07,Epsilon,0,0.0,8
+14796,Chile,2020-12-21,Epsilon,0,0.0,27
+14820,Chile,2021-01-04,Epsilon,1,1.27,79
+14844,Chile,2021-01-11,Epsilon,0,0.0,50
+14868,Chile,2021-01-25,Epsilon,1,1.69,59
+14892,Chile,2021-02-08,Epsilon,1,1.79,56
+14916,Chile,2021-02-22,Epsilon,5,5.15,97
+14940,Chile,2021-03-08,Epsilon,2,2.35,85
+14964,Chile,2021-03-22,Epsilon,4,2.86,140
+14988,Chile,2021-04-05,Epsilon,4,1.5,266
+15012,Chile,2021-04-19,Epsilon,2,0.56,359
+15036,Chile,2021-05-03,Epsilon,3,0.53,565
+15060,Chile,2021-05-17,Epsilon,2,0.32,625
+15084,Chile,2021-05-31,Epsilon,5,1.15,435
+15108,Chile,2021-06-14,Epsilon,2,0.32,626
+15132,Chile,2021-06-28,Epsilon,1,0.14,719
+15156,Chile,2021-07-12,Epsilon,2,0.23,866
+15180,Chile,2021-07-26,Epsilon,0,0.0,568
+15204,Chile,2021-08-09,Epsilon,2,0.25,789
+15228,Chile,2021-08-23,Epsilon,0,0.0,879
+15252,Chile,2021-09-06,Epsilon,0,0.0,1101
+15276,Chile,2021-09-20,Epsilon,0,0.0,1223
+15300,Chile,2021-10-04,Epsilon,0,0.0,1879
+15324,Chile,2021-10-18,Epsilon,0,0.0,1365
+15348,Chile,2021-11-01,Epsilon,0,0.0,1295
+15372,Chile,2021-11-15,Epsilon,0,0.0,999
+15396,Chile,2021-11-29,Epsilon,0,0.0,573
+15420,Chile,2021-12-13,Epsilon,0,0.0,459
+15444,Chile,2021-12-27,Epsilon,0,0.0,504
+15468,Colombia,2020-05-11,Epsilon,0,0.0,81
+15492,Colombia,2020-05-25,Epsilon,0,0.0,2
+15516,Colombia,2020-06-08,Epsilon,0,0.0,8
+15540,Colombia,2020-06-22,Epsilon,0,0.0,14
+15564,Colombia,2020-07-06,Epsilon,0,0.0,29
+15588,Colombia,2020-07-20,Epsilon,0,0.0,28
+15612,Colombia,2020-08-03,Epsilon,0,0.0,8
+15636,Colombia,2020-08-17,Epsilon,0,0.0,20
+15660,Colombia,2020-08-31,Epsilon,0,0.0,5
+15684,Colombia,2020-09-14,Epsilon,0,0.0,14
+15708,Colombia,2020-09-28,Epsilon,0,0.0,5
+15732,Colombia,2020-10-12,Epsilon,0,0.0,20
+15756,Colombia,2020-10-26,Epsilon,0,0.0,8
+15780,Colombia,2020-11-09,Epsilon,0,0.0,6
+15804,Colombia,2020-11-23,Epsilon,0,0.0,12
+15828,Colombia,2020-12-07,Epsilon,0,0.0,18
+15852,Colombia,2020-12-21,Epsilon,0,0.0,32
+15876,Colombia,2021-01-04,Epsilon,0,0.0,87
+15900,Colombia,2021-01-11,Epsilon,1,2.08,48
+15924,Colombia,2021-01-25,Epsilon,0,0.0,83
+15948,Colombia,2021-02-08,Epsilon,0,0.0,30
+15972,Colombia,2021-02-22,Epsilon,0,0.0,24
+15996,Colombia,2021-03-08,Epsilon,1,1.37,73
+16020,Colombia,2021-03-22,Epsilon,0,0.0,79
+16044,Colombia,2021-04-05,Epsilon,1,0.62,160
+16068,Colombia,2021-04-19,Epsilon,0,0.0,803
+16092,Colombia,2021-05-03,Epsilon,0,0.0,432
+16116,Colombia,2021-05-17,Epsilon,0,0.0,375
+16140,Colombia,2021-05-31,Epsilon,0,0.0,194
+16164,Colombia,2021-06-14,Epsilon,0,0.0,283
+16188,Colombia,2021-06-28,Epsilon,0,0.0,224
+16212,Colombia,2021-07-12,Epsilon,0,0.0,462
+16236,Colombia,2021-07-26,Epsilon,0,0.0,920
+16260,Colombia,2021-08-09,Epsilon,0,0.0,775
+16284,Colombia,2021-08-23,Epsilon,0,0.0,768
+16308,Colombia,2021-09-06,Epsilon,0,0.0,542
+16332,Colombia,2021-09-20,Epsilon,0,0.0,423
+16356,Colombia,2021-10-04,Epsilon,0,0.0,800
+16380,Colombia,2021-10-18,Epsilon,0,0.0,652
+16404,Colombia,2021-11-01,Epsilon,0,0.0,585
+16428,Colombia,2021-11-15,Epsilon,0,0.0,616
+16452,Colombia,2021-11-29,Epsilon,0,0.0,318
+16476,Colombia,2021-12-13,Epsilon,0,0.0,112
+16500,Colombia,2021-12-27,Epsilon,0,0.0,107
+16524,Costa Rica,2020-06-08,Epsilon,0,0.0,8
+16548,Costa Rica,2020-06-22,Epsilon,0,0.0,15
+16572,Costa Rica,2020-07-06,Epsilon,0,0.0,19
+16596,Costa Rica,2020-07-20,Epsilon,0,0.0,22
+16620,Costa Rica,2020-08-03,Epsilon,0,0.0,13
+16644,Costa Rica,2020-08-17,Epsilon,0,0.0,13
+16668,Costa Rica,2020-08-31,Epsilon,0,0.0,3
+16692,Costa Rica,2020-09-14,Epsilon,0,0.0,7
+16716,Costa Rica,2020-09-28,Epsilon,0,0.0,6
+16740,Costa Rica,2020-10-12,Epsilon,0,0.0,9
+16764,Costa Rica,2020-10-26,Epsilon,0,0.0,7
+16788,Costa Rica,2020-11-09,Epsilon,0,0.0,8
+16812,Costa Rica,2020-11-23,Epsilon,0,0.0,10
+16836,Costa Rica,2020-12-07,Epsilon,0,0.0,9
+16860,Costa Rica,2020-12-21,Epsilon,0,0.0,14
+16884,Costa Rica,2021-01-04,Epsilon,2,5.41,37
+16908,Costa Rica,2021-01-11,Epsilon,0,0.0,10
+16932,Costa Rica,2021-01-25,Epsilon,0,0.0,41
+16956,Costa Rica,2021-02-08,Epsilon,0,0.0,27
+16980,Costa Rica,2021-02-22,Epsilon,0,0.0,35
+17004,Costa Rica,2021-03-08,Epsilon,1,1.52,66
+17028,Costa Rica,2021-03-22,Epsilon,4,5.0,80
+17052,Costa Rica,2021-04-05,Epsilon,1,1.72,58
+17076,Costa Rica,2021-04-19,Epsilon,4,5.63,71
+17100,Costa Rica,2021-05-03,Epsilon,1,1.75,57
+17124,Costa Rica,2021-05-17,Epsilon,1,3.03,33
+17148,Costa Rica,2021-05-31,Epsilon,0,0.0,47
+17172,Costa Rica,2021-06-14,Epsilon,0,0.0,33
+17196,Costa Rica,2021-06-28,Epsilon,0,0.0,56
+17220,Costa Rica,2021-07-12,Epsilon,1,1.19,84
+17244,Costa Rica,2021-07-26,Epsilon,0,0.0,88
+17268,Costa Rica,2021-08-09,Epsilon,0,0.0,138
+17292,Costa Rica,2021-08-23,Epsilon,0,0.0,135
+17316,Costa Rica,2021-09-06,Epsilon,0,0.0,69
+17340,Costa Rica,2021-09-20,Epsilon,0,0.0,92
+17364,Costa Rica,2021-10-04,Epsilon,0,0.0,71
+17388,Costa Rica,2021-10-18,Epsilon,0,0.0,150
+17412,Costa Rica,2021-11-01,Epsilon,0,0.0,147
+17436,Costa Rica,2021-11-15,Epsilon,0,0.0,156
+17460,Costa Rica,2021-11-29,Epsilon,0,0.0,108
+17484,Costa Rica,2021-12-13,Epsilon,0,0.0,60
+17508,Costa Rica,2021-12-27,Epsilon,0,0.0,41
+17532,Croatia,2020-08-17,Epsilon,0,0.0,1
+17556,Croatia,2020-08-31,Epsilon,0,0.0,3
+17580,Croatia,2020-09-14,Epsilon,0,0.0,11
+17604,Croatia,2020-09-28,Epsilon,0,0.0,1
+17628,Croatia,2020-10-12,Epsilon,0,0.0,12
+17652,Croatia,2020-11-23,Epsilon,0,0.0,29
+17676,Croatia,2020-12-21,Epsilon,0,0.0,1
+17700,Croatia,2021-01-04,Epsilon,0,0.0,8
+17724,Croatia,2021-01-11,Epsilon,0,0.0,11
+17748,Croatia,2021-01-25,Epsilon,0,0.0,45
+17772,Croatia,2021-02-08,Epsilon,0,0.0,159
+17796,Croatia,2021-02-22,Epsilon,0,0.0,394
+17820,Croatia,2021-03-08,Epsilon,0,0.0,582
+17844,Croatia,2021-03-22,Epsilon,0,0.0,626
+17868,Croatia,2021-04-05,Epsilon,0,0.0,749
+17892,Croatia,2021-04-19,Epsilon,0,0.0,375
+17916,Croatia,2021-05-03,Epsilon,0,0.0,786
+17940,Croatia,2021-05-17,Epsilon,0,0.0,639
+17964,Croatia,2021-05-31,Epsilon,0,0.0,370
+17988,Croatia,2021-06-14,Epsilon,0,0.0,311
+18012,Croatia,2021-06-28,Epsilon,0,0.0,162
+18036,Croatia,2021-07-12,Epsilon,0,0.0,369
+18060,Croatia,2021-07-26,Epsilon,0,0.0,407
+18084,Croatia,2021-08-09,Epsilon,0,0.0,511
+18108,Croatia,2021-08-23,Epsilon,0,0.0,770
+18132,Croatia,2021-09-06,Epsilon,0,0.0,993
+18156,Croatia,2021-09-20,Epsilon,0,0.0,739
+18180,Croatia,2021-10-04,Epsilon,0,0.0,692
+18204,Croatia,2021-10-18,Epsilon,0,0.0,661
+18228,Croatia,2021-11-01,Epsilon,0,0.0,640
+18252,Croatia,2021-11-15,Epsilon,0,0.0,742
+18276,Croatia,2021-11-29,Epsilon,0,0.0,835
+18300,Croatia,2021-12-13,Epsilon,0,0.0,935
+18324,Curacao,2020-08-17,Epsilon,0,0.0,3
+18348,Curacao,2020-10-12,Epsilon,0,0.0,1
+18372,Curacao,2020-10-26,Epsilon,0,0.0,3
+18396,Curacao,2020-11-09,Epsilon,0,0.0,8
+18420,Curacao,2020-11-23,Epsilon,0,0.0,4
+18444,Curacao,2020-12-07,Epsilon,0,0.0,2
+18468,Curacao,2020-12-21,Epsilon,0,0.0,8
+18492,Curacao,2021-01-04,Epsilon,0,0.0,5
+18516,Curacao,2021-01-11,Epsilon,0,0.0,6
+18540,Curacao,2021-01-25,Epsilon,0,0.0,15
+18564,Curacao,2021-02-08,Epsilon,0,0.0,15
+18588,Curacao,2021-02-22,Epsilon,0,0.0,36
+18612,Curacao,2021-03-08,Epsilon,0,0.0,50
+18636,Curacao,2021-03-22,Epsilon,1,1.82,55
+18660,Curacao,2021-04-05,Epsilon,0,0.0,57
+18684,Curacao,2021-04-19,Epsilon,0,0.0,61
+18708,Curacao,2021-05-03,Epsilon,0,0.0,45
+18732,Curacao,2021-05-17,Epsilon,0,0.0,25
+18756,Curacao,2021-05-31,Epsilon,0,0.0,10
+18780,Curacao,2021-06-14,Epsilon,0,0.0,4
+18804,Curacao,2021-06-28,Epsilon,0,0.0,16
+18828,Curacao,2021-07-12,Epsilon,0,0.0,38
+18852,Curacao,2021-07-26,Epsilon,0,0.0,67
+18876,Curacao,2021-08-09,Epsilon,0,0.0,62
+18900,Curacao,2021-08-23,Epsilon,0,0.0,49
+18924,Curacao,2021-09-06,Epsilon,0,0.0,47
+18948,Curacao,2021-09-20,Epsilon,0,0.0,58
+18972,Curacao,2021-10-04,Epsilon,0,0.0,56
+18996,Curacao,2021-10-18,Epsilon,0,0.0,53
+19020,Curacao,2021-11-01,Epsilon,0,0.0,47
+19044,Curacao,2021-11-15,Epsilon,0,0.0,28
+19068,Curacao,2021-11-29,Epsilon,0,0.0,20
+19092,Curacao,2021-12-13,Epsilon,0,0.0,24
+19116,Cyprus,2020-05-11,Epsilon,0,0.0,23
+19140,Cyprus,2020-05-25,Epsilon,0,0.0,20
+19164,Cyprus,2020-06-08,Epsilon,0,0.0,12
+19188,Cyprus,2020-06-22,Epsilon,0,0.0,11
+19212,Cyprus,2020-07-06,Epsilon,0,0.0,2
+19236,Cyprus,2020-07-20,Epsilon,0,0.0,3
+19260,Cyprus,2020-08-03,Epsilon,0,0.0,11
+19284,Cyprus,2020-08-17,Epsilon,0,0.0,24
+19308,Cyprus,2020-08-31,Epsilon,0,0.0,12
+19332,Cyprus,2020-09-14,Epsilon,0,0.0,4
+19356,Cyprus,2020-09-28,Epsilon,0,0.0,39
+19380,Cyprus,2020-10-12,Epsilon,0,0.0,24
+19404,Cyprus,2020-10-26,Epsilon,0,0.0,11
+19428,Cyprus,2020-11-09,Epsilon,0,0.0,159
+19452,Cyprus,2020-11-23,Epsilon,0,0.0,9
+19476,Cyprus,2020-12-07,Epsilon,0,0.0,63
+19500,Cyprus,2020-12-21,Epsilon,0,0.0,3
+19524,Cyprus,2021-01-04,Epsilon,0,0.0,80
+19548,Cyprus,2021-01-11,Epsilon,0,0.0,28
+19572,Cyprus,2021-01-25,Epsilon,0,0.0,35
+19596,Cyprus,2021-02-08,Epsilon,0,0.0,17
+19620,Czechia,2020-05-11,Epsilon,0,0.0,6
+19644,Czechia,2020-05-25,Epsilon,0,0.0,9
+19668,Czechia,2020-06-08,Epsilon,0,0.0,4
+19692,Czechia,2020-06-22,Epsilon,0,0.0,9
+19716,Czechia,2020-07-20,Epsilon,0,0.0,9
+19740,Czechia,2020-08-03,Epsilon,0,0.0,24
+19764,Czechia,2020-08-17,Epsilon,0,0.0,26
+19788,Czechia,2020-08-31,Epsilon,0,0.0,11
+19812,Czechia,2020-09-14,Epsilon,0,0.0,9
+19836,Czechia,2020-09-28,Epsilon,0,0.0,23
+19860,Czechia,2020-10-12,Epsilon,0,0.0,76
+19884,Czechia,2020-10-26,Epsilon,0,0.0,60
+19908,Czechia,2020-11-09,Epsilon,0,0.0,56
+19932,Czechia,2020-11-23,Epsilon,0,0.0,19
+19956,Czechia,2020-12-07,Epsilon,0,0.0,9
+19980,Czechia,2020-12-21,Epsilon,0,0.0,16
+20004,Czechia,2021-01-04,Epsilon,0,0.0,26
+20028,Czechia,2021-01-11,Epsilon,0,0.0,201
+20052,Czechia,2021-01-25,Epsilon,0,0.0,97
+20076,Czechia,2021-02-08,Epsilon,0,0.0,378
+20100,Czechia,2021-02-22,Epsilon,0,0.0,617
+20124,Czechia,2021-03-08,Epsilon,0,0.0,501
+20148,Czechia,2021-03-22,Epsilon,0,0.0,556
+20172,Czechia,2021-04-05,Epsilon,0,0.0,374
+20196,Czechia,2021-04-19,Epsilon,0,0.0,635
+20220,Czechia,2021-05-03,Epsilon,0,0.0,780
+20244,Czechia,2021-05-17,Epsilon,0,0.0,558
+20268,Czechia,2021-05-31,Epsilon,0,0.0,275
+20292,Czechia,2021-06-14,Epsilon,0,0.0,388
+20316,Czechia,2021-06-28,Epsilon,0,0.0,218
+20340,Czechia,2021-07-12,Epsilon,0,0.0,501
+20364,Czechia,2021-07-26,Epsilon,0,0.0,527
+20388,Czechia,2021-08-09,Epsilon,0,0.0,566
+20412,Czechia,2021-08-23,Epsilon,0,0.0,875
+20436,Czechia,2021-09-06,Epsilon,0,0.0,844
+20460,Czechia,2021-09-20,Epsilon,0,0.0,1382
+20484,Czechia,2021-10-04,Epsilon,0,0.0,1373
+20508,Czechia,2021-10-18,Epsilon,0,0.0,1766
+20532,Czechia,2021-11-01,Epsilon,0,0.0,2031
+20556,Czechia,2021-11-15,Epsilon,0,0.0,1420
+20580,Czechia,2021-11-29,Epsilon,0,0.0,1331
+20604,Czechia,2021-12-13,Epsilon,0,0.0,1431
+20628,Czechia,2021-12-27,Epsilon,0,0.0,330
+20652,Czechia,2022-01-05,Epsilon,0,0.0,15
+20676,Denmark,2020-05-11,Epsilon,0,0.0,155
+20700,Denmark,2020-05-25,Epsilon,0,0.0,136
+20724,Denmark,2020-06-08,Epsilon,0,0.0,122
+20748,Denmark,2020-06-22,Epsilon,0,0.0,169
+20772,Denmark,2020-07-06,Epsilon,0,0.0,60
+20796,Denmark,2020-07-20,Epsilon,0,0.0,100
+20820,Denmark,2020-08-03,Epsilon,0,0.0,152
+20844,Denmark,2020-08-17,Epsilon,0,0.0,437
+20868,Denmark,2020-08-31,Epsilon,0,0.0,594
+20892,Denmark,2020-09-14,Epsilon,0,0.0,979
+20916,Denmark,2020-09-28,Epsilon,0,0.0,1644
+20940,Denmark,2020-10-12,Epsilon,0,0.0,835
+20964,Denmark,2020-10-26,Epsilon,0,0.0,1554
+20988,Denmark,2020-11-09,Epsilon,0,0.0,3067
+21012,Denmark,2020-11-23,Epsilon,0,0.0,3165
+21036,Denmark,2020-12-07,Epsilon,0,0.0,5060
+21060,Denmark,2020-12-21,Epsilon,0,0.0,9321
+21084,Denmark,2021-01-04,Epsilon,0,0.0,7686
+21108,Denmark,2021-01-11,Epsilon,3,0.07,4145
+21132,Denmark,2021-01-25,Epsilon,3,0.04,8109
+21156,Denmark,2021-02-08,Epsilon,16,0.34,4769
+21180,Denmark,2021-02-22,Epsilon,8,0.18,4388
+21204,Denmark,2021-03-08,Epsilon,0,0.0,5371
+21228,Denmark,2021-03-22,Epsilon,5,0.08,6351
+21252,Denmark,2021-04-05,Epsilon,2,0.03,7193
+21276,Denmark,2021-04-19,Epsilon,0,0.0,7082
+21300,Denmark,2021-05-03,Epsilon,0,0.0,7679
+21324,Denmark,2021-05-17,Epsilon,0,0.0,9822
+21348,Denmark,2021-05-31,Epsilon,0,0.0,9480
+21372,Denmark,2021-06-14,Epsilon,0,0.0,5882
+21396,Denmark,2021-06-28,Epsilon,0,0.0,2061
+21420,Denmark,2021-07-12,Epsilon,0,0.0,5124
+21444,Denmark,2021-07-26,Epsilon,0,0.0,10876
+21468,Denmark,2021-08-09,Epsilon,0,0.0,10917
+21492,Denmark,2021-08-23,Epsilon,0,0.0,11256
+21516,Denmark,2021-09-06,Epsilon,0,0.0,8743
+21540,Denmark,2021-09-20,Epsilon,0,0.0,4585
+21564,Denmark,2021-10-04,Epsilon,0,0.0,4878
+21588,Denmark,2021-10-18,Epsilon,0,0.0,7662
+21612,Denmark,2021-11-01,Epsilon,0,0.0,15515
+21636,Denmark,2021-11-15,Epsilon,0,0.0,22315
+21660,Denmark,2021-11-29,Epsilon,0,0.0,23829
+21684,Denmark,2021-12-13,Epsilon,0,0.0,30285
+21708,Denmark,2021-12-27,Epsilon,0,0.0,6817
+21732,Djibouti,2020-05-11,Epsilon,0,0.0,2
+21756,Djibouti,2020-05-25,Epsilon,0,0.0,2
+21780,Djibouti,2020-06-08,Epsilon,0,0.0,5
+21804,Djibouti,2020-06-22,Epsilon,0,0.0,13
+21828,Djibouti,2020-07-06,Epsilon,0,0.0,1
+21852,Djibouti,2020-07-20,Epsilon,0,0.0,2
+21876,Djibouti,2020-08-03,Epsilon,0,0.0,2
+21900,Djibouti,2020-10-26,Epsilon,0,0.0,1
+21924,Djibouti,2020-11-09,Epsilon,0,0.0,1
+21948,Djibouti,2020-11-23,Epsilon,0,0.0,14
+21972,Djibouti,2020-12-07,Epsilon,0,0.0,1
+21996,Djibouti,2020-12-21,Epsilon,0,0.0,5
+22020,Djibouti,2021-01-04,Epsilon,0,0.0,2
+22044,Djibouti,2021-01-25,Epsilon,0,0.0,11
+22068,Djibouti,2021-02-08,Epsilon,0,0.0,3
+22092,Djibouti,2021-02-22,Epsilon,0,0.0,30
+22116,Djibouti,2021-03-08,Epsilon,0,0.0,56
+22140,Djibouti,2021-03-22,Epsilon,0,0.0,26
+22164,Djibouti,2021-04-05,Epsilon,0,0.0,64
+22188,Djibouti,2021-04-19,Epsilon,0,0.0,37
+22212,Djibouti,2021-05-03,Epsilon,0,0.0,23
+22236,Djibouti,2021-05-17,Epsilon,0,0.0,5
+22260,Djibouti,2021-05-31,Epsilon,0,0.0,1
+22284,Djibouti,2021-07-12,Epsilon,0,0.0,1
+22308,Djibouti,2021-08-09,Epsilon,0,0.0,2
+22332,Djibouti,2021-09-06,Epsilon,0,0.0,2
+22356,Djibouti,2021-09-20,Epsilon,0,0.0,9
+22380,Djibouti,2021-10-04,Epsilon,0,0.0,25
+22404,Djibouti,2021-10-18,Epsilon,0,0.0,19
+22428,Djibouti,2021-11-01,Epsilon,0,0.0,2
+22452,Dominican Republic,2020-05-11,Epsilon,0,0.0,5
+22476,Dominican Republic,2020-11-23,Epsilon,0,0.0,1
+22500,Dominican Republic,2021-01-04,Epsilon,0,0.0,1
+22524,Dominican Republic,2021-01-25,Epsilon,0,0.0,33
+22548,Dominican Republic,2021-02-08,Epsilon,1,4.17,24
+22572,Dominican Republic,2021-02-22,Epsilon,0,0.0,3
+22596,Dominican Republic,2021-03-08,Epsilon,0,0.0,11
+22620,Dominican Republic,2021-03-22,Epsilon,0,0.0,58
+22644,Dominican Republic,2021-04-05,Epsilon,0,0.0,13
+22668,Dominican Republic,2021-04-19,Epsilon,0,0.0,17
+22692,Dominican Republic,2021-05-03,Epsilon,0,0.0,1
+22716,Dominican Republic,2021-05-17,Epsilon,0,0.0,87
+22740,Dominican Republic,2021-05-31,Epsilon,0,0.0,101
+22764,Dominican Republic,2021-06-14,Epsilon,0,0.0,19
+22788,Dominican Republic,2021-06-28,Epsilon,0,0.0,13
+22812,Dominican Republic,2021-07-12,Epsilon,0,0.0,10
+22836,Dominican Republic,2021-07-26,Epsilon,0,0.0,10
+22860,Dominican Republic,2021-08-09,Epsilon,0,0.0,29
+22884,Dominican Republic,2021-08-23,Epsilon,0,0.0,4
+22908,Dominican Republic,2021-09-06,Epsilon,0,0.0,2
+22932,Dominican Republic,2021-09-20,Epsilon,0,0.0,3
+22956,Dominican Republic,2021-10-04,Epsilon,0,0.0,1
+22980,Dominican Republic,2021-10-18,Epsilon,0,0.0,99
+23004,Dominican Republic,2021-11-01,Epsilon,0,0.0,20
+23028,Ecuador,2020-05-11,Epsilon,0,0.0,7
+23052,Ecuador,2020-05-25,Epsilon,0,0.0,4
+23076,Ecuador,2020-06-08,Epsilon,0,0.0,8
+23100,Ecuador,2020-06-22,Epsilon,0,0.0,3
+23124,Ecuador,2020-07-06,Epsilon,0,0.0,18
+23148,Ecuador,2020-07-20,Epsilon,0,0.0,3
+23172,Ecuador,2020-08-03,Epsilon,0,0.0,6
+23196,Ecuador,2020-08-17,Epsilon,0,0.0,26
+23220,Ecuador,2020-08-31,Epsilon,0,0.0,17
+23244,Ecuador,2020-09-14,Epsilon,0,0.0,19
+23268,Ecuador,2020-09-28,Epsilon,0,0.0,3
+23292,Ecuador,2020-10-12,Epsilon,0,0.0,13
+23316,Ecuador,2020-10-26,Epsilon,0,0.0,5
+23340,Ecuador,2020-11-09,Epsilon,0,0.0,6
+23364,Ecuador,2020-11-23,Epsilon,0,0.0,3
+23388,Ecuador,2020-12-07,Epsilon,0,0.0,6
+23412,Ecuador,2020-12-21,Epsilon,0,0.0,12
+23436,Ecuador,2021-01-04,Epsilon,0,0.0,10
+23460,Ecuador,2021-01-11,Epsilon,0,0.0,13
+23484,Ecuador,2021-01-25,Epsilon,0,0.0,18
+23508,Ecuador,2021-02-08,Epsilon,0,0.0,2
+23532,Ecuador,2021-02-22,Epsilon,0,0.0,2
+23556,Ecuador,2021-03-08,Epsilon,0,0.0,6
+23580,Ecuador,2021-03-22,Epsilon,0,0.0,17
+23604,Ecuador,2021-04-05,Epsilon,0,0.0,23
+23628,Ecuador,2021-04-19,Epsilon,0,0.0,57
+23652,Ecuador,2021-05-03,Epsilon,0,0.0,65
+23676,Ecuador,2021-05-17,Epsilon,0,0.0,139
+23700,Ecuador,2021-05-31,Epsilon,0,0.0,102
+23724,Ecuador,2021-06-14,Epsilon,0,0.0,167
+23748,Ecuador,2021-06-28,Epsilon,0,0.0,145
+23772,Ecuador,2021-07-12,Epsilon,0,0.0,366
+23796,Ecuador,2021-07-26,Epsilon,0,0.0,565
+23820,Ecuador,2021-08-09,Epsilon,0,0.0,232
+23844,Ecuador,2021-08-23,Epsilon,0,0.0,261
+23868,Ecuador,2021-09-06,Epsilon,0,0.0,306
+23892,Ecuador,2021-09-20,Epsilon,0,0.0,155
+23916,Ecuador,2021-10-04,Epsilon,0,0.0,214
+23940,Ecuador,2021-10-18,Epsilon,0,0.0,93
+23964,Ecuador,2021-11-01,Epsilon,0,0.0,23
+23988,Ecuador,2021-11-15,Epsilon,0,0.0,100
+24012,Ecuador,2021-11-29,Epsilon,0,0.0,135
+24036,Ecuador,2021-12-13,Epsilon,0,0.0,93
+24060,Ecuador,2021-12-27,Epsilon,0,0.0,55
+24084,Egypt,2020-05-11,Epsilon,0,0.0,38
+24108,Egypt,2020-05-25,Epsilon,0,0.0,22
+24132,Egypt,2020-06-08,Epsilon,0,0.0,141
+24156,Egypt,2020-06-22,Epsilon,0,0.0,77
+24180,Egypt,2020-07-06,Epsilon,0,0.0,128
+24204,Egypt,2020-07-20,Epsilon,0,0.0,44
+24228,Egypt,2020-08-03,Epsilon,0,0.0,41
+24252,Egypt,2020-08-17,Epsilon,0,0.0,29
+24276,Egypt,2020-08-31,Epsilon,0,0.0,43
+24300,Egypt,2020-09-14,Epsilon,0,0.0,25
+24324,Egypt,2020-09-28,Epsilon,0,0.0,17
+24348,Egypt,2020-10-12,Epsilon,0,0.0,15
+24372,Egypt,2020-10-26,Epsilon,0,0.0,11
+24396,Egypt,2020-11-09,Epsilon,0,0.0,12
+24420,Egypt,2020-11-23,Epsilon,0,0.0,12
+24444,Egypt,2020-12-07,Epsilon,0,0.0,3
+24468,Egypt,2020-12-21,Epsilon,0,0.0,14
+24492,Egypt,2021-01-04,Epsilon,0,0.0,99
+24516,Egypt,2021-01-11,Epsilon,0,0.0,40
+24540,Egypt,2021-01-25,Epsilon,0,0.0,3
+24564,Egypt,2021-02-22,Epsilon,0,0.0,79
+24588,Egypt,2021-03-08,Epsilon,0,0.0,21
+24612,Egypt,2021-03-22,Epsilon,0,0.0,12
+24636,Egypt,2021-04-05,Epsilon,0,0.0,74
+24660,Egypt,2021-04-19,Epsilon,0,0.0,10
+24684,Egypt,2021-05-03,Epsilon,0,0.0,89
+24708,Egypt,2021-05-17,Epsilon,0,0.0,42
+24732,Egypt,2021-05-31,Epsilon,0,0.0,23
+24756,Egypt,2021-06-14,Epsilon,0,0.0,10
+24780,Egypt,2021-06-28,Epsilon,0,0.0,4
+24804,Egypt,2021-07-12,Epsilon,0,0.0,3
+24828,Egypt,2021-07-26,Epsilon,0,0.0,1
+24852,Egypt,2021-08-09,Epsilon,0,0.0,9
+24876,Egypt,2021-09-06,Epsilon,0,0.0,23
+24900,Egypt,2021-09-20,Epsilon,0,0.0,5
+24924,Egypt,2021-10-04,Epsilon,0,0.0,9
+24948,Egypt,2021-10-18,Epsilon,0,0.0,21
+24972,Egypt,2021-11-01,Epsilon,0,0.0,66
+24996,Egypt,2021-11-15,Epsilon,0,0.0,13
+25020,Egypt,2021-11-29,Epsilon,0,0.0,6
+25044,Egypt,2021-12-13,Epsilon,0,0.0,1
+25068,Estonia,2020-09-14,Epsilon,0,0.0,9
+25092,Estonia,2020-09-28,Epsilon,0,0.0,120
+25116,Estonia,2020-10-12,Epsilon,0,0.0,55
+25140,Estonia,2020-10-26,Epsilon,0,0.0,21
+25164,Estonia,2020-11-09,Epsilon,0,0.0,53
+25188,Estonia,2020-11-23,Epsilon,0,0.0,18
+25212,Estonia,2020-12-21,Epsilon,0,0.0,2
+25236,Estonia,2021-01-04,Epsilon,0,0.0,46
+25260,Estonia,2021-01-11,Epsilon,0,0.0,5
+25284,Estonia,2021-01-25,Epsilon,0,0.0,10
+25308,Estonia,2021-02-08,Epsilon,0,0.0,47
+25332,Estonia,2021-02-22,Epsilon,0,0.0,564
+25356,Estonia,2021-03-08,Epsilon,0,0.0,163
+25380,Estonia,2021-03-22,Epsilon,0,0.0,1018
+25404,Estonia,2021-04-05,Epsilon,0,0.0,1121
+25428,Estonia,2021-04-19,Epsilon,0,0.0,368
+25452,Estonia,2021-05-03,Epsilon,0,0.0,351
+25476,Estonia,2021-05-17,Epsilon,0,0.0,326
+25500,Estonia,2021-06-14,Epsilon,0,0.0,137
+25524,Estonia,2021-06-28,Epsilon,0,0.0,45
+25548,Estonia,2021-07-12,Epsilon,0,0.0,138
+25572,Estonia,2021-07-26,Epsilon,0,0.0,252
+25596,Estonia,2021-08-09,Epsilon,0,0.0,360
+25620,Estonia,2021-08-23,Epsilon,0,0.0,371
+25644,Estonia,2021-09-06,Epsilon,0,0.0,369
+25668,Estonia,2021-09-20,Epsilon,0,0.0,346
+25692,Estonia,2021-10-04,Epsilon,0,0.0,348
+25716,Estonia,2021-10-18,Epsilon,0,0.0,319
+25740,Estonia,2021-11-01,Epsilon,0,0.0,344
+25764,Estonia,2021-11-15,Epsilon,0,0.0,294
+25788,Estonia,2021-11-29,Epsilon,0,0.0,340
+25812,Estonia,2021-12-13,Epsilon,0,0.0,82
+25836,Ethiopia,2020-11-23,Epsilon,0,0.0,4
+25860,Ethiopia,2020-12-21,Epsilon,0,0.0,4
+25884,Ethiopia,2021-01-25,Epsilon,0,0.0,6
+25908,Ethiopia,2021-02-08,Epsilon,0,0.0,10
+25932,Ethiopia,2021-02-22,Epsilon,0,0.0,4
+25956,Ethiopia,2021-03-08,Epsilon,0,0.0,13
+25980,Ethiopia,2021-03-22,Epsilon,0,0.0,4
+26004,Ethiopia,2021-04-05,Epsilon,0,0.0,6
+26028,Ethiopia,2021-04-19,Epsilon,0,0.0,1
+26052,Ethiopia,2021-05-03,Epsilon,0,0.0,2
+26076,Ethiopia,2021-05-31,Epsilon,0,0.0,26
+26100,Ethiopia,2021-06-14,Epsilon,0,0.0,5
+26124,Ethiopia,2021-07-12,Epsilon,0,0.0,6
+26148,Ethiopia,2021-07-26,Epsilon,0,0.0,59
+26172,Ethiopia,2021-08-09,Epsilon,0,0.0,253
+26196,Ethiopia,2021-08-23,Epsilon,0,0.0,119
+26220,Fiji,2020-08-31,Epsilon,0,0.0,1
+26244,Fiji,2020-11-23,Epsilon,0,0.0,2
+26268,Fiji,2020-12-07,Epsilon,0,0.0,2
+26292,Fiji,2021-01-04,Epsilon,0,0.0,2
+26316,Fiji,2021-02-08,Epsilon,0,0.0,1
+26340,Fiji,2021-03-08,Epsilon,0,0.0,1
+26364,Fiji,2021-03-22,Epsilon,0,0.0,1
+26388,Fiji,2021-04-19,Epsilon,0,0.0,7
+26412,Fiji,2021-05-03,Epsilon,0,0.0,18
+26436,Fiji,2021-05-17,Epsilon,0,0.0,22
+26460,Fiji,2021-05-31,Epsilon,0,0.0,24
+26484,Fiji,2021-06-14,Epsilon,0,0.0,52
+26508,Fiji,2021-06-28,Epsilon,0,0.0,252
+26532,Fiji,2021-07-12,Epsilon,0,0.0,140
+26556,Finland,2020-05-11,Epsilon,0,0.0,102
+26580,Finland,2020-05-25,Epsilon,0,0.0,51
+26604,Finland,2020-06-08,Epsilon,0,0.0,37
+26628,Finland,2020-06-22,Epsilon,0,0.0,4
+26652,Finland,2020-08-17,Epsilon,0,0.0,10
+26676,Finland,2020-08-31,Epsilon,0,0.0,14
+26700,Finland,2020-09-14,Epsilon,0,0.0,23
+26724,Finland,2020-09-28,Epsilon,0,0.0,96
+26748,Finland,2020-10-12,Epsilon,0,0.0,283
+26772,Finland,2020-10-26,Epsilon,0,0.0,98
+26796,Finland,2020-11-09,Epsilon,0,0.0,51
+26820,Finland,2020-11-23,Epsilon,0,0.0,54
+26844,Finland,2020-12-07,Epsilon,0,0.0,156
+26868,Finland,2020-12-21,Epsilon,0,0.0,114
+26892,Finland,2021-01-04,Epsilon,0,0.0,148
+26916,Finland,2021-01-11,Epsilon,0,0.0,124
+26940,Finland,2021-01-25,Epsilon,1,0.13,765
+26964,Finland,2021-02-08,Epsilon,1,0.08,1240
+26988,Finland,2021-02-22,Epsilon,0,0.0,1587
+27012,Finland,2021-03-08,Epsilon,0,0.0,1653
+27036,Finland,2021-03-22,Epsilon,0,0.0,1715
+27060,Finland,2021-04-05,Epsilon,0,0.0,987
+27084,Finland,2021-04-19,Epsilon,0,0.0,702
+27108,Finland,2021-05-03,Epsilon,0,0.0,542
+27132,Finland,2021-05-17,Epsilon,0,0.0,601
+27156,Finland,2021-05-31,Epsilon,0,0.0,529
+27180,Finland,2021-06-14,Epsilon,0,0.0,294
+27204,Finland,2021-06-28,Epsilon,0,0.0,734
+27228,Finland,2021-07-12,Epsilon,0,0.0,822
+27252,Finland,2021-07-26,Epsilon,0,0.0,1484
+27276,Finland,2021-08-09,Epsilon,0,0.0,1655
+27300,Finland,2021-08-23,Epsilon,0,0.0,1027
+27324,Finland,2021-09-06,Epsilon,0,0.0,930
+27348,Finland,2021-09-20,Epsilon,0,0.0,749
+27372,Finland,2021-10-04,Epsilon,0,0.0,967
+27396,Finland,2021-10-18,Epsilon,0,0.0,864
+27420,Finland,2021-11-01,Epsilon,0,0.0,670
+27444,Finland,2021-11-15,Epsilon,0,0.0,417
+27468,Finland,2021-11-29,Epsilon,0,0.0,61
+27492,France,2020-05-11,Epsilon,0,0.0,201
+27516,France,2020-05-25,Epsilon,0,0.0,64
+27540,France,2020-06-08,Epsilon,0,0.0,33
+27564,France,2020-06-22,Epsilon,0,0.0,45
+27588,France,2020-07-06,Epsilon,0,0.0,30
+27612,France,2020-07-20,Epsilon,0,0.0,71
+27636,France,2020-08-03,Epsilon,0,0.0,140
+27660,France,2020-08-17,Epsilon,0,0.0,239
+27684,France,2020-08-31,Epsilon,0,0.0,251
+27708,France,2020-09-14,Epsilon,0,0.0,822
+27732,France,2020-09-28,Epsilon,0,0.0,488
+27756,France,2020-10-12,Epsilon,0,0.0,427
+27780,France,2020-10-26,Epsilon,0,0.0,870
+27804,France,2020-11-09,Epsilon,0,0.0,1020
+27828,France,2020-11-23,Epsilon,0,0.0,619
+27852,France,2020-12-07,Epsilon,0,0.0,347
+27876,France,2020-12-21,Epsilon,0,0.0,404
+27900,France,2021-01-04,Epsilon,0,0.0,518
+27924,France,2021-01-11,Epsilon,0,0.0,738
+27948,France,2021-01-25,Epsilon,0,0.0,2173
+27972,France,2021-02-08,Epsilon,4,0.1,3995
+27996,France,2021-02-22,Epsilon,2,0.07,2991
+28020,France,2021-03-08,Epsilon,2,0.05,4276
+28044,France,2021-03-22,Epsilon,0,0.0,6421
+28068,France,2021-04-05,Epsilon,0,0.0,6026
+28092,France,2021-04-19,Epsilon,0,0.0,5009
+28116,France,2021-05-03,Epsilon,0,0.0,4393
+28140,France,2021-05-17,Epsilon,0,0.0,3260
+28164,France,2021-05-31,Epsilon,0,0.0,3135
+28188,France,2021-06-14,Epsilon,0,0.0,2215
+28212,France,2021-06-28,Epsilon,0,0.0,1950
+28236,France,2021-07-12,Epsilon,0,0.0,4263
+28260,France,2021-07-26,Epsilon,1,0.01,13457
+28284,France,2021-08-09,Epsilon,0,0.0,9502
+28308,France,2021-08-23,Epsilon,0,0.0,8879
+28332,France,2021-09-06,Epsilon,0,0.0,8082
+28356,France,2021-09-20,Epsilon,0,0.0,4638
+28380,France,2021-10-04,Epsilon,0,0.0,3410
+28404,France,2021-10-18,Epsilon,0,0.0,3568
+28428,France,2021-11-01,Epsilon,0,0.0,10296
+28452,France,2021-11-15,Epsilon,0,0.0,10101
+28476,France,2021-11-29,Epsilon,0,0.0,8030
+28500,France,2021-12-13,Epsilon,0,0.0,10382
+28524,France,2021-12-27,Epsilon,0,0.0,2220
+28548,France,2022-01-05,Epsilon,0,0.0,117
+28572,Gambia,2020-05-11,Epsilon,0,0.0,13
+28596,Gambia,2020-05-25,Epsilon,0,0.0,14
+28620,Gambia,2020-06-08,Epsilon,0,0.0,11
+28644,Gambia,2020-06-22,Epsilon,0,0.0,5
+28668,Gambia,2020-07-06,Epsilon,0,0.0,23
+28692,Gambia,2020-07-20,Epsilon,0,0.0,4
+28716,Gambia,2020-08-03,Epsilon,0,0.0,241
+28740,Gambia,2020-08-17,Epsilon,0,0.0,30
+28764,Gambia,2020-08-31,Epsilon,0,0.0,37
+28788,Gambia,2020-09-14,Epsilon,0,0.0,21
+28812,Gambia,2020-09-28,Epsilon,0,0.0,4
+28836,Gambia,2020-10-12,Epsilon,0,0.0,5
+28860,Gambia,2020-10-26,Epsilon,0,0.0,1
+28884,Gambia,2021-01-04,Epsilon,0,0.0,1
+28908,Gambia,2021-01-11,Epsilon,0,0.0,2
+28932,Gambia,2021-01-25,Epsilon,0,0.0,8
+28956,Gambia,2021-02-08,Epsilon,0,0.0,11
+28980,Gambia,2021-02-22,Epsilon,0,0.0,8
+29004,Gambia,2021-03-08,Epsilon,0,0.0,21
+29028,Gambia,2021-03-22,Epsilon,0,0.0,43
+29052,Gambia,2021-04-05,Epsilon,0,0.0,14
+29076,Gambia,2021-04-19,Epsilon,0,0.0,5
+29100,Gambia,2021-05-03,Epsilon,0,0.0,11
+29124,Gambia,2021-05-17,Epsilon,0,0.0,2
+29148,Gambia,2021-05-31,Epsilon,0,0.0,12
+29172,Gambia,2021-06-14,Epsilon,0,0.0,2
+29196,Gambia,2021-06-28,Epsilon,0,0.0,5
+29220,Gambia,2021-07-12,Epsilon,0,0.0,69
+29244,Gambia,2021-07-26,Epsilon,0,0.0,40
+29268,Gambia,2021-08-09,Epsilon,0,0.0,127
+29292,Gambia,2021-08-23,Epsilon,0,0.0,73
+29316,Georgia,2020-05-11,Epsilon,0,0.0,4
+29340,Georgia,2020-06-08,Epsilon,0,0.0,1
+29364,Georgia,2020-06-22,Epsilon,0,0.0,1
+29388,Georgia,2020-09-28,Epsilon,0,0.0,2
+29412,Georgia,2020-10-12,Epsilon,0,0.0,1
+29436,Georgia,2020-11-09,Epsilon,0,0.0,2
+29460,Georgia,2020-11-23,Epsilon,0,0.0,4
+29484,Georgia,2020-12-07,Epsilon,0,0.0,1
+29508,Georgia,2020-12-21,Epsilon,0,0.0,3
+29532,Georgia,2021-01-04,Epsilon,0,0.0,1
+29556,Georgia,2021-01-11,Epsilon,0,0.0,1
+29580,Georgia,2021-01-25,Epsilon,0,0.0,4
+29604,Georgia,2021-02-08,Epsilon,0,0.0,4
+29628,Georgia,2021-02-22,Epsilon,0,0.0,9
+29652,Georgia,2021-03-08,Epsilon,0,0.0,10
+29676,Georgia,2021-03-22,Epsilon,0,0.0,6
+29700,Georgia,2021-04-05,Epsilon,0,0.0,4
+29724,Georgia,2021-04-19,Epsilon,0,0.0,1
+29748,Georgia,2021-05-03,Epsilon,0,0.0,3
+29772,Georgia,2021-05-17,Epsilon,0,0.0,23
+29796,Georgia,2021-05-31,Epsilon,0,0.0,28
+29820,Georgia,2021-06-14,Epsilon,0,0.0,17
+29844,Georgia,2021-06-28,Epsilon,0,0.0,17
+29868,Georgia,2021-07-12,Epsilon,0,0.0,27
+29892,Georgia,2021-07-26,Epsilon,0,0.0,8
+29916,Georgia,2021-08-09,Epsilon,0,0.0,16
+29940,Georgia,2021-08-23,Epsilon,0,0.0,12
+29964,Georgia,2021-09-06,Epsilon,0,0.0,30
+29988,Georgia,2021-09-20,Epsilon,0,0.0,5
+30012,Georgia,2021-10-04,Epsilon,0,0.0,70
+30036,Georgia,2021-10-18,Epsilon,0,0.0,94
+30060,Georgia,2021-11-01,Epsilon,0,0.0,33
+30084,Georgia,2021-11-15,Epsilon,0,0.0,81
+30108,Georgia,2021-11-29,Epsilon,0,0.0,78
+30132,Georgia,2021-12-13,Epsilon,0,0.0,129
+30156,Georgia,2021-12-27,Epsilon,0,0.0,110
+30180,Germany,2020-05-11,Epsilon,0,0.0,105
+30204,Germany,2020-05-25,Epsilon,0,0.0,94
+30228,Germany,2020-06-08,Epsilon,0,0.0,82
+30252,Germany,2020-06-22,Epsilon,0,0.0,1528
+30276,Germany,2020-07-06,Epsilon,0,0.0,390
+30300,Germany,2020-07-20,Epsilon,0,0.0,103
+30324,Germany,2020-08-03,Epsilon,0,0.0,53
+30348,Germany,2020-08-17,Epsilon,0,0.0,144
+30372,Germany,2020-08-31,Epsilon,0,0.0,174
+30396,Germany,2020-09-14,Epsilon,0,0.0,115
+30420,Germany,2020-09-28,Epsilon,0,0.0,324
+30444,Germany,2020-10-12,Epsilon,0,0.0,349
+30468,Germany,2020-10-26,Epsilon,0,0.0,387
+30492,Germany,2020-11-09,Epsilon,1,0.2,494
+30516,Germany,2020-11-23,Epsilon,0,0.0,589
+30540,Germany,2020-12-07,Epsilon,0,0.0,770
+30564,Germany,2020-12-21,Epsilon,0,0.0,999
+30588,Germany,2021-01-04,Epsilon,0,0.0,666
+30612,Germany,2021-01-11,Epsilon,0,0.0,524
+30636,Germany,2021-01-25,Epsilon,1,0.03,3161
+30660,Germany,2021-02-08,Epsilon,0,0.0,6330
+30684,Germany,2021-02-22,Epsilon,2,0.02,9085
+30708,Germany,2021-03-08,Epsilon,2,0.02,11511
+30732,Germany,2021-03-22,Epsilon,0,0.0,14479
+30756,Germany,2021-04-05,Epsilon,1,0.01,16353
+30780,Germany,2021-04-19,Epsilon,0,0.0,19363
+30804,Germany,2021-05-03,Epsilon,0,0.0,19306
+30828,Germany,2021-05-17,Epsilon,0,0.0,15645
+30852,Germany,2021-05-31,Epsilon,2,0.02,9815
+30876,Germany,2021-06-14,Epsilon,1,0.02,5401
+30900,Germany,2021-06-28,Epsilon,0,0.0,2632
+30924,Germany,2021-07-12,Epsilon,0,0.0,2651
+30948,Germany,2021-07-26,Epsilon,0,0.0,4588
+30972,Germany,2021-08-09,Epsilon,0,0.0,6197
+30996,Germany,2021-08-23,Epsilon,0,0.0,13221
+31020,Germany,2021-09-06,Epsilon,0,0.0,19285
+31044,Germany,2021-09-20,Epsilon,0,0.0,19996
+31068,Germany,2021-10-04,Epsilon,0,0.0,15758
+31092,Germany,2021-10-18,Epsilon,0,0.0,12393
+31116,Germany,2021-11-01,Epsilon,0,0.0,15674
+31140,Germany,2021-11-15,Epsilon,0,0.0,17801
+31164,Germany,2021-11-29,Epsilon,0,0.0,23129
+31188,Germany,2021-12-13,Epsilon,0,0.0,22895
+31212,Germany,2021-12-27,Epsilon,0,0.0,12584
+31236,Ghana,2020-05-11,Epsilon,0,0.0,1
+31260,Ghana,2020-05-25,Epsilon,0,0.0,18
+31284,Ghana,2020-06-08,Epsilon,0,0.0,8
+31308,Ghana,2020-06-22,Epsilon,0,0.0,8
+31332,Ghana,2020-07-06,Epsilon,0,0.0,1
+31356,Ghana,2020-07-20,Epsilon,0,0.0,10
+31380,Ghana,2020-08-03,Epsilon,0,0.0,43
+31404,Ghana,2020-08-17,Epsilon,0,0.0,5
+31428,Ghana,2020-08-31,Epsilon,0,0.0,20
+31452,Ghana,2020-09-14,Epsilon,0,0.0,19
+31476,Ghana,2020-09-28,Epsilon,0,0.0,1
+31500,Ghana,2020-10-12,Epsilon,0,0.0,3
+31524,Ghana,2020-11-09,Epsilon,0,0.0,20
+31548,Ghana,2020-11-23,Epsilon,0,0.0,17
+31572,Ghana,2020-12-07,Epsilon,0,0.0,32
+31596,Ghana,2020-12-21,Epsilon,0,0.0,23
+31620,Ghana,2021-01-04,Epsilon,0,0.0,22
+31644,Ghana,2021-01-11,Epsilon,0,0.0,115
+31668,Ghana,2021-01-25,Epsilon,0,0.0,91
+31692,Ghana,2021-02-08,Epsilon,0,0.0,76
+31716,Ghana,2021-02-22,Epsilon,0,0.0,95
+31740,Ghana,2021-03-08,Epsilon,0,0.0,55
+31764,Ghana,2021-03-22,Epsilon,0,0.0,61
+31788,Ghana,2021-04-05,Epsilon,0,0.0,46
+31812,Ghana,2021-04-19,Epsilon,0,0.0,96
+31836,Ghana,2021-05-03,Epsilon,0,0.0,84
+31860,Ghana,2021-05-17,Epsilon,0,0.0,60
+31884,Ghana,2021-05-31,Epsilon,0,0.0,78
+31908,Ghana,2021-06-14,Epsilon,0,0.0,58
+31932,Ghana,2021-06-28,Epsilon,0,0.0,104
+31956,Ghana,2021-07-12,Epsilon,0,0.0,156
+31980,Ghana,2021-07-26,Epsilon,0,0.0,168
+32004,Ghana,2021-08-09,Epsilon,0,0.0,110
+32028,Ghana,2021-08-23,Epsilon,0,0.0,112
+32052,Ghana,2021-09-06,Epsilon,0,0.0,17
+32076,Ghana,2021-09-20,Epsilon,0,0.0,151
+32100,Ghana,2021-10-04,Epsilon,0,0.0,64
+32124,Ghana,2021-10-18,Epsilon,0,0.0,90
+32148,Ghana,2021-11-01,Epsilon,0,0.0,64
+32172,Ghana,2021-11-15,Epsilon,0,0.0,29
+32196,Ghana,2021-11-29,Epsilon,0,0.0,76
+32220,Ghana,2021-12-13,Epsilon,0,0.0,36
+32244,Greece,2020-05-11,Epsilon,0,0.0,8
+32268,Greece,2020-05-25,Epsilon,0,0.0,8
+32292,Greece,2020-08-03,Epsilon,0,0.0,2
+32316,Greece,2020-08-17,Epsilon,0,0.0,15
+32340,Greece,2020-08-31,Epsilon,0,0.0,2
+32364,Greece,2020-09-14,Epsilon,0,0.0,24
+32388,Greece,2020-09-28,Epsilon,0,0.0,40
+32412,Greece,2020-10-12,Epsilon,0,0.0,42
+32436,Greece,2020-10-26,Epsilon,0,0.0,22
+32460,Greece,2020-11-09,Epsilon,0,0.0,207
+32484,Greece,2020-11-23,Epsilon,0,0.0,141
+32508,Greece,2020-12-07,Epsilon,0,0.0,78
+32532,Greece,2020-12-21,Epsilon,0,0.0,264
+32556,Greece,2021-01-04,Epsilon,0,0.0,172
+32580,Greece,2021-01-11,Epsilon,0,0.0,48
+32604,Greece,2021-01-25,Epsilon,0,0.0,142
+32628,Greece,2021-02-08,Epsilon,0,0.0,111
+32652,Greece,2021-02-22,Epsilon,0,0.0,143
+32676,Greece,2021-03-08,Epsilon,0,0.0,1114
+32700,Greece,2021-03-22,Epsilon,0,0.0,1040
+32724,Greece,2021-04-05,Epsilon,0,0.0,338
+32748,Greece,2021-04-19,Epsilon,0,0.0,609
+32772,Greece,2021-05-03,Epsilon,0,0.0,1269
+32796,Greece,2021-05-17,Epsilon,0,0.0,1255
+32820,Greece,2021-05-31,Epsilon,0,0.0,562
+32844,Greece,2021-06-14,Epsilon,0,0.0,183
+32868,Greece,2021-06-28,Epsilon,0,0.0,84
+32892,Greece,2021-07-12,Epsilon,0,0.0,296
+32916,Greece,2021-07-26,Epsilon,0,0.0,354
+32940,Greece,2021-08-09,Epsilon,0,0.0,218
+32964,Greece,2021-08-23,Epsilon,0,0.0,175
+32988,Greece,2021-09-06,Epsilon,0,0.0,347
+33012,Greece,2021-09-20,Epsilon,0,0.0,649
+33036,Greece,2021-10-04,Epsilon,0,0.0,321
+33060,Greece,2021-10-18,Epsilon,0,0.0,12
+33084,Greece,2021-11-01,Epsilon,0,0.0,155
+33108,Greece,2021-11-15,Epsilon,0,0.0,586
+33132,Greece,2021-11-29,Epsilon,0,0.0,558
+33156,Greece,2021-12-13,Epsilon,0,0.0,610
+33180,Guatemala,2020-05-25,Epsilon,0,0.0,3
+33204,Guatemala,2020-06-08,Epsilon,0,0.0,6
+33228,Guatemala,2020-06-22,Epsilon,0,0.0,19
+33252,Guatemala,2020-07-06,Epsilon,0,0.0,11
+33276,Guatemala,2020-07-20,Epsilon,0,0.0,6
+33300,Guatemala,2020-08-03,Epsilon,0,0.0,10
+33324,Guatemala,2020-08-17,Epsilon,0,0.0,3
+33348,Guatemala,2020-08-31,Epsilon,0,0.0,1
+33372,Guatemala,2020-09-14,Epsilon,0,0.0,1
+33396,Guatemala,2020-09-28,Epsilon,0,0.0,4
+33420,Guatemala,2020-10-12,Epsilon,0,0.0,48
+33444,Guatemala,2020-10-26,Epsilon,0,0.0,31
+33468,Guatemala,2020-11-09,Epsilon,0,0.0,29
+33492,Guatemala,2020-11-23,Epsilon,0,0.0,7
+33516,Guatemala,2020-12-07,Epsilon,0,0.0,17
+33540,Guatemala,2020-12-21,Epsilon,0,0.0,10
+33564,Guatemala,2021-01-04,Epsilon,0,0.0,11
+33588,Guatemala,2021-01-11,Epsilon,3,8.57,35
+33612,Guatemala,2021-01-25,Epsilon,6,11.76,51
+33636,Guatemala,2021-02-08,Epsilon,1,3.45,29
+33660,Guatemala,2021-02-22,Epsilon,0,0.0,9
+33684,Guatemala,2021-03-08,Epsilon,1,2.27,44
+33708,Guatemala,2021-03-22,Epsilon,0,0.0,14
+33732,Guatemala,2021-04-05,Epsilon,1,11.11,9
+33756,Guatemala,2021-04-19,Epsilon,0,0.0,27
+33780,Guatemala,2021-05-03,Epsilon,0,0.0,8
+33804,Guatemala,2021-05-17,Epsilon,0,0.0,11
+33828,Guatemala,2021-05-31,Epsilon,0,0.0,19
+33852,Guatemala,2021-06-14,Epsilon,2,8.33,24
+33876,Guatemala,2021-06-28,Epsilon,2,2.44,82
+33900,Guatemala,2021-07-12,Epsilon,1,0.58,171
+33924,Guatemala,2021-07-26,Epsilon,0,0.0,55
+33948,Guatemala,2021-08-09,Epsilon,0,0.0,76
+33972,Guatemala,2021-08-23,Epsilon,0,0.0,85
+33996,Guatemala,2021-09-06,Epsilon,0,0.0,95
+34020,Guatemala,2021-09-20,Epsilon,0,0.0,135
+34044,Guatemala,2021-10-04,Epsilon,0,0.0,125
+34068,Guatemala,2021-10-18,Epsilon,0,0.0,59
+34092,Guatemala,2021-11-01,Epsilon,0,0.0,23
+34116,Guatemala,2021-11-15,Epsilon,0,0.0,24
+34140,Guatemala,2021-11-29,Epsilon,0,0.0,18
+34164,Guatemala,2021-12-13,Epsilon,0,0.0,4
+34188,Hong Kong,2020-05-11,Epsilon,0,0.0,3
+34212,Hong Kong,2020-05-25,Epsilon,0,0.0,4
+34236,Hong Kong,2020-06-08,Epsilon,0,0.0,8
+34260,Hong Kong,2020-06-22,Epsilon,0,0.0,5
+34284,Hong Kong,2020-07-06,Epsilon,0,0.0,34
+34308,Hong Kong,2020-07-20,Epsilon,0,0.0,234
+34332,Hong Kong,2020-08-03,Epsilon,0,0.0,248
+34356,Hong Kong,2020-08-17,Epsilon,0,0.0,105
+34380,Hong Kong,2020-08-31,Epsilon,0,0.0,55
+34404,Hong Kong,2020-09-14,Epsilon,0,0.0,29
+34428,Hong Kong,2020-09-28,Epsilon,0,0.0,40
+34452,Hong Kong,2020-10-12,Epsilon,0,0.0,65
+34476,Hong Kong,2020-10-26,Epsilon,0,0.0,13
+34500,Hong Kong,2020-11-09,Epsilon,0,0.0,26
+34524,Hong Kong,2020-11-23,Epsilon,0,0.0,114
+34548,Hong Kong,2020-12-07,Epsilon,0,0.0,234
+34572,Hong Kong,2020-12-21,Epsilon,0,0.0,141
+34596,Hong Kong,2021-01-04,Epsilon,0,0.0,182
+34620,Hong Kong,2021-01-11,Epsilon,0,0.0,19
+34644,Hong Kong,2021-01-25,Epsilon,0,0.0,67
+34668,Hong Kong,2021-02-08,Epsilon,0,0.0,45
+34692,Hong Kong,2021-02-22,Epsilon,0,0.0,12
+34716,Hong Kong,2021-03-08,Epsilon,0,0.0,28
+34740,Hong Kong,2021-03-22,Epsilon,0,0.0,139
+34764,Hong Kong,2021-04-05,Epsilon,0,0.0,43
+34788,Hong Kong,2021-04-19,Epsilon,0,0.0,77
+34812,Hong Kong,2021-05-03,Epsilon,0,0.0,40
+34836,Hong Kong,2021-05-17,Epsilon,0,0.0,21
+34860,Hong Kong,2021-05-31,Epsilon,0,0.0,8
+34884,Hong Kong,2021-06-14,Epsilon,0,0.0,30
+34908,Hong Kong,2021-06-28,Epsilon,0,0.0,52
+34932,Hong Kong,2021-07-12,Epsilon,0,0.0,33
+34956,Hong Kong,2021-07-26,Epsilon,0,0.0,15
+34980,Hong Kong,2021-08-09,Epsilon,0,0.0,26
+35004,Hong Kong,2021-08-23,Epsilon,0,0.0,27
+35028,Hong Kong,2021-09-06,Epsilon,0,0.0,49
+35052,Hong Kong,2021-09-20,Epsilon,0,0.0,29
+35076,Hong Kong,2021-10-04,Epsilon,0,0.0,24
+35100,Hong Kong,2021-10-18,Epsilon,0,0.0,28
+35124,Hong Kong,2021-11-01,Epsilon,0,0.0,25
+35148,Hong Kong,2021-11-15,Epsilon,0,0.0,31
+35172,Hong Kong,2021-11-29,Epsilon,0,0.0,40
+35196,Hong Kong,2021-12-13,Epsilon,0,0.0,25
+35220,Hong Kong,2021-12-27,Epsilon,0,0.0,46
+35244,Hungary,2020-05-11,Epsilon,0,0.0,7
+35268,Hungary,2020-05-25,Epsilon,0,0.0,5
+35292,Hungary,2020-06-08,Epsilon,0,0.0,10
+35316,Hungary,2020-06-22,Epsilon,0,0.0,4
+35340,Hungary,2020-07-06,Epsilon,0,0.0,3
+35364,Hungary,2020-07-20,Epsilon,0,0.0,1
+35388,Hungary,2020-08-31,Epsilon,0,0.0,7
+35412,Hungary,2020-09-14,Epsilon,0,0.0,71
+35436,Hungary,2020-10-12,Epsilon,0,0.0,106
+35460,Hungary,2020-10-26,Epsilon,0,0.0,6
+35484,Hungary,2020-11-09,Epsilon,0,0.0,37
+35508,Hungary,2020-12-21,Epsilon,0,0.0,1
+35532,Hungary,2021-01-11,Epsilon,0,0.0,8
+35556,Hungary,2021-01-25,Epsilon,0,0.0,19
+35580,Hungary,2021-02-08,Epsilon,0,0.0,27
+35604,Hungary,2021-02-22,Epsilon,0,0.0,11
+35628,Hungary,2021-03-08,Epsilon,0,0.0,3
+35652,Iceland,2020-08-03,Epsilon,0,0.0,58
+35676,Iceland,2020-08-17,Epsilon,0,0.0,86
+35700,Iceland,2020-08-31,Epsilon,0,0.0,80
+35724,Iceland,2020-09-14,Epsilon,0,0.0,47
+35748,Iceland,2020-09-28,Epsilon,0,0.0,468
+35772,Iceland,2020-10-12,Epsilon,0,0.0,867
+35796,Iceland,2020-10-26,Epsilon,0,0.0,851
+35820,Iceland,2020-11-09,Epsilon,0,0.0,538
+35844,Iceland,2020-11-23,Epsilon,0,0.0,170
+35868,Iceland,2020-12-07,Epsilon,0,0.0,193
+35892,Iceland,2020-12-21,Epsilon,0,0.0,155
+35916,Iceland,2021-01-04,Epsilon,0,0.0,140
+35940,Iceland,2021-01-11,Epsilon,0,0.0,104
+35964,Iceland,2021-01-25,Epsilon,0,0.0,84
+35988,Iceland,2021-02-08,Epsilon,0,0.0,29
+36012,Iceland,2021-02-22,Epsilon,0,0.0,21
+36036,Iceland,2021-03-08,Epsilon,0,0.0,15
+36060,Iceland,2021-03-22,Epsilon,0,0.0,54
+36084,Iceland,2021-04-05,Epsilon,0,0.0,103
+36108,Iceland,2021-04-19,Epsilon,0,0.0,88
+36132,Iceland,2021-05-03,Epsilon,0,0.0,157
+36156,Iceland,2021-05-17,Epsilon,0,0.0,63
+36180,Iceland,2021-05-31,Epsilon,0,0.0,41
+36204,Iceland,2021-06-14,Epsilon,0,0.0,45
+36228,Iceland,2021-06-28,Epsilon,0,0.0,37
+36252,Iceland,2021-07-12,Epsilon,0,0.0,40
+36276,Iceland,2021-07-26,Epsilon,0,0.0,623
+36300,Iceland,2021-08-09,Epsilon,0,0.0,1449
+36324,Iceland,2021-08-23,Epsilon,0,0.0,1268
+36348,Iceland,2021-09-06,Epsilon,0,0.0,400
+36372,India,2020-05-11,Epsilon,0,0.0,471
+36396,India,2020-05-25,Epsilon,0,0.0,649
+36420,India,2020-06-08,Epsilon,0,0.0,617
+36444,India,2020-06-22,Epsilon,0,0.0,766
+36468,India,2020-07-06,Epsilon,0,0.0,276
+36492,India,2020-07-20,Epsilon,0,0.0,317
+36516,India,2020-08-03,Epsilon,0,0.0,393
+36540,India,2020-08-17,Epsilon,0,0.0,418
+36564,India,2020-08-31,Epsilon,0,0.0,235
+36588,India,2020-09-14,Epsilon,0,0.0,423
+36612,India,2020-09-28,Epsilon,0,0.0,397
+36636,India,2020-10-12,Epsilon,0,0.0,409
+36660,India,2020-10-26,Epsilon,0,0.0,329
+36684,India,2020-11-09,Epsilon,0,0.0,354
+36708,India,2020-11-23,Epsilon,0,0.0,286
+36732,India,2020-12-07,Epsilon,0,0.0,1130
+36756,India,2020-12-21,Epsilon,0,0.0,1546
+36780,India,2021-01-04,Epsilon,0,0.0,1293
+36804,India,2021-01-11,Epsilon,0,0.0,584
+36828,India,2021-01-25,Epsilon,0,0.0,1170
+36852,India,2021-02-08,Epsilon,0,0.0,1336
+36876,India,2021-02-22,Epsilon,0,0.0,1697
+36900,India,2021-03-08,Epsilon,1,0.04,2478
+36924,India,2021-03-22,Epsilon,0,0.0,3761
+36948,India,2021-04-05,Epsilon,0,0.0,4734
+36972,India,2021-04-19,Epsilon,0,0.0,7463
+36996,India,2021-05-03,Epsilon,0,0.0,8086
+37020,India,2021-05-17,Epsilon,0,0.0,6417
+37044,India,2021-05-31,Epsilon,0,0.0,5348
+37068,India,2021-06-14,Epsilon,0,0.0,4258
+37092,India,2021-06-28,Epsilon,0,0.0,3779
+37116,India,2021-07-12,Epsilon,0,0.0,3408
+37140,India,2021-07-26,Epsilon,0,0.0,3285
+37164,India,2021-08-09,Epsilon,0,0.0,2888
+37188,India,2021-08-23,Epsilon,0,0.0,2645
+37212,India,2021-09-06,Epsilon,0,0.0,3657
+37236,India,2021-09-20,Epsilon,0,0.0,3224
+37260,India,2021-10-04,Epsilon,0,0.0,2436
+37284,India,2021-10-18,Epsilon,0,0.0,1978
+37308,India,2021-11-01,Epsilon,0,0.0,1781
+37332,India,2021-11-15,Epsilon,0,0.0,1362
+37356,India,2021-11-29,Epsilon,0,0.0,1360
+37380,India,2021-12-13,Epsilon,0,0.0,1085
+37404,India,2021-12-27,Epsilon,0,0.0,499
+37428,Indonesia,2020-05-11,Epsilon,0,0.0,11
+37452,Indonesia,2020-05-25,Epsilon,0,0.0,13
+37476,Indonesia,2020-06-08,Epsilon,0,0.0,18
+37500,Indonesia,2020-06-22,Epsilon,0,0.0,20
+37524,Indonesia,2020-07-06,Epsilon,0,0.0,16
+37548,Indonesia,2020-07-20,Epsilon,0,0.0,18
+37572,Indonesia,2020-08-03,Epsilon,0,0.0,28
+37596,Indonesia,2020-08-17,Epsilon,0,0.0,26
+37620,Indonesia,2020-08-31,Epsilon,0,0.0,24
+37644,Indonesia,2020-09-14,Epsilon,0,0.0,41
+37668,Indonesia,2020-09-28,Epsilon,0,0.0,22
+37692,Indonesia,2020-10-12,Epsilon,0,0.0,29
+37716,Indonesia,2020-10-26,Epsilon,0,0.0,55
+37740,Indonesia,2020-11-09,Epsilon,0,0.0,43
+37764,Indonesia,2020-11-23,Epsilon,0,0.0,82
+37788,Indonesia,2020-12-07,Epsilon,0,0.0,79
+37812,Indonesia,2020-12-21,Epsilon,0,0.0,98
+37836,Indonesia,2021-01-04,Epsilon,0,0.0,156
+37860,Indonesia,2021-01-11,Epsilon,0,0.0,227
+37884,Indonesia,2021-01-25,Epsilon,0,0.0,386
+37908,Indonesia,2021-02-08,Epsilon,0,0.0,240
+37932,Indonesia,2021-02-22,Epsilon,0,0.0,192
+37956,Indonesia,2021-03-08,Epsilon,0,0.0,301
+37980,Indonesia,2021-03-22,Epsilon,0,0.0,252
+38004,Indonesia,2021-04-05,Epsilon,0,0.0,175
+38028,Indonesia,2021-04-19,Epsilon,0,0.0,183
+38052,Indonesia,2021-05-03,Epsilon,0,0.0,248
+38076,Indonesia,2021-05-17,Epsilon,0,0.0,353
+38100,Indonesia,2021-05-31,Epsilon,0,0.0,590
+38124,Indonesia,2021-06-14,Epsilon,0,0.0,650
+38148,Indonesia,2021-06-28,Epsilon,0,0.0,1041
+38172,Indonesia,2021-07-12,Epsilon,0,0.0,977
+38196,Indonesia,2021-07-26,Epsilon,0,0.0,752
+38220,Indonesia,2021-08-09,Epsilon,0,0.0,1015
+38244,Indonesia,2021-08-23,Epsilon,0,0.0,555
+38268,Indonesia,2021-09-06,Epsilon,0,0.0,651
+38292,Indonesia,2021-09-20,Epsilon,0,0.0,393
+38316,Indonesia,2021-10-04,Epsilon,0,0.0,276
+38340,Indonesia,2021-10-18,Epsilon,0,0.0,243
+38364,Indonesia,2021-11-01,Epsilon,0,0.0,145
+38388,Indonesia,2021-11-15,Epsilon,0,0.0,136
+38412,Indonesia,2021-11-29,Epsilon,0,0.0,143
+38436,Indonesia,2021-12-13,Epsilon,0,0.0,200
+38460,Indonesia,2021-12-27,Epsilon,0,0.0,308
+38484,Iran,2020-05-11,Epsilon,0,0.0,12
+38508,Iran,2020-05-25,Epsilon,0,0.0,8
+38532,Iran,2020-06-08,Epsilon,0,0.0,5
+38556,Iran,2020-06-22,Epsilon,0,0.0,11
+38580,Iran,2020-07-06,Epsilon,0,0.0,6
+38604,Iran,2020-07-20,Epsilon,0,0.0,4
+38628,Iran,2020-08-31,Epsilon,0,0.0,6
+38652,Iran,2020-09-28,Epsilon,0,0.0,3
+38676,Iran,2020-10-12,Epsilon,0,0.0,2
+38700,Iran,2020-10-26,Epsilon,0,0.0,3
+38724,Iran,2020-11-09,Epsilon,0,0.0,19
+38748,Iran,2020-11-23,Epsilon,0,0.0,13
+38772,Iran,2020-12-07,Epsilon,0,0.0,15
+38796,Iran,2020-12-21,Epsilon,0,0.0,13
+38820,Iran,2021-01-04,Epsilon,0,0.0,7
+38844,Iran,2021-01-11,Epsilon,0,0.0,15
+38868,Iran,2021-01-25,Epsilon,0,0.0,10
+38892,Iran,2021-02-08,Epsilon,0,0.0,54
+38916,Iran,2021-02-22,Epsilon,0,0.0,33
+38940,Iran,2021-03-08,Epsilon,0,0.0,13
+38964,Iran,2021-04-05,Epsilon,0,0.0,17
+38988,Iran,2021-04-19,Epsilon,0,0.0,22
+39012,Iran,2021-05-03,Epsilon,0,0.0,48
+39036,Iran,2021-05-17,Epsilon,0,0.0,17
+39060,Iran,2021-05-31,Epsilon,0,0.0,4
+39084,Iran,2021-07-26,Epsilon,0,0.0,1
+39108,Iran,2021-08-09,Epsilon,0,0.0,3
+39132,Iran,2021-09-06,Epsilon,0,0.0,2
+39156,Iran,2021-12-13,Epsilon,0,0.0,2
+39180,Iran,2021-12-27,Epsilon,0,0.0,1
+39204,Iraq,2020-06-08,Epsilon,0,0.0,10
+39228,Iraq,2020-06-22,Epsilon,0,0.0,18
+39252,Iraq,2020-07-06,Epsilon,0,0.0,2
+39276,Iraq,2020-10-12,Epsilon,0,0.0,2
+39300,Iraq,2020-12-21,Epsilon,0,0.0,2
+39324,Iraq,2021-01-04,Epsilon,0,0.0,2
+39348,Iraq,2021-01-11,Epsilon,0,0.0,1
+39372,Iraq,2021-01-25,Epsilon,0,0.0,4
+39396,Iraq,2021-02-08,Epsilon,0,0.0,4
+39420,Iraq,2021-02-22,Epsilon,0,0.0,63
+39444,Iraq,2021-03-08,Epsilon,0,0.0,15
+39468,Iraq,2021-03-22,Epsilon,0,0.0,5
+39492,Iraq,2021-04-05,Epsilon,0,0.0,5
+39516,Iraq,2021-04-19,Epsilon,0,0.0,2
+39540,Iraq,2021-05-03,Epsilon,0,0.0,12
+39564,Iraq,2021-05-17,Epsilon,0,0.0,3
+39588,Iraq,2021-05-31,Epsilon,0,0.0,2
+39612,Iraq,2021-06-14,Epsilon,0,0.0,2
+39636,Iraq,2021-07-12,Epsilon,0,0.0,2
+39660,Iraq,2021-07-26,Epsilon,0,0.0,8
+39684,Iraq,2021-08-09,Epsilon,0,0.0,2
+39708,Iraq,2021-11-15,Epsilon,0,0.0,1
+39732,Ireland,2020-05-11,Epsilon,0,0.0,115
+39756,Ireland,2020-05-25,Epsilon,0,0.0,43
+39780,Ireland,2020-06-08,Epsilon,0,0.0,8
+39804,Ireland,2020-06-22,Epsilon,0,0.0,5
+39828,Ireland,2020-07-06,Epsilon,0,0.0,9
+39852,Ireland,2020-07-20,Epsilon,0,0.0,32
+39876,Ireland,2020-08-03,Epsilon,0,0.0,59
+39900,Ireland,2020-08-17,Epsilon,0,0.0,87
+39924,Ireland,2020-08-31,Epsilon,0,0.0,22
+39948,Ireland,2020-09-14,Epsilon,0,0.0,79
+39972,Ireland,2020-09-28,Epsilon,0,0.0,102
+39996,Ireland,2020-10-12,Epsilon,0,0.0,85
+40020,Ireland,2020-10-26,Epsilon,0,0.0,100
+40044,Ireland,2020-11-09,Epsilon,0,0.0,70
+40068,Ireland,2020-11-23,Epsilon,0,0.0,95
+40092,Ireland,2020-12-07,Epsilon,0,0.0,91
+40116,Ireland,2020-12-21,Epsilon,0,0.0,100
+40140,Ireland,2021-01-04,Epsilon,0,0.0,208
+40164,Ireland,2021-01-11,Epsilon,0,0.0,140
+40188,Ireland,2021-01-25,Epsilon,0,0.0,505
+40212,Ireland,2021-02-08,Epsilon,0,0.0,1177
+40236,Ireland,2021-02-22,Epsilon,0,0.0,1474
+40260,Ireland,2021-03-08,Epsilon,0,0.0,1630
+40284,Ireland,2021-03-22,Epsilon,0,0.0,1718
+40308,Ireland,2021-04-05,Epsilon,3,0.22,1383
+40332,Ireland,2021-04-19,Epsilon,0,0.0,1464
+40356,Ireland,2021-05-03,Epsilon,4,0.21,1901
+40380,Ireland,2021-05-17,Epsilon,0,0.0,1873
+40404,Ireland,2021-05-31,Epsilon,0,0.0,2353
+40428,Ireland,2021-06-14,Epsilon,0,0.0,1402
+40452,Ireland,2021-06-28,Epsilon,0,0.0,1570
+40476,Ireland,2021-07-12,Epsilon,0,0.0,1759
+40500,Ireland,2021-07-26,Epsilon,0,0.0,2900
+40524,Ireland,2021-08-09,Epsilon,0,0.0,3011
+40548,Ireland,2021-08-23,Epsilon,0,0.0,2888
+40572,Ireland,2021-09-06,Epsilon,0,0.0,2161
+40596,Ireland,2021-09-20,Epsilon,0,0.0,2429
+40620,Ireland,2021-10-04,Epsilon,0,0.0,1681
+40644,Ireland,2021-10-18,Epsilon,0,0.0,2961
+40668,Ireland,2021-11-01,Epsilon,0,0.0,3373
+40692,Ireland,2021-11-15,Epsilon,0,0.0,990
+40716,Ireland,2021-11-29,Epsilon,0,0.0,487
+40740,Ireland,2021-12-13,Epsilon,0,0.0,888
+40764,Israel,2020-05-11,Epsilon,0,0.0,8
+40788,Israel,2020-05-25,Epsilon,0,0.0,4
+40812,Israel,2020-06-08,Epsilon,0,0.0,18
+40836,Israel,2020-06-22,Epsilon,0,0.0,7
+40860,Israel,2020-07-06,Epsilon,0,0.0,16
+40884,Israel,2020-07-20,Epsilon,0,0.0,6
+40908,Israel,2020-08-03,Epsilon,0,0.0,48
+40932,Israel,2020-08-17,Epsilon,0,0.0,9
+40956,Israel,2020-08-31,Epsilon,0,0.0,1
+40980,Israel,2020-09-14,Epsilon,0,0.0,3
+41004,Israel,2020-09-28,Epsilon,0,0.0,1
+41028,Israel,2020-10-26,Epsilon,0,0.0,1
+41052,Israel,2020-11-23,Epsilon,0,0.0,1
+41076,Israel,2020-12-07,Epsilon,0,0.0,9
+41100,Israel,2020-12-21,Epsilon,0,0.0,54
+41124,Israel,2021-01-04,Epsilon,1,0.07,1402
+41148,Israel,2021-01-11,Epsilon,0,0.0,696
+41172,Israel,2021-01-25,Epsilon,4,0.34,1167
+41196,Israel,2021-02-08,Epsilon,3,0.13,2335
+41220,Israel,2021-02-22,Epsilon,1,0.11,885
+41244,Israel,2021-03-08,Epsilon,1,0.05,2004
+41268,Israel,2021-03-22,Epsilon,0,0.0,925
+41292,Israel,2021-04-05,Epsilon,0,0.0,830
+41316,Israel,2021-04-19,Epsilon,0,0.0,482
+41340,Israel,2021-05-03,Epsilon,0,0.0,357
+41364,Israel,2021-05-17,Epsilon,0,0.0,204
+41388,Israel,2021-05-31,Epsilon,0,0.0,150
+41412,Israel,2021-06-14,Epsilon,0,0.0,114
+41436,Israel,2021-06-28,Epsilon,0,0.0,847
+41460,Israel,2021-07-12,Epsilon,0,0.0,1627
+41484,Israel,2021-07-26,Epsilon,0,0.0,512
+41508,Israel,2021-08-09,Epsilon,0,0.0,1647
+41532,Israel,2021-08-23,Epsilon,0,0.0,1562
+41556,Israel,2021-09-06,Epsilon,0,0.0,2177
+41580,Israel,2021-09-20,Epsilon,0,0.0,2418
+41604,Israel,2021-10-04,Epsilon,0,0.0,779
+41628,Israel,2021-10-18,Epsilon,0,0.0,1546
+41652,Israel,2021-11-01,Epsilon,0,0.0,1041
+41676,Israel,2021-11-15,Epsilon,0,0.0,1652
+41700,Israel,2021-11-29,Epsilon,0,0.0,2632
+41724,Israel,2021-12-13,Epsilon,0,0.0,2885
+41748,Israel,2021-12-27,Epsilon,0,0.0,2935
+41772,Italy,2020-05-11,Epsilon,0,0.0,128
+41796,Italy,2020-05-25,Epsilon,0,0.0,51
+41820,Italy,2020-06-08,Epsilon,0,0.0,35
+41844,Italy,2020-06-22,Epsilon,0,0.0,51
+41868,Italy,2020-07-06,Epsilon,0,0.0,109
+41892,Italy,2020-07-20,Epsilon,0,0.0,33
+41916,Italy,2020-08-03,Epsilon,0,0.0,28
+41940,Italy,2020-08-17,Epsilon,0,0.0,30
+41964,Italy,2020-08-31,Epsilon,0,0.0,133
+41988,Italy,2020-09-14,Epsilon,0,0.0,155
+42012,Italy,2020-09-28,Epsilon,0,0.0,164
+42036,Italy,2020-10-12,Epsilon,0,0.0,153
+42060,Italy,2020-10-26,Epsilon,0,0.0,221
+42084,Italy,2020-11-09,Epsilon,0,0.0,489
+42108,Italy,2020-11-23,Epsilon,0,0.0,261
+42132,Italy,2020-12-07,Epsilon,0,0.0,264
+42156,Italy,2020-12-21,Epsilon,0,0.0,723
+42180,Italy,2021-01-04,Epsilon,0,0.0,764
+42204,Italy,2021-01-11,Epsilon,0,0.0,430
+42228,Italy,2021-01-25,Epsilon,1,0.08,1202
+42252,Italy,2021-02-08,Epsilon,0,0.0,1037
+42276,Italy,2021-02-22,Epsilon,1,0.03,3126
+42300,Italy,2021-03-08,Epsilon,0,0.0,4193
+42324,Italy,2021-03-22,Epsilon,0,0.0,5646
+42348,Italy,2021-04-05,Epsilon,0,0.0,3420
+42372,Italy,2021-04-19,Epsilon,0,0.0,3809
+42396,Italy,2021-05-03,Epsilon,0,0.0,4066
+42420,Italy,2021-05-17,Epsilon,0,0.0,2377
+42444,Italy,2021-05-31,Epsilon,0,0.0,2678
+42468,Italy,2021-06-14,Epsilon,0,0.0,1546
+42492,Italy,2021-06-28,Epsilon,0,0.0,1968
+42516,Italy,2021-07-12,Epsilon,0,0.0,3054
+42540,Italy,2021-07-26,Epsilon,0,0.0,4771
+42564,Italy,2021-08-09,Epsilon,0,0.0,4135
+42588,Italy,2021-08-23,Epsilon,0,0.0,3261
+42612,Italy,2021-09-06,Epsilon,0,0.0,3515
+42636,Italy,2021-09-20,Epsilon,0,0.0,2256
+42660,Italy,2021-10-04,Epsilon,0,0.0,2494
+42684,Italy,2021-10-18,Epsilon,0,0.0,2186
+42708,Italy,2021-11-01,Epsilon,0,0.0,2505
+42732,Italy,2021-11-15,Epsilon,0,0.0,3024
+42756,Italy,2021-11-29,Epsilon,0,0.0,3356
+42780,Italy,2021-12-13,Epsilon,0,0.0,3415
+42804,Italy,2021-12-27,Epsilon,0,0.0,2356
+42828,Jamaica,2021-01-04,Epsilon,0,0.0,5
+42852,Jamaica,2021-01-25,Epsilon,0,0.0,7
+42876,Jamaica,2021-02-08,Epsilon,0,0.0,10
+42900,Jamaica,2021-02-22,Epsilon,0,0.0,3
+42924,Jamaica,2021-03-08,Epsilon,0,0.0,112
+42948,Jamaica,2021-03-22,Epsilon,0,0.0,1
+42972,Jamaica,2021-04-05,Epsilon,0,0.0,9
+42996,Jamaica,2021-04-19,Epsilon,0,0.0,10
+43020,Jamaica,2021-05-03,Epsilon,0,0.0,1
+43044,Jamaica,2021-05-17,Epsilon,0,0.0,30
+43068,Jamaica,2021-05-31,Epsilon,0,0.0,26
+43092,Jamaica,2021-07-26,Epsilon,0,0.0,92
+43116,Jamaica,2021-08-09,Epsilon,0,0.0,8
+43140,Jamaica,2021-08-23,Epsilon,0,0.0,34
+43164,Jamaica,2021-09-06,Epsilon,0,0.0,9
+43188,Jamaica,2021-10-04,Epsilon,0,0.0,1
+43212,Jamaica,2021-10-18,Epsilon,0,0.0,1
+43236,Jamaica,2021-11-01,Epsilon,0,0.0,7
+43260,Japan,2020-05-11,Epsilon,0,0.0,415
+43284,Japan,2020-05-25,Epsilon,0,0.0,116
+43308,Japan,2020-06-08,Epsilon,0,0.0,146
+43332,Japan,2020-06-22,Epsilon,0,0.0,189
+43356,Japan,2020-07-06,Epsilon,0,0.0,386
+43380,Japan,2020-07-20,Epsilon,0,0.0,779
+43404,Japan,2020-08-03,Epsilon,0,0.0,1843
+43428,Japan,2020-08-17,Epsilon,0,0.0,2125
+43452,Japan,2020-08-31,Epsilon,0,0.0,1450
+43476,Japan,2020-09-14,Epsilon,0,0.0,764
+43500,Japan,2020-09-28,Epsilon,0,0.0,523
+43524,Japan,2020-10-12,Epsilon,0,0.0,546
+43548,Japan,2020-10-26,Epsilon,0,0.0,685
+43572,Japan,2020-11-09,Epsilon,0,0.0,818
+43596,Japan,2020-11-23,Epsilon,0,0.0,1745
+43620,Japan,2020-12-07,Epsilon,0,0.0,1976
+43644,Japan,2020-12-21,Epsilon,1,0.04,2240
+43668,Japan,2021-01-04,Epsilon,5,0.2,2441
+43692,Japan,2021-01-11,Epsilon,6,0.26,2303
+43716,Japan,2021-01-25,Epsilon,3,0.08,3637
+43740,Japan,2021-02-08,Epsilon,1,0.04,2366
+43764,Japan,2021-02-22,Epsilon,1,0.08,1316
+43788,Japan,2021-03-08,Epsilon,0,0.0,1308
+43812,Japan,2021-03-22,Epsilon,1,0.05,2208
+43836,Japan,2021-04-05,Epsilon,0,0.0,4081
+43860,Japan,2021-04-19,Epsilon,1,0.02,5582
+43884,Japan,2021-05-03,Epsilon,0,0.0,10178
+43908,Japan,2021-05-17,Epsilon,0,0.0,9411
+43932,Japan,2021-05-31,Epsilon,0,0.0,5920
+43956,Japan,2021-06-14,Epsilon,0,0.0,4207
+43980,Japan,2021-06-28,Epsilon,0,0.0,4220
+44004,Japan,2021-07-12,Epsilon,0,0.0,5720
+44028,Japan,2021-07-26,Epsilon,0,0.0,10145
+44052,Japan,2021-08-09,Epsilon,0,0.0,17302
+44076,Japan,2021-08-23,Epsilon,0,0.0,28942
+44100,Japan,2021-09-06,Epsilon,0,0.0,24621
+44124,Japan,2021-09-20,Epsilon,0,0.0,9641
+44148,Japan,2021-10-04,Epsilon,0,0.0,2773
+44172,Japan,2021-10-18,Epsilon,0,0.0,1163
+44196,Japan,2021-11-01,Epsilon,0,0.0,531
+44220,Japan,2021-11-15,Epsilon,0,0.0,423
+44244,Japan,2021-11-29,Epsilon,0,0.0,275
+44268,Japan,2021-12-13,Epsilon,0,0.0,226
+44292,Japan,2021-12-27,Epsilon,0,0.0,153
+44316,Jordan,2020-06-08,Epsilon,0,0.0,2
+44340,Jordan,2020-06-22,Epsilon,0,0.0,1
+44364,Jordan,2020-07-06,Epsilon,0,0.0,3
+44388,Jordan,2020-08-17,Epsilon,0,0.0,1
+44412,Jordan,2020-08-31,Epsilon,0,0.0,13
+44436,Jordan,2020-09-14,Epsilon,0,0.0,27
+44460,Jordan,2020-09-28,Epsilon,0,0.0,15
+44484,Jordan,2020-10-12,Epsilon,0,0.0,311
+44508,Jordan,2020-10-26,Epsilon,0,0.0,90
+44532,Jordan,2020-11-09,Epsilon,0,0.0,48
+44556,Jordan,2020-12-07,Epsilon,0,0.0,2
+44580,Jordan,2020-12-21,Epsilon,0,0.0,2
+44604,Jordan,2021-01-04,Epsilon,0,0.0,9
+44628,Jordan,2021-01-11,Epsilon,0,0.0,42
+44652,Jordan,2021-01-25,Epsilon,0,0.0,6
+44676,Jordan,2021-02-08,Epsilon,0,0.0,25
+44700,Jordan,2021-02-22,Epsilon,0,0.0,17
+44724,Jordan,2021-03-08,Epsilon,0,0.0,12
+44748,Jordan,2021-03-22,Epsilon,0,0.0,29
+44772,Jordan,2021-04-05,Epsilon,0,0.0,13
+44796,Jordan,2021-04-19,Epsilon,0,0.0,19
+44820,Jordan,2021-05-03,Epsilon,0,0.0,16
+44844,Jordan,2021-05-17,Epsilon,0,0.0,17
+44868,Jordan,2021-05-31,Epsilon,0,0.0,14
+44892,Jordan,2021-06-14,Epsilon,0,0.0,27
+44916,Jordan,2021-06-28,Epsilon,0,0.0,16
+44940,Jordan,2021-07-12,Epsilon,0,0.0,12
+44964,Jordan,2021-07-26,Epsilon,0,0.0,5
+44988,Jordan,2021-08-09,Epsilon,0,0.0,13
+45012,Jordan,2021-08-23,Epsilon,0,0.0,12
+45036,Jordan,2021-09-06,Epsilon,0,0.0,22
+45060,Jordan,2021-09-20,Epsilon,0,0.0,35
+45084,Jordan,2021-10-04,Epsilon,0,0.0,71
+45108,Jordan,2021-10-18,Epsilon,0,0.0,64
+45132,Jordan,2021-11-01,Epsilon,0,0.0,43
+45156,Jordan,2021-11-15,Epsilon,0,0.0,39
+45180,Jordan,2021-11-29,Epsilon,0,0.0,38
+45204,Jordan,2021-12-13,Epsilon,0,0.0,26
+45228,Jordan,2021-12-27,Epsilon,0,0.0,32
+45252,Kazakhstan,2020-05-11,Epsilon,0,0.0,2
+45276,Kazakhstan,2020-05-25,Epsilon,0,0.0,1
+45300,Kazakhstan,2020-11-23,Epsilon,0,0.0,9
+45324,Kazakhstan,2020-12-07,Epsilon,0,0.0,2
+45348,Kazakhstan,2020-12-21,Epsilon,0,0.0,13
+45372,Kazakhstan,2021-01-04,Epsilon,0,0.0,9
+45396,Kazakhstan,2021-01-11,Epsilon,0,0.0,7
+45420,Kazakhstan,2021-01-25,Epsilon,0,0.0,1
+45444,Kazakhstan,2021-03-08,Epsilon,0,0.0,16
+45468,Kazakhstan,2021-03-22,Epsilon,0,0.0,39
+45492,Kazakhstan,2021-04-05,Epsilon,0,0.0,59
+45516,Kazakhstan,2021-04-19,Epsilon,0,0.0,35
+45540,Kazakhstan,2021-05-03,Epsilon,0,0.0,47
+45564,Kazakhstan,2021-07-26,Epsilon,0,0.0,1
+45588,Kazakhstan,2021-08-23,Epsilon,0,0.0,93
+45612,Kazakhstan,2021-09-06,Epsilon,0,0.0,3
+45636,Kazakhstan,2021-09-20,Epsilon,0,0.0,19
+45660,Kazakhstan,2021-10-04,Epsilon,0,0.0,20
+45684,Kazakhstan,2021-10-18,Epsilon,0,0.0,53
+45708,Kenya,2020-05-11,Epsilon,0,0.0,76
+45732,Kenya,2020-05-25,Epsilon,0,0.0,125
+45756,Kenya,2020-06-08,Epsilon,0,0.0,38
+45780,Kenya,2020-06-22,Epsilon,0,0.0,57
+45804,Kenya,2020-07-06,Epsilon,0,0.0,89
+45828,Kenya,2020-07-20,Epsilon,0,0.0,67
+45852,Kenya,2020-08-03,Epsilon,0,0.0,38
+45876,Kenya,2020-08-17,Epsilon,0,0.0,56
+45900,Kenya,2020-08-31,Epsilon,0,0.0,54
+45924,Kenya,2020-09-14,Epsilon,0,0.0,54
+45948,Kenya,2020-09-28,Epsilon,0,0.0,17
+45972,Kenya,2020-10-12,Epsilon,0,0.0,68
+45996,Kenya,2020-10-26,Epsilon,0,0.0,157
+46020,Kenya,2020-11-09,Epsilon,0,0.0,344
+46044,Kenya,2020-11-23,Epsilon,0,0.0,256
+46068,Kenya,2020-12-07,Epsilon,0,0.0,157
+46092,Kenya,2020-12-21,Epsilon,0,0.0,75
+46116,Kenya,2021-01-04,Epsilon,0,0.0,29
+46140,Kenya,2021-01-11,Epsilon,0,0.0,37
+46164,Kenya,2021-01-25,Epsilon,1,1.92,52
+46188,Kenya,2021-02-08,Epsilon,0,0.0,70
+46212,Kenya,2021-02-22,Epsilon,0,0.0,64
+46236,Kenya,2021-03-08,Epsilon,0,0.0,224
+46260,Kenya,2021-03-22,Epsilon,0,0.0,261
+46284,Kenya,2021-04-05,Epsilon,0,0.0,169
+46308,Kenya,2021-04-19,Epsilon,0,0.0,133
+46332,Kenya,2021-05-03,Epsilon,0,0.0,136
+46356,Kenya,2021-05-17,Epsilon,0,0.0,117
+46380,Kenya,2021-05-31,Epsilon,0,0.0,194
+46404,Kenya,2021-06-14,Epsilon,0,0.0,132
+46428,Kenya,2021-06-28,Epsilon,0,0.0,173
+46452,Kenya,2021-07-12,Epsilon,0,0.0,278
+46476,Kenya,2021-07-26,Epsilon,0,0.0,222
+46500,Kenya,2021-08-09,Epsilon,0,0.0,296
+46524,Kenya,2021-08-23,Epsilon,0,0.0,290
+46548,Kenya,2021-09-06,Epsilon,0,0.0,230
+46572,Kenya,2021-09-20,Epsilon,0,0.0,157
+46596,Kenya,2021-10-04,Epsilon,0,0.0,99
+46620,Kenya,2021-10-18,Epsilon,0,0.0,64
+46644,Kenya,2021-11-01,Epsilon,0,0.0,33
+46668,Kenya,2021-11-15,Epsilon,0,0.0,47
+46692,Kenya,2021-11-29,Epsilon,0,0.0,18
+46716,Kenya,2021-12-13,Epsilon,0,0.0,44
+46740,Kosovo,2020-05-11,Epsilon,0,0.0,1
+46764,Kosovo,2020-07-20,Epsilon,0,0.0,4
+46788,Kosovo,2020-08-03,Epsilon,0,0.0,4
+46812,Kosovo,2020-11-23,Epsilon,0,0.0,1
+46836,Kosovo,2020-12-21,Epsilon,0,0.0,3
+46860,Kosovo,2021-01-04,Epsilon,0,0.0,7
+46884,Kosovo,2021-01-11,Epsilon,0,0.0,14
+46908,Kosovo,2021-05-03,Epsilon,0,0.0,2
+46932,Kosovo,2021-05-17,Epsilon,0,0.0,11
+46956,Kosovo,2021-05-31,Epsilon,0,0.0,1
+46980,Kosovo,2021-06-14,Epsilon,0,0.0,7
+47004,Kosovo,2021-07-12,Epsilon,0,0.0,3
+47028,Kosovo,2021-07-26,Epsilon,0,0.0,44
+47052,Kosovo,2021-08-09,Epsilon,0,0.0,166
+47076,Kosovo,2021-08-23,Epsilon,0,0.0,154
+47100,Kosovo,2021-09-06,Epsilon,0,0.0,64
+47124,Kosovo,2021-09-20,Epsilon,0,0.0,243
+47148,Kosovo,2021-10-04,Epsilon,0,0.0,110
+47172,Kosovo,2021-10-18,Epsilon,0,0.0,39
+47196,Kosovo,2021-11-01,Epsilon,0,0.0,42
+47220,Kosovo,2021-11-15,Epsilon,0,0.0,40
+47244,Kosovo,2021-11-29,Epsilon,0,0.0,26
+47268,Kosovo,2021-12-13,Epsilon,0,0.0,4
+47292,Kuwait,2021-01-04,Epsilon,0,0.0,15
+47316,Kuwait,2021-01-25,Epsilon,0,0.0,5
+47340,Kuwait,2021-02-08,Epsilon,0,0.0,5
+47364,Kuwait,2021-04-19,Epsilon,0,0.0,3
+47388,Kuwait,2021-05-31,Epsilon,0,0.0,7
+47412,Kuwait,2021-06-14,Epsilon,0,0.0,32
+47436,Kuwait,2021-06-28,Epsilon,0,0.0,40
+47460,Kuwait,2021-07-12,Epsilon,0,0.0,66
+47484,Kuwait,2021-08-09,Epsilon,0,0.0,8
+47508,Kuwait,2021-08-23,Epsilon,0,0.0,32
+47532,Kuwait,2021-09-06,Epsilon,0,0.0,5
+47556,Kuwait,2021-09-20,Epsilon,0,0.0,18
+47580,Kuwait,2021-10-04,Epsilon,0,0.0,30
+47604,Kuwait,2021-10-18,Epsilon,0,0.0,22
+47628,Kuwait,2021-11-01,Epsilon,0,0.0,21
+47652,Kuwait,2021-11-15,Epsilon,0,0.0,4
+47676,Kuwait,2021-11-29,Epsilon,0,0.0,12
+47700,Kuwait,2021-12-13,Epsilon,0,0.0,3
+47724,Latvia,2020-05-11,Epsilon,0,0.0,19
+47748,Latvia,2020-06-08,Epsilon,0,0.0,3
+47772,Latvia,2020-06-22,Epsilon,0,0.0,5
+47796,Latvia,2020-07-06,Epsilon,0,0.0,3
+47820,Latvia,2020-07-20,Epsilon,0,0.0,29
+47844,Latvia,2020-08-03,Epsilon,0,0.0,11
+47868,Latvia,2020-08-17,Epsilon,0,0.0,18
+47892,Latvia,2020-08-31,Epsilon,0,0.0,21
+47916,Latvia,2020-09-14,Epsilon,0,0.0,23
+47940,Latvia,2020-09-28,Epsilon,0,0.0,46
+47964,Latvia,2020-10-12,Epsilon,0,0.0,297
+47988,Latvia,2020-10-26,Epsilon,0,0.0,12
+48012,Latvia,2020-11-09,Epsilon,0,0.0,1
+48036,Latvia,2020-11-23,Epsilon,0,0.0,1
+48060,Latvia,2020-12-21,Epsilon,0,0.0,5
+48084,Latvia,2021-01-04,Epsilon,0,0.0,1
+48108,Latvia,2021-01-11,Epsilon,0,0.0,3
+48132,Latvia,2021-01-25,Epsilon,0,0.0,82
+48156,Latvia,2021-02-08,Epsilon,0,0.0,249
+48180,Latvia,2021-02-22,Epsilon,0,0.0,427
+48204,Latvia,2021-03-08,Epsilon,0,0.0,468
+48228,Latvia,2021-03-22,Epsilon,0,0.0,991
+48252,Latvia,2021-04-05,Epsilon,0,0.0,458
+48276,Latvia,2021-04-19,Epsilon,0,0.0,750
+48300,Latvia,2021-05-03,Epsilon,0,0.0,725
+48324,Latvia,2021-05-17,Epsilon,0,0.0,509
+48348,Latvia,2021-05-31,Epsilon,0,0.0,517
+48372,Latvia,2021-06-14,Epsilon,0,0.0,65
+48396,Latvia,2021-06-28,Epsilon,0,0.0,71
+48420,Latvia,2021-07-12,Epsilon,0,0.0,108
+48444,Latvia,2021-07-26,Epsilon,0,0.0,137
+48468,Latvia,2021-08-09,Epsilon,0,0.0,149
+48492,Latvia,2021-08-23,Epsilon,0,0.0,86
+48516,Lebanon,2020-06-08,Epsilon,0,0.0,3
+48540,Lebanon,2020-07-06,Epsilon,0,0.0,2
+48564,Lebanon,2020-08-03,Epsilon,0,0.0,4
+48588,Lebanon,2020-08-17,Epsilon,0,0.0,3
+48612,Lebanon,2020-09-14,Epsilon,0,0.0,10
+48636,Lebanon,2020-10-12,Epsilon,0,0.0,3
+48660,Lebanon,2020-12-07,Epsilon,0,0.0,2
+48684,Lebanon,2020-12-21,Epsilon,0,0.0,1
+48708,Lebanon,2021-01-04,Epsilon,0,0.0,18
+48732,Lebanon,2021-01-11,Epsilon,0,0.0,31
+48756,Lebanon,2021-01-25,Epsilon,0,0.0,63
+48780,Lebanon,2021-02-08,Epsilon,0,0.0,62
+48804,Lebanon,2021-02-22,Epsilon,0,0.0,139
+48828,Lebanon,2021-03-08,Epsilon,0,0.0,157
+48852,Lebanon,2021-03-22,Epsilon,0,0.0,130
+48876,Lebanon,2021-04-05,Epsilon,0,0.0,117
+48900,Lebanon,2021-04-19,Epsilon,0,0.0,77
+48924,Lebanon,2021-05-03,Epsilon,0,0.0,91
+48948,Lebanon,2021-05-17,Epsilon,0,0.0,11
+48972,Lebanon,2021-06-28,Epsilon,0,0.0,4
+48996,Lebanon,2021-07-12,Epsilon,0,0.0,52
+49020,Lebanon,2021-07-26,Epsilon,0,0.0,25
+49044,Lebanon,2021-12-13,Epsilon,0,0.0,4
+49068,Liechtenstein,2020-10-26,Epsilon,0,0.0,3
+49092,Liechtenstein,2020-11-23,Epsilon,0,0.0,1
+49116,Liechtenstein,2020-12-07,Epsilon,0,0.0,2
+49140,Liechtenstein,2020-12-21,Epsilon,0,0.0,12
+49164,Liechtenstein,2021-01-04,Epsilon,0,0.0,15
+49188,Liechtenstein,2021-01-25,Epsilon,0,0.0,3
+49212,Liechtenstein,2021-02-08,Epsilon,0,0.0,9
+49236,Liechtenstein,2021-02-22,Epsilon,0,0.0,1
+49260,Liechtenstein,2021-03-08,Epsilon,0,0.0,3
+49284,Liechtenstein,2021-04-05,Epsilon,0,0.0,1
+49308,Liechtenstein,2021-04-19,Epsilon,0,0.0,16
+49332,Liechtenstein,2021-05-03,Epsilon,0,0.0,12
+49356,Liechtenstein,2021-05-17,Epsilon,0,0.0,7
+49380,Liechtenstein,2021-05-31,Epsilon,0,0.0,2
+49404,Liechtenstein,2021-06-14,Epsilon,0,0.0,2
+49428,Liechtenstein,2021-06-28,Epsilon,0,0.0,2
+49452,Liechtenstein,2021-07-12,Epsilon,0,0.0,2
+49476,Liechtenstein,2021-07-26,Epsilon,0,0.0,4
+49500,Liechtenstein,2021-08-09,Epsilon,0,0.0,2
+49524,Liechtenstein,2021-08-23,Epsilon,0,0.0,11
+49548,Liechtenstein,2021-09-06,Epsilon,0,0.0,7
+49572,Liechtenstein,2021-09-20,Epsilon,0,0.0,5
+49596,Liechtenstein,2021-10-04,Epsilon,0,0.0,4
+49620,Liechtenstein,2021-10-18,Epsilon,0,0.0,4
+49644,Liechtenstein,2021-11-01,Epsilon,0,0.0,11
+49668,Liechtenstein,2021-11-15,Epsilon,0,0.0,63
+49692,Liechtenstein,2021-11-29,Epsilon,0,0.0,131
+49716,Liechtenstein,2021-12-13,Epsilon,0,0.0,126
+49740,Lithuania,2020-05-25,Epsilon,0,0.0,13
+49764,Lithuania,2020-06-08,Epsilon,0,0.0,2
+49788,Lithuania,2020-08-03,Epsilon,0,0.0,9
+49812,Lithuania,2020-08-17,Epsilon,0,0.0,16
+49836,Lithuania,2020-08-31,Epsilon,0,0.0,14
+49860,Lithuania,2020-09-14,Epsilon,0,0.0,30
+49884,Lithuania,2020-09-28,Epsilon,0,0.0,4
+49908,Lithuania,2020-10-12,Epsilon,0,0.0,4
+49932,Lithuania,2020-10-26,Epsilon,0,0.0,2
+49956,Lithuania,2020-11-09,Epsilon,0,0.0,3
+49980,Lithuania,2020-11-23,Epsilon,0,0.0,17
+50004,Lithuania,2020-12-07,Epsilon,0,0.0,199
+50028,Lithuania,2020-12-21,Epsilon,0,0.0,206
+50052,Lithuania,2021-01-04,Epsilon,0,0.0,112
+50076,Lithuania,2021-01-11,Epsilon,0,0.0,122
+50100,Lithuania,2021-01-25,Epsilon,0,0.0,191
+50124,Lithuania,2021-02-08,Epsilon,0,0.0,181
+50148,Lithuania,2021-02-22,Epsilon,0,0.0,881
+50172,Lithuania,2021-03-08,Epsilon,0,0.0,1198
+50196,Lithuania,2021-03-22,Epsilon,0,0.0,1395
+50220,Lithuania,2021-04-05,Epsilon,0,0.0,1624
+50244,Lithuania,2021-04-19,Epsilon,0,0.0,1710
+50268,Lithuania,2021-05-03,Epsilon,0,0.0,1619
+50292,Lithuania,2021-05-17,Epsilon,0,0.0,1422
+50316,Lithuania,2021-05-31,Epsilon,0,0.0,1484
+50340,Lithuania,2021-06-14,Epsilon,0,0.0,664
+50364,Lithuania,2021-06-28,Epsilon,0,0.0,211
+50388,Lithuania,2021-07-12,Epsilon,0,0.0,236
+50412,Lithuania,2021-07-26,Epsilon,0,0.0,993
+50436,Lithuania,2021-08-09,Epsilon,0,0.0,1516
+50460,Lithuania,2021-08-23,Epsilon,0,0.0,1415
+50484,Lithuania,2021-09-06,Epsilon,0,0.0,1200
+50508,Lithuania,2021-09-20,Epsilon,0,0.0,871
+50532,Lithuania,2021-10-04,Epsilon,0,0.0,731
+50556,Lithuania,2021-10-18,Epsilon,0,0.0,944
+50580,Lithuania,2021-11-01,Epsilon,0,0.0,1008
+50604,Lithuania,2021-11-15,Epsilon,0,0.0,1167
+50628,Lithuania,2021-11-29,Epsilon,0,0.0,858
+50652,Lithuania,2021-12-13,Epsilon,0,0.0,899
+50676,Lithuania,2021-12-27,Epsilon,0,0.0,212
+50700,Luxembourg,2020-05-11,Epsilon,0,0.0,6
+50724,Luxembourg,2020-05-25,Epsilon,0,0.0,12
+50748,Luxembourg,2020-06-22,Epsilon,0,0.0,4
+50772,Luxembourg,2020-07-06,Epsilon,0,0.0,20
+50796,Luxembourg,2020-07-20,Epsilon,0,0.0,24
+50820,Luxembourg,2020-08-03,Epsilon,0,0.0,20
+50844,Luxembourg,2020-08-17,Epsilon,0,0.0,17
+50868,Luxembourg,2020-08-31,Epsilon,0,0.0,4
+50892,Luxembourg,2020-09-14,Epsilon,0,0.0,7
+50916,Luxembourg,2020-09-28,Epsilon,0,0.0,18
+50940,Luxembourg,2020-10-12,Epsilon,0,0.0,34
+50964,Luxembourg,2020-10-26,Epsilon,0,0.0,394
+50988,Luxembourg,2020-11-09,Epsilon,0,0.0,535
+51012,Luxembourg,2020-11-23,Epsilon,0,0.0,444
+51036,Luxembourg,2020-12-07,Epsilon,0,0.0,769
+51060,Luxembourg,2020-12-21,Epsilon,0,0.0,676
+51084,Luxembourg,2021-01-04,Epsilon,0,0.0,267
+51108,Luxembourg,2021-01-11,Epsilon,0,0.0,114
+51132,Luxembourg,2021-01-25,Epsilon,0,0.0,256
+51156,Luxembourg,2021-02-08,Epsilon,1,0.17,593
+51180,Luxembourg,2021-02-22,Epsilon,0,0.0,354
+51204,Luxembourg,2021-03-08,Epsilon,0,0.0,754
+51228,Luxembourg,2021-03-22,Epsilon,0,0.0,683
+51252,Luxembourg,2021-04-05,Epsilon,0,0.0,948
+51276,Luxembourg,2021-04-19,Epsilon,0,0.0,1043
+51300,Luxembourg,2021-05-03,Epsilon,0,0.0,1073
+51324,Luxembourg,2021-05-17,Epsilon,0,0.0,744
+51348,Luxembourg,2021-05-31,Epsilon,0,0.0,392
+51372,Luxembourg,2021-06-14,Epsilon,0,0.0,240
+51396,Luxembourg,2021-06-28,Epsilon,0,0.0,130
+51420,Luxembourg,2021-07-12,Epsilon,0,0.0,944
+51444,Luxembourg,2021-07-26,Epsilon,0,0.0,699
+51468,Luxembourg,2021-08-09,Epsilon,0,0.0,459
+51492,Luxembourg,2021-08-23,Epsilon,0,0.0,413
+51516,Luxembourg,2021-09-06,Epsilon,0,0.0,549
+51540,Luxembourg,2021-09-20,Epsilon,0,0.0,600
+51564,Luxembourg,2021-10-04,Epsilon,0,0.0,705
+51588,Luxembourg,2021-10-18,Epsilon,0,0.0,764
+51612,Luxembourg,2021-11-01,Epsilon,0,0.0,798
+51636,Luxembourg,2021-11-15,Epsilon,0,0.0,766
+51660,Luxembourg,2021-11-29,Epsilon,0,0.0,1044
+51684,Luxembourg,2021-12-13,Epsilon,0,0.0,653
+51708,Madagascar,2020-05-11,Epsilon,0,0.0,13
+51732,Madagascar,2020-05-25,Epsilon,0,0.0,14
+51756,Madagascar,2020-06-08,Epsilon,0,0.0,35
+51780,Madagascar,2020-06-22,Epsilon,0,0.0,23
+51804,Madagascar,2020-07-06,Epsilon,0,0.0,31
+51828,Madagascar,2020-07-20,Epsilon,0,0.0,36
+51852,Madagascar,2020-08-03,Epsilon,0,0.0,29
+51876,Madagascar,2020-08-17,Epsilon,0,0.0,15
+51900,Madagascar,2020-08-31,Epsilon,0,0.0,26
+51924,Madagascar,2020-09-14,Epsilon,0,0.0,25
+51948,Madagascar,2020-09-28,Epsilon,0,0.0,9
+51972,Madagascar,2020-10-12,Epsilon,0,0.0,13
+51996,Madagascar,2020-10-26,Epsilon,0,0.0,10
+52020,Madagascar,2020-11-09,Epsilon,0,0.0,10
+52044,Madagascar,2020-11-23,Epsilon,0,0.0,19
+52068,Madagascar,2020-12-07,Epsilon,0,0.0,10
+52092,Madagascar,2020-12-21,Epsilon,0,0.0,21
+52116,Madagascar,2021-01-04,Epsilon,0,0.0,13
+52140,Madagascar,2021-01-11,Epsilon,0,0.0,17
+52164,Madagascar,2021-01-25,Epsilon,0,0.0,38
+52188,Madagascar,2021-02-08,Epsilon,0,0.0,33
+52212,Madagascar,2021-02-22,Epsilon,0,0.0,19
+52236,Madagascar,2021-03-08,Epsilon,0,0.0,28
+52260,Madagascar,2021-03-22,Epsilon,0,0.0,39
+52284,Madagascar,2021-04-05,Epsilon,0,0.0,52
+52308,Madagascar,2021-04-19,Epsilon,0,0.0,113
+52332,Madagascar,2021-05-03,Epsilon,0,0.0,16
+52356,Madagascar,2021-05-17,Epsilon,0,0.0,15
+52380,Madagascar,2021-05-31,Epsilon,0,0.0,10
+52404,Madagascar,2021-07-12,Epsilon,0,0.0,17
+52428,Madagascar,2021-07-26,Epsilon,0,0.0,23
+52452,Malawi,2020-08-17,Epsilon,0,0.0,1
+52476,Malawi,2020-09-28,Epsilon,0,0.0,1
+52500,Malawi,2020-12-07,Epsilon,0,0.0,2
+52524,Malawi,2020-12-21,Epsilon,0,0.0,1
+52548,Malawi,2021-01-04,Epsilon,0,0.0,18
+52572,Malawi,2021-01-11,Epsilon,0,0.0,12
+52596,Malawi,2021-01-25,Epsilon,0,0.0,154
+52620,Malawi,2021-02-08,Epsilon,0,0.0,69
+52644,Malawi,2021-02-22,Epsilon,0,0.0,21
+52668,Malawi,2021-03-08,Epsilon,0,0.0,45
+52692,Malawi,2021-03-22,Epsilon,0,0.0,23
+52716,Malawi,2021-04-05,Epsilon,0,0.0,6
+52740,Malawi,2021-04-19,Epsilon,0,0.0,40
+52764,Malawi,2021-05-03,Epsilon,0,0.0,33
+52788,Malawi,2021-05-17,Epsilon,0,0.0,4
+52812,Malawi,2021-05-31,Epsilon,0,0.0,24
+52836,Malawi,2021-06-14,Epsilon,0,0.0,50
+52860,Malawi,2021-06-28,Epsilon,0,0.0,72
+52884,Malawi,2021-07-12,Epsilon,0,0.0,76
+52908,Malawi,2021-07-26,Epsilon,0,0.0,33
+52932,Malawi,2021-08-09,Epsilon,0,0.0,38
+52956,Malawi,2021-08-23,Epsilon,0,0.0,15
+52980,Malawi,2021-09-06,Epsilon,0,0.0,12
+53004,Malawi,2021-09-20,Epsilon,0,0.0,24
+53028,Malawi,2021-10-04,Epsilon,0,0.0,2
+53052,Malawi,2021-11-01,Epsilon,0,0.0,1
+53076,Malawi,2021-12-13,Epsilon,0,0.0,13
+53100,Malawi,2021-12-27,Epsilon,0,0.0,21
+53124,Malaysia,2020-05-11,Epsilon,0,0.0,7
+53148,Malaysia,2020-05-25,Epsilon,0,0.0,14
+53172,Malaysia,2020-06-08,Epsilon,0,0.0,8
+53196,Malaysia,2020-06-22,Epsilon,0,0.0,3
+53220,Malaysia,2020-07-20,Epsilon,0,0.0,2
+53244,Malaysia,2020-08-03,Epsilon,0,0.0,6
+53268,Malaysia,2020-08-17,Epsilon,0,0.0,9
+53292,Malaysia,2020-08-31,Epsilon,0,0.0,1
+53316,Malaysia,2020-09-14,Epsilon,0,0.0,23
+53340,Malaysia,2020-10-12,Epsilon,0,0.0,26
+53364,Malaysia,2020-10-26,Epsilon,0,0.0,41
+53388,Malaysia,2020-11-09,Epsilon,0,0.0,76
+53412,Malaysia,2020-11-23,Epsilon,0,0.0,62
+53436,Malaysia,2020-12-07,Epsilon,0,0.0,42
+53460,Malaysia,2020-12-21,Epsilon,0,0.0,65
+53484,Malaysia,2021-01-04,Epsilon,0,0.0,37
+53508,Malaysia,2021-01-11,Epsilon,0,0.0,56
+53532,Malaysia,2021-01-25,Epsilon,0,0.0,170
+53556,Malaysia,2021-02-08,Epsilon,0,0.0,104
+53580,Malaysia,2021-02-22,Epsilon,0,0.0,106
+53604,Malaysia,2021-03-08,Epsilon,0,0.0,57
+53628,Malaysia,2021-03-22,Epsilon,0,0.0,64
+53652,Malaysia,2021-04-05,Epsilon,0,0.0,110
+53676,Malaysia,2021-04-19,Epsilon,0,0.0,208
+53700,Malaysia,2021-05-03,Epsilon,0,0.0,125
+53724,Malaysia,2021-05-17,Epsilon,0,0.0,125
+53748,Malaysia,2021-05-31,Epsilon,0,0.0,73
+53772,Malaysia,2021-06-14,Epsilon,0,0.0,72
+53796,Malaysia,2021-06-28,Epsilon,0,0.0,104
+53820,Malaysia,2021-07-12,Epsilon,0,0.0,134
+53844,Malaysia,2021-07-26,Epsilon,0,0.0,212
+53868,Malaysia,2021-08-09,Epsilon,0,0.0,452
+53892,Malaysia,2021-08-23,Epsilon,0,0.0,627
+53916,Malaysia,2021-09-06,Epsilon,0,0.0,686
+53940,Malaysia,2021-09-20,Epsilon,0,0.0,819
+53964,Malaysia,2021-10-04,Epsilon,0,0.0,683
+53988,Malaysia,2021-10-18,Epsilon,0,0.0,458
+54012,Malaysia,2021-11-01,Epsilon,0,0.0,417
+54036,Malaysia,2021-11-15,Epsilon,0,0.0,397
+54060,Malaysia,2021-11-29,Epsilon,0,0.0,301
+54084,Malaysia,2021-12-13,Epsilon,0,0.0,218
+54108,Malaysia,2021-12-27,Epsilon,0,0.0,42
+54132,Maldives,2020-05-11,Epsilon,0,0.0,1
+54156,Maldives,2020-05-25,Epsilon,0,0.0,1
+54180,Maldives,2020-06-08,Epsilon,0,0.0,1
+54204,Maldives,2020-06-22,Epsilon,0,0.0,1
+54228,Maldives,2020-07-20,Epsilon,0,0.0,2
+54252,Maldives,2020-08-03,Epsilon,0,0.0,1
+54276,Maldives,2020-08-17,Epsilon,0,0.0,3
+54300,Maldives,2020-09-28,Epsilon,0,0.0,1
+54324,Maldives,2020-11-09,Epsilon,0,0.0,1
+54348,Maldives,2020-11-23,Epsilon,0,0.0,1
+54372,Maldives,2021-01-04,Epsilon,0,0.0,4
+54396,Maldives,2021-01-11,Epsilon,0,0.0,2
+54420,Maldives,2021-01-25,Epsilon,0,0.0,1
+54444,Maldives,2021-02-08,Epsilon,0,0.0,5
+54468,Maldives,2021-02-22,Epsilon,0,0.0,1
+54492,Maldives,2021-03-08,Epsilon,0,0.0,5
+54516,Maldives,2021-03-22,Epsilon,0,0.0,2
+54540,Maldives,2021-04-05,Epsilon,0,0.0,3
+54564,Maldives,2021-05-03,Epsilon,0,0.0,5
+54588,Maldives,2021-05-17,Epsilon,0,0.0,4
+54612,Maldives,2021-05-31,Epsilon,0,0.0,5
+54636,Maldives,2021-06-14,Epsilon,0,0.0,1
+54660,Maldives,2021-06-28,Epsilon,0,0.0,7
+54684,Maldives,2021-07-12,Epsilon,0,0.0,3
+54708,Maldives,2021-07-26,Epsilon,0,0.0,17
+54732,Maldives,2021-08-09,Epsilon,0,0.0,24
+54756,Maldives,2021-08-23,Epsilon,0,0.0,51
+54780,Maldives,2021-09-06,Epsilon,0,0.0,106
+54804,Maldives,2021-09-20,Epsilon,0,0.0,61
+54828,Maldives,2021-10-04,Epsilon,0,0.0,113
+54852,Maldives,2021-10-18,Epsilon,0,0.0,97
+54876,Maldives,2021-11-01,Epsilon,0,0.0,52
+54900,Maldives,2021-11-15,Epsilon,0,0.0,85
+54924,Maldives,2021-11-29,Epsilon,0,0.0,59
+54948,Maldives,2021-12-13,Epsilon,0,0.0,107
+54972,Maldives,2021-12-27,Epsilon,0,0.0,32
+54996,Malta,2020-08-17,Epsilon,0,0.0,1
+55020,Malta,2020-08-31,Epsilon,0,0.0,2
+55044,Malta,2020-09-14,Epsilon,0,0.0,7
+55068,Malta,2021-04-05,Epsilon,0,0.0,38
+55092,Malta,2021-04-19,Epsilon,0,0.0,32
+55116,Malta,2021-05-03,Epsilon,0,0.0,44
+55140,Malta,2021-05-17,Epsilon,0,0.0,32
+55164,Malta,2021-05-31,Epsilon,0,0.0,15
+55188,Malta,2021-06-14,Epsilon,0,0.0,11
+55212,Malta,2021-06-28,Epsilon,0,0.0,9
+55236,Malta,2021-07-12,Epsilon,0,0.0,60
+55260,Malta,2021-07-26,Epsilon,0,0.0,48
+55284,Malta,2021-08-09,Epsilon,0,0.0,19
+55308,Malta,2021-10-18,Epsilon,0,0.0,52
+55332,Malta,2021-11-01,Epsilon,0,0.0,24
+55356,Malta,2021-11-15,Epsilon,0,0.0,22
+55380,Malta,2021-11-29,Epsilon,0,0.0,132
+55404,Malta,2021-12-13,Epsilon,0,0.0,21
+55428,Malta,2021-12-27,Epsilon,0,0.0,34
+55452,Mauritius,2020-10-26,Epsilon,0,0.0,2
+55476,Mauritius,2020-11-09,Epsilon,0,0.0,1
+55500,Mauritius,2020-11-23,Epsilon,0,0.0,3
+55524,Mauritius,2020-12-07,Epsilon,0,0.0,4
+55548,Mauritius,2020-12-21,Epsilon,0,0.0,2
+55572,Mauritius,2021-01-04,Epsilon,0,0.0,2
+55596,Mauritius,2021-01-11,Epsilon,0,0.0,8
+55620,Mauritius,2021-01-25,Epsilon,0,0.0,6
+55644,Mauritius,2021-02-08,Epsilon,0,0.0,5
+55668,Mauritius,2021-02-22,Epsilon,0,0.0,3
+55692,Mauritius,2021-03-08,Epsilon,0,0.0,8
+55716,Mauritius,2021-03-22,Epsilon,0,0.0,89
+55740,Mauritius,2021-04-05,Epsilon,0,0.0,10
+55764,Mauritius,2021-04-19,Epsilon,0,0.0,3
+55788,Mauritius,2021-05-03,Epsilon,0,0.0,8
+55812,Mauritius,2021-05-17,Epsilon,0,0.0,40
+55836,Mauritius,2021-05-31,Epsilon,0,0.0,8
+55860,Mauritius,2021-06-14,Epsilon,0,0.0,13
+55884,Mauritius,2021-06-28,Epsilon,0,0.0,18
+55908,Mauritius,2021-07-12,Epsilon,0,0.0,23
+55932,Mauritius,2021-07-26,Epsilon,0,0.0,21
+55956,Mauritius,2021-08-09,Epsilon,0,0.0,10
+55980,Mauritius,2021-08-23,Epsilon,0,0.0,7
+56004,Mauritius,2021-09-06,Epsilon,0,0.0,18
+56028,Mauritius,2021-09-20,Epsilon,0,0.0,11
+56052,Mauritius,2021-10-04,Epsilon,0,0.0,13
+56076,Mauritius,2021-10-18,Epsilon,0,0.0,17
+56100,Mauritius,2021-11-01,Epsilon,0,0.0,31
+56124,Mauritius,2021-11-15,Epsilon,0,0.0,2
+56148,Mauritius,2021-11-29,Epsilon,0,0.0,82
+56172,Mexico,2020-05-11,Epsilon,0,0.0,208
+56196,Mexico,2020-05-25,Epsilon,0,0.0,264
+56220,Mexico,2020-06-08,Epsilon,0,0.0,290
+56244,Mexico,2020-06-22,Epsilon,0,0.0,166
+56268,Mexico,2020-07-06,Epsilon,0,0.0,219
+56292,Mexico,2020-07-20,Epsilon,0,0.0,135
+56316,Mexico,2020-08-03,Epsilon,0,0.0,155
+56340,Mexico,2020-08-17,Epsilon,0,0.0,144
+56364,Mexico,2020-08-31,Epsilon,0,0.0,178
+56388,Mexico,2020-09-14,Epsilon,0,0.0,123
+56412,Mexico,2020-09-28,Epsilon,1,1.61,62
+56436,Mexico,2020-10-12,Epsilon,0,0.0,81
+56460,Mexico,2020-10-26,Epsilon,0,0.0,90
+56484,Mexico,2020-11-09,Epsilon,0,0.0,89
+56508,Mexico,2020-11-23,Epsilon,3,1.76,170
+56532,Mexico,2020-12-07,Epsilon,14,6.01,233
+56556,Mexico,2020-12-21,Epsilon,33,10.65,310
+56580,Mexico,2021-01-04,Epsilon,14,5.05,277
+56604,Mexico,2021-01-11,Epsilon,4,3.12,128
+56628,Mexico,2021-01-25,Epsilon,24,6.58,365
+56652,Mexico,2021-02-08,Epsilon,17,4.7,362
+56676,Mexico,2021-02-22,Epsilon,45,3.99,1128
+56700,Mexico,2021-03-08,Epsilon,61,4.6,1327
+56724,Mexico,2021-03-22,Epsilon,56,4.96,1130
+56748,Mexico,2021-04-05,Epsilon,41,4.06,1011
+56772,Mexico,2021-04-19,Epsilon,44,3.48,1263
+56796,Mexico,2021-05-03,Epsilon,46,3.31,1390
+56820,Mexico,2021-05-17,Epsilon,45,2.83,1589
+56844,Mexico,2021-05-31,Epsilon,19,1.1,1724
+56868,Mexico,2021-06-14,Epsilon,12,0.54,2222
+56892,Mexico,2021-06-28,Epsilon,14,0.74,1889
+56916,Mexico,2021-07-12,Epsilon,4,0.19,2121
+56940,Mexico,2021-07-26,Epsilon,1,0.04,2443
+56964,Mexico,2021-08-09,Epsilon,1,0.03,3024
+56988,Mexico,2021-08-23,Epsilon,0,0.0,2528
+57012,Mexico,2021-09-06,Epsilon,0,0.0,2069
+57036,Mexico,2021-09-20,Epsilon,0,0.0,2057
+57060,Mexico,2021-10-04,Epsilon,0,0.0,2511
+57084,Mexico,2021-10-18,Epsilon,0,0.0,1868
+57108,Mexico,2021-11-01,Epsilon,0,0.0,1724
+57132,Mexico,2021-11-15,Epsilon,0,0.0,1384
+57156,Mexico,2021-11-29,Epsilon,0,0.0,938
+57180,Mexico,2021-12-13,Epsilon,0,0.0,998
+57204,Mexico,2021-12-27,Epsilon,0,0.0,435
+57228,Mexico,2022-01-05,Epsilon,0,0.0,11
+57252,Moldova,2020-06-22,Epsilon,0,0.0,4
+57276,Moldova,2020-09-14,Epsilon,0,0.0,8
+57300,Moldova,2021-02-08,Epsilon,0,0.0,3
+57324,Moldova,2021-02-22,Epsilon,0,0.0,1
+57348,Moldova,2021-03-08,Epsilon,0,0.0,7
+57372,Moldova,2021-03-22,Epsilon,0,0.0,2
+57396,Moldova,2021-04-05,Epsilon,0,0.0,5
+57420,Moldova,2021-04-19,Epsilon,0,0.0,2
+57444,Moldova,2021-05-03,Epsilon,0,0.0,4
+57468,Moldova,2021-05-17,Epsilon,0,0.0,12
+57492,Moldova,2021-05-31,Epsilon,0,0.0,1
+57516,Moldova,2021-06-28,Epsilon,0,0.0,6
+57540,Moldova,2021-07-12,Epsilon,0,0.0,7
+57564,Moldova,2021-08-23,Epsilon,0,0.0,4
+57588,Moldova,2021-09-06,Epsilon,0,0.0,9
+57612,Moldova,2021-09-20,Epsilon,0,0.0,26
+57636,Moldova,2021-11-01,Epsilon,0,0.0,2
+57660,Moldova,2021-11-15,Epsilon,0,0.0,10
+57684,Moldova,2021-11-29,Epsilon,0,0.0,9
+57708,Moldova,2021-12-13,Epsilon,0,0.0,15
+57732,Moldova,2021-12-27,Epsilon,0,0.0,15
+57756,Monaco,2021-01-25,Epsilon,0,0.0,1
+57780,Monaco,2021-02-08,Epsilon,0,0.0,1
+57804,Monaco,2021-03-08,Epsilon,0,0.0,4
+57828,Monaco,2021-04-19,Epsilon,0,0.0,2
+57852,Monaco,2021-05-31,Epsilon,0,0.0,1
+57876,Monaco,2021-06-14,Epsilon,0,0.0,11
+57900,Monaco,2021-06-28,Epsilon,0,0.0,20
+57924,Monaco,2021-07-12,Epsilon,0,0.0,1
+57948,Monaco,2021-07-26,Epsilon,0,0.0,14
+57972,Monaco,2021-08-09,Epsilon,0,0.0,14
+57996,Monaco,2021-09-06,Epsilon,0,0.0,6
+58020,Monaco,2021-09-20,Epsilon,0,0.0,2
+58044,Monaco,2021-11-01,Epsilon,0,0.0,3
+58068,Monaco,2021-11-15,Epsilon,0,0.0,3
+58092,Monaco,2021-12-27,Epsilon,0,0.0,1
+58116,Mongolia,2020-08-17,Epsilon,0,0.0,1
+58140,Mongolia,2020-10-12,Epsilon,0,0.0,1
+58164,Mongolia,2020-11-09,Epsilon,0,0.0,2
+58188,Mongolia,2020-11-23,Epsilon,0,0.0,1
+58212,Mongolia,2020-12-07,Epsilon,0,0.0,1
+58236,Mongolia,2020-12-21,Epsilon,0,0.0,1
+58260,Mongolia,2021-01-04,Epsilon,0,0.0,2
+58284,Mongolia,2021-01-11,Epsilon,0,0.0,2
+58308,Mongolia,2021-01-25,Epsilon,0,0.0,2
+58332,Mongolia,2021-02-08,Epsilon,0,0.0,1
+58356,Mongolia,2021-02-22,Epsilon,0,0.0,3
+58380,Mongolia,2021-03-08,Epsilon,0,0.0,2
+58404,Mongolia,2021-03-22,Epsilon,0,0.0,7
+58428,Mongolia,2021-04-19,Epsilon,0,0.0,2
+58452,Mongolia,2021-05-17,Epsilon,0,0.0,3
+58476,Mongolia,2021-06-28,Epsilon,0,0.0,16
+58500,Mongolia,2021-07-12,Epsilon,0,0.0,34
+58524,Mongolia,2021-07-26,Epsilon,0,0.0,17
+58548,Mongolia,2021-08-09,Epsilon,0,0.0,52
+58572,Montenegro,2020-07-20,Epsilon,0,0.0,9
+58596,Montenegro,2021-01-25,Epsilon,0,0.0,19
+58620,Montenegro,2021-06-14,Epsilon,0,0.0,17
+58644,Montenegro,2021-06-28,Epsilon,0,0.0,18
+58668,Montenegro,2021-07-12,Epsilon,0,0.0,20
+58692,Montenegro,2021-07-26,Epsilon,0,0.0,30
+58716,Montenegro,2021-08-09,Epsilon,0,0.0,72
+58740,Montenegro,2021-08-23,Epsilon,0,0.0,41
+58764,Montenegro,2021-09-06,Epsilon,0,0.0,34
+58788,Montenegro,2021-09-20,Epsilon,0,0.0,5
+58812,Montenegro,2021-10-04,Epsilon,0,0.0,1
+58836,Montenegro,2021-10-18,Epsilon,0,0.0,15
+58860,Montenegro,2021-11-01,Epsilon,0,0.0,34
+58884,Montenegro,2021-11-15,Epsilon,0,0.0,38
+58908,Montenegro,2021-11-29,Epsilon,0,0.0,25
+58932,Montenegro,2021-12-13,Epsilon,0,0.0,69
+58956,Morocco,2020-05-11,Epsilon,0,0.0,25
+58980,Morocco,2020-05-25,Epsilon,0,0.0,3
+59004,Morocco,2020-06-08,Epsilon,0,0.0,1
+59028,Morocco,2020-06-22,Epsilon,0,0.0,1
+59052,Morocco,2020-07-06,Epsilon,0,0.0,2
+59076,Morocco,2020-07-20,Epsilon,0,0.0,19
+59100,Morocco,2020-08-17,Epsilon,0,0.0,2
+59124,Morocco,2020-09-28,Epsilon,0,0.0,2
+59148,Morocco,2020-11-09,Epsilon,0,0.0,1
+59172,Morocco,2020-12-21,Epsilon,0,0.0,26
+59196,Morocco,2021-01-04,Epsilon,0,0.0,15
+59220,Morocco,2021-01-11,Epsilon,0,0.0,22
+59244,Morocco,2021-01-25,Epsilon,0,0.0,1
+59268,Morocco,2021-02-08,Epsilon,0,0.0,4
+59292,Morocco,2021-03-08,Epsilon,0,0.0,17
+59316,Morocco,2021-03-22,Epsilon,0,0.0,24
+59340,Morocco,2021-04-05,Epsilon,0,0.0,18
+59364,Morocco,2021-04-19,Epsilon,0,0.0,20
+59388,Morocco,2021-05-03,Epsilon,0,0.0,5
+59412,Morocco,2021-05-31,Epsilon,0,0.0,1
+59436,Morocco,2021-06-14,Epsilon,0,0.0,1
+59460,Morocco,2021-06-28,Epsilon,0,0.0,7
+59484,Morocco,2021-07-12,Epsilon,0,0.0,9
+59508,Morocco,2021-07-26,Epsilon,0,0.0,31
+59532,Morocco,2021-09-06,Epsilon,0,0.0,45
+59556,Morocco,2021-09-20,Epsilon,0,0.0,15
+59580,Morocco,2021-10-04,Epsilon,0,0.0,2
+59604,Morocco,2021-10-18,Epsilon,0,0.0,26
+59628,Morocco,2021-11-01,Epsilon,0,0.0,20
+59652,Morocco,2021-11-15,Epsilon,0,0.0,8
+59676,Morocco,2021-11-29,Epsilon,0,0.0,9
+59700,Morocco,2021-12-13,Epsilon,0,0.0,2
+59724,Morocco,2021-12-27,Epsilon,0,0.0,16
+59748,Mozambique,2020-07-20,Epsilon,0,0.0,7
+59772,Mozambique,2020-08-17,Epsilon,0,0.0,1
+59796,Mozambique,2020-08-31,Epsilon,0,0.0,10
+59820,Mozambique,2020-09-14,Epsilon,0,0.0,5
+59844,Mozambique,2020-09-28,Epsilon,0,0.0,5
+59868,Mozambique,2020-10-12,Epsilon,0,0.0,13
+59892,Mozambique,2020-10-26,Epsilon,0,0.0,2
+59916,Mozambique,2020-11-09,Epsilon,0,0.0,32
+59940,Mozambique,2020-11-23,Epsilon,0,0.0,11
+59964,Mozambique,2020-12-07,Epsilon,0,0.0,29
+59988,Mozambique,2020-12-21,Epsilon,0,0.0,11
+60012,Mozambique,2021-01-04,Epsilon,0,0.0,30
+60036,Mozambique,2021-01-11,Epsilon,0,0.0,31
+60060,Mozambique,2021-01-25,Epsilon,0,0.0,104
+60084,Mozambique,2021-02-08,Epsilon,0,0.0,42
+60108,Mozambique,2021-02-22,Epsilon,0,0.0,47
+60132,Mozambique,2021-03-08,Epsilon,0,0.0,22
+60156,Mozambique,2021-03-22,Epsilon,0,0.0,83
+60180,Mozambique,2021-04-05,Epsilon,0,0.0,11
+60204,Mozambique,2021-04-19,Epsilon,0,0.0,9
+60228,Mozambique,2021-05-03,Epsilon,0,0.0,20
+60252,Mozambique,2021-05-17,Epsilon,0,0.0,9
+60276,Mozambique,2021-05-31,Epsilon,0,0.0,12
+60300,Mozambique,2021-06-14,Epsilon,0,0.0,8
+60324,Mozambique,2021-06-28,Epsilon,0,0.0,114
+60348,Mozambique,2021-07-12,Epsilon,0,0.0,109
+60372,Mozambique,2021-07-26,Epsilon,0,0.0,64
+60396,Mozambique,2021-08-09,Epsilon,0,0.0,24
+60420,Mozambique,2021-08-23,Epsilon,0,0.0,1
+60444,Mozambique,2021-09-06,Epsilon,0,0.0,15
+60468,Mozambique,2021-09-20,Epsilon,0,0.0,14
+60492,Mozambique,2021-10-04,Epsilon,0,0.0,9
+60516,Mozambique,2021-10-18,Epsilon,0,0.0,2
+60540,Mozambique,2021-11-01,Epsilon,0,0.0,2
+60564,Mozambique,2021-11-15,Epsilon,0,0.0,1
+60588,Mozambique,2021-11-29,Epsilon,0,0.0,4
+60612,Mozambique,2021-12-13,Epsilon,0,0.0,14
+60636,Nepal,2020-08-03,Epsilon,0,0.0,2
+60660,Nepal,2020-08-17,Epsilon,0,0.0,12
+60684,Nepal,2020-08-31,Epsilon,0,0.0,1
+60708,Nepal,2020-10-12,Epsilon,0,0.0,1
+60732,Nepal,2020-11-23,Epsilon,0,0.0,1
+60756,Nepal,2020-12-07,Epsilon,0,0.0,1
+60780,Nepal,2021-04-19,Epsilon,0,0.0,4
+60804,Nepal,2021-05-03,Epsilon,0,0.0,17
+60828,Nepal,2021-05-17,Epsilon,0,0.0,30
+60852,Nepal,2021-05-31,Epsilon,0,0.0,18
+60876,Nepal,2021-06-14,Epsilon,0,0.0,39
+60900,Nepal,2021-06-28,Epsilon,0,0.0,14
+60924,Nepal,2021-07-12,Epsilon,0,0.0,25
+60948,Nepal,2021-07-26,Epsilon,0,0.0,15
+60972,Nepal,2021-08-09,Epsilon,0,0.0,22
+60996,Nepal,2021-08-23,Epsilon,0,0.0,43
+61020,Nepal,2021-09-06,Epsilon,0,0.0,11
+61044,Nepal,2021-09-20,Epsilon,0,0.0,25
+61068,Nepal,2021-10-04,Epsilon,0,0.0,22
+61092,Nepal,2021-11-01,Epsilon,0,0.0,5
+61116,Nepal,2021-11-15,Epsilon,0,0.0,6
+61140,Nepal,2021-11-29,Epsilon,0,0.0,25
+61164,Nepal,2021-12-13,Epsilon,0,0.0,25
+61188,Nepal,2021-12-27,Epsilon,0,0.0,4
+61212,Netherlands,2020-05-11,Epsilon,0,0.0,214
+61236,Netherlands,2020-05-25,Epsilon,0,0.0,226
+61260,Netherlands,2020-06-08,Epsilon,0,0.0,144
+61284,Netherlands,2020-06-22,Epsilon,0,0.0,98
+61308,Netherlands,2020-07-06,Epsilon,0,0.0,91
+61332,Netherlands,2020-07-20,Epsilon,0,0.0,67
+61356,Netherlands,2020-08-03,Epsilon,0,0.0,90
+61380,Netherlands,2020-08-17,Epsilon,0,0.0,123
+61404,Netherlands,2020-08-31,Epsilon,0,0.0,127
+61428,Netherlands,2020-09-14,Epsilon,0,0.0,120
+61452,Netherlands,2020-09-28,Epsilon,0,0.0,273
+61476,Netherlands,2020-10-12,Epsilon,0,0.0,297
+61500,Netherlands,2020-10-26,Epsilon,0,0.0,436
+61524,Netherlands,2020-11-09,Epsilon,0,0.0,416
+61548,Netherlands,2020-11-23,Epsilon,0,0.0,437
+61572,Netherlands,2020-12-07,Epsilon,0,0.0,533
+61596,Netherlands,2020-12-21,Epsilon,0,0.0,818
+61620,Netherlands,2021-01-04,Epsilon,0,0.0,1142
+61644,Netherlands,2021-01-11,Epsilon,0,0.0,790
+61668,Netherlands,2021-01-25,Epsilon,0,0.0,1750
+61692,Netherlands,2021-02-08,Epsilon,0,0.0,2269
+61716,Netherlands,2021-02-22,Epsilon,0,0.0,2431
+61740,Netherlands,2021-03-08,Epsilon,2,0.06,3167
+61764,Netherlands,2021-03-22,Epsilon,2,0.05,4040
+61788,Netherlands,2021-04-05,Epsilon,0,0.0,3860
+61812,Netherlands,2021-04-19,Epsilon,0,0.0,3602
+61836,Netherlands,2021-05-03,Epsilon,0,0.0,3934
+61860,Netherlands,2021-05-17,Epsilon,0,0.0,3490
+61884,Netherlands,2021-05-31,Epsilon,0,0.0,2969
+61908,Netherlands,2021-06-14,Epsilon,0,0.0,2635
+61932,Netherlands,2021-06-28,Epsilon,0,0.0,1888
+61956,Netherlands,2021-07-12,Epsilon,0,0.0,3583
+61980,Netherlands,2021-07-26,Epsilon,0,0.0,4845
+62004,Netherlands,2021-08-09,Epsilon,0,0.0,3079
+62028,Netherlands,2021-08-23,Epsilon,0,0.0,3129
+62052,Netherlands,2021-09-06,Epsilon,1,0.03,3390
+62076,Netherlands,2021-09-20,Epsilon,0,0.0,2691
+62100,Netherlands,2021-10-04,Epsilon,0,0.0,2258
+62124,Netherlands,2021-10-18,Epsilon,0,0.0,2733
+62148,Netherlands,2021-11-01,Epsilon,0,0.0,3174
+62172,Netherlands,2021-11-15,Epsilon,0,0.0,3645
+62196,Netherlands,2021-11-29,Epsilon,0,0.0,3714
+62220,Netherlands,2021-12-13,Epsilon,0,0.0,3137
+62244,Netherlands,2021-12-27,Epsilon,0,0.0,867
+62268,Netherlands,2022-01-05,Epsilon,0,0.0,25
+62292,New Zealand,2020-05-11,Epsilon,0,0.0,8
+62316,New Zealand,2020-05-25,Epsilon,0,0.0,1
+62340,New Zealand,2020-06-22,Epsilon,0,0.0,5
+62364,New Zealand,2020-07-06,Epsilon,0,0.0,3
+62388,New Zealand,2020-07-20,Epsilon,0,0.0,3
+62412,New Zealand,2020-08-03,Epsilon,0,0.0,2
+62436,New Zealand,2020-08-17,Epsilon,0,0.0,37
+62460,New Zealand,2020-08-31,Epsilon,0,0.0,74
+62484,New Zealand,2020-09-14,Epsilon,0,0.0,33
+62508,New Zealand,2020-09-28,Epsilon,0,0.0,16
+62532,New Zealand,2020-10-12,Epsilon,0,0.0,14
+62556,New Zealand,2020-10-26,Epsilon,0,0.0,36
+62580,New Zealand,2020-11-09,Epsilon,0,0.0,33
+62604,New Zealand,2020-11-23,Epsilon,0,0.0,20
+62628,New Zealand,2020-12-07,Epsilon,1,3.57,28
+62652,New Zealand,2020-12-21,Epsilon,1,5.0,20
+62676,New Zealand,2021-01-04,Epsilon,2,7.14,28
+62700,New Zealand,2021-01-11,Epsilon,0,0.0,11
+62724,New Zealand,2021-01-25,Epsilon,0,0.0,22
+62748,New Zealand,2021-02-08,Epsilon,0,0.0,17
+62772,New Zealand,2021-02-22,Epsilon,0,0.0,19
+62796,New Zealand,2021-03-08,Epsilon,0,0.0,26
+62820,New Zealand,2021-03-22,Epsilon,0,0.0,28
+62844,New Zealand,2021-04-05,Epsilon,0,0.0,29
+62868,New Zealand,2021-04-19,Epsilon,0,0.0,26
+62892,New Zealand,2021-05-03,Epsilon,0,0.0,19
+62916,New Zealand,2021-05-17,Epsilon,0,0.0,7
+62940,New Zealand,2021-05-31,Epsilon,0,0.0,8
+62964,New Zealand,2021-06-14,Epsilon,0,0.0,14
+62988,New Zealand,2021-06-28,Epsilon,0,0.0,16
+63012,New Zealand,2021-07-12,Epsilon,0,0.0,12
+63036,New Zealand,2021-07-26,Epsilon,0,0.0,49
+63060,New Zealand,2021-08-09,Epsilon,0,0.0,31
+63084,New Zealand,2021-08-23,Epsilon,0,0.0,173
+63108,New Zealand,2021-09-06,Epsilon,0,0.0,615
+63132,New Zealand,2021-09-20,Epsilon,0,0.0,238
+63156,New Zealand,2021-10-04,Epsilon,0,0.0,276
+63180,New Zealand,2021-10-18,Epsilon,0,0.0,583
+63204,New Zealand,2021-11-01,Epsilon,0,0.0,605
+63228,New Zealand,2021-11-15,Epsilon,0,0.0,567
+63252,New Zealand,2021-11-29,Epsilon,0,0.0,460
+63276,New Zealand,2021-12-13,Epsilon,0,0.0,313
+63300,New Zealand,2021-12-27,Epsilon,0,0.0,223
+63324,New Zealand,2022-01-05,Epsilon,0,0.0,11
+63348,Nigeria,2020-05-11,Epsilon,0,0.0,26
+63372,Nigeria,2020-05-25,Epsilon,0,0.0,31
+63396,Nigeria,2020-06-08,Epsilon,0,0.0,16
+63420,Nigeria,2020-06-22,Epsilon,0,0.0,27
+63444,Nigeria,2020-07-06,Epsilon,0,0.0,28
+63468,Nigeria,2020-07-20,Epsilon,0,0.0,48
+63492,Nigeria,2020-08-03,Epsilon,0,0.0,5
+63516,Nigeria,2020-08-17,Epsilon,0,0.0,11
+63540,Nigeria,2020-08-31,Epsilon,0,0.0,5
+63564,Nigeria,2020-09-14,Epsilon,0,0.0,5
+63588,Nigeria,2020-10-12,Epsilon,0,0.0,5
+63612,Nigeria,2020-10-26,Epsilon,0,0.0,7
+63636,Nigeria,2020-11-09,Epsilon,0,0.0,1
+63660,Nigeria,2020-11-23,Epsilon,0,0.0,4
+63684,Nigeria,2020-12-07,Epsilon,0,0.0,31
+63708,Nigeria,2020-12-21,Epsilon,0,0.0,34
+63732,Nigeria,2021-01-04,Epsilon,0,0.0,73
+63756,Nigeria,2021-01-11,Epsilon,0,0.0,131
+63780,Nigeria,2021-01-25,Epsilon,0,0.0,127
+63804,Nigeria,2021-02-08,Epsilon,0,0.0,231
+63828,Nigeria,2021-02-22,Epsilon,0,0.0,164
+63852,Nigeria,2021-03-08,Epsilon,0,0.0,111
+63876,Nigeria,2021-03-22,Epsilon,0,0.0,45
+63900,Nigeria,2021-04-05,Epsilon,0,0.0,18
+63924,Nigeria,2021-04-19,Epsilon,0,0.0,7
+63948,Nigeria,2021-05-03,Epsilon,0,0.0,23
+63972,Nigeria,2021-05-17,Epsilon,0,0.0,8
+63996,Nigeria,2021-05-31,Epsilon,0,0.0,6
+64020,Nigeria,2021-06-14,Epsilon,0,0.0,7
+64044,Nigeria,2021-06-28,Epsilon,0,0.0,14
+64068,Nigeria,2021-07-12,Epsilon,0,0.0,43
+64092,Nigeria,2021-07-26,Epsilon,0,0.0,94
+64116,Nigeria,2021-08-09,Epsilon,0,0.0,498
+64140,Nigeria,2021-08-23,Epsilon,0,0.0,535
+64164,Nigeria,2021-09-06,Epsilon,0,0.0,576
+64188,Nigeria,2021-09-20,Epsilon,0,0.0,331
+64212,Nigeria,2021-10-04,Epsilon,0,0.0,93
+64236,Nigeria,2021-10-18,Epsilon,0,0.0,60
+64260,Nigeria,2021-11-01,Epsilon,0,0.0,34
+64284,Nigeria,2021-11-15,Epsilon,0,0.0,22
+64308,Nigeria,2021-11-29,Epsilon,0,0.0,56
+64332,Nigeria,2021-12-13,Epsilon,0,0.0,73
+64356,Nigeria,2021-12-27,Epsilon,0,0.0,10
+64380,North Macedonia,2020-05-25,Epsilon,0,0.0,1
+64404,North Macedonia,2020-06-08,Epsilon,0,0.0,17
+64428,North Macedonia,2020-06-22,Epsilon,0,0.0,18
+64452,North Macedonia,2020-07-06,Epsilon,0,0.0,20
+64476,North Macedonia,2020-07-20,Epsilon,0,0.0,5
+64500,North Macedonia,2020-08-03,Epsilon,0,0.0,6
+64524,North Macedonia,2020-08-17,Epsilon,0,0.0,8
+64548,North Macedonia,2020-08-31,Epsilon,0,0.0,2
+64572,North Macedonia,2020-09-14,Epsilon,0,0.0,9
+64596,North Macedonia,2020-10-12,Epsilon,0,0.0,7
+64620,North Macedonia,2020-10-26,Epsilon,0,0.0,13
+64644,North Macedonia,2020-11-09,Epsilon,0,0.0,20
+64668,North Macedonia,2020-11-23,Epsilon,0,0.0,8
+64692,North Macedonia,2020-12-07,Epsilon,0,0.0,4
+64716,North Macedonia,2020-12-21,Epsilon,0,0.0,16
+64740,North Macedonia,2021-01-04,Epsilon,0,0.0,27
+64764,North Macedonia,2021-01-11,Epsilon,0,0.0,23
+64788,North Macedonia,2021-01-25,Epsilon,0,0.0,68
+64812,North Macedonia,2021-02-08,Epsilon,1,1.64,61
+64836,North Macedonia,2021-02-22,Epsilon,0,0.0,58
+64860,North Macedonia,2021-03-08,Epsilon,0,0.0,15
+64884,North Macedonia,2021-03-22,Epsilon,0,0.0,26
+64908,North Macedonia,2021-04-05,Epsilon,0,0.0,36
+64932,North Macedonia,2021-04-19,Epsilon,0,0.0,103
+64956,North Macedonia,2021-05-03,Epsilon,0,0.0,15
+64980,North Macedonia,2021-05-17,Epsilon,0,0.0,30
+65004,North Macedonia,2021-05-31,Epsilon,0,0.0,17
+65028,North Macedonia,2021-06-14,Epsilon,0,0.0,12
+65052,North Macedonia,2021-06-28,Epsilon,0,0.0,4
+65076,North Macedonia,2021-07-12,Epsilon,0,0.0,7
+65100,North Macedonia,2021-07-26,Epsilon,0,0.0,22
+65124,North Macedonia,2021-08-09,Epsilon,0,0.0,12
+65148,North Macedonia,2021-11-01,Epsilon,0,0.0,11
+65172,North Macedonia,2021-11-15,Epsilon,0,0.0,37
+65196,Norway,2020-05-11,Epsilon,0,0.0,28
+65220,Norway,2020-05-25,Epsilon,0,0.0,18
+65244,Norway,2020-06-08,Epsilon,0,0.0,8
+65268,Norway,2020-06-22,Epsilon,0,0.0,31
+65292,Norway,2020-07-06,Epsilon,0,0.0,61
+65316,Norway,2020-07-20,Epsilon,0,0.0,33
+65340,Norway,2020-08-03,Epsilon,0,0.0,84
+65364,Norway,2020-08-17,Epsilon,0,0.0,164
+65388,Norway,2020-08-31,Epsilon,0,0.0,47
+65412,Norway,2020-09-14,Epsilon,0,0.0,109
+65436,Norway,2020-09-28,Epsilon,0,0.0,117
+65460,Norway,2020-10-12,Epsilon,0,0.0,156
+65484,Norway,2020-10-26,Epsilon,0,0.0,204
+65508,Norway,2020-11-09,Epsilon,0,0.0,265
+65532,Norway,2020-11-23,Epsilon,0,0.0,163
+65556,Norway,2020-12-07,Epsilon,0,0.0,187
+65580,Norway,2020-12-21,Epsilon,1,0.36,274
+65604,Norway,2021-01-04,Epsilon,0,0.0,272
+65628,Norway,2021-01-11,Epsilon,0,0.0,266
+65652,Norway,2021-01-25,Epsilon,0,0.0,740
+65676,Norway,2021-02-08,Epsilon,1,0.07,1400
+65700,Norway,2021-02-22,Epsilon,0,0.0,1404
+65724,Norway,2021-03-08,Epsilon,1,0.06,1547
+65748,Norway,2021-03-22,Epsilon,0,0.0,1671
+65772,Norway,2021-04-05,Epsilon,0,0.0,1328
+65796,Norway,2021-04-19,Epsilon,1,0.05,1847
+65820,Norway,2021-05-03,Epsilon,0,0.0,1654
+65844,Norway,2021-05-17,Epsilon,0,0.0,1837
+65868,Norway,2021-05-31,Epsilon,0,0.0,1417
+65892,Norway,2021-06-14,Epsilon,0,0.0,1134
+65916,Norway,2021-06-28,Epsilon,0,0.0,827
+65940,Norway,2021-07-12,Epsilon,0,0.0,867
+65964,Norway,2021-07-26,Epsilon,0,0.0,892
+65988,Norway,2021-08-09,Epsilon,0,0.0,1320
+66012,Norway,2021-08-23,Epsilon,0,0.0,1747
+66036,Norway,2021-09-06,Epsilon,0,0.0,1917
+66060,Norway,2021-09-20,Epsilon,0,0.0,2089
+66084,Norway,2021-10-04,Epsilon,0,0.0,1632
+66108,Norway,2021-10-18,Epsilon,0,0.0,1421
+66132,Norway,2021-11-01,Epsilon,0,0.0,2045
+66156,Norway,2021-11-15,Epsilon,0,0.0,1848
+66180,Norway,2021-11-29,Epsilon,0,0.0,1532
+66204,Norway,2021-12-13,Epsilon,0,0.0,988
+66228,Norway,2021-12-27,Epsilon,0,0.0,67
+66252,Oman,2020-05-11,Epsilon,0,0.0,22
+66276,Oman,2020-05-25,Epsilon,0,0.0,55
+66300,Oman,2020-06-08,Epsilon,0,0.0,25
+66324,Oman,2020-06-22,Epsilon,0,0.0,11
+66348,Oman,2020-07-06,Epsilon,0,0.0,8
+66372,Oman,2020-07-20,Epsilon,0,0.0,8
+66396,Oman,2020-08-03,Epsilon,0,0.0,1
+66420,Oman,2020-08-17,Epsilon,0,0.0,7
+66444,Oman,2020-08-31,Epsilon,0,0.0,1
+66468,Oman,2020-09-14,Epsilon,0,0.0,6
+66492,Oman,2020-09-28,Epsilon,0,0.0,6
+66516,Oman,2020-10-12,Epsilon,0,0.0,1
+66540,Oman,2020-10-26,Epsilon,0,0.0,1
+66564,Oman,2020-11-23,Epsilon,0,0.0,1
+66588,Oman,2021-01-04,Epsilon,0,0.0,3
+66612,Oman,2021-01-11,Epsilon,0,0.0,3
+66636,Oman,2021-01-25,Epsilon,0,0.0,3
+66660,Oman,2021-02-08,Epsilon,0,0.0,12
+66684,Oman,2021-02-22,Epsilon,0,0.0,9
+66708,Oman,2021-03-08,Epsilon,0,0.0,10
+66732,Oman,2021-03-22,Epsilon,0,0.0,7
+66756,Oman,2021-04-05,Epsilon,0,0.0,11
+66780,Oman,2021-04-19,Epsilon,0,0.0,18
+66804,Oman,2021-05-03,Epsilon,0,0.0,53
+66828,Oman,2021-05-17,Epsilon,0,0.0,21
+66852,Oman,2021-05-31,Epsilon,0,0.0,12
+66876,Oman,2021-06-14,Epsilon,0,0.0,43
+66900,Oman,2021-06-28,Epsilon,0,0.0,71
+66924,Oman,2021-07-12,Epsilon,0,0.0,7
+66948,Oman,2021-09-06,Epsilon,0,0.0,1
+66972,Oman,2021-12-13,Epsilon,0,0.0,8
+66996,Oman,2021-12-27,Epsilon,0,0.0,1
+67020,Pakistan,2020-05-11,Epsilon,0,0.0,3
+67044,Pakistan,2020-05-25,Epsilon,0,0.0,10
+67068,Pakistan,2020-06-08,Epsilon,0,0.0,24
+67092,Pakistan,2020-06-22,Epsilon,0,0.0,8
+67116,Pakistan,2020-07-06,Epsilon,0,0.0,5
+67140,Pakistan,2020-07-20,Epsilon,0,0.0,6
+67164,Pakistan,2020-08-17,Epsilon,0,0.0,10
+67188,Pakistan,2020-09-14,Epsilon,0,0.0,3
+67212,Pakistan,2020-10-12,Epsilon,0,0.0,8
+67236,Pakistan,2020-10-26,Epsilon,0,0.0,1
+67260,Pakistan,2020-11-09,Epsilon,0,0.0,1
+67284,Pakistan,2020-11-23,Epsilon,0,0.0,8
+67308,Pakistan,2020-12-07,Epsilon,0,0.0,20
+67332,Pakistan,2020-12-21,Epsilon,0,0.0,26
+67356,Pakistan,2021-01-04,Epsilon,0,0.0,14
+67380,Pakistan,2021-01-11,Epsilon,0,0.0,7
+67404,Pakistan,2021-01-25,Epsilon,0,0.0,3
+67428,Pakistan,2021-02-08,Epsilon,0,0.0,4
+67452,Pakistan,2021-02-22,Epsilon,0,0.0,3
+67476,Pakistan,2021-03-08,Epsilon,0,0.0,7
+67500,Pakistan,2021-03-22,Epsilon,0,0.0,31
+67524,Pakistan,2021-04-05,Epsilon,0,0.0,6
+67548,Pakistan,2021-04-19,Epsilon,0,0.0,138
+67572,Pakistan,2021-05-03,Epsilon,0,0.0,53
+67596,Pakistan,2021-05-17,Epsilon,0,0.0,30
+67620,Pakistan,2021-05-31,Epsilon,0,0.0,80
+67644,Pakistan,2021-06-14,Epsilon,0,0.0,195
+67668,Pakistan,2021-06-28,Epsilon,0,0.0,54
+67692,Pakistan,2021-07-12,Epsilon,0,0.0,59
+67716,Pakistan,2021-07-26,Epsilon,0,0.0,67
+67740,Pakistan,2021-08-09,Epsilon,0,0.0,121
+67764,Pakistan,2021-08-23,Epsilon,0,0.0,108
+67788,Pakistan,2021-09-06,Epsilon,0,0.0,176
+67812,Pakistan,2021-09-20,Epsilon,0,0.0,65
+67836,Pakistan,2021-10-04,Epsilon,0,0.0,26
+67860,Pakistan,2021-10-18,Epsilon,0,0.0,51
+67884,Pakistan,2021-11-01,Epsilon,0,0.0,40
+67908,Pakistan,2021-11-15,Epsilon,0,0.0,41
+67932,Pakistan,2021-11-29,Epsilon,0,0.0,10
+67956,Pakistan,2021-12-13,Epsilon,0,0.0,25
+67980,Pakistan,2021-12-27,Epsilon,0,0.0,19
+68004,Pakistan,2022-01-05,Epsilon,0,0.0,6
+68028,Papua New Guinea,2020-07-20,Epsilon,0,0.0,4
+68052,Papua New Guinea,2020-08-03,Epsilon,0,0.0,34
+68076,Papua New Guinea,2020-08-17,Epsilon,0,0.0,55
+68100,Papua New Guinea,2020-08-31,Epsilon,0,0.0,7
+68124,Papua New Guinea,2020-09-14,Epsilon,0,0.0,2
+68148,Papua New Guinea,2020-09-28,Epsilon,0,0.0,2
+68172,Papua New Guinea,2020-10-12,Epsilon,0,0.0,6
+68196,Papua New Guinea,2020-12-07,Epsilon,0,0.0,22
+68220,Papua New Guinea,2020-12-21,Epsilon,0,0.0,9
+68244,Papua New Guinea,2021-01-04,Epsilon,0,0.0,11
+68268,Papua New Guinea,2021-01-11,Epsilon,0,0.0,3
+68292,Papua New Guinea,2021-01-25,Epsilon,0,0.0,2
+68316,Papua New Guinea,2021-02-08,Epsilon,0,0.0,11
+68340,Papua New Guinea,2021-02-22,Epsilon,0,0.0,60
+68364,Papua New Guinea,2021-03-08,Epsilon,0,0.0,190
+68388,Papua New Guinea,2021-03-22,Epsilon,0,0.0,368
+68412,Papua New Guinea,2021-04-05,Epsilon,0,0.0,598
+68436,Papua New Guinea,2021-04-19,Epsilon,0,0.0,100
+68460,Papua New Guinea,2021-05-03,Epsilon,0,0.0,128
+68484,Papua New Guinea,2021-05-17,Epsilon,0,0.0,193
+68508,Papua New Guinea,2021-05-31,Epsilon,0,0.0,18
+68532,Papua New Guinea,2021-06-14,Epsilon,0,0.0,14
+68556,Papua New Guinea,2021-06-28,Epsilon,0,0.0,3
+68580,Papua New Guinea,2021-07-12,Epsilon,0,0.0,16
+68604,Papua New Guinea,2021-07-26,Epsilon,0,0.0,19
+68628,Papua New Guinea,2021-08-09,Epsilon,0,0.0,19
+68652,Papua New Guinea,2021-08-23,Epsilon,0,0.0,106
+68676,Papua New Guinea,2021-09-06,Epsilon,0,0.0,385
+68700,Papua New Guinea,2021-09-20,Epsilon,0,0.0,214
+68724,Papua New Guinea,2021-10-04,Epsilon,0,0.0,368
+68748,Papua New Guinea,2021-10-18,Epsilon,0,0.0,242
+68772,Papua New Guinea,2021-11-01,Epsilon,0,0.0,116
+68796,Papua New Guinea,2021-11-15,Epsilon,0,0.0,34
+68820,Papua New Guinea,2021-11-29,Epsilon,0,0.0,7
+68844,Paraguay,2020-05-11,Epsilon,0,0.0,5
+68868,Paraguay,2020-05-25,Epsilon,0,0.0,2
+68892,Paraguay,2020-06-08,Epsilon,0,0.0,3
+68916,Paraguay,2020-06-22,Epsilon,0,0.0,1
+68940,Paraguay,2020-07-06,Epsilon,0,0.0,5
+68964,Paraguay,2020-07-20,Epsilon,0,0.0,5
+68988,Paraguay,2020-08-03,Epsilon,0,0.0,2
+69012,Paraguay,2020-08-17,Epsilon,0,0.0,14
+69036,Paraguay,2020-08-31,Epsilon,0,0.0,2
+69060,Paraguay,2020-09-14,Epsilon,0,0.0,7
+69084,Paraguay,2020-09-28,Epsilon,0,0.0,1
+69108,Paraguay,2020-10-12,Epsilon,0,0.0,3
+69132,Paraguay,2020-11-09,Epsilon,0,0.0,1
+69156,Paraguay,2020-11-23,Epsilon,0,0.0,1
+69180,Paraguay,2020-12-07,Epsilon,0,0.0,2
+69204,Paraguay,2020-12-21,Epsilon,0,0.0,14
+69228,Paraguay,2021-01-04,Epsilon,0,0.0,3
+69252,Paraguay,2021-01-11,Epsilon,0,0.0,15
+69276,Paraguay,2021-01-25,Epsilon,0,0.0,9
+69300,Paraguay,2021-02-08,Epsilon,0,0.0,66
+69324,Paraguay,2021-02-22,Epsilon,0,0.0,61
+69348,Paraguay,2021-03-08,Epsilon,0,0.0,70
+69372,Paraguay,2021-03-22,Epsilon,0,0.0,55
+69396,Paraguay,2021-04-05,Epsilon,0,0.0,14
+69420,Paraguay,2021-04-19,Epsilon,0,0.0,31
+69444,Paraguay,2021-05-03,Epsilon,0,0.0,20
+69468,Paraguay,2021-05-17,Epsilon,0,0.0,26
+69492,Paraguay,2021-05-31,Epsilon,0,0.0,14
+69516,Paraguay,2021-06-14,Epsilon,0,0.0,41
+69540,Paraguay,2021-06-28,Epsilon,0,0.0,18
+69564,Paraguay,2021-07-12,Epsilon,0,0.0,59
+69588,Paraguay,2021-07-26,Epsilon,0,0.0,25
+69612,Paraguay,2021-08-09,Epsilon,0,0.0,64
+69636,Paraguay,2021-08-23,Epsilon,0,0.0,60
+69660,Paraguay,2021-09-06,Epsilon,0,0.0,78
+69684,Paraguay,2021-09-20,Epsilon,0,0.0,26
+69708,Paraguay,2021-10-04,Epsilon,0,0.0,33
+69732,Paraguay,2021-10-18,Epsilon,0,0.0,9
+69756,Paraguay,2021-11-01,Epsilon,0,0.0,14
+69780,Peru,2020-05-11,Epsilon,0,0.0,49
+69804,Peru,2020-05-25,Epsilon,0,0.0,50
+69828,Peru,2020-06-08,Epsilon,0,0.0,5
+69852,Peru,2020-06-22,Epsilon,0,0.0,92
+69876,Peru,2020-07-06,Epsilon,0,0.0,35
+69900,Peru,2020-07-20,Epsilon,0,0.0,10
+69924,Peru,2020-08-03,Epsilon,0,0.0,12
+69948,Peru,2020-08-17,Epsilon,0,0.0,49
+69972,Peru,2020-08-31,Epsilon,0,0.0,105
+69996,Peru,2020-09-14,Epsilon,0,0.0,44
+70020,Peru,2020-09-28,Epsilon,0,0.0,33
+70044,Peru,2020-10-12,Epsilon,0,0.0,8
+70068,Peru,2020-10-26,Epsilon,0,0.0,128
+70092,Peru,2020-11-09,Epsilon,0,0.0,3
+70116,Peru,2020-11-23,Epsilon,0,0.0,32
+70140,Peru,2020-12-07,Epsilon,0,0.0,33
+70164,Peru,2020-12-21,Epsilon,0,0.0,130
+70188,Peru,2021-01-04,Epsilon,0,0.0,109
+70212,Peru,2021-01-11,Epsilon,0,0.0,29
+70236,Peru,2021-01-25,Epsilon,0,0.0,123
+70260,Peru,2021-02-08,Epsilon,1,1.1,91
+70284,Peru,2021-02-22,Epsilon,0,0.0,120
+70308,Peru,2021-03-08,Epsilon,2,1.29,155
+70332,Peru,2021-03-22,Epsilon,0,0.0,238
+70356,Peru,2021-04-05,Epsilon,0,0.0,190
+70380,Peru,2021-04-19,Epsilon,0,0.0,523
+70404,Peru,2021-05-03,Epsilon,0,0.0,321
+70428,Peru,2021-05-17,Epsilon,0,0.0,325
+70452,Peru,2021-05-31,Epsilon,0,0.0,284
+70476,Peru,2021-06-14,Epsilon,0,0.0,803
+70500,Peru,2021-06-28,Epsilon,0,0.0,496
+70524,Peru,2021-07-12,Epsilon,0,0.0,467
+70548,Peru,2021-07-26,Epsilon,0,0.0,586
+70572,Peru,2021-08-09,Epsilon,0,0.0,507
+70596,Peru,2021-08-23,Epsilon,0,0.0,645
+70620,Peru,2021-09-06,Epsilon,0,0.0,603
+70644,Peru,2021-09-20,Epsilon,0,0.0,782
+70668,Peru,2021-10-04,Epsilon,0,0.0,819
+70692,Peru,2021-10-18,Epsilon,0,0.0,805
+70716,Peru,2021-11-01,Epsilon,0,0.0,721
+70740,Peru,2021-11-15,Epsilon,0,0.0,858
+70764,Peru,2021-11-29,Epsilon,0,0.0,717
+70788,Peru,2021-12-13,Epsilon,0,0.0,65
+70812,Peru,2021-12-27,Epsilon,0,0.0,10
+70836,Philippines,2020-06-08,Epsilon,0,0.0,1
+70860,Philippines,2020-06-22,Epsilon,0,0.0,5
+70884,Philippines,2020-07-06,Epsilon,0,0.0,9
+70908,Philippines,2020-07-20,Epsilon,0,0.0,4
+70932,Philippines,2020-09-14,Epsilon,0,0.0,2
+70956,Philippines,2020-09-28,Epsilon,0,0.0,3
+70980,Philippines,2020-10-12,Epsilon,0,0.0,1
+71004,Philippines,2020-10-26,Epsilon,0,0.0,3
+71028,Philippines,2020-11-09,Epsilon,0,0.0,141
+71052,Philippines,2020-11-23,Epsilon,0,0.0,178
+71076,Philippines,2020-12-07,Epsilon,0,0.0,233
+71100,Philippines,2020-12-21,Epsilon,0,0.0,298
+71124,Philippines,2021-01-04,Epsilon,0,0.0,238
+71148,Philippines,2021-01-11,Epsilon,0,0.0,340
+71172,Philippines,2021-01-25,Epsilon,0,0.0,530
+71196,Philippines,2021-02-08,Epsilon,0,0.0,556
+71220,Philippines,2021-02-22,Epsilon,0,0.0,451
+71244,Philippines,2021-03-08,Epsilon,0,0.0,303
+71268,Philippines,2021-03-22,Epsilon,0,0.0,780
+71292,Philippines,2021-04-05,Epsilon,0,0.0,1016
+71316,Philippines,2021-04-19,Epsilon,0,0.0,386
+71340,Philippines,2021-05-03,Epsilon,0,0.0,394
+71364,Philippines,2021-05-17,Epsilon,0,0.0,343
+71388,Philippines,2021-05-31,Epsilon,0,0.0,331
+71412,Philippines,2021-06-14,Epsilon,0,0.0,575
+71436,Philippines,2021-06-28,Epsilon,0,0.0,836
+71460,Philippines,2021-07-12,Epsilon,0,0.0,886
+71484,Philippines,2021-07-26,Epsilon,0,0.0,1114
+71508,Philippines,2021-08-09,Epsilon,0,0.0,1400
+71532,Philippines,2021-08-23,Epsilon,0,0.0,1119
+71556,Philippines,2021-09-06,Epsilon,0,0.0,262
+71580,Poland,2020-05-11,Epsilon,0,0.0,59
+71604,Poland,2020-05-25,Epsilon,0,0.0,26
+71628,Poland,2020-06-08,Epsilon,0,0.0,23
+71652,Poland,2020-06-22,Epsilon,0,0.0,4
+71676,Poland,2020-08-31,Epsilon,0,0.0,3
+71700,Poland,2020-09-14,Epsilon,0,0.0,6
+71724,Poland,2020-09-28,Epsilon,0,0.0,6
+71748,Poland,2020-10-12,Epsilon,0,0.0,2
+71772,Poland,2020-10-26,Epsilon,0,0.0,1
+71796,Poland,2020-11-09,Epsilon,0,0.0,6
+71820,Poland,2020-11-23,Epsilon,0,0.0,16
+71844,Poland,2020-12-07,Epsilon,0,0.0,27
+71868,Poland,2020-12-21,Epsilon,0,0.0,53
+71892,Poland,2021-01-04,Epsilon,0,0.0,120
+71916,Poland,2021-01-11,Epsilon,0,0.0,56
+71940,Poland,2021-01-25,Epsilon,0,0.0,259
+71964,Poland,2021-02-08,Epsilon,0,0.0,379
+71988,Poland,2021-02-22,Epsilon,0,0.0,729
+72012,Poland,2021-03-08,Epsilon,0,0.0,1485
+72036,Poland,2021-03-22,Epsilon,0,0.0,2146
+72060,Poland,2021-04-05,Epsilon,0,0.0,1803
+72084,Poland,2021-04-19,Epsilon,0,0.0,2782
+72108,Poland,2021-05-03,Epsilon,0,0.0,2636
+72132,Poland,2021-05-17,Epsilon,0,0.0,2568
+72156,Poland,2021-05-31,Epsilon,0,0.0,1627
+72180,Poland,2021-06-14,Epsilon,0,0.0,621
+72204,Poland,2021-06-28,Epsilon,0,0.0,150
+72228,Poland,2021-07-12,Epsilon,0,0.0,186
+72252,Poland,2021-07-26,Epsilon,0,0.0,243
+72276,Poland,2021-08-09,Epsilon,0,0.0,333
+72300,Poland,2021-08-23,Epsilon,0,0.0,751
+72324,Poland,2021-09-06,Epsilon,0,0.0,935
+72348,Poland,2021-09-20,Epsilon,0,0.0,1424
+72372,Poland,2021-10-04,Epsilon,0,0.0,1724
+72396,Poland,2021-10-18,Epsilon,0,0.0,2282
+72420,Poland,2021-11-01,Epsilon,0,0.0,2785
+72444,Poland,2021-11-15,Epsilon,0,0.0,4144
+72468,Poland,2021-11-29,Epsilon,0,0.0,2239
+72492,Poland,2021-12-13,Epsilon,0,0.0,3352
+72516,Poland,2021-12-27,Epsilon,0,0.0,1269
+72540,Poland,2022-01-05,Epsilon,0,0.0,124
+72564,Portugal,2020-05-11,Epsilon,0,0.0,26
+72588,Portugal,2020-05-25,Epsilon,0,0.0,28
+72612,Portugal,2020-06-08,Epsilon,0,0.0,92
+72636,Portugal,2020-06-22,Epsilon,0,0.0,37
+72660,Portugal,2020-07-06,Epsilon,0,0.0,53
+72684,Portugal,2020-07-20,Epsilon,0,0.0,27
+72708,Portugal,2020-08-31,Epsilon,0,0.0,36
+72732,Portugal,2020-09-14,Epsilon,0,0.0,3
+72756,Portugal,2020-10-26,Epsilon,0,0.0,1
+72780,Portugal,2020-11-09,Epsilon,0,0.0,27
+72804,Portugal,2020-11-23,Epsilon,0,0.0,372
+72828,Portugal,2020-12-07,Epsilon,0,0.0,32
+72852,Portugal,2020-12-21,Epsilon,0,0.0,44
+72876,Portugal,2021-01-04,Epsilon,0,0.0,294
+72900,Portugal,2021-01-11,Epsilon,0,0.0,238
+72924,Portugal,2021-01-25,Epsilon,0,0.0,737
+72948,Portugal,2021-02-08,Epsilon,0,0.0,201
+72972,Portugal,2021-02-22,Epsilon,0,0.0,901
+72996,Portugal,2021-03-08,Epsilon,0,0.0,735
+73020,Portugal,2021-03-22,Epsilon,0,0.0,443
+73044,Portugal,2021-04-05,Epsilon,0,0.0,70
+73068,Portugal,2021-04-19,Epsilon,0,0.0,1586
+73092,Portugal,2021-05-03,Epsilon,0,0.0,98
+73116,Portugal,2021-05-17,Epsilon,0,0.0,1061
+73140,Portugal,2021-05-31,Epsilon,0,0.0,110
+73164,Portugal,2021-06-14,Epsilon,0,0.0,1247
+73188,Portugal,2021-06-28,Epsilon,0,0.0,1170
+73212,Portugal,2021-07-12,Epsilon,0,0.0,1132
+73236,Portugal,2021-07-26,Epsilon,0,0.0,1250
+73260,Portugal,2021-08-09,Epsilon,0,0.0,955
+73284,Portugal,2021-08-23,Epsilon,0,0.0,1002
+73308,Portugal,2021-09-06,Epsilon,0,0.0,1110
+73332,Portugal,2021-09-20,Epsilon,0,0.0,1093
+73356,Portugal,2021-10-04,Epsilon,0,0.0,1041
+73380,Portugal,2021-10-18,Epsilon,0,0.0,891
+73404,Portugal,2021-11-01,Epsilon,0,0.0,1079
+73428,Portugal,2021-11-15,Epsilon,0,0.0,958
+73452,Portugal,2021-11-29,Epsilon,0,0.0,1286
+73476,Portugal,2021-12-13,Epsilon,0,0.0,916
+73500,Portugal,2021-12-27,Epsilon,0,0.0,510
+73524,Qatar,2020-05-11,Epsilon,0,0.0,172
+73548,Qatar,2020-05-25,Epsilon,0,0.0,175
+73572,Qatar,2020-06-08,Epsilon,0,0.0,179
+73596,Qatar,2020-06-22,Epsilon,0,0.0,154
+73620,Qatar,2020-07-06,Epsilon,0,0.0,97
+73644,Qatar,2020-07-20,Epsilon,0,0.0,61
+73668,Qatar,2020-08-03,Epsilon,0,0.0,8
+73692,Qatar,2020-08-17,Epsilon,0,0.0,90
+73716,Qatar,2020-08-31,Epsilon,0,0.0,47
+73740,Qatar,2020-09-14,Epsilon,0,0.0,57
+73764,Qatar,2020-09-28,Epsilon,0,0.0,12
+73788,Qatar,2020-10-12,Epsilon,0,0.0,34
+73812,Qatar,2020-10-26,Epsilon,0,0.0,21
+73836,Qatar,2020-11-09,Epsilon,0,0.0,14
+73860,Qatar,2020-11-23,Epsilon,0,0.0,20
+73884,Qatar,2020-12-07,Epsilon,0,0.0,23
+73908,Qatar,2020-12-21,Epsilon,0,0.0,2
+73932,Qatar,2021-01-04,Epsilon,0,0.0,146
+73956,Qatar,2021-01-11,Epsilon,0,0.0,13
+73980,Qatar,2021-01-25,Epsilon,0,0.0,26
+74004,Qatar,2021-02-08,Epsilon,0,0.0,68
+74028,Qatar,2021-02-22,Epsilon,0,0.0,94
+74052,Qatar,2021-03-08,Epsilon,0,0.0,90
+74076,Qatar,2021-03-22,Epsilon,0,0.0,121
+74100,Qatar,2021-04-05,Epsilon,0,0.0,71
+74124,Qatar,2021-04-19,Epsilon,0,0.0,119
+74148,Qatar,2021-05-03,Epsilon,0,0.0,350
+74172,Qatar,2021-05-17,Epsilon,0,0.0,195
+74196,Qatar,2021-05-31,Epsilon,0,0.0,78
+74220,Qatar,2021-06-14,Epsilon,0,0.0,58
+74244,Qatar,2021-08-09,Epsilon,0,0.0,1
+74268,Qatar,2021-08-23,Epsilon,0,0.0,520
+74292,Qatar,2021-09-06,Epsilon,0,0.0,444
+74316,Qatar,2021-09-20,Epsilon,0,0.0,183
+74340,Qatar,2021-10-04,Epsilon,0,0.0,84
+74364,Qatar,2021-10-18,Epsilon,0,0.0,13
+74388,Qatar,2021-11-01,Epsilon,0,0.0,50
+74412,Qatar,2021-11-15,Epsilon,0,0.0,75
+74436,Qatar,2021-11-29,Epsilon,0,0.0,82
+74460,Romania,2020-05-11,Epsilon,0,0.0,33
+74484,Romania,2020-05-25,Epsilon,0,0.0,18
+74508,Romania,2020-06-08,Epsilon,0,0.0,18
+74532,Romania,2020-06-22,Epsilon,0,0.0,17
+74556,Romania,2020-07-06,Epsilon,0,0.0,10
+74580,Romania,2020-07-20,Epsilon,0,0.0,23
+74604,Romania,2020-08-03,Epsilon,0,0.0,81
+74628,Romania,2020-08-17,Epsilon,0,0.0,15
+74652,Romania,2020-08-31,Epsilon,0,0.0,79
+74676,Romania,2020-09-14,Epsilon,0,0.0,49
+74700,Romania,2020-09-28,Epsilon,0,0.0,63
+74724,Romania,2020-10-12,Epsilon,0,0.0,20
+74748,Romania,2020-10-26,Epsilon,0,0.0,54
+74772,Romania,2020-11-09,Epsilon,0,0.0,84
+74796,Romania,2020-11-23,Epsilon,0,0.0,136
+74820,Romania,2020-12-07,Epsilon,0,0.0,171
+74844,Romania,2020-12-21,Epsilon,0,0.0,101
+74868,Romania,2021-01-04,Epsilon,0,0.0,96
+74892,Romania,2021-01-11,Epsilon,0,0.0,67
+74916,Romania,2021-01-25,Epsilon,0,0.0,92
+74940,Romania,2021-02-08,Epsilon,0,0.0,168
+74964,Romania,2021-02-22,Epsilon,0,0.0,166
+74988,Romania,2021-03-08,Epsilon,0,0.0,269
+75012,Romania,2021-03-22,Epsilon,0,0.0,260
+75036,Romania,2021-04-05,Epsilon,0,0.0,297
+75060,Romania,2021-04-19,Epsilon,0,0.0,186
+75084,Romania,2021-05-03,Epsilon,0,0.0,131
+75108,Romania,2021-05-17,Epsilon,0,0.0,167
+75132,Romania,2021-05-31,Epsilon,0,0.0,152
+75156,Romania,2021-06-14,Epsilon,0,0.0,119
+75180,Romania,2021-06-28,Epsilon,0,0.0,72
+75204,Romania,2021-07-12,Epsilon,0,0.0,58
+75228,Romania,2021-07-26,Epsilon,0,0.0,97
+75252,Romania,2021-08-09,Epsilon,0,0.0,262
+75276,Romania,2021-08-23,Epsilon,0,0.0,281
+75300,Romania,2021-09-06,Epsilon,0,0.0,587
+75324,Romania,2021-09-20,Epsilon,0,0.0,1056
+75348,Romania,2021-10-04,Epsilon,0,0.0,985
+75372,Romania,2021-10-18,Epsilon,0,0.0,884
+75396,Romania,2021-11-01,Epsilon,0,0.0,612
+75420,Romania,2021-11-15,Epsilon,0,0.0,229
+75444,Romania,2021-11-29,Epsilon,0,0.0,132
+75468,Romania,2021-12-13,Epsilon,0,0.0,86
+75492,Romania,2021-12-27,Epsilon,0,0.0,83
+75516,Russia,2020-05-11,Epsilon,0,0.0,65
+75540,Russia,2020-05-25,Epsilon,0,0.0,122
+75564,Russia,2020-06-08,Epsilon,0,0.0,154
+75588,Russia,2020-06-22,Epsilon,0,0.0,63
+75612,Russia,2020-07-06,Epsilon,0,0.0,37
+75636,Russia,2020-07-20,Epsilon,0,0.0,77
+75660,Russia,2020-08-03,Epsilon,0,0.0,53
+75684,Russia,2020-08-17,Epsilon,0,0.0,59
+75708,Russia,2020-08-31,Epsilon,0,0.0,73
+75732,Russia,2020-09-14,Epsilon,0,0.0,134
+75756,Russia,2020-09-28,Epsilon,0,0.0,228
+75780,Russia,2020-10-12,Epsilon,0,0.0,228
+75804,Russia,2020-10-26,Epsilon,0,0.0,104
+75828,Russia,2020-11-09,Epsilon,0,0.0,91
+75852,Russia,2020-11-23,Epsilon,0,0.0,275
+75876,Russia,2020-12-07,Epsilon,0,0.0,145
+75900,Russia,2020-12-21,Epsilon,0,0.0,188
+75924,Russia,2021-01-04,Epsilon,0,0.0,247
+75948,Russia,2021-01-11,Epsilon,0,0.0,48
+75972,Russia,2021-01-25,Epsilon,0,0.0,74
+75996,Russia,2021-02-08,Epsilon,0,0.0,19
+76020,Russia,2021-02-22,Epsilon,0,0.0,304
+76044,Russia,2021-03-08,Epsilon,0,0.0,196
+76068,Russia,2021-03-22,Epsilon,0,0.0,263
+76092,Russia,2021-04-05,Epsilon,0,0.0,220
+76116,Russia,2021-04-19,Epsilon,0,0.0,313
+76140,Russia,2021-05-03,Epsilon,0,0.0,313
+76164,Russia,2021-05-17,Epsilon,0,0.0,291
+76188,Russia,2021-05-31,Epsilon,0,0.0,511
+76212,Russia,2021-06-14,Epsilon,0,0.0,904
+76236,Russia,2021-06-28,Epsilon,0,0.0,543
+76260,Russia,2021-07-12,Epsilon,0,0.0,665
+76284,Russia,2021-07-26,Epsilon,0,0.0,214
+76308,Russia,2021-08-09,Epsilon,0,0.0,256
+76332,Russia,2021-08-23,Epsilon,0,0.0,227
+76356,Russia,2021-09-06,Epsilon,0,0.0,277
+76380,Russia,2021-09-20,Epsilon,0,0.0,380
+76404,Russia,2021-10-04,Epsilon,0,0.0,425
+76428,Russia,2021-10-18,Epsilon,0,0.0,707
+76452,Russia,2021-11-01,Epsilon,0,0.0,913
+76476,Russia,2021-11-15,Epsilon,0,0.0,511
+76500,Russia,2021-11-29,Epsilon,0,0.0,316
+76524,Russia,2021-12-13,Epsilon,0,0.0,151
+76548,Russia,2021-12-27,Epsilon,0,0.0,155
+76572,Rwanda,2020-06-08,Epsilon,0,0.0,1
+76596,Rwanda,2020-06-22,Epsilon,0,0.0,8
+76620,Rwanda,2020-07-20,Epsilon,0,0.0,4
+76644,Rwanda,2020-08-03,Epsilon,0,0.0,4
+76668,Rwanda,2020-08-17,Epsilon,0,0.0,11
+76692,Rwanda,2020-08-31,Epsilon,0,0.0,59
+76716,Rwanda,2020-09-14,Epsilon,0,0.0,5
+76740,Rwanda,2020-10-26,Epsilon,0,0.0,10
+76764,Rwanda,2020-11-09,Epsilon,0,0.0,8
+76788,Rwanda,2020-12-07,Epsilon,0,0.0,2
+76812,Rwanda,2020-12-21,Epsilon,0,0.0,47
+76836,Rwanda,2021-01-04,Epsilon,0,0.0,25
+76860,Rwanda,2021-01-11,Epsilon,0,0.0,19
+76884,Rwanda,2021-01-25,Epsilon,0,0.0,56
+76908,Rwanda,2021-02-08,Epsilon,0,0.0,21
+76932,Rwanda,2021-02-22,Epsilon,0,0.0,21
+76956,Rwanda,2021-03-08,Epsilon,0,0.0,10
+76980,Rwanda,2021-03-22,Epsilon,0,0.0,4
+77004,Rwanda,2021-04-05,Epsilon,0,0.0,21
+77028,Rwanda,2021-04-19,Epsilon,0,0.0,6
+77052,Rwanda,2021-05-03,Epsilon,0,0.0,5
+77076,Rwanda,2021-05-17,Epsilon,0,0.0,8
+77100,Rwanda,2021-05-31,Epsilon,0,0.0,4
+77124,Rwanda,2021-06-14,Epsilon,0,0.0,6
+77148,Rwanda,2021-06-28,Epsilon,0,0.0,119
+77172,Rwanda,2021-07-12,Epsilon,0,0.0,59
+77196,Rwanda,2021-07-26,Epsilon,0,0.0,21
+77220,Rwanda,2021-08-09,Epsilon,0,0.0,56
+77244,Rwanda,2021-08-23,Epsilon,0,0.0,12
+77268,Rwanda,2021-09-06,Epsilon,0,0.0,40
+77292,Rwanda,2021-09-20,Epsilon,0,0.0,5
+77316,Rwanda,2021-10-04,Epsilon,0,0.0,5
+77340,Rwanda,2021-11-01,Epsilon,0,0.0,7
+77364,Senegal,2020-06-08,Epsilon,0,0.0,13
+77388,Senegal,2020-06-22,Epsilon,0,0.0,62
+77412,Senegal,2020-07-06,Epsilon,0,0.0,8
+77436,Senegal,2020-07-20,Epsilon,0,0.0,12
+77460,Senegal,2020-08-03,Epsilon,0,0.0,19
+77484,Senegal,2020-08-17,Epsilon,0,0.0,20
+77508,Senegal,2020-08-31,Epsilon,0,0.0,5
+77532,Senegal,2020-09-14,Epsilon,0,0.0,4
+77556,Senegal,2020-09-28,Epsilon,0,0.0,3
+77580,Senegal,2020-10-26,Epsilon,0,0.0,1
+77604,Senegal,2020-12-21,Epsilon,0,0.0,12
+77628,Senegal,2021-01-04,Epsilon,0,0.0,83
+77652,Senegal,2021-01-11,Epsilon,0,0.0,50
+77676,Senegal,2021-01-25,Epsilon,0,0.0,43
+77700,Senegal,2021-02-08,Epsilon,0,0.0,37
+77724,Senegal,2021-02-22,Epsilon,0,0.0,7
+77748,Senegal,2021-03-08,Epsilon,0,0.0,10
+77772,Senegal,2021-03-22,Epsilon,0,0.0,5
+77796,Senegal,2021-04-05,Epsilon,0,0.0,17
+77820,Senegal,2021-04-19,Epsilon,0,0.0,5
+77844,Senegal,2021-05-03,Epsilon,0,0.0,2
+77868,Senegal,2021-05-17,Epsilon,0,0.0,6
+77892,Senegal,2021-05-31,Epsilon,0,0.0,3
+77916,Senegal,2021-06-14,Epsilon,0,0.0,50
+77940,Senegal,2021-06-28,Epsilon,0,0.0,1
+77964,Senegal,2021-07-12,Epsilon,0,0.0,3
+77988,Senegal,2021-07-26,Epsilon,0,0.0,47
+78012,Senegal,2021-08-09,Epsilon,0,0.0,43
+78036,Senegal,2021-08-23,Epsilon,0,0.0,16
+78060,Senegal,2021-09-06,Epsilon,0,0.0,23
+78084,Senegal,2021-09-20,Epsilon,0,0.0,1
+78108,Senegal,2021-10-04,Epsilon,0,0.0,5
+78132,Senegal,2021-10-18,Epsilon,0,0.0,5
+78156,Senegal,2021-11-01,Epsilon,0,0.0,17
+78180,Senegal,2021-11-15,Epsilon,0,0.0,9
+78204,Senegal,2021-11-29,Epsilon,0,0.0,6
+78228,Senegal,2021-12-13,Epsilon,0,0.0,22
+78252,Senegal,2021-12-27,Epsilon,0,0.0,20
+78276,Serbia,2020-05-11,Epsilon,0,0.0,30
+78300,Serbia,2020-05-25,Epsilon,0,0.0,8
+78324,Serbia,2020-06-08,Epsilon,0,0.0,3
+78348,Serbia,2020-06-22,Epsilon,0,0.0,11
+78372,Serbia,2020-07-06,Epsilon,0,0.0,13
+78396,Serbia,2020-07-20,Epsilon,0,0.0,27
+78420,Serbia,2020-08-03,Epsilon,0,0.0,32
+78444,Serbia,2020-08-17,Epsilon,0,0.0,21
+78468,Serbia,2020-08-31,Epsilon,0,0.0,3
+78492,Serbia,2020-09-14,Epsilon,0,0.0,1
+78516,Serbia,2020-09-28,Epsilon,0,0.0,14
+78540,Serbia,2020-10-12,Epsilon,0,0.0,30
+78564,Serbia,2020-10-26,Epsilon,0,0.0,18
+78588,Serbia,2020-11-09,Epsilon,0,0.0,7
+78612,Serbia,2020-11-23,Epsilon,0,0.0,14
+78636,Serbia,2020-12-07,Epsilon,0,0.0,6
+78660,Serbia,2020-12-21,Epsilon,0,0.0,9
+78684,Serbia,2021-01-04,Epsilon,0,0.0,16
+78708,Serbia,2021-01-11,Epsilon,0,0.0,14
+78732,Serbia,2021-01-25,Epsilon,0,0.0,6
+78756,Serbia,2021-02-08,Epsilon,0,0.0,14
+78780,Serbia,2021-02-22,Epsilon,0,0.0,12
+78804,Serbia,2021-03-08,Epsilon,0,0.0,17
+78828,Serbia,2021-03-22,Epsilon,0,0.0,11
+78852,Serbia,2021-04-05,Epsilon,0,0.0,1
+78876,Serbia,2021-04-19,Epsilon,0,0.0,8
+78900,Serbia,2021-05-03,Epsilon,0,0.0,14
+78924,Serbia,2021-05-17,Epsilon,0,0.0,29
+78948,Serbia,2021-05-31,Epsilon,0,0.0,18
+78972,Serbia,2021-06-14,Epsilon,0,0.0,5
+78996,Serbia,2021-06-28,Epsilon,0,0.0,1
+79020,Serbia,2021-07-12,Epsilon,0,0.0,15
+79044,Serbia,2021-07-26,Epsilon,0,0.0,15
+79068,Serbia,2021-08-09,Epsilon,0,0.0,5
+79092,Serbia,2021-08-23,Epsilon,0,0.0,2
+79116,Serbia,2021-09-06,Epsilon,0,0.0,12
+79140,Serbia,2021-09-20,Epsilon,0,0.0,1
+79164,Serbia,2021-10-18,Epsilon,0,0.0,14
+79188,Seychelles,2020-07-06,Epsilon,0,0.0,2
+79212,Seychelles,2020-09-28,Epsilon,0,0.0,1
+79236,Seychelles,2020-10-12,Epsilon,0,0.0,1
+79260,Seychelles,2021-01-04,Epsilon,0,0.0,1
+79284,Seychelles,2021-01-11,Epsilon,0,0.0,4
+79308,Seychelles,2021-02-08,Epsilon,0,0.0,2
+79332,Seychelles,2021-02-22,Epsilon,0,0.0,1
+79356,Seychelles,2021-04-19,Epsilon,0,0.0,1
+79380,Seychelles,2021-05-03,Epsilon,0,0.0,3
+79404,Seychelles,2021-05-17,Epsilon,0,0.0,2
+79428,Seychelles,2021-05-31,Epsilon,0,0.0,44
+79452,Seychelles,2021-06-14,Epsilon,0,0.0,54
+79476,Seychelles,2021-06-28,Epsilon,0,0.0,15
+79500,Seychelles,2021-07-12,Epsilon,0,0.0,4
+79524,Seychelles,2021-07-26,Epsilon,0,0.0,10
+79548,Seychelles,2021-08-09,Epsilon,0,0.0,23
+79572,Seychelles,2021-08-23,Epsilon,0,0.0,97
+79596,Seychelles,2021-09-06,Epsilon,0,0.0,57
+79620,Seychelles,2021-09-20,Epsilon,0,0.0,83
+79644,Seychelles,2021-10-04,Epsilon,0,0.0,59
+79668,Seychelles,2021-10-18,Epsilon,0,0.0,58
+79692,Seychelles,2021-11-01,Epsilon,0,0.0,21
+79716,Singapore,2020-05-11,Epsilon,0,0.0,112
+79740,Singapore,2020-05-25,Epsilon,0,0.0,72
+79764,Singapore,2020-06-08,Epsilon,0,0.0,61
+79788,Singapore,2020-06-22,Epsilon,0,0.0,48
+79812,Singapore,2020-07-06,Epsilon,0,0.0,74
+79836,Singapore,2020-07-20,Epsilon,0,0.0,73
+79860,Singapore,2020-08-03,Epsilon,0,0.0,22
+79884,Singapore,2020-08-17,Epsilon,0,0.0,18
+79908,Singapore,2020-08-31,Epsilon,0,0.0,28
+79932,Singapore,2020-09-14,Epsilon,0,0.0,24
+79956,Singapore,2020-09-28,Epsilon,0,0.0,11
+79980,Singapore,2020-10-12,Epsilon,0,0.0,27
+80004,Singapore,2020-10-26,Epsilon,0,0.0,24
+80028,Singapore,2020-11-09,Epsilon,0,0.0,23
+80052,Singapore,2020-11-23,Epsilon,0,0.0,26
+80076,Singapore,2020-12-07,Epsilon,0,0.0,24
+80100,Singapore,2020-12-21,Epsilon,0,0.0,36
+80124,Singapore,2021-01-04,Epsilon,1,1.64,61
+80148,Singapore,2021-01-11,Epsilon,0,0.0,37
+80172,Singapore,2021-01-25,Epsilon,0,0.0,67
+80196,Singapore,2021-02-08,Epsilon,0,0.0,74
+80220,Singapore,2021-02-22,Epsilon,2,4.76,42
+80244,Singapore,2021-03-08,Epsilon,0,0.0,31
+80268,Singapore,2021-03-22,Epsilon,0,0.0,45
+80292,Singapore,2021-04-05,Epsilon,1,0.61,164
+80316,Singapore,2021-04-19,Epsilon,0,0.0,188
+80340,Singapore,2021-05-03,Epsilon,0,0.0,191
+80364,Singapore,2021-05-17,Epsilon,0,0.0,220
+80388,Singapore,2021-05-31,Epsilon,0,0.0,330
+80412,Singapore,2021-06-14,Epsilon,0,0.0,178
+80436,Singapore,2021-06-28,Epsilon,0,0.0,217
+80460,Singapore,2021-07-12,Epsilon,0,0.0,75
+80484,Singapore,2021-07-26,Epsilon,0,0.0,836
+80508,Singapore,2021-08-09,Epsilon,0,0.0,864
+80532,Singapore,2021-08-23,Epsilon,0,0.0,643
+80556,Singapore,2021-09-06,Epsilon,0,0.0,1007
+80580,Singapore,2021-09-20,Epsilon,0,0.0,700
+80604,Singapore,2021-10-04,Epsilon,0,0.0,611
+80628,Singapore,2021-10-18,Epsilon,0,0.0,571
+80652,Singapore,2021-11-01,Epsilon,0,0.0,537
+80676,Singapore,2021-11-15,Epsilon,0,0.0,542
+80700,Singapore,2021-11-29,Epsilon,0,0.0,466
+80724,Singapore,2021-12-13,Epsilon,0,0.0,424
+80748,Singapore,2021-12-27,Epsilon,0,0.0,499
+80772,Sint Maarten (Dutch part),2021-01-25,Epsilon,0,0.0,10
+80796,Sint Maarten (Dutch part),2021-02-22,Epsilon,1,2.5,40
+80820,Sint Maarten (Dutch part),2021-03-08,Epsilon,0,0.0,5
+80844,Sint Maarten (Dutch part),2021-03-22,Epsilon,0,0.0,7
+80868,Sint Maarten (Dutch part),2021-04-05,Epsilon,0,0.0,40
+80892,Sint Maarten (Dutch part),2021-04-19,Epsilon,0,0.0,20
+80916,Sint Maarten (Dutch part),2021-05-03,Epsilon,0,0.0,33
+80940,Sint Maarten (Dutch part),2021-05-17,Epsilon,0,0.0,28
+80964,Sint Maarten (Dutch part),2021-05-31,Epsilon,0,0.0,111
+80988,Sint Maarten (Dutch part),2021-06-14,Epsilon,0,0.0,51
+81012,Sint Maarten (Dutch part),2021-06-28,Epsilon,0,0.0,68
+81036,Sint Maarten (Dutch part),2021-07-12,Epsilon,0,0.0,39
+81060,Sint Maarten (Dutch part),2021-07-26,Epsilon,0,0.0,67
+81084,Sint Maarten (Dutch part),2021-08-09,Epsilon,0,0.0,147
+81108,Sint Maarten (Dutch part),2021-08-23,Epsilon,0,0.0,425
+81132,Sint Maarten (Dutch part),2021-09-06,Epsilon,0,0.0,284
+81156,Sint Maarten (Dutch part),2021-09-20,Epsilon,0,0.0,148
+81180,Sint Maarten (Dutch part),2021-10-04,Epsilon,0,0.0,153
+81204,Sint Maarten (Dutch part),2021-10-18,Epsilon,0,0.0,34
+81228,Sint Maarten (Dutch part),2021-11-01,Epsilon,0,0.0,39
+81252,Sint Maarten (Dutch part),2021-11-15,Epsilon,0,0.0,17
+81276,Sint Maarten (Dutch part),2021-11-29,Epsilon,0,0.0,20
+81300,Sint Maarten (Dutch part),2021-12-13,Epsilon,0,0.0,12
+81324,Slovakia,2020-05-11,Epsilon,0,0.0,3
+81348,Slovakia,2020-05-25,Epsilon,0,0.0,1
+81372,Slovakia,2020-07-06,Epsilon,0,0.0,2
+81396,Slovakia,2020-07-20,Epsilon,0,0.0,1
+81420,Slovakia,2020-08-03,Epsilon,0,0.0,1
+81444,Slovakia,2020-08-17,Epsilon,0,0.0,2
+81468,Slovakia,2020-08-31,Epsilon,0,0.0,1
+81492,Slovakia,2020-09-14,Epsilon,0,0.0,4
+81516,Slovakia,2020-09-28,Epsilon,0,0.0,6
+81540,Slovakia,2020-10-12,Epsilon,0,0.0,1
+81564,Slovakia,2020-10-26,Epsilon,0,0.0,1
+81588,Slovakia,2020-11-09,Epsilon,0,0.0,1
+81612,Slovakia,2020-11-23,Epsilon,0,0.0,15
+81636,Slovakia,2020-12-07,Epsilon,0,0.0,55
+81660,Slovakia,2020-12-21,Epsilon,0,0.0,1
+81684,Slovakia,2021-01-04,Epsilon,0,0.0,96
+81708,Slovakia,2021-01-11,Epsilon,0,0.0,52
+81732,Slovakia,2021-01-25,Epsilon,0,0.0,30
+81756,Slovakia,2021-02-08,Epsilon,0,0.0,117
+81780,Slovakia,2021-02-22,Epsilon,0,0.0,62
+81804,Slovakia,2021-03-08,Epsilon,0,0.0,437
+81828,Slovakia,2021-03-22,Epsilon,0,0.0,583
+81852,Slovakia,2021-04-05,Epsilon,0,0.0,660
+81876,Slovakia,2021-04-19,Epsilon,0,0.0,616
+81900,Slovakia,2021-05-03,Epsilon,0,0.0,337
+81924,Slovakia,2021-05-17,Epsilon,0,0.0,338
+81948,Slovakia,2021-05-31,Epsilon,0,0.0,691
+81972,Slovakia,2021-06-14,Epsilon,0,0.0,594
+81996,Slovakia,2021-06-28,Epsilon,0,0.0,249
+82020,Slovakia,2021-07-12,Epsilon,0,0.0,242
+82044,Slovakia,2021-07-26,Epsilon,0,0.0,271
+82068,Slovakia,2021-08-09,Epsilon,0,0.0,372
+82092,Slovakia,2021-08-23,Epsilon,0,0.0,619
+82116,Slovakia,2021-09-06,Epsilon,0,0.0,782
+82140,Slovakia,2021-09-20,Epsilon,0,0.0,1205
+82164,Slovakia,2021-10-04,Epsilon,0,0.0,845
+82188,Slovakia,2021-10-18,Epsilon,0,0.0,1710
+82212,Slovakia,2021-11-01,Epsilon,0,0.0,1733
+82236,Slovakia,2021-11-15,Epsilon,0,0.0,2290
+82260,Slovakia,2021-11-29,Epsilon,0,0.0,1254
+82284,Slovakia,2021-12-13,Epsilon,0,0.0,1289
+82308,Slovakia,2021-12-27,Epsilon,0,0.0,79
+82332,Slovenia,2020-05-11,Epsilon,0,0.0,4
+82356,Slovenia,2020-06-08,Epsilon,0,0.0,4
+82380,Slovenia,2020-06-22,Epsilon,0,0.0,11
+82404,Slovenia,2020-07-06,Epsilon,0,0.0,52
+82428,Slovenia,2020-07-20,Epsilon,0,0.0,58
+82452,Slovenia,2020-08-03,Epsilon,0,0.0,65
+82476,Slovenia,2020-08-17,Epsilon,0,0.0,76
+82500,Slovenia,2020-08-31,Epsilon,0,0.0,101
+82524,Slovenia,2020-09-14,Epsilon,0,0.0,176
+82548,Slovenia,2020-09-28,Epsilon,0,0.0,168
+82572,Slovenia,2020-10-12,Epsilon,0,0.0,341
+82596,Slovenia,2020-10-26,Epsilon,0,0.0,355
+82620,Slovenia,2020-11-09,Epsilon,0,0.0,889
+82644,Slovenia,2020-11-23,Epsilon,0,0.0,131
+82668,Slovenia,2020-12-07,Epsilon,0,0.0,968
+82692,Slovenia,2020-12-21,Epsilon,0,0.0,888
+82716,Slovenia,2021-01-04,Epsilon,0,0.0,442
+82740,Slovenia,2021-01-11,Epsilon,0,0.0,657
+82764,Slovenia,2021-01-25,Epsilon,0,0.0,362
+82788,Slovenia,2021-02-08,Epsilon,0,0.0,1577
+82812,Slovenia,2021-02-22,Epsilon,0,0.0,1288
+82836,Slovenia,2021-03-08,Epsilon,0,0.0,1458
+82860,Slovenia,2021-03-22,Epsilon,0,0.0,1303
+82884,Slovenia,2021-04-05,Epsilon,0,0.0,1656
+82908,Slovenia,2021-04-19,Epsilon,0,0.0,2046
+82932,Slovenia,2021-05-03,Epsilon,0,0.0,1979
+82956,Slovenia,2021-05-17,Epsilon,0,0.0,1267
+82980,Slovenia,2021-05-31,Epsilon,0,0.0,699
+83004,Slovenia,2021-06-14,Epsilon,0,0.0,658
+83028,Slovenia,2021-06-28,Epsilon,0,0.0,385
+83052,Slovenia,2021-07-12,Epsilon,0,0.0,474
+83076,Slovenia,2021-07-26,Epsilon,0,0.0,749
+83100,Slovenia,2021-08-09,Epsilon,0,0.0,1341
+83124,Slovenia,2021-08-23,Epsilon,0,0.0,2022
+83148,Slovenia,2021-09-06,Epsilon,0,0.0,2598
+83172,Slovenia,2021-09-20,Epsilon,0,0.0,2162
+83196,Slovenia,2021-10-04,Epsilon,0,0.0,2328
+83220,Slovenia,2021-10-18,Epsilon,0,0.0,2736
+83244,Slovenia,2021-11-01,Epsilon,0,0.0,2786
+83268,Slovenia,2021-11-15,Epsilon,0,0.0,2276
+83292,Slovenia,2021-11-29,Epsilon,0,0.0,2620
+83316,Slovenia,2021-12-13,Epsilon,0,0.0,1520
+83340,South Africa,2020-05-11,Epsilon,0,0.0,135
+83364,South Africa,2020-05-25,Epsilon,0,0.0,93
+83388,South Africa,2020-06-08,Epsilon,0,0.0,105
+83412,South Africa,2020-06-22,Epsilon,0,0.0,190
+83436,South Africa,2020-07-06,Epsilon,0,0.0,290
+83460,South Africa,2020-07-20,Epsilon,0,0.0,470
+83484,South Africa,2020-08-03,Epsilon,0,0.0,551
+83508,South Africa,2020-08-17,Epsilon,0,0.0,220
+83532,South Africa,2020-08-31,Epsilon,0,0.0,129
+83556,South Africa,2020-09-14,Epsilon,0,0.0,356
+83580,South Africa,2020-09-28,Epsilon,0,0.0,223
+83604,South Africa,2020-10-12,Epsilon,0,0.0,304
+83628,South Africa,2020-10-26,Epsilon,0,0.0,358
+83652,South Africa,2020-11-09,Epsilon,0,0.0,478
+83676,South Africa,2020-11-23,Epsilon,0,0.0,418
+83700,South Africa,2020-12-07,Epsilon,0,0.0,488
+83724,South Africa,2020-12-21,Epsilon,0,0.0,546
+83748,South Africa,2021-01-04,Epsilon,0,0.0,874
+83772,South Africa,2021-01-11,Epsilon,0,0.0,668
+83796,South Africa,2021-01-25,Epsilon,0,0.0,566
+83820,South Africa,2021-02-08,Epsilon,0,0.0,393
+83844,South Africa,2021-02-22,Epsilon,0,0.0,296
+83868,South Africa,2021-03-08,Epsilon,0,0.0,225
+83892,South Africa,2021-03-22,Epsilon,0,0.0,448
+83916,South Africa,2021-04-05,Epsilon,0,0.0,324
+83940,South Africa,2021-04-19,Epsilon,0,0.0,250
+83964,South Africa,2021-05-03,Epsilon,0,0.0,390
+83988,South Africa,2021-05-17,Epsilon,0,0.0,545
+84012,South Africa,2021-05-31,Epsilon,0,0.0,646
+84036,South Africa,2021-06-14,Epsilon,0,0.0,1101
+84060,South Africa,2021-06-28,Epsilon,0,0.0,1661
+84084,South Africa,2021-07-12,Epsilon,0,0.0,2226
+84108,South Africa,2021-07-26,Epsilon,0,0.0,1667
+84132,South Africa,2021-08-09,Epsilon,0,0.0,1601
+84156,South Africa,2021-08-23,Epsilon,0,0.0,1242
+84180,South Africa,2021-09-06,Epsilon,0,0.0,1269
+84204,South Africa,2021-09-20,Epsilon,0,0.0,925
+84228,South Africa,2021-10-04,Epsilon,0,0.0,522
+84252,South Africa,2021-10-18,Epsilon,0,0.0,453
+84276,South Africa,2021-11-01,Epsilon,0,0.0,209
+84300,South Africa,2021-11-15,Epsilon,0,0.0,116
+84324,South Africa,2021-11-29,Epsilon,0,0.0,829
+84348,South Africa,2021-12-13,Epsilon,0,0.0,1121
+84372,South Africa,2021-12-27,Epsilon,0,0.0,65
+84396,South Korea,2020-05-11,Epsilon,0,0.0,48
+84420,South Korea,2020-05-25,Epsilon,0,0.0,64
+84444,South Korea,2020-06-08,Epsilon,0,0.0,165
+84468,South Korea,2020-06-22,Epsilon,0,0.0,108
+84492,South Korea,2020-07-06,Epsilon,0,0.0,159
+84516,South Korea,2020-07-20,Epsilon,0,0.0,110
+84540,South Korea,2020-08-03,Epsilon,0,0.0,98
+84564,South Korea,2020-08-17,Epsilon,0,0.0,123
+84588,South Korea,2020-08-31,Epsilon,0,0.0,176
+84612,South Korea,2020-09-14,Epsilon,0,0.0,64
+84636,South Korea,2020-09-28,Epsilon,0,0.0,63
+84660,South Korea,2020-10-12,Epsilon,0,0.0,57
+84684,South Korea,2020-10-26,Epsilon,0,0.0,84
+84708,South Korea,2020-11-09,Epsilon,0,0.0,77
+84732,South Korea,2020-11-23,Epsilon,0,0.0,171
+84756,South Korea,2020-12-07,Epsilon,0,0.0,160
+84780,South Korea,2020-12-21,Epsilon,7,3.93,178
+84804,South Korea,2021-01-04,Epsilon,7,3.74,187
+84828,South Korea,2021-01-11,Epsilon,4,5.56,72
+84852,South Korea,2021-01-25,Epsilon,6,4.11,146
+84876,South Korea,2021-02-08,Epsilon,8,4.06,197
+84900,South Korea,2021-02-22,Epsilon,16,6.61,242
+84924,South Korea,2021-03-08,Epsilon,6,2.33,258
+84948,South Korea,2021-03-22,Epsilon,1,0.37,271
+84972,South Korea,2021-04-05,Epsilon,15,4.63,324
+84996,South Korea,2021-04-19,Epsilon,19,4.66,408
+85020,South Korea,2021-05-03,Epsilon,22,4.15,530
+85044,South Korea,2021-05-17,Epsilon,2,0.9,223
+85068,South Korea,2021-05-31,Epsilon,0,0.0,210
+85092,South Korea,2021-06-14,Epsilon,0,0.0,473
+85116,South Korea,2021-06-28,Epsilon,1,0.17,575
+85140,South Korea,2021-07-12,Epsilon,0,0.0,715
+85164,South Korea,2021-07-26,Epsilon,0,0.0,1062
+85188,South Korea,2021-08-09,Epsilon,0,0.0,960
+85212,South Korea,2021-08-23,Epsilon,0,0.0,909
+85236,South Korea,2021-09-06,Epsilon,0,0.0,1318
+85260,South Korea,2021-09-20,Epsilon,0,0.0,1216
+85284,South Korea,2021-10-04,Epsilon,0,0.0,943
+85308,South Korea,2021-10-18,Epsilon,0,0.0,1137
+85332,South Korea,2021-11-01,Epsilon,0,0.0,1562
+85356,South Korea,2021-11-15,Epsilon,0,0.0,1574
+85380,South Korea,2021-11-29,Epsilon,0,0.0,1368
+85404,South Korea,2021-12-13,Epsilon,0,0.0,1620
+85428,South Korea,2021-12-27,Epsilon,0,0.0,393
+85452,Spain,2020-05-11,Epsilon,0,0.0,180
+85476,Spain,2020-05-25,Epsilon,0,0.0,95
+85500,Spain,2020-06-08,Epsilon,0,0.0,63
+85524,Spain,2020-06-22,Epsilon,0,0.0,73
+85548,Spain,2020-07-06,Epsilon,0,0.0,140
+85572,Spain,2020-07-20,Epsilon,0,0.0,149
+85596,Spain,2020-08-03,Epsilon,0,0.0,170
+85620,Spain,2020-08-17,Epsilon,0,0.0,251
+85644,Spain,2020-08-31,Epsilon,0,0.0,281
+85668,Spain,2020-09-14,Epsilon,0,0.0,444
+85692,Spain,2020-09-28,Epsilon,0,0.0,488
+85716,Spain,2020-10-12,Epsilon,0,0.0,513
+85740,Spain,2020-10-26,Epsilon,0,0.0,478
+85764,Spain,2020-11-09,Epsilon,0,0.0,360
+85788,Spain,2020-11-23,Epsilon,0,0.0,409
+85812,Spain,2020-12-07,Epsilon,0,0.0,471
+85836,Spain,2020-12-21,Epsilon,0,0.0,967
+85860,Spain,2021-01-04,Epsilon,0,0.0,1095
+85884,Spain,2021-01-11,Epsilon,0,0.0,632
+85908,Spain,2021-01-25,Epsilon,0,0.0,2620
+85932,Spain,2021-02-08,Epsilon,1,0.03,3043
+85956,Spain,2021-02-22,Epsilon,0,0.0,2628
+85980,Spain,2021-03-08,Epsilon,1,0.04,2674
+86004,Spain,2021-03-22,Epsilon,1,0.04,2431
+86028,Spain,2021-04-05,Epsilon,1,0.04,2788
+86052,Spain,2021-04-19,Epsilon,0,0.0,2957
+86076,Spain,2021-05-03,Epsilon,0,0.0,2815
+86100,Spain,2021-05-17,Epsilon,1,0.03,3341
+86124,Spain,2021-05-31,Epsilon,0,0.0,2613
+86148,Spain,2021-06-14,Epsilon,1,0.03,3221
+86172,Spain,2021-06-28,Epsilon,0,0.0,3000
+86196,Spain,2021-07-12,Epsilon,0,0.0,5987
+86220,Spain,2021-07-26,Epsilon,0,0.0,5278
+86244,Spain,2021-08-09,Epsilon,0,0.0,5388
+86268,Spain,2021-08-23,Epsilon,0,0.0,3647
+86292,Spain,2021-09-06,Epsilon,0,0.0,3246
+86316,Spain,2021-09-20,Epsilon,0,0.0,2186
+86340,Spain,2021-10-04,Epsilon,0,0.0,1510
+86364,Spain,2021-10-18,Epsilon,0,0.0,1213
+86388,Spain,2021-11-01,Epsilon,0,0.0,1559
+86412,Spain,2021-11-15,Epsilon,0,0.0,1713
+86436,Spain,2021-11-29,Epsilon,0,0.0,2010
+86460,Spain,2021-12-13,Epsilon,0,0.0,2121
+86484,Spain,2021-12-27,Epsilon,0,0.0,991
+86508,Sri Lanka,2020-05-11,Epsilon,0,0.0,1
+86532,Sri Lanka,2020-06-22,Epsilon,0,0.0,1
+86556,Sri Lanka,2020-08-03,Epsilon,0,0.0,4
+86580,Sri Lanka,2020-10-12,Epsilon,0,0.0,3
+86604,Sri Lanka,2020-10-26,Epsilon,0,0.0,11
+86628,Sri Lanka,2020-11-09,Epsilon,0,0.0,8
+86652,Sri Lanka,2020-11-23,Epsilon,0,0.0,2
+86676,Sri Lanka,2020-12-07,Epsilon,0,0.0,6
+86700,Sri Lanka,2020-12-21,Epsilon,0,0.0,1
+86724,Sri Lanka,2021-01-04,Epsilon,0,0.0,10
+86748,Sri Lanka,2021-01-11,Epsilon,0,0.0,3
+86772,Sri Lanka,2021-01-25,Epsilon,0,0.0,54
+86796,Sri Lanka,2021-02-08,Epsilon,0,0.0,69
+86820,Sri Lanka,2021-02-22,Epsilon,0,0.0,52
+86844,Sri Lanka,2021-03-08,Epsilon,0,0.0,24
+86868,Sri Lanka,2021-03-22,Epsilon,0,0.0,48
+86892,Sri Lanka,2021-04-05,Epsilon,0,0.0,12
+86916,Sri Lanka,2021-04-19,Epsilon,0,0.0,8
+86940,Sri Lanka,2021-05-03,Epsilon,0,0.0,66
+86964,Sri Lanka,2021-05-17,Epsilon,0,0.0,44
+86988,Sri Lanka,2021-05-31,Epsilon,0,0.0,43
+87012,Sri Lanka,2021-06-14,Epsilon,0,0.0,61
+87036,Sri Lanka,2021-06-28,Epsilon,0,0.0,142
+87060,Sri Lanka,2021-07-12,Epsilon,0,0.0,71
+87084,Sri Lanka,2021-07-26,Epsilon,0,0.0,82
+87108,Sri Lanka,2021-08-09,Epsilon,0,0.0,118
+87132,Sri Lanka,2021-08-23,Epsilon,0,0.0,103
+87156,Sri Lanka,2021-09-06,Epsilon,0,0.0,223
+87180,Sri Lanka,2021-09-20,Epsilon,0,0.0,143
+87204,Sri Lanka,2021-10-04,Epsilon,0,0.0,83
+87228,Sri Lanka,2021-10-18,Epsilon,0,0.0,168
+87252,Sri Lanka,2021-11-01,Epsilon,0,0.0,106
+87276,Sri Lanka,2021-11-15,Epsilon,0,0.0,84
+87300,Sri Lanka,2021-11-29,Epsilon,0,0.0,101
+87324,Sri Lanka,2021-12-13,Epsilon,0,0.0,197
+87348,Sri Lanka,2021-12-27,Epsilon,0,0.0,191
+87372,Sri Lanka,2022-01-05,Epsilon,0,0.0,11
+87396,Suriname,2020-05-11,Epsilon,0,0.0,1
+87420,Suriname,2020-06-22,Epsilon,0,0.0,3
+87444,Suriname,2020-07-06,Epsilon,0,0.0,33
+87468,Suriname,2020-07-20,Epsilon,0,0.0,24
+87492,Suriname,2020-08-03,Epsilon,0,0.0,2
+87516,Suriname,2020-08-17,Epsilon,0,0.0,22
+87540,Suriname,2020-08-31,Epsilon,0,0.0,3
+87564,Suriname,2020-12-21,Epsilon,0,0.0,10
+87588,Suriname,2021-01-04,Epsilon,0,0.0,6
+87612,Suriname,2021-01-25,Epsilon,0,0.0,17
+87636,Suriname,2021-02-08,Epsilon,0,0.0,8
+87660,Suriname,2021-02-22,Epsilon,0,0.0,9
+87684,Suriname,2021-03-08,Epsilon,0,0.0,31
+87708,Suriname,2021-03-22,Epsilon,0,0.0,13
+87732,Suriname,2021-04-05,Epsilon,0,0.0,57
+87756,Suriname,2021-04-19,Epsilon,0,0.0,49
+87780,Suriname,2021-05-03,Epsilon,0,0.0,23
+87804,Suriname,2021-05-17,Epsilon,0,0.0,43
+87828,Suriname,2021-05-31,Epsilon,0,0.0,53
+87852,Suriname,2021-06-14,Epsilon,0,0.0,37
+87876,Suriname,2021-06-28,Epsilon,0,0.0,50
+87900,Suriname,2021-07-12,Epsilon,0,0.0,39
+87924,Suriname,2021-07-26,Epsilon,0,0.0,35
+87948,Suriname,2021-08-09,Epsilon,0,0.0,50
+87972,Suriname,2021-08-23,Epsilon,0,0.0,43
+87996,Suriname,2021-09-06,Epsilon,0,0.0,57
+88020,Suriname,2021-09-20,Epsilon,0,0.0,64
+88044,Suriname,2021-10-04,Epsilon,0,0.0,31
+88068,Suriname,2021-10-18,Epsilon,0,0.0,39
+88092,Suriname,2021-11-01,Epsilon,0,0.0,16
+88116,Suriname,2021-11-15,Epsilon,0,0.0,23
+88140,Suriname,2021-11-29,Epsilon,0,0.0,17
+88164,Suriname,2021-12-13,Epsilon,0,0.0,23
+88188,Sweden,2020-05-11,Epsilon,0,0.0,52
+88212,Sweden,2020-05-25,Epsilon,0,0.0,81
+88236,Sweden,2020-06-08,Epsilon,0,0.0,83
+88260,Sweden,2020-06-22,Epsilon,0,0.0,36
+88284,Sweden,2020-07-06,Epsilon,0,0.0,43
+88308,Sweden,2020-07-20,Epsilon,0,0.0,40
+88332,Sweden,2020-08-03,Epsilon,0,0.0,15
+88356,Sweden,2020-08-17,Epsilon,0,0.0,41
+88380,Sweden,2020-08-31,Epsilon,0,0.0,43
+88404,Sweden,2020-09-14,Epsilon,0,0.0,38
+88428,Sweden,2020-09-28,Epsilon,0,0.0,54
+88452,Sweden,2020-10-12,Epsilon,0,0.0,45
+88476,Sweden,2020-10-26,Epsilon,0,0.0,43
+88500,Sweden,2020-11-09,Epsilon,0,0.0,125
+88524,Sweden,2020-11-23,Epsilon,0,0.0,105
+88548,Sweden,2020-12-07,Epsilon,0,0.0,145
+88572,Sweden,2020-12-21,Epsilon,0,0.0,174
+88596,Sweden,2021-01-04,Epsilon,0,0.0,535
+88620,Sweden,2021-01-11,Epsilon,0,0.0,289
+88644,Sweden,2021-01-25,Epsilon,1,0.05,2203
+88668,Sweden,2021-02-08,Epsilon,1,0.02,5546
+88692,Sweden,2021-02-22,Epsilon,0,0.0,9307
+88716,Sweden,2021-03-08,Epsilon,0,0.0,11288
+88740,Sweden,2021-03-22,Epsilon,0,0.0,13397
+88764,Sweden,2021-04-05,Epsilon,0,0.0,10365
+88788,Sweden,2021-04-19,Epsilon,0,0.0,7416
+88812,Sweden,2021-05-03,Epsilon,0,0.0,6766
+88836,Sweden,2021-05-17,Epsilon,0,0.0,7046
+88860,Sweden,2021-05-31,Epsilon,0,0.0,5268
+88884,Sweden,2021-06-14,Epsilon,0,0.0,3876
+88908,Sweden,2021-06-28,Epsilon,0,0.0,3329
+88932,Sweden,2021-07-12,Epsilon,0,0.0,2229
+88956,Sweden,2021-07-26,Epsilon,0,0.0,3358
+88980,Sweden,2021-08-09,Epsilon,0,0.0,4585
+89004,Sweden,2021-08-23,Epsilon,0,0.0,6148
+89028,Sweden,2021-09-06,Epsilon,0,0.0,5028
+89052,Sweden,2021-09-20,Epsilon,0,0.0,4183
+89076,Sweden,2021-10-04,Epsilon,0,0.0,3358
+89100,Sweden,2021-10-18,Epsilon,0,0.0,2824
+89124,Sweden,2021-11-01,Epsilon,0,0.0,4604
+89148,Sweden,2021-11-15,Epsilon,0,0.0,4812
+89172,Sweden,2021-11-29,Epsilon,0,0.0,4120
+89196,Sweden,2021-12-13,Epsilon,0,0.0,3572
+89220,Sweden,2021-12-27,Epsilon,0,0.0,1239
+89244,Switzerland,2020-05-11,Epsilon,0,0.0,106
+89268,Switzerland,2020-05-25,Epsilon,0,0.0,23
+89292,Switzerland,2020-06-08,Epsilon,0,0.0,27
+89316,Switzerland,2020-06-22,Epsilon,0,0.0,25
+89340,Switzerland,2020-07-06,Epsilon,0,0.0,89
+89364,Switzerland,2020-07-20,Epsilon,0,0.0,169
+89388,Switzerland,2020-08-03,Epsilon,0,0.0,145
+89412,Switzerland,2020-08-17,Epsilon,0,0.0,174
+89436,Switzerland,2020-08-31,Epsilon,0,0.0,306
+89460,Switzerland,2020-09-14,Epsilon,0,0.0,288
+89484,Switzerland,2020-09-28,Epsilon,0,0.0,52
+89508,Switzerland,2020-10-12,Epsilon,0,0.0,448
+89532,Switzerland,2020-10-26,Epsilon,0,0.0,998
+89556,Switzerland,2020-11-09,Epsilon,0,0.0,1607
+89580,Switzerland,2020-11-23,Epsilon,0,0.0,1685
+89604,Switzerland,2020-12-07,Epsilon,0,0.0,1421
+89628,Switzerland,2020-12-21,Epsilon,0,0.0,2426
+89652,Switzerland,2021-01-04,Epsilon,0,0.0,3229
+89676,Switzerland,2021-01-11,Epsilon,0,0.0,1785
+89700,Switzerland,2021-01-25,Epsilon,0,0.0,3563
+89724,Switzerland,2021-02-08,Epsilon,3,0.1,3053
+89748,Switzerland,2021-02-22,Epsilon,0,0.0,1819
+89772,Switzerland,2021-03-08,Epsilon,0,0.0,1936
+89796,Switzerland,2021-03-22,Epsilon,0,0.0,2524
+89820,Switzerland,2021-04-05,Epsilon,0,0.0,2521
+89844,Switzerland,2021-04-19,Epsilon,0,0.0,3200
+89868,Switzerland,2021-05-03,Epsilon,0,0.0,4034
+89892,Switzerland,2021-05-17,Epsilon,0,0.0,2882
+89916,Switzerland,2021-05-31,Epsilon,0,0.0,2210
+89940,Switzerland,2021-06-14,Epsilon,0,0.0,1108
+89964,Switzerland,2021-06-28,Epsilon,0,0.0,479
+89988,Switzerland,2021-07-12,Epsilon,0,0.0,963
+90012,Switzerland,2021-07-26,Epsilon,0,0.0,2932
+90036,Switzerland,2021-08-09,Epsilon,0,0.0,4623
+90060,Switzerland,2021-08-23,Epsilon,0,0.0,6633
+90084,Switzerland,2021-09-06,Epsilon,0,0.0,4379
+90108,Switzerland,2021-09-20,Epsilon,0,0.0,4396
+90132,Switzerland,2021-10-04,Epsilon,0,0.0,3784
+90156,Switzerland,2021-10-18,Epsilon,0,0.0,3230
+90180,Switzerland,2021-11-01,Epsilon,0,0.0,5102
+90204,Switzerland,2021-11-15,Epsilon,0,0.0,6584
+90228,Switzerland,2021-11-29,Epsilon,0,0.0,6568
+90252,Switzerland,2021-12-13,Epsilon,0,0.0,4811
+90276,Switzerland,2021-12-27,Epsilon,0,0.0,1330
+90300,Thailand,2020-08-03,Epsilon,0,0.0,5
+90324,Thailand,2020-08-31,Epsilon,0,0.0,2
+90348,Thailand,2020-09-28,Epsilon,0,0.0,2
+90372,Thailand,2020-10-12,Epsilon,0,0.0,7
+90396,Thailand,2020-10-26,Epsilon,0,0.0,7
+90420,Thailand,2020-11-09,Epsilon,0,0.0,6
+90444,Thailand,2020-11-23,Epsilon,0,0.0,9
+90468,Thailand,2020-12-07,Epsilon,0,0.0,18
+90492,Thailand,2020-12-21,Epsilon,0,0.0,76
+90516,Thailand,2021-01-04,Epsilon,0,0.0,37
+90540,Thailand,2021-01-11,Epsilon,0,0.0,47
+90564,Thailand,2021-01-25,Epsilon,0,0.0,33
+90588,Thailand,2021-02-08,Epsilon,0,0.0,33
+90612,Thailand,2021-02-22,Epsilon,0,0.0,108
+90636,Thailand,2021-03-08,Epsilon,0,0.0,29
+90660,Thailand,2021-03-22,Epsilon,0,0.0,33
+90684,Thailand,2021-04-05,Epsilon,0,0.0,29
+90708,Thailand,2021-04-19,Epsilon,0,0.0,129
+90732,Thailand,2021-05-03,Epsilon,0,0.0,99
+90756,Thailand,2021-05-17,Epsilon,0,0.0,589
+90780,Thailand,2021-05-31,Epsilon,0,0.0,613
+90804,Thailand,2021-06-14,Epsilon,0,0.0,274
+90828,Thailand,2021-06-28,Epsilon,0,0.0,391
+90852,Thailand,2021-07-12,Epsilon,0,0.0,208
+90876,Thailand,2021-07-26,Epsilon,0,0.0,590
+90900,Thailand,2021-08-09,Epsilon,0,0.0,298
+90924,Thailand,2021-08-23,Epsilon,0,0.0,310
+90948,Thailand,2021-09-06,Epsilon,0,0.0,308
+90972,Thailand,2021-09-20,Epsilon,0,0.0,437
+90996,Thailand,2021-10-04,Epsilon,0,0.0,807
+91020,Thailand,2021-10-18,Epsilon,0,0.0,951
+91044,Thailand,2021-11-01,Epsilon,0,0.0,948
+91068,Thailand,2021-11-15,Epsilon,0,0.0,586
+91092,Thailand,2021-11-29,Epsilon,0,0.0,516
+91116,Thailand,2021-12-13,Epsilon,0,0.0,460
+91140,Thailand,2021-12-27,Epsilon,0,0.0,23
+91164,Togo,2020-05-25,Epsilon,0,0.0,3
+91188,Togo,2020-06-08,Epsilon,0,0.0,4
+91212,Togo,2020-07-20,Epsilon,0,0.0,2
+91236,Togo,2020-09-28,Epsilon,0,0.0,5
+91260,Togo,2020-10-12,Epsilon,0,0.0,1
+91284,Togo,2020-11-23,Epsilon,0,0.0,1
+91308,Togo,2020-12-07,Epsilon,0,0.0,1
+91332,Togo,2020-12-21,Epsilon,0,0.0,8
+91356,Togo,2021-01-04,Epsilon,0,0.0,5
+91380,Togo,2021-01-25,Epsilon,0,0.0,6
+91404,Togo,2021-02-08,Epsilon,0,0.0,40
+91428,Togo,2021-02-22,Epsilon,0,0.0,40
+91452,Togo,2021-03-08,Epsilon,0,0.0,36
+91476,Togo,2021-03-22,Epsilon,0,0.0,12
+91500,Togo,2021-04-05,Epsilon,0,0.0,8
+91524,Togo,2021-04-19,Epsilon,0,0.0,14
+91548,Togo,2021-05-03,Epsilon,0,0.0,8
+91572,Togo,2021-06-14,Epsilon,0,0.0,25
+91596,Togo,2021-06-28,Epsilon,0,0.0,27
+91620,Togo,2021-07-12,Epsilon,0,0.0,24
+91644,Togo,2021-07-26,Epsilon,0,0.0,24
+91668,Togo,2021-08-09,Epsilon,0,0.0,44
+91692,Trinidad and Tobago,2020-06-22,Epsilon,0,0.0,1
+91716,Trinidad and Tobago,2020-08-17,Epsilon,0,0.0,1
+91740,Trinidad and Tobago,2020-08-31,Epsilon,0,0.0,10
+91764,Trinidad and Tobago,2020-09-14,Epsilon,0,0.0,5
+91788,Trinidad and Tobago,2020-09-28,Epsilon,0,0.0,1
+91812,Trinidad and Tobago,2020-11-09,Epsilon,0,0.0,4
+91836,Trinidad and Tobago,2020-11-23,Epsilon,0,0.0,1
+91860,Trinidad and Tobago,2020-12-07,Epsilon,0,0.0,9
+91884,Trinidad and Tobago,2020-12-21,Epsilon,0,0.0,3
+91908,Trinidad and Tobago,2021-01-25,Epsilon,0,0.0,1
+91932,Trinidad and Tobago,2021-02-22,Epsilon,0,0.0,4
+91956,Trinidad and Tobago,2021-03-08,Epsilon,0,0.0,2
+91980,Trinidad and Tobago,2021-03-22,Epsilon,0,0.0,6
+92004,Trinidad and Tobago,2021-04-05,Epsilon,0,0.0,8
+92028,Trinidad and Tobago,2021-04-19,Epsilon,0,0.0,70
+92052,Trinidad and Tobago,2021-05-03,Epsilon,0,0.0,197
+92076,Trinidad and Tobago,2021-05-17,Epsilon,0,0.0,142
+92100,Trinidad and Tobago,2021-05-31,Epsilon,0,0.0,28
+92124,Trinidad and Tobago,2021-06-14,Epsilon,0,0.0,23
+92148,Trinidad and Tobago,2021-06-28,Epsilon,0,0.0,11
+92172,Trinidad and Tobago,2021-07-12,Epsilon,0,0.0,8
+92196,Trinidad and Tobago,2021-07-26,Epsilon,0,0.0,12
+92220,Trinidad and Tobago,2021-08-09,Epsilon,0,0.0,50
+92244,Trinidad and Tobago,2021-08-23,Epsilon,0,0.0,60
+92268,Trinidad and Tobago,2021-09-06,Epsilon,0,0.0,15
+92292,Trinidad and Tobago,2021-09-20,Epsilon,0,0.0,50
+92316,Trinidad and Tobago,2021-10-04,Epsilon,0,0.0,65
+92340,Trinidad and Tobago,2021-10-18,Epsilon,0,0.0,124
+92364,Trinidad and Tobago,2021-11-01,Epsilon,0,0.0,117
+92388,Trinidad and Tobago,2021-11-15,Epsilon,0,0.0,162
+92412,Trinidad and Tobago,2021-11-29,Epsilon,0,0.0,106
+92436,Trinidad and Tobago,2021-12-13,Epsilon,0,0.0,105
+92460,Trinidad and Tobago,2021-12-27,Epsilon,0,0.0,35
+92484,Turkey,2020-05-11,Epsilon,0,0.0,95
+92508,Turkey,2020-05-25,Epsilon,0,0.0,74
+92532,Turkey,2020-06-08,Epsilon,0,0.0,33
+92556,Turkey,2020-06-22,Epsilon,0,0.0,21
+92580,Turkey,2020-07-06,Epsilon,0,0.0,20
+92604,Turkey,2020-07-20,Epsilon,0,0.0,1
+92628,Turkey,2020-08-03,Epsilon,0,0.0,10
+92652,Turkey,2020-08-17,Epsilon,0,0.0,4
+92676,Turkey,2020-08-31,Epsilon,0,0.0,10
+92700,Turkey,2020-09-14,Epsilon,0,0.0,11
+92724,Turkey,2020-09-28,Epsilon,0,0.0,11
+92748,Turkey,2020-10-12,Epsilon,0,0.0,2
+92772,Turkey,2020-10-26,Epsilon,0,0.0,2
+92796,Turkey,2020-11-23,Epsilon,0,0.0,32
+92820,Turkey,2020-12-07,Epsilon,0,0.0,1
+92844,Turkey,2020-12-21,Epsilon,0,0.0,24
+92868,Turkey,2021-01-04,Epsilon,0,0.0,67
+92892,Turkey,2021-01-11,Epsilon,0,0.0,12
+92916,Turkey,2021-01-25,Epsilon,0,0.0,230
+92940,Turkey,2021-02-08,Epsilon,0,0.0,335
+92964,Turkey,2021-02-22,Epsilon,2,0.18,1104
+92988,Turkey,2021-03-08,Epsilon,0,0.0,1135
+93012,Turkey,2021-03-22,Epsilon,0,0.0,978
+93036,Turkey,2021-04-05,Epsilon,0,0.0,1375
+93060,Turkey,2021-04-19,Epsilon,0,0.0,21
+93084,Turkey,2021-05-03,Epsilon,0,0.0,144
+93108,Turkey,2021-05-17,Epsilon,0,0.0,292
+93132,Turkey,2021-05-31,Epsilon,0,0.0,290
+93156,Turkey,2021-06-14,Epsilon,0,0.0,270
+93180,Turkey,2021-06-28,Epsilon,0,0.0,1143
+93204,Turkey,2021-07-12,Epsilon,0,0.0,4053
+93228,Turkey,2021-07-26,Epsilon,0,0.0,1260
+93252,Turkey,2021-08-09,Epsilon,0,0.0,12442
+93276,Turkey,2021-08-23,Epsilon,0,0.0,32547
+93300,Turkey,2021-09-06,Epsilon,0,0.0,1319
+93324,Turkey,2021-09-20,Epsilon,0,0.0,2714
+93348,Turkey,2021-10-04,Epsilon,0,0.0,3008
+93372,Turkey,2021-10-18,Epsilon,0,0.0,1716
+93396,Turkey,2021-11-01,Epsilon,0,0.0,361
+93420,Turkey,2021-11-15,Epsilon,0,0.0,2426
+93444,Turkey,2021-11-29,Epsilon,0,0.0,2383
+93468,Turkey,2021-12-13,Epsilon,0,0.0,2782
+93492,Turkey,2021-12-27,Epsilon,0,0.0,2100
+93516,Uganda,2020-05-11,Epsilon,0,0.0,27
+93540,Uganda,2020-05-25,Epsilon,0,0.0,1
+93564,Uganda,2020-07-06,Epsilon,0,0.0,4
+93588,Uganda,2020-07-20,Epsilon,0,0.0,2
+93612,Uganda,2020-08-03,Epsilon,0,0.0,9
+93636,Uganda,2020-08-17,Epsilon,0,0.0,31
+93660,Uganda,2020-08-31,Epsilon,0,0.0,27
+93684,Uganda,2020-09-14,Epsilon,0,0.0,37
+93708,Uganda,2020-09-28,Epsilon,0,0.0,10
+93732,Uganda,2020-10-12,Epsilon,0,0.0,8
+93756,Uganda,2020-10-26,Epsilon,0,0.0,2
+93780,Uganda,2020-11-09,Epsilon,0,0.0,26
+93804,Uganda,2020-11-23,Epsilon,0,0.0,29
+93828,Uganda,2020-12-07,Epsilon,0,0.0,2
+93852,Uganda,2020-12-21,Epsilon,0,0.0,39
+93876,Uganda,2021-01-04,Epsilon,0,0.0,59
+93900,Uganda,2021-01-25,Epsilon,0,0.0,25
+93924,Uganda,2021-02-08,Epsilon,0,0.0,2
+93948,Uganda,2021-02-22,Epsilon,0,0.0,8
+93972,Uganda,2021-03-08,Epsilon,0,0.0,9
+93996,Uganda,2021-03-22,Epsilon,0,0.0,10
+94020,Uganda,2021-04-05,Epsilon,0,0.0,26
+94044,Uganda,2021-04-19,Epsilon,0,0.0,17
+94068,Uganda,2021-05-03,Epsilon,0,0.0,11
+94092,Uganda,2021-05-17,Epsilon,0,0.0,17
+94116,Uganda,2021-05-31,Epsilon,0,0.0,21
+94140,Uganda,2021-06-14,Epsilon,0,0.0,172
+94164,Uganda,2021-06-28,Epsilon,0,0.0,114
+94188,Uganda,2021-07-12,Epsilon,0,0.0,12
+94212,Uganda,2021-07-26,Epsilon,0,0.0,15
+94236,Uganda,2021-08-09,Epsilon,0,0.0,17
+94260,Uganda,2021-08-23,Epsilon,0,0.0,5
+94284,Uganda,2021-12-13,Epsilon,0,0.0,1
+94308,Ukraine,2020-05-11,Epsilon,0,0.0,2
+94332,Ukraine,2020-05-25,Epsilon,0,0.0,9
+94356,Ukraine,2020-06-08,Epsilon,0,0.0,23
+94380,Ukraine,2020-07-06,Epsilon,0,0.0,14
+94404,Ukraine,2020-07-20,Epsilon,0,0.0,3
+94428,Ukraine,2020-08-03,Epsilon,0,0.0,3
+94452,Ukraine,2020-08-17,Epsilon,0,0.0,10
+94476,Ukraine,2020-09-28,Epsilon,0,0.0,2
+94500,Ukraine,2020-10-12,Epsilon,0,0.0,3
+94524,Ukraine,2020-10-26,Epsilon,0,0.0,2
+94548,Ukraine,2020-11-23,Epsilon,0,0.0,1
+94572,Ukraine,2020-12-07,Epsilon,0,0.0,1
+94596,Ukraine,2021-01-04,Epsilon,0,0.0,45
+94620,Ukraine,2021-01-11,Epsilon,0,0.0,27
+94644,Ukraine,2021-01-25,Epsilon,0,0.0,25
+94668,Ukraine,2021-02-22,Epsilon,0,0.0,6
+94692,Ukraine,2021-03-08,Epsilon,0,0.0,26
+94716,Ukraine,2021-03-22,Epsilon,0,0.0,36
+94740,Ukraine,2021-04-05,Epsilon,0,0.0,2
+94764,Ukraine,2021-05-17,Epsilon,0,0.0,4
+94788,Ukraine,2021-05-31,Epsilon,0,0.0,21
+94812,Ukraine,2021-06-14,Epsilon,0,0.0,3
+94836,Ukraine,2021-06-28,Epsilon,0,0.0,43
+94860,Ukraine,2021-07-12,Epsilon,0,0.0,33
+94884,Ukraine,2021-07-26,Epsilon,0,0.0,32
+94908,Ukraine,2021-09-06,Epsilon,0,0.0,10
+94932,Ukraine,2021-09-20,Epsilon,0,0.0,41
+94956,Ukraine,2021-10-04,Epsilon,0,0.0,12
+94980,Ukraine,2021-10-18,Epsilon,0,0.0,2
+95004,Ukraine,2021-11-01,Epsilon,0,0.0,106
+95028,Ukraine,2021-11-15,Epsilon,0,0.0,10
+95052,Ukraine,2021-11-29,Epsilon,0,0.0,48
+95076,Ukraine,2021-12-13,Epsilon,0,0.0,8
+95100,Ukraine,2021-12-27,Epsilon,0,0.0,1
+95124,United Arab Emirates,2020-05-11,Epsilon,0,0.0,133
+95148,United Arab Emirates,2020-05-25,Epsilon,0,0.0,891
+95172,United Arab Emirates,2020-06-08,Epsilon,0,0.0,18
+95196,United Arab Emirates,2020-06-22,Epsilon,0,0.0,106
+95220,United Arab Emirates,2020-07-06,Epsilon,0,0.0,151
+95244,United Arab Emirates,2020-07-20,Epsilon,0,0.0,4
+95268,United Arab Emirates,2020-08-17,Epsilon,0,0.0,6
+95292,United Arab Emirates,2020-08-31,Epsilon,0,0.0,65
+95316,United Arab Emirates,2020-09-14,Epsilon,0,0.0,24
+95340,United Arab Emirates,2020-09-28,Epsilon,0,0.0,39
+95364,United Arab Emirates,2020-10-12,Epsilon,0,0.0,69
+95388,United Arab Emirates,2020-10-26,Epsilon,0,0.0,56
+95412,United Arab Emirates,2020-11-09,Epsilon,0,0.0,21
+95436,United Arab Emirates,2020-11-23,Epsilon,0,0.0,67
+95460,United Arab Emirates,2020-12-07,Epsilon,0,0.0,57
+95484,United Arab Emirates,2020-12-21,Epsilon,0,0.0,40
+95508,United Arab Emirates,2021-01-04,Epsilon,1,0.65,155
+95532,United Arab Emirates,2021-01-11,Epsilon,0,0.0,80
+95556,United Arab Emirates,2021-01-25,Epsilon,0,0.0,143
+95580,United Arab Emirates,2021-02-08,Epsilon,0,0.0,324
+95604,United Arab Emirates,2021-02-22,Epsilon,0,0.0,14
+95628,United Arab Emirates,2021-05-03,Epsilon,0,0.0,5
+95652,United Arab Emirates,2021-06-14,Epsilon,0,0.0,2
+95676,United Arab Emirates,2021-06-28,Epsilon,0,0.0,20
+95700,United Kingdom,2020-05-11,Epsilon,0,0.0,4753
+95724,United Kingdom,2020-05-25,Epsilon,0,0.0,2767
+95748,United Kingdom,2020-06-08,Epsilon,0,0.0,1761
+95772,United Kingdom,2020-06-22,Epsilon,0,0.0,4716
+95796,United Kingdom,2020-07-06,Epsilon,0,0.0,2286
+95820,United Kingdom,2020-07-20,Epsilon,0,0.0,1088
+95844,United Kingdom,2020-08-03,Epsilon,0,0.0,1190
+95868,United Kingdom,2020-08-17,Epsilon,0,0.0,2357
+95892,United Kingdom,2020-08-31,Epsilon,0,0.0,4144
+95916,United Kingdom,2020-09-14,Epsilon,0,0.0,5667
+95940,United Kingdom,2020-09-28,Epsilon,0,0.0,9722
+95964,United Kingdom,2020-10-12,Epsilon,0,0.0,11598
+95988,United Kingdom,2020-10-26,Epsilon,0,0.0,16191
+96012,United Kingdom,2020-11-09,Epsilon,0,0.0,17930
+96036,United Kingdom,2020-11-23,Epsilon,0,0.0,18024
+96060,United Kingdom,2020-12-07,Epsilon,0,0.0,8465
+96084,United Kingdom,2020-12-21,Epsilon,2,0.01,21638
+96108,United Kingdom,2021-01-04,Epsilon,1,0.01,18777
+96132,United Kingdom,2021-01-11,Epsilon,3,0.02,12673
+96156,United Kingdom,2021-01-25,Epsilon,1,0.0,30847
+96180,United Kingdom,2021-02-08,Epsilon,4,0.01,33472
+96204,United Kingdom,2021-02-22,Epsilon,1,0.0,32917
+96228,United Kingdom,2021-03-08,Epsilon,3,0.01,30391
+96252,United Kingdom,2021-03-22,Epsilon,5,0.01,35371
+96276,United Kingdom,2021-04-05,Epsilon,2,0.01,29673
+96300,United Kingdom,2021-04-19,Epsilon,1,0.01,15908
+96324,United Kingdom,2021-05-03,Epsilon,0,0.0,14275
+96348,United Kingdom,2021-05-17,Epsilon,1,0.01,14374
+96372,United Kingdom,2021-05-31,Epsilon,0,0.0,23824
+96396,United Kingdom,2021-06-14,Epsilon,0,0.0,37317
+96420,United Kingdom,2021-06-28,Epsilon,0,0.0,43442
+96444,United Kingdom,2021-07-12,Epsilon,0,0.0,56140
+96468,United Kingdom,2021-07-26,Epsilon,0,0.0,57203
+96492,United Kingdom,2021-08-09,Epsilon,0,0.0,64528
+96516,United Kingdom,2021-08-23,Epsilon,0,0.0,63959
+96540,United Kingdom,2021-09-06,Epsilon,0,0.0,77119
+96564,United Kingdom,2021-09-20,Epsilon,0,0.0,77089
+96588,United Kingdom,2021-10-04,Epsilon,0,0.0,75474
+96612,United Kingdom,2021-10-18,Epsilon,0,0.0,76720
+96636,United Kingdom,2021-11-01,Epsilon,0,0.0,86068
+96660,United Kingdom,2021-11-15,Epsilon,0,0.0,96946
+96684,United Kingdom,2021-11-29,Epsilon,0,0.0,112772
+96708,United Kingdom,2021-12-13,Epsilon,0,0.0,127342
+96732,United Kingdom,2021-12-27,Epsilon,0,0.0,80002
+96756,United Kingdom,2022-01-05,Epsilon,0,0.0,562
+96780,United States,2020-05-11,Epsilon,0,0.0,5804
+96804,United States,2020-05-25,Epsilon,0,0.0,4736
+96828,United States,2020-06-08,Epsilon,0,0.0,4035
+96852,United States,2020-06-22,Epsilon,0,0.0,6070
+96876,United States,2020-07-06,Epsilon,0,0.0,8371
+96900,United States,2020-07-20,Epsilon,0,0.0,10122
+96924,United States,2020-08-03,Epsilon,0,0.0,7801
+96948,United States,2020-08-17,Epsilon,1,0.02,5992
+96972,United States,2020-08-31,Epsilon,1,0.02,4888
+96996,United States,2020-09-14,Epsilon,6,0.14,4362
+97020,United States,2020-09-28,Epsilon,10,0.2,5077
+97044,United States,2020-10-12,Epsilon,22,0.38,5764
+97068,United States,2020-10-26,Epsilon,45,0.6,7535
+97092,United States,2020-11-09,Epsilon,98,0.78,12540
+97116,United States,2020-11-23,Epsilon,192,1.42,13561
+97140,United States,2020-12-07,Epsilon,543,4.09,13266
+97164,United States,2020-12-21,Epsilon,2116,10.61,19936
+97188,United States,2021-01-04,Epsilon,2015,9.5,21204
+97212,United States,2021-01-11,Epsilon,3034,16.44,18451
+97236,United States,2021-01-25,Epsilon,7354,19.2,38293
+97260,United States,2021-02-08,Epsilon,8384,24.06,34853
+97284,United States,2021-02-22,Epsilon,7894,21.98,35919
+97308,United States,2021-03-08,Epsilon,7839,19.63,39935
+97332,United States,2021-03-22,Epsilon,8326,15.82,52615
+97356,United States,2021-04-05,Epsilon,7064,10.25,68922
+97380,United States,2021-04-19,Epsilon,4926,6.12,80542
+97404,United States,2021-05-03,Epsilon,2600,3.79,68541
+97428,United States,2021-05-17,Epsilon,1219,2.37,51424
+97452,United States,2021-05-31,Epsilon,357,1.23,28913
+97476,United States,2021-06-14,Epsilon,114,0.56,20283
+97500,United States,2021-06-28,Epsilon,41,0.18,22291
+97524,United States,2021-07-12,Epsilon,15,0.04,37254
+97548,United States,2021-07-26,Epsilon,8,0.01,79713
+97572,United States,2021-08-09,Epsilon,4,0.0,146170
+97596,United States,2021-08-23,Epsilon,79,0.06,130754
+97620,United States,2021-09-06,Epsilon,2,0.0,137159
+97644,United States,2021-09-20,Epsilon,81,0.06,134718
+97668,United States,2021-10-04,Epsilon,0,0.0,111660
+97692,United States,2021-10-18,Epsilon,2,0.0,107920
+97716,United States,2021-11-01,Epsilon,0,0.0,104883
+97740,United States,2021-11-15,Epsilon,0,0.0,117419
+97764,United States,2021-11-29,Epsilon,0,0.0,100281
+97788,United States,2021-12-13,Epsilon,1,0.0,102430
+97812,United States,2021-12-27,Epsilon,0,0.0,49235
+97836,United States,2022-01-05,Epsilon,0,0.0,35
+97860,Uruguay,2020-05-11,Epsilon,0,0.0,3
+97884,Uruguay,2020-05-25,Epsilon,0,0.0,14
+97908,Uruguay,2020-06-08,Epsilon,0,0.0,11
+97932,Uruguay,2020-06-22,Epsilon,0,0.0,15
+97956,Uruguay,2020-07-06,Epsilon,0,0.0,13
+97980,Uruguay,2020-07-20,Epsilon,0,0.0,12
+98004,Uruguay,2020-08-03,Epsilon,0,0.0,7
+98028,Uruguay,2020-08-17,Epsilon,0,0.0,1
+98052,Uruguay,2020-09-28,Epsilon,0,0.0,6
+98076,Uruguay,2020-10-12,Epsilon,0,0.0,2
+98100,Uruguay,2020-11-09,Epsilon,0,0.0,3
+98124,Uruguay,2020-11-23,Epsilon,0,0.0,2
+98148,Uruguay,2020-12-07,Epsilon,0,0.0,8
+98172,Uruguay,2020-12-21,Epsilon,0,0.0,13
+98196,Uruguay,2021-01-04,Epsilon,0,0.0,11
+98220,Uruguay,2021-01-11,Epsilon,0,0.0,15
+98244,Uruguay,2021-01-25,Epsilon,0,0.0,50
+98268,Uruguay,2021-02-08,Epsilon,0,0.0,60
+98292,Uruguay,2021-02-22,Epsilon,0,0.0,53
+98316,Uruguay,2021-03-08,Epsilon,0,0.0,101
+98340,Uruguay,2021-03-22,Epsilon,0,0.0,57
+98364,Uruguay,2021-04-05,Epsilon,0,0.0,70
+98388,Uruguay,2021-04-19,Epsilon,0,0.0,134
+98412,Uruguay,2021-05-03,Epsilon,0,0.0,21
+98436,Vietnam,2021-01-04,Epsilon,0,0.0,1
+98460,Vietnam,2021-01-11,Epsilon,0,0.0,1
+98484,Vietnam,2021-02-08,Epsilon,0,0.0,2
+98508,Vietnam,2021-02-22,Epsilon,0,0.0,4
+98532,Vietnam,2021-05-03,Epsilon,0,0.0,15
+98556,Vietnam,2021-05-17,Epsilon,0,0.0,58
+98580,Vietnam,2021-05-31,Epsilon,0,0.0,26
+98604,Vietnam,2021-06-14,Epsilon,0,0.0,14
+98628,Vietnam,2021-06-28,Epsilon,0,0.0,6
+98652,Vietnam,2021-07-26,Epsilon,0,0.0,67
+98676,Vietnam,2021-08-09,Epsilon,0,0.0,106
+98700,Vietnam,2021-08-23,Epsilon,0,0.0,139
+98724,Vietnam,2021-09-06,Epsilon,0,0.0,862
+98748,Vietnam,2021-09-20,Epsilon,0,0.0,63
+98772,Vietnam,2021-10-04,Epsilon,0,0.0,88
+98796,Vietnam,2021-10-18,Epsilon,0,0.0,58
+98820,Vietnam,2021-11-01,Epsilon,0,0.0,82
+98844,Vietnam,2021-11-15,Epsilon,0,0.0,69
+98868,Vietnam,2021-11-29,Epsilon,0,0.0,59
+98892,Vietnam,2021-12-13,Epsilon,0,0.0,35
+98916,Vietnam,2021-12-27,Epsilon,0,0.0,50
+98940,Zambia,2020-05-11,Epsilon,0,0.0,4
+98964,Zambia,2020-06-08,Epsilon,0,0.0,21
+98988,Zambia,2020-06-22,Epsilon,0,0.0,25
+99012,Zambia,2020-07-06,Epsilon,0,0.0,29
+99036,Zambia,2020-07-20,Epsilon,0,0.0,62
+99060,Zambia,2020-08-03,Epsilon,0,0.0,184
+99084,Zambia,2020-08-17,Epsilon,0,0.0,63
+99108,Zambia,2020-08-31,Epsilon,0,0.0,35
+99132,Zambia,2020-09-14,Epsilon,0,0.0,2
+99156,Zambia,2020-10-12,Epsilon,0,0.0,4
+99180,Zambia,2020-10-26,Epsilon,0,0.0,1
+99204,Zambia,2020-12-07,Epsilon,0,0.0,4
+99228,Zambia,2020-12-21,Epsilon,0,0.0,10
+99252,Zambia,2021-01-04,Epsilon,0,0.0,20
+99276,Zambia,2021-01-11,Epsilon,0,0.0,26
+99300,Zambia,2021-01-25,Epsilon,0,0.0,38
+99324,Zambia,2021-02-08,Epsilon,0,0.0,49
+99348,Zambia,2021-02-22,Epsilon,0,0.0,76
+99372,Zambia,2021-03-08,Epsilon,0,0.0,8
+99396,Zambia,2021-03-22,Epsilon,0,0.0,5
+99420,Zambia,2021-04-05,Epsilon,0,0.0,9
+99444,Zambia,2021-04-19,Epsilon,0,0.0,2
+99468,Zambia,2021-05-03,Epsilon,0,0.0,18
+99492,Zambia,2021-05-31,Epsilon,0,0.0,87
+99516,Zambia,2021-06-14,Epsilon,0,0.0,94
+99540,Zambia,2021-06-28,Epsilon,0,0.0,22
+99564,Zambia,2021-07-12,Epsilon,0,0.0,70
+99588,Zambia,2021-07-26,Epsilon,0,0.0,41
+99612,Zambia,2021-08-09,Epsilon,0,0.0,17
+99636,Zambia,2021-08-23,Epsilon,0,0.0,7
+99660,Zambia,2021-09-06,Epsilon,0,0.0,37
+99684,Zambia,2021-09-20,Epsilon,0,0.0,1
+99708,Zambia,2021-12-13,Epsilon,0,0.0,39
+99732,Zambia,2021-12-27,Epsilon,0,0.0,7
+99756,Zimbabwe,2020-05-11,Epsilon,0,0.0,35
+99780,Zimbabwe,2020-06-08,Epsilon,0,0.0,41
+99804,Zimbabwe,2020-08-03,Epsilon,0,0.0,24
+99828,Zimbabwe,2020-08-17,Epsilon,0,0.0,5
+99852,Zimbabwe,2020-08-31,Epsilon,0,0.0,7
+99876,Zimbabwe,2020-09-14,Epsilon,0,0.0,8
+99900,Zimbabwe,2020-10-12,Epsilon,0,0.0,5
+99924,Zimbabwe,2020-10-26,Epsilon,0,0.0,4
+99948,Zimbabwe,2020-11-09,Epsilon,0,0.0,1
+99972,Zimbabwe,2020-11-23,Epsilon,0,0.0,1
+99996,Zimbabwe,2020-12-07,Epsilon,0,0.0,1
+100020,Zimbabwe,2020-12-21,Epsilon,0,0.0,28
+100044,Zimbabwe,2021-01-04,Epsilon,0,0.0,160
+100068,Zimbabwe,2021-01-11,Epsilon,0,0.0,114
+100092,Zimbabwe,2021-01-25,Epsilon,0,0.0,57
+100116,Zimbabwe,2021-02-08,Epsilon,0,0.0,37
+100140,Zimbabwe,2021-02-22,Epsilon,0,0.0,1
+100164,Zimbabwe,2021-03-08,Epsilon,0,0.0,8
+100188,Zimbabwe,2021-06-28,Epsilon,0,0.0,3
+100212,Zimbabwe,2021-07-12,Epsilon,0,0.0,42
+100236,Zimbabwe,2021-07-26,Epsilon,0,0.0,35
+100260,Zimbabwe,2021-08-09,Epsilon,0,0.0,18
+100284,Zimbabwe,2021-08-23,Epsilon,0,0.0,18
+100308,Zimbabwe,2021-09-06,Epsilon,0,0.0,14
+100332,Zimbabwe,2021-09-20,Epsilon,0,0.0,6
+100356,Zimbabwe,2021-10-04,Epsilon,0,0.0,2
+100380,Zimbabwe,2021-10-18,Epsilon,0,0.0,5
+100404,Zimbabwe,2021-11-01,Epsilon,0,0.0,6

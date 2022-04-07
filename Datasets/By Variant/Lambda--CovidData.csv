@@ -1,0 +1,4185 @@
+,location,date,variant,num_sequences,perc_sequences,num_sequences_total
+17,Angola,2020-07-06,Lambda,0,0.0,3
+41,Angola,2020-08-31,Lambda,0,0.0,1
+65,Angola,2020-09-28,Lambda,0,0.0,10
+89,Angola,2020-10-12,Lambda,0,0.0,29
+113,Angola,2020-10-26,Lambda,0,0.0,7
+137,Angola,2020-12-07,Lambda,0,0.0,6
+161,Angola,2020-12-21,Lambda,0,0.0,93
+185,Angola,2021-01-04,Lambda,0,0.0,5
+209,Angola,2021-01-11,Lambda,0,0.0,16
+233,Angola,2021-01-25,Lambda,0,0.0,52
+257,Angola,2021-02-08,Lambda,0,0.0,42
+281,Angola,2021-02-22,Lambda,0,0.0,39
+305,Angola,2021-03-08,Lambda,0,0.0,113
+329,Angola,2021-03-22,Lambda,0,0.0,121
+353,Angola,2021-04-05,Lambda,0,0.0,137
+377,Angola,2021-04-19,Lambda,0,0.0,83
+401,Angola,2021-05-03,Lambda,0,0.0,34
+425,Angola,2021-05-17,Lambda,0,0.0,5
+449,Angola,2021-05-31,Lambda,0,0.0,7
+473,Angola,2021-06-14,Lambda,0,0.0,22
+497,Angola,2021-06-28,Lambda,0,0.0,59
+521,Angola,2021-07-12,Lambda,0,0.0,46
+545,Angola,2021-07-26,Lambda,0,0.0,10
+569,Angola,2021-08-09,Lambda,0,0.0,4
+593,Angola,2021-08-23,Lambda,0,0.0,1
+617,Angola,2021-09-06,Lambda,0,0.0,20
+641,Angola,2021-09-20,Lambda,0,0.0,57
+665,Angola,2021-10-04,Lambda,0,0.0,33
+689,Argentina,2020-05-11,Lambda,0,0.0,151
+713,Argentina,2020-05-25,Lambda,0,0.0,167
+737,Argentina,2020-06-08,Lambda,0,0.0,67
+761,Argentina,2020-06-22,Lambda,0,0.0,79
+785,Argentina,2020-07-06,Lambda,0,0.0,63
+809,Argentina,2020-07-20,Lambda,0,0.0,113
+833,Argentina,2020-08-03,Lambda,0,0.0,103
+857,Argentina,2020-08-17,Lambda,0,0.0,113
+881,Argentina,2020-08-31,Lambda,0,0.0,138
+905,Argentina,2020-09-14,Lambda,0,0.0,50
+929,Argentina,2020-09-28,Lambda,0,0.0,56
+953,Argentina,2020-10-12,Lambda,0,0.0,39
+977,Argentina,2020-10-26,Lambda,0,0.0,102
+1001,Argentina,2020-11-09,Lambda,1,1.72,58
+1025,Argentina,2020-11-23,Lambda,0,0.0,63
+1049,Argentina,2020-12-07,Lambda,0,0.0,49
+1073,Argentina,2020-12-21,Lambda,0,0.0,71
+1097,Argentina,2021-01-04,Lambda,0,0.0,49
+1121,Argentina,2021-01-11,Lambda,0,0.0,33
+1145,Argentina,2021-01-25,Lambda,1,1.61,62
+1169,Argentina,2021-02-08,Lambda,2,2.9,69
+1193,Argentina,2021-02-22,Lambda,2,3.51,57
+1217,Argentina,2021-03-08,Lambda,2,3.08,65
+1241,Argentina,2021-03-22,Lambda,7,3.95,177
+1265,Argentina,2021-04-05,Lambda,26,13.27,196
+1289,Argentina,2021-04-19,Lambda,38,12.75,298
+1313,Argentina,2021-05-03,Lambda,62,18.4,337
+1337,Argentina,2021-05-17,Lambda,54,15.98,338
+1361,Argentina,2021-05-31,Lambda,66,21.93,301
+1385,Argentina,2021-06-14,Lambda,88,21.62,407
+1409,Argentina,2021-06-28,Lambda,78,20.53,380
+1433,Argentina,2021-07-12,Lambda,57,16.01,356
+1457,Argentina,2021-07-26,Lambda,81,24.11,336
+1481,Argentina,2021-08-09,Lambda,92,19.17,480
+1505,Argentina,2021-08-23,Lambda,105,23.49,447
+1529,Argentina,2021-09-06,Lambda,90,20.13,447
+1553,Argentina,2021-09-20,Lambda,62,19.81,313
+1577,Argentina,2021-10-04,Lambda,37,15.61,237
+1601,Argentina,2021-10-18,Lambda,72,19.94,361
+1625,Argentina,2021-11-01,Lambda,42,7.59,553
+1649,Argentina,2021-11-15,Lambda,34,10.24,332
+1673,Argentina,2021-11-29,Lambda,8,6.84,117
+1697,Argentina,2021-12-13,Lambda,2,2.3,87
+1721,Argentina,2021-12-27,Lambda,0,0.0,94
+1745,Aruba,2020-08-17,Lambda,0,0.0,4
+1769,Aruba,2020-08-31,Lambda,0,0.0,1
+1793,Aruba,2021-01-25,Lambda,0,0.0,26
+1817,Aruba,2021-02-08,Lambda,0,0.0,114
+1841,Aruba,2021-02-22,Lambda,0,0.0,154
+1865,Aruba,2021-03-08,Lambda,0,0.0,125
+1889,Aruba,2021-03-22,Lambda,0,0.0,99
+1913,Aruba,2021-04-05,Lambda,0,0.0,92
+1937,Aruba,2021-04-19,Lambda,0,0.0,145
+1961,Aruba,2021-05-03,Lambda,1,0.71,140
+1985,Aruba,2021-05-17,Lambda,0,0.0,101
+2009,Aruba,2021-05-31,Lambda,0,0.0,107
+2033,Aruba,2021-06-14,Lambda,1,1.12,89
+2057,Aruba,2021-06-28,Lambda,0,0.0,24
+2081,Aruba,2021-07-12,Lambda,0,0.0,29
+2105,Aruba,2021-07-26,Lambda,0,0.0,97
+2129,Aruba,2021-08-09,Lambda,0,0.0,341
+2153,Aruba,2021-08-23,Lambda,0,0.0,525
+2177,Aruba,2021-09-06,Lambda,0,0.0,261
+2201,Aruba,2021-09-20,Lambda,0,0.0,140
+2225,Aruba,2021-10-04,Lambda,0,0.0,177
+2249,Aruba,2021-10-18,Lambda,0,0.0,37
+2273,Aruba,2021-11-15,Lambda,0,0.0,68
+2297,Aruba,2021-11-29,Lambda,0,0.0,43
+2321,Aruba,2021-12-13,Lambda,0,0.0,61
+2345,Australia,2020-05-11,Lambda,0,0.0,148
+2369,Australia,2020-05-25,Lambda,0,0.0,103
+2393,Australia,2020-06-08,Lambda,0,0.0,94
+2417,Australia,2020-06-22,Lambda,0,0.0,172
+2441,Australia,2020-07-06,Lambda,0,0.0,814
+2465,Australia,2020-07-20,Lambda,0,0.0,2733
+2489,Australia,2020-08-03,Lambda,0,0.0,4183
+2513,Australia,2020-08-17,Lambda,0,0.0,3020
+2537,Australia,2020-08-31,Lambda,0,0.0,1987
+2561,Australia,2020-09-14,Lambda,0,0.0,770
+2585,Australia,2020-09-28,Lambda,0,0.0,323
+2609,Australia,2020-10-12,Lambda,0,0.0,182
+2633,Australia,2020-10-26,Lambda,0,0.0,132
+2657,Australia,2020-11-09,Lambda,0,0.0,63
+2681,Australia,2020-11-23,Lambda,0,0.0,64
+2705,Australia,2020-12-07,Lambda,0,0.0,49
+2729,Australia,2020-12-21,Lambda,0,0.0,142
+2753,Australia,2021-01-04,Lambda,0,0.0,208
+2777,Australia,2021-01-11,Lambda,0,0.0,74
+2801,Australia,2021-01-25,Lambda,0,0.0,100
+2825,Australia,2021-02-08,Lambda,0,0.0,53
+2849,Australia,2021-02-22,Lambda,0,0.0,80
+2873,Australia,2021-03-08,Lambda,0,0.0,71
+2897,Australia,2021-03-22,Lambda,0,0.0,122
+2921,Australia,2021-04-05,Lambda,1,0.81,123
+2945,Australia,2021-04-19,Lambda,0,0.0,157
+2969,Australia,2021-05-03,Lambda,0,0.0,204
+2993,Australia,2021-05-17,Lambda,0,0.0,117
+3017,Australia,2021-05-31,Lambda,0,0.0,108
+3041,Australia,2021-06-14,Lambda,0,0.0,132
+3065,Australia,2021-06-28,Lambda,0,0.0,247
+3089,Australia,2021-07-12,Lambda,0,0.0,767
+3113,Australia,2021-07-26,Lambda,0,0.0,1742
+3137,Australia,2021-08-09,Lambda,0,0.0,2734
+3161,Australia,2021-08-23,Lambda,0,0.0,3198
+3185,Australia,2021-09-06,Lambda,0,0.0,3744
+3209,Australia,2021-09-20,Lambda,0,0.0,3526
+3233,Australia,2021-10-04,Lambda,0,0.0,1824
+3257,Australia,2021-10-18,Lambda,0,0.0,2410
+3281,Australia,2021-11-01,Lambda,0,0.0,1883
+3305,Australia,2021-11-15,Lambda,0,0.0,2078
+3329,Australia,2021-11-29,Lambda,0,0.0,1992
+3353,Australia,2021-12-13,Lambda,0,0.0,2800
+3377,Australia,2021-12-27,Lambda,0,0.0,1726
+3401,Austria,2020-05-11,Lambda,0,0.0,34
+3425,Austria,2020-05-25,Lambda,0,0.0,41
+3449,Austria,2020-06-08,Lambda,0,0.0,1
+3473,Austria,2020-06-22,Lambda,0,0.0,1
+3497,Austria,2020-07-06,Lambda,0,0.0,2
+3521,Austria,2020-07-20,Lambda,0,0.0,11
+3545,Austria,2020-08-03,Lambda,0,0.0,9
+3569,Austria,2020-08-17,Lambda,0,0.0,22
+3593,Austria,2020-08-31,Lambda,0,0.0,44
+3617,Austria,2020-09-14,Lambda,0,0.0,35
+3641,Austria,2020-09-28,Lambda,0,0.0,39
+3665,Austria,2020-10-12,Lambda,0,0.0,30
+3689,Austria,2020-10-26,Lambda,0,0.0,84
+3713,Austria,2020-11-09,Lambda,0,0.0,181
+3737,Austria,2020-11-23,Lambda,0,0.0,159
+3761,Austria,2020-12-07,Lambda,0,0.0,137
+3785,Austria,2020-12-21,Lambda,0,0.0,45
+3809,Austria,2021-01-04,Lambda,0,0.0,315
+3833,Austria,2021-01-11,Lambda,0,0.0,136
+3857,Austria,2021-01-25,Lambda,0,0.0,250
+3881,Austria,2021-02-08,Lambda,0,0.0,385
+3905,Austria,2021-02-22,Lambda,0,0.0,415
+3929,Austria,2021-03-08,Lambda,0,0.0,464
+3953,Austria,2021-03-22,Lambda,0,0.0,567
+3977,Austria,2021-04-05,Lambda,0,0.0,291
+4001,Austria,2021-04-19,Lambda,0,0.0,353
+4025,Austria,2021-05-03,Lambda,0,0.0,329
+4049,Austria,2021-05-17,Lambda,0,0.0,619
+4073,Austria,2021-05-31,Lambda,0,0.0,389
+4097,Austria,2021-06-14,Lambda,0,0.0,398
+4121,Austria,2021-06-28,Lambda,0,0.0,750
+4145,Austria,2021-07-12,Lambda,0,0.0,505
+4169,Austria,2021-07-26,Lambda,0,0.0,771
+4193,Austria,2021-08-09,Lambda,0,0.0,623
+4217,Austria,2021-08-23,Lambda,0,0.0,623
+4241,Austria,2021-09-06,Lambda,0,0.0,585
+4265,Austria,2021-09-20,Lambda,0,0.0,513
+4289,Austria,2021-10-04,Lambda,0,0.0,444
+4313,Austria,2021-10-18,Lambda,0,0.0,437
+4337,Austria,2021-11-01,Lambda,0,0.0,634
+4361,Austria,2021-11-15,Lambda,0,0.0,561
+4385,Austria,2021-11-29,Lambda,0,0.0,165
+4409,Austria,2021-12-13,Lambda,0,0.0,183
+4433,Bahrain,2020-06-08,Lambda,0,0.0,1
+4457,Bahrain,2020-06-22,Lambda,0,0.0,2
+4481,Bahrain,2020-07-06,Lambda,0,0.0,11
+4505,Bahrain,2020-08-03,Lambda,0,0.0,3
+4529,Bahrain,2020-08-31,Lambda,0,0.0,3
+4553,Bahrain,2020-09-14,Lambda,0,0.0,2
+4577,Bahrain,2020-09-28,Lambda,0,0.0,2
+4601,Bahrain,2020-10-12,Lambda,0,0.0,10
+4625,Bahrain,2020-10-26,Lambda,0,0.0,45
+4649,Bahrain,2020-11-09,Lambda,0,0.0,6
+4673,Bahrain,2020-11-23,Lambda,0,0.0,38
+4697,Bahrain,2021-02-08,Lambda,0,0.0,1
+4721,Bahrain,2021-02-22,Lambda,0,0.0,2
+4745,Bahrain,2021-03-22,Lambda,0,0.0,7
+4769,Bahrain,2021-04-05,Lambda,0,0.0,2
+4793,Bahrain,2021-04-19,Lambda,0,0.0,42
+4817,Bahrain,2021-05-03,Lambda,0,0.0,9
+4841,Bahrain,2021-05-17,Lambda,0,0.0,57
+4865,Bahrain,2021-05-31,Lambda,0,0.0,46
+4889,Bahrain,2021-06-14,Lambda,0,0.0,24
+4913,Bahrain,2021-06-28,Lambda,0,0.0,84
+4937,Bahrain,2021-07-12,Lambda,0,0.0,69
+4961,Bahrain,2021-07-26,Lambda,0,0.0,106
+4985,Bahrain,2021-08-09,Lambda,0,0.0,48
+5009,Bahrain,2021-09-06,Lambda,0,0.0,227
+5033,Bahrain,2021-10-04,Lambda,0,0.0,186
+5057,Bahrain,2021-10-18,Lambda,0,0.0,372
+5081,Bahrain,2021-11-01,Lambda,0,0.0,467
+5105,Bahrain,2021-11-15,Lambda,0,0.0,370
+5129,Bangladesh,2020-05-11,Lambda,0,0.0,124
+5153,Bangladesh,2020-05-25,Lambda,0,0.0,168
+5177,Bangladesh,2020-06-08,Lambda,0,0.0,69
+5201,Bangladesh,2020-06-22,Lambda,0,0.0,111
+5225,Bangladesh,2020-07-06,Lambda,0,0.0,175
+5249,Bangladesh,2020-07-20,Lambda,0,0.0,139
+5273,Bangladesh,2020-08-03,Lambda,0,0.0,66
+5297,Bangladesh,2020-08-17,Lambda,0,0.0,26
+5321,Bangladesh,2020-08-31,Lambda,0,0.0,25
+5345,Bangladesh,2020-09-14,Lambda,0,0.0,35
+5369,Bangladesh,2020-09-28,Lambda,0,0.0,8
+5393,Bangladesh,2020-10-12,Lambda,0,0.0,20
+5417,Bangladesh,2020-10-26,Lambda,0,0.0,15
+5441,Bangladesh,2020-11-09,Lambda,0,0.0,27
+5465,Bangladesh,2020-11-23,Lambda,0,0.0,30
+5489,Bangladesh,2020-12-07,Lambda,0,0.0,57
+5513,Bangladesh,2020-12-21,Lambda,0,0.0,25
+5537,Bangladesh,2021-01-04,Lambda,0,0.0,53
+5561,Bangladesh,2021-01-11,Lambda,0,0.0,15
+5585,Bangladesh,2021-01-25,Lambda,0,0.0,62
+5609,Bangladesh,2021-02-08,Lambda,0,0.0,42
+5633,Bangladesh,2021-02-22,Lambda,0,0.0,36
+5657,Bangladesh,2021-03-08,Lambda,0,0.0,14
+5681,Bangladesh,2021-03-22,Lambda,0,0.0,156
+5705,Bangladesh,2021-04-05,Lambda,0,0.0,87
+5729,Bangladesh,2021-04-19,Lambda,0,0.0,131
+5753,Bangladesh,2021-05-03,Lambda,0,0.0,56
+5777,Bangladesh,2021-05-17,Lambda,0,0.0,58
+5801,Bangladesh,2021-05-31,Lambda,0,0.0,99
+5825,Bangladesh,2021-06-14,Lambda,0,0.0,69
+5849,Bangladesh,2021-06-28,Lambda,0,0.0,112
+5873,Bangladesh,2021-07-12,Lambda,0,0.0,244
+5897,Bangladesh,2021-07-26,Lambda,0,0.0,174
+5921,Bangladesh,2021-08-09,Lambda,0,0.0,149
+5945,Bangladesh,2021-08-23,Lambda,0,0.0,140
+5969,Bangladesh,2021-09-06,Lambda,0,0.0,131
+5993,Bangladesh,2021-09-20,Lambda,0,0.0,126
+6017,Bangladesh,2021-10-04,Lambda,0,0.0,94
+6041,Bangladesh,2021-10-18,Lambda,0,0.0,136
+6065,Bangladesh,2021-11-01,Lambda,0,0.0,94
+6089,Bangladesh,2021-11-15,Lambda,0,0.0,118
+6113,Bangladesh,2021-11-29,Lambda,0,0.0,112
+6137,Bangladesh,2021-12-13,Lambda,0,0.0,45
+6161,Bangladesh,2021-12-27,Lambda,0,0.0,24
+6185,Bangladesh,2022-01-05,Lambda,0,0.0,3
+6209,Belgium,2020-05-11,Lambda,0,0.0,134
+6233,Belgium,2020-05-25,Lambda,0,0.0,67
+6257,Belgium,2020-06-08,Lambda,0,0.0,15
+6281,Belgium,2020-06-22,Lambda,0,0.0,38
+6305,Belgium,2020-07-06,Lambda,0,0.0,39
+6329,Belgium,2020-07-20,Lambda,0,0.0,39
+6353,Belgium,2020-08-03,Lambda,0,0.0,146
+6377,Belgium,2020-08-17,Lambda,0,0.0,130
+6401,Belgium,2020-08-31,Lambda,0,0.0,54
+6425,Belgium,2020-09-14,Lambda,0,0.0,87
+6449,Belgium,2020-09-28,Lambda,0,0.0,246
+6473,Belgium,2020-10-12,Lambda,0,0.0,130
+6497,Belgium,2020-10-26,Lambda,0,0.0,363
+6521,Belgium,2020-11-09,Lambda,0,0.0,204
+6545,Belgium,2020-11-23,Lambda,0,0.0,241
+6569,Belgium,2020-12-07,Lambda,0,0.0,148
+6593,Belgium,2020-12-21,Lambda,0,0.0,347
+6617,Belgium,2021-01-04,Lambda,0,0.0,242
+6641,Belgium,2021-01-11,Lambda,0,0.0,293
+6665,Belgium,2021-01-25,Lambda,0,0.0,1378
+6689,Belgium,2021-02-08,Lambda,0,0.0,1820
+6713,Belgium,2021-02-22,Lambda,0,0.0,1808
+6737,Belgium,2021-03-08,Lambda,0,0.0,2237
+6761,Belgium,2021-03-22,Lambda,0,0.0,2935
+6785,Belgium,2021-04-05,Lambda,0,0.0,3438
+6809,Belgium,2021-04-19,Lambda,0,0.0,2911
+6833,Belgium,2021-05-03,Lambda,0,0.0,3338
+6857,Belgium,2021-05-17,Lambda,0,0.0,3108
+6881,Belgium,2021-05-31,Lambda,0,0.0,2952
+6905,Belgium,2021-06-14,Lambda,0,0.0,1995
+6929,Belgium,2021-06-28,Lambda,2,0.17,1181
+6953,Belgium,2021-07-12,Lambda,1,0.04,2640
+6977,Belgium,2021-07-26,Lambda,6,0.15,3960
+7001,Belgium,2021-08-09,Lambda,1,0.02,4006
+7025,Belgium,2021-08-23,Lambda,0,0.0,4534
+7049,Belgium,2021-09-06,Lambda,0,0.0,4495
+7073,Belgium,2021-09-20,Lambda,0,0.0,3113
+7097,Belgium,2021-10-04,Lambda,0,0.0,2926
+7121,Belgium,2021-10-18,Lambda,0,0.0,3315
+7145,Belgium,2021-11-01,Lambda,0,0.0,3530
+7169,Belgium,2021-11-15,Lambda,0,0.0,2729
+7193,Belgium,2021-11-29,Lambda,0,0.0,3076
+7217,Belgium,2021-12-13,Lambda,0,0.0,3087
+7241,Belgium,2021-12-27,Lambda,0,0.0,1493
+7265,Belgium,2022-01-05,Lambda,0,0.0,59
+7289,Belize,2020-08-17,Lambda,0,0.0,4
+7313,Belize,2020-08-31,Lambda,0,0.0,1
+7337,Belize,2020-09-28,Lambda,0,0.0,2
+7361,Belize,2020-10-12,Lambda,0,0.0,4
+7385,Belize,2020-10-26,Lambda,0,0.0,6
+7409,Belize,2020-11-09,Lambda,0,0.0,1
+7433,Belize,2020-12-21,Lambda,0,0.0,7
+7457,Belize,2021-01-04,Lambda,0,0.0,14
+7481,Belize,2021-01-11,Lambda,0,0.0,7
+7505,Belize,2021-01-25,Lambda,0,0.0,16
+7529,Belize,2021-02-08,Lambda,0,0.0,26
+7553,Belize,2021-02-22,Lambda,0,0.0,11
+7577,Belize,2021-03-08,Lambda,0,0.0,3
+7601,Belize,2021-03-22,Lambda,0,0.0,2
+7625,Belize,2021-04-19,Lambda,0,0.0,3
+7649,Belize,2021-05-03,Lambda,0,0.0,1
+7673,Belize,2021-05-17,Lambda,0,0.0,15
+7697,Belize,2021-05-31,Lambda,0,0.0,3
+7721,Belize,2021-06-14,Lambda,0,0.0,1
+7745,Belize,2021-06-28,Lambda,0,0.0,32
+7769,Belize,2021-07-12,Lambda,0,0.0,18
+7793,Belize,2021-07-26,Lambda,0,0.0,58
+7817,Belize,2021-08-09,Lambda,0,0.0,63
+7841,Belize,2021-08-23,Lambda,0,0.0,16
+7865,Benin,2021-02-08,Lambda,0,0.0,109
+7889,Benin,2021-03-08,Lambda,0,0.0,121
+7913,Benin,2021-04-05,Lambda,0,0.0,176
+7937,Benin,2021-04-19,Lambda,0,0.0,8
+7961,Benin,2021-05-03,Lambda,0,0.0,25
+7985,Benin,2021-05-17,Lambda,0,0.0,32
+8009,Benin,2021-05-31,Lambda,0,0.0,27
+8033,Benin,2021-06-14,Lambda,0,0.0,9
+8057,Benin,2021-06-28,Lambda,0,0.0,14
+8081,Benin,2021-07-12,Lambda,0,0.0,28
+8105,Benin,2021-07-26,Lambda,0,0.0,36
+8129,Benin,2021-08-09,Lambda,0,0.0,34
+8153,Benin,2021-08-23,Lambda,0,0.0,74
+8177,Benin,2021-09-06,Lambda,0,0.0,57
+8201,Bosnia and Herzegovina,2020-05-11,Lambda,0,0.0,1
+8225,Bosnia and Herzegovina,2020-06-08,Lambda,0,0.0,2
+8249,Bosnia and Herzegovina,2020-07-20,Lambda,0,0.0,1
+8273,Bosnia and Herzegovina,2020-08-31,Lambda,0,0.0,1
+8297,Bosnia and Herzegovina,2020-09-14,Lambda,0,0.0,1
+8321,Bosnia and Herzegovina,2020-09-28,Lambda,0,0.0,1
+8345,Bosnia and Herzegovina,2020-10-12,Lambda,0,0.0,1
+8369,Bosnia and Herzegovina,2020-11-09,Lambda,0,0.0,2
+8393,Bosnia and Herzegovina,2020-11-23,Lambda,0,0.0,2
+8417,Bosnia and Herzegovina,2020-12-07,Lambda,0,0.0,3
+8441,Bosnia and Herzegovina,2020-12-21,Lambda,0,0.0,1
+8465,Bosnia and Herzegovina,2021-01-04,Lambda,0,0.0,2
+8489,Bosnia and Herzegovina,2021-01-11,Lambda,0,0.0,5
+8513,Bosnia and Herzegovina,2021-01-25,Lambda,0,0.0,12
+8537,Bosnia and Herzegovina,2021-02-08,Lambda,0,0.0,5
+8561,Bosnia and Herzegovina,2021-02-22,Lambda,0,0.0,11
+8585,Bosnia and Herzegovina,2021-03-08,Lambda,0,0.0,16
+8609,Bosnia and Herzegovina,2021-03-22,Lambda,0,0.0,9
+8633,Bosnia and Herzegovina,2021-04-05,Lambda,0,0.0,3
+8657,Bosnia and Herzegovina,2021-04-19,Lambda,0,0.0,17
+8681,Bosnia and Herzegovina,2021-05-17,Lambda,0,0.0,2
+8705,Bosnia and Herzegovina,2021-05-31,Lambda,0,0.0,1
+8729,Bosnia and Herzegovina,2021-06-14,Lambda,0,0.0,23
+8753,Bosnia and Herzegovina,2021-06-28,Lambda,0,0.0,16
+8777,Bosnia and Herzegovina,2021-07-12,Lambda,0,0.0,21
+8801,Bosnia and Herzegovina,2021-07-26,Lambda,0,0.0,12
+8825,Bosnia and Herzegovina,2021-08-09,Lambda,0,0.0,9
+8849,Bosnia and Herzegovina,2021-08-23,Lambda,0,0.0,7
+8873,Bosnia and Herzegovina,2021-09-06,Lambda,0,0.0,1
+8897,Bosnia and Herzegovina,2021-09-20,Lambda,0,0.0,2
+8921,Bosnia and Herzegovina,2021-10-04,Lambda,0,0.0,42
+8945,Bosnia and Herzegovina,2021-10-18,Lambda,0,0.0,184
+8969,Bosnia and Herzegovina,2021-11-01,Lambda,0,0.0,124
+8993,Bosnia and Herzegovina,2021-11-15,Lambda,0,0.0,164
+9017,Bosnia and Herzegovina,2021-11-29,Lambda,0,0.0,123
+9041,Bosnia and Herzegovina,2021-12-13,Lambda,0,0.0,165
+9065,Botswana,2020-09-14,Lambda,0,0.0,1
+9089,Botswana,2020-09-28,Lambda,0,0.0,10
+9113,Botswana,2020-10-12,Lambda,0,0.0,6
+9137,Botswana,2020-10-26,Lambda,0,0.0,6
+9161,Botswana,2020-11-09,Lambda,0,0.0,6
+9185,Botswana,2020-11-23,Lambda,0,0.0,8
+9209,Botswana,2020-12-07,Lambda,0,0.0,10
+9233,Botswana,2020-12-21,Lambda,0,0.0,17
+9257,Botswana,2021-01-04,Lambda,0,0.0,13
+9281,Botswana,2021-01-11,Lambda,0,0.0,6
+9305,Botswana,2021-01-25,Lambda,0,0.0,66
+9329,Botswana,2021-02-08,Lambda,0,0.0,29
+9353,Botswana,2021-02-22,Lambda,0,0.0,10
+9377,Botswana,2021-03-08,Lambda,0,0.0,11
+9401,Botswana,2021-03-22,Lambda,0,0.0,64
+9425,Botswana,2021-04-05,Lambda,0,0.0,7
+9449,Botswana,2021-05-03,Lambda,0,0.0,7
+9473,Botswana,2021-05-17,Lambda,0,0.0,19
+9497,Botswana,2021-05-31,Lambda,0,0.0,48
+9521,Botswana,2021-06-14,Lambda,0,0.0,102
+9545,Botswana,2021-06-28,Lambda,0,0.0,196
+9569,Botswana,2021-07-12,Lambda,0,0.0,106
+9593,Botswana,2021-07-26,Lambda,0,0.0,68
+9617,Botswana,2021-08-09,Lambda,0,0.0,38
+9641,Botswana,2021-08-23,Lambda,0,0.0,82
+9665,Botswana,2021-09-06,Lambda,0,0.0,294
+9689,Botswana,2021-09-20,Lambda,0,0.0,112
+9713,Botswana,2021-10-04,Lambda,0,0.0,58
+9737,Botswana,2021-10-18,Lambda,0,0.0,92
+9761,Botswana,2021-11-01,Lambda,0,0.0,53
+9785,Botswana,2021-11-15,Lambda,0,0.0,116
+9809,Botswana,2021-11-29,Lambda,0,0.0,124
+9833,Botswana,2021-12-13,Lambda,0,0.0,272
+9857,Botswana,2021-12-27,Lambda,0,0.0,143
+9881,Brazil,2020-05-11,Lambda,0,0.0,311
+9905,Brazil,2020-05-25,Lambda,0,0.0,183
+9929,Brazil,2020-06-08,Lambda,0,0.0,194
+9953,Brazil,2020-06-22,Lambda,0,0.0,179
+9977,Brazil,2020-07-06,Lambda,0,0.0,296
+10001,Brazil,2020-07-20,Lambda,0,0.0,168
+10025,Brazil,2020-08-03,Lambda,0,0.0,224
+10049,Brazil,2020-08-17,Lambda,0,0.0,231
+10073,Brazil,2020-08-31,Lambda,0,0.0,157
+10097,Brazil,2020-09-14,Lambda,0,0.0,221
+10121,Brazil,2020-09-28,Lambda,0,0.0,195
+10145,Brazil,2020-10-12,Lambda,0,0.0,196
+10169,Brazil,2020-10-26,Lambda,0,0.0,202
+10193,Brazil,2020-11-09,Lambda,0,0.0,238
+10217,Brazil,2020-11-23,Lambda,0,0.0,361
+10241,Brazil,2020-12-07,Lambda,0,0.0,513
+10265,Brazil,2020-12-21,Lambda,0,0.0,469
+10289,Brazil,2021-01-04,Lambda,0,0.0,578
+10313,Brazil,2021-01-11,Lambda,0,0.0,510
+10337,Brazil,2021-01-25,Lambda,0,0.0,888
+10361,Brazil,2021-02-08,Lambda,0,0.0,991
+10385,Brazil,2021-02-22,Lambda,0,0.0,1270
+10409,Brazil,2021-03-08,Lambda,3,0.17,1817
+10433,Brazil,2021-03-22,Lambda,0,0.0,1929
+10457,Brazil,2021-04-05,Lambda,0,0.0,2797
+10481,Brazil,2021-04-19,Lambda,0,0.0,3791
+10505,Brazil,2021-05-03,Lambda,0,0.0,3804
+10529,Brazil,2021-05-17,Lambda,0,0.0,3247
+10553,Brazil,2021-05-31,Lambda,6,0.15,4137
+10577,Brazil,2021-06-14,Lambda,6,0.12,5088
+10601,Brazil,2021-06-28,Lambda,2,0.04,4466
+10625,Brazil,2021-07-12,Lambda,2,0.04,5548
+10649,Brazil,2021-07-26,Lambda,1,0.02,5381
+10673,Brazil,2021-08-09,Lambda,0,0.0,5217
+10697,Brazil,2021-08-23,Lambda,1,0.02,4130
+10721,Brazil,2021-09-06,Lambda,0,0.0,5469
+10745,Brazil,2021-09-20,Lambda,0,0.0,5701
+10769,Brazil,2021-10-04,Lambda,0,0.0,4572
+10793,Brazil,2021-10-18,Lambda,0,0.0,4449
+10817,Brazil,2021-11-01,Lambda,0,0.0,3014
+10841,Brazil,2021-11-15,Lambda,0,0.0,2757
+10865,Brazil,2021-11-29,Lambda,0,0.0,2547
+10889,Brazil,2021-12-13,Lambda,0,0.0,1332
+10913,Brazil,2021-12-27,Lambda,0,0.0,252
+10937,Brunei,2021-01-04,Lambda,0,0.0,2
+10961,Brunei,2021-01-25,Lambda,0,0.0,1
+10985,Brunei,2021-02-08,Lambda,0,0.0,2
+11009,Brunei,2021-07-26,Lambda,0,0.0,16
+11033,Brunei,2021-08-23,Lambda,0,0.0,12
+11057,Brunei,2021-11-01,Lambda,0,0.0,12
+11081,Brunei,2021-11-15,Lambda,0,0.0,118
+11105,Brunei,2021-11-29,Lambda,0,0.0,125
+11129,Brunei,2021-12-13,Lambda,0,0.0,32
+11153,Brunei,2021-12-27,Lambda,0,0.0,11
+11177,Bulgaria,2020-05-11,Lambda,0,0.0,3
+11201,Bulgaria,2020-05-25,Lambda,0,0.0,3
+11225,Bulgaria,2020-07-20,Lambda,0,0.0,1
+11249,Bulgaria,2020-08-03,Lambda,0,0.0,1
+11273,Bulgaria,2020-08-17,Lambda,0,0.0,6
+11297,Bulgaria,2020-08-31,Lambda,0,0.0,3
+11321,Bulgaria,2020-09-14,Lambda,0,0.0,5
+11345,Bulgaria,2020-09-28,Lambda,0,0.0,4
+11369,Bulgaria,2020-10-12,Lambda,0,0.0,2
+11393,Bulgaria,2020-10-26,Lambda,0,0.0,2
+11417,Bulgaria,2020-11-09,Lambda,0,0.0,5
+11441,Bulgaria,2020-11-23,Lambda,0,0.0,5
+11465,Bulgaria,2020-12-07,Lambda,0,0.0,7
+11489,Bulgaria,2020-12-21,Lambda,0,0.0,50
+11513,Bulgaria,2021-01-04,Lambda,0,0.0,39
+11537,Bulgaria,2021-01-11,Lambda,0,0.0,56
+11561,Bulgaria,2021-01-25,Lambda,0,0.0,92
+11585,Bulgaria,2021-02-08,Lambda,0,0.0,220
+11609,Bulgaria,2021-02-22,Lambda,0,0.0,251
+11633,Bulgaria,2021-03-08,Lambda,0,0.0,407
+11657,Bulgaria,2021-03-22,Lambda,0,0.0,630
+11681,Bulgaria,2021-04-05,Lambda,0,0.0,557
+11705,Bulgaria,2021-04-19,Lambda,0,0.0,371
+11729,Bulgaria,2021-05-03,Lambda,0,0.0,253
+11753,Bulgaria,2021-05-17,Lambda,0,0.0,118
+11777,Bulgaria,2021-05-31,Lambda,0,0.0,38
+11801,Bulgaria,2021-06-14,Lambda,0,0.0,103
+11825,Bulgaria,2021-06-28,Lambda,0,0.0,125
+11849,Bulgaria,2021-07-12,Lambda,0,0.0,176
+11873,Bulgaria,2021-07-26,Lambda,0,0.0,239
+11897,Bulgaria,2021-08-09,Lambda,0,0.0,494
+11921,Bulgaria,2021-08-23,Lambda,0,0.0,798
+11945,Bulgaria,2021-09-06,Lambda,0,0.0,863
+11969,Bulgaria,2021-09-20,Lambda,0,0.0,739
+11993,Bulgaria,2021-10-04,Lambda,0,0.0,881
+12017,Bulgaria,2021-10-18,Lambda,0,0.0,996
+12041,Bulgaria,2021-11-01,Lambda,0,0.0,1024
+12065,Bulgaria,2021-11-15,Lambda,0,0.0,547
+12089,Bulgaria,2021-11-29,Lambda,0,0.0,120
+12113,Cambodia,2020-11-09,Lambda,0,0.0,2
+12137,Cambodia,2020-11-23,Lambda,0,0.0,4
+12161,Cambodia,2020-12-07,Lambda,0,0.0,15
+12185,Cambodia,2020-12-21,Lambda,0,0.0,1
+12209,Cambodia,2021-01-04,Lambda,0,0.0,5
+12233,Cambodia,2021-01-25,Lambda,0,0.0,2
+12257,Cambodia,2021-02-08,Lambda,0,0.0,3
+12281,Cambodia,2021-02-22,Lambda,0,0.0,12
+12305,Cambodia,2021-03-08,Lambda,0,0.0,14
+12329,Cambodia,2021-03-22,Lambda,0,0.0,13
+12353,Cambodia,2021-04-05,Lambda,0,0.0,3
+12377,Cambodia,2021-04-19,Lambda,0,0.0,39
+12401,Cambodia,2021-05-03,Lambda,0,0.0,56
+12425,Cambodia,2021-05-17,Lambda,0,0.0,52
+12449,Cambodia,2021-05-31,Lambda,0,0.0,69
+12473,Cambodia,2021-06-14,Lambda,0,0.0,76
+12497,Cambodia,2021-06-28,Lambda,0,0.0,94
+12521,Cambodia,2021-07-12,Lambda,0,0.0,81
+12545,Cambodia,2021-07-26,Lambda,0,0.0,121
+12569,Cambodia,2021-08-09,Lambda,0,0.0,87
+12593,Cambodia,2021-08-23,Lambda,0,0.0,106
+12617,Cambodia,2021-09-06,Lambda,0,0.0,96
+12641,Cambodia,2021-09-20,Lambda,0,0.0,132
+12665,Cambodia,2021-10-04,Lambda,0,0.0,107
+12689,Cambodia,2021-10-18,Lambda,0,0.0,135
+12713,Cambodia,2021-11-01,Lambda,0,0.0,135
+12737,Cambodia,2021-11-15,Lambda,0,0.0,143
+12761,Cambodia,2021-11-29,Lambda,0,0.0,149
+12785,Cambodia,2021-12-13,Lambda,0,0.0,130
+12809,Cambodia,2021-12-27,Lambda,0,0.0,96
+12833,Cameroon,2020-05-11,Lambda,0,0.0,4
+12857,Cameroon,2020-05-25,Lambda,0,0.0,8
+12881,Cameroon,2020-06-22,Lambda,0,0.0,4
+12905,Cameroon,2020-08-17,Lambda,0,0.0,2
+12929,Cameroon,2020-10-26,Lambda,0,0.0,1
+12953,Cameroon,2020-11-09,Lambda,0,0.0,4
+12977,Cameroon,2020-11-23,Lambda,0,0.0,7
+13001,Cameroon,2020-12-07,Lambda,0,0.0,2
+13025,Cameroon,2020-12-21,Lambda,0,0.0,4
+13049,Cameroon,2021-01-04,Lambda,0,0.0,23
+13073,Cameroon,2021-01-11,Lambda,0,0.0,9
+13097,Cameroon,2021-01-25,Lambda,0,0.0,23
+13121,Cameroon,2021-02-08,Lambda,0,0.0,51
+13145,Cameroon,2021-02-22,Lambda,0,0.0,19
+13169,Cameroon,2021-03-08,Lambda,0,0.0,27
+13193,Cameroon,2021-03-22,Lambda,0,0.0,5
+13217,Cameroon,2021-04-19,Lambda,0,0.0,7
+13241,Cameroon,2021-08-09,Lambda,0,0.0,3
+13265,Cameroon,2021-08-23,Lambda,0,0.0,57
+13289,Cameroon,2021-09-06,Lambda,0,0.0,116
+13313,Cameroon,2021-09-20,Lambda,0,0.0,106
+13337,Cameroon,2021-10-04,Lambda,0,0.0,54
+13361,Canada,2020-05-11,Lambda,0,0.0,903
+13385,Canada,2020-05-25,Lambda,0,0.0,597
+13409,Canada,2020-06-08,Lambda,0,0.0,211
+13433,Canada,2020-06-22,Lambda,0,0.0,203
+13457,Canada,2020-07-06,Lambda,0,0.0,107
+13481,Canada,2020-07-20,Lambda,0,0.0,204
+13505,Canada,2020-08-03,Lambda,0,0.0,295
+13529,Canada,2020-08-17,Lambda,0,0.0,586
+13553,Canada,2020-08-31,Lambda,0,0.0,737
+13577,Canada,2020-09-14,Lambda,0,0.0,728
+13601,Canada,2020-09-28,Lambda,0,0.0,758
+13625,Canada,2020-10-12,Lambda,0,0.0,1061
+13649,Canada,2020-10-26,Lambda,0,0.0,1096
+13673,Canada,2020-11-09,Lambda,0,0.0,1442
+13697,Canada,2020-11-23,Lambda,0,0.0,1937
+13721,Canada,2020-12-07,Lambda,0,0.0,2316
+13745,Canada,2020-12-21,Lambda,0,0.0,2431
+13769,Canada,2021-01-04,Lambda,0,0.0,2565
+13793,Canada,2021-01-11,Lambda,0,0.0,2004
+13817,Canada,2021-01-25,Lambda,0,0.0,4574
+13841,Canada,2021-02-08,Lambda,0,0.0,3026
+13865,Canada,2021-02-22,Lambda,1,0.03,3951
+13889,Canada,2021-03-08,Lambda,1,0.02,4581
+13913,Canada,2021-03-22,Lambda,5,0.07,7112
+13937,Canada,2021-04-05,Lambda,5,0.05,9805
+13961,Canada,2021-04-19,Lambda,8,0.08,10654
+13985,Canada,2021-05-03,Lambda,3,0.03,11006
+14009,Canada,2021-05-17,Lambda,3,0.03,8584
+14033,Canada,2021-05-31,Lambda,0,0.0,5887
+14057,Canada,2021-06-14,Lambda,0,0.0,4215
+14081,Canada,2021-06-28,Lambda,1,0.03,3712
+14105,Canada,2021-07-12,Lambda,0,0.0,1536
+14129,Canada,2021-07-26,Lambda,0,0.0,2454
+14153,Canada,2021-08-09,Lambda,0,0.0,7056
+14177,Canada,2021-08-23,Lambda,0,0.0,13081
+14201,Canada,2021-09-06,Lambda,0,0.0,13793
+14225,Canada,2021-09-20,Lambda,0,0.0,8908
+14249,Canada,2021-10-04,Lambda,0,0.0,7154
+14273,Canada,2021-10-18,Lambda,0,0.0,8016
+14297,Canada,2021-11-01,Lambda,0,0.0,6544
+14321,Canada,2021-11-15,Lambda,0,0.0,5627
+14345,Canada,2021-11-29,Lambda,0,0.0,5146
+14369,Canada,2021-12-13,Lambda,0,0.0,5219
+14393,Canada,2021-12-27,Lambda,0,0.0,63
+14417,Chile,2020-05-11,Lambda,0,0.0,106
+14441,Chile,2020-05-25,Lambda,0,0.0,84
+14465,Chile,2020-06-08,Lambda,0,0.0,81
+14489,Chile,2020-06-22,Lambda,0,0.0,8
+14513,Chile,2020-07-06,Lambda,0,0.0,61
+14537,Chile,2020-07-20,Lambda,0,0.0,35
+14561,Chile,2020-08-03,Lambda,0,0.0,36
+14585,Chile,2020-08-17,Lambda,0,0.0,25
+14609,Chile,2020-08-31,Lambda,0,0.0,65
+14633,Chile,2020-09-14,Lambda,0,0.0,54
+14657,Chile,2020-09-28,Lambda,0,0.0,44
+14681,Chile,2020-10-12,Lambda,0,0.0,66
+14705,Chile,2020-10-26,Lambda,0,0.0,47
+14729,Chile,2020-11-09,Lambda,0,0.0,10
+14753,Chile,2020-11-23,Lambda,0,0.0,17
+14777,Chile,2020-12-07,Lambda,0,0.0,8
+14801,Chile,2020-12-21,Lambda,0,0.0,27
+14825,Chile,2021-01-04,Lambda,0,0.0,79
+14849,Chile,2021-01-11,Lambda,0,0.0,50
+14873,Chile,2021-01-25,Lambda,2,3.39,59
+14897,Chile,2021-02-08,Lambda,2,3.57,56
+14921,Chile,2021-02-22,Lambda,7,7.22,97
+14945,Chile,2021-03-08,Lambda,13,15.29,85
+14969,Chile,2021-03-22,Lambda,39,27.86,140
+14993,Chile,2021-04-05,Lambda,94,35.34,266
+15017,Chile,2021-04-19,Lambda,142,39.55,359
+15041,Chile,2021-05-03,Lambda,166,29.38,565
+15065,Chile,2021-05-17,Lambda,229,36.64,625
+15089,Chile,2021-05-31,Lambda,125,28.74,435
+15113,Chile,2021-06-14,Lambda,154,24.6,626
+15137,Chile,2021-06-28,Lambda,159,22.11,719
+15161,Chile,2021-07-12,Lambda,171,19.75,866
+15185,Chile,2021-07-26,Lambda,121,21.3,568
+15209,Chile,2021-08-09,Lambda,139,17.62,789
+15233,Chile,2021-08-23,Lambda,126,14.33,879
+15257,Chile,2021-09-06,Lambda,48,4.36,1101
+15281,Chile,2021-09-20,Lambda,20,1.64,1223
+15305,Chile,2021-10-04,Lambda,7,0.37,1879
+15329,Chile,2021-10-18,Lambda,6,0.44,1365
+15353,Chile,2021-11-01,Lambda,0,0.0,1295
+15377,Chile,2021-11-15,Lambda,3,0.3,999
+15401,Chile,2021-11-29,Lambda,0,0.0,573
+15425,Chile,2021-12-13,Lambda,1,0.22,459
+15449,Chile,2021-12-27,Lambda,1,0.2,504
+15473,Colombia,2020-05-11,Lambda,0,0.0,81
+15497,Colombia,2020-05-25,Lambda,0,0.0,2
+15521,Colombia,2020-06-08,Lambda,0,0.0,8
+15545,Colombia,2020-06-22,Lambda,0,0.0,14
+15569,Colombia,2020-07-06,Lambda,0,0.0,29
+15593,Colombia,2020-07-20,Lambda,0,0.0,28
+15617,Colombia,2020-08-03,Lambda,0,0.0,8
+15641,Colombia,2020-08-17,Lambda,0,0.0,20
+15665,Colombia,2020-08-31,Lambda,0,0.0,5
+15689,Colombia,2020-09-14,Lambda,0,0.0,14
+15713,Colombia,2020-09-28,Lambda,0,0.0,5
+15737,Colombia,2020-10-12,Lambda,0,0.0,20
+15761,Colombia,2020-10-26,Lambda,0,0.0,8
+15785,Colombia,2020-11-09,Lambda,0,0.0,6
+15809,Colombia,2020-11-23,Lambda,0,0.0,12
+15833,Colombia,2020-12-07,Lambda,0,0.0,18
+15857,Colombia,2020-12-21,Lambda,0,0.0,32
+15881,Colombia,2021-01-04,Lambda,0,0.0,87
+15905,Colombia,2021-01-11,Lambda,0,0.0,48
+15929,Colombia,2021-01-25,Lambda,0,0.0,83
+15953,Colombia,2021-02-08,Lambda,0,0.0,30
+15977,Colombia,2021-02-22,Lambda,0,0.0,24
+16001,Colombia,2021-03-08,Lambda,0,0.0,73
+16025,Colombia,2021-03-22,Lambda,1,1.27,79
+16049,Colombia,2021-04-05,Lambda,5,3.12,160
+16073,Colombia,2021-04-19,Lambda,18,2.24,803
+16097,Colombia,2021-05-03,Lambda,25,5.79,432
+16121,Colombia,2021-05-17,Lambda,20,5.33,375
+16145,Colombia,2021-05-31,Lambda,10,5.15,194
+16169,Colombia,2021-06-14,Lambda,12,4.24,283
+16193,Colombia,2021-06-28,Lambda,6,2.68,224
+16217,Colombia,2021-07-12,Lambda,10,2.16,462
+16241,Colombia,2021-07-26,Lambda,14,1.52,920
+16265,Colombia,2021-08-09,Lambda,14,1.81,775
+16289,Colombia,2021-08-23,Lambda,8,1.04,768
+16313,Colombia,2021-09-06,Lambda,3,0.55,542
+16337,Colombia,2021-09-20,Lambda,1,0.24,423
+16361,Colombia,2021-10-04,Lambda,0,0.0,800
+16385,Colombia,2021-10-18,Lambda,0,0.0,652
+16409,Colombia,2021-11-01,Lambda,0,0.0,585
+16433,Colombia,2021-11-15,Lambda,0,0.0,616
+16457,Colombia,2021-11-29,Lambda,0,0.0,318
+16481,Colombia,2021-12-13,Lambda,0,0.0,112
+16505,Colombia,2021-12-27,Lambda,0,0.0,107
+16529,Costa Rica,2020-06-08,Lambda,0,0.0,8
+16553,Costa Rica,2020-06-22,Lambda,0,0.0,15
+16577,Costa Rica,2020-07-06,Lambda,0,0.0,19
+16601,Costa Rica,2020-07-20,Lambda,0,0.0,22
+16625,Costa Rica,2020-08-03,Lambda,0,0.0,13
+16649,Costa Rica,2020-08-17,Lambda,0,0.0,13
+16673,Costa Rica,2020-08-31,Lambda,0,0.0,3
+16697,Costa Rica,2020-09-14,Lambda,0,0.0,7
+16721,Costa Rica,2020-09-28,Lambda,0,0.0,6
+16745,Costa Rica,2020-10-12,Lambda,0,0.0,9
+16769,Costa Rica,2020-10-26,Lambda,0,0.0,7
+16793,Costa Rica,2020-11-09,Lambda,0,0.0,8
+16817,Costa Rica,2020-11-23,Lambda,0,0.0,10
+16841,Costa Rica,2020-12-07,Lambda,0,0.0,9
+16865,Costa Rica,2020-12-21,Lambda,0,0.0,14
+16889,Costa Rica,2021-01-04,Lambda,0,0.0,37
+16913,Costa Rica,2021-01-11,Lambda,0,0.0,10
+16937,Costa Rica,2021-01-25,Lambda,0,0.0,41
+16961,Costa Rica,2021-02-08,Lambda,0,0.0,27
+16985,Costa Rica,2021-02-22,Lambda,0,0.0,35
+17009,Costa Rica,2021-03-08,Lambda,0,0.0,66
+17033,Costa Rica,2021-03-22,Lambda,0,0.0,80
+17057,Costa Rica,2021-04-05,Lambda,0,0.0,58
+17081,Costa Rica,2021-04-19,Lambda,0,0.0,71
+17105,Costa Rica,2021-05-03,Lambda,0,0.0,57
+17129,Costa Rica,2021-05-17,Lambda,0,0.0,33
+17153,Costa Rica,2021-05-31,Lambda,0,0.0,47
+17177,Costa Rica,2021-06-14,Lambda,0,0.0,33
+17201,Costa Rica,2021-06-28,Lambda,1,1.79,56
+17225,Costa Rica,2021-07-12,Lambda,2,2.38,84
+17249,Costa Rica,2021-07-26,Lambda,2,2.27,88
+17273,Costa Rica,2021-08-09,Lambda,4,2.9,138
+17297,Costa Rica,2021-08-23,Lambda,5,3.7,135
+17321,Costa Rica,2021-09-06,Lambda,3,4.35,69
+17345,Costa Rica,2021-09-20,Lambda,0,0.0,92
+17369,Costa Rica,2021-10-04,Lambda,0,0.0,71
+17393,Costa Rica,2021-10-18,Lambda,0,0.0,150
+17417,Costa Rica,2021-11-01,Lambda,0,0.0,147
+17441,Costa Rica,2021-11-15,Lambda,0,0.0,156
+17465,Costa Rica,2021-11-29,Lambda,0,0.0,108
+17489,Costa Rica,2021-12-13,Lambda,0,0.0,60
+17513,Costa Rica,2021-12-27,Lambda,0,0.0,41
+17537,Croatia,2020-08-17,Lambda,0,0.0,1
+17561,Croatia,2020-08-31,Lambda,0,0.0,3
+17585,Croatia,2020-09-14,Lambda,0,0.0,11
+17609,Croatia,2020-09-28,Lambda,0,0.0,1
+17633,Croatia,2020-10-12,Lambda,0,0.0,12
+17657,Croatia,2020-11-23,Lambda,0,0.0,29
+17681,Croatia,2020-12-21,Lambda,0,0.0,1
+17705,Croatia,2021-01-04,Lambda,0,0.0,8
+17729,Croatia,2021-01-11,Lambda,0,0.0,11
+17753,Croatia,2021-01-25,Lambda,0,0.0,45
+17777,Croatia,2021-02-08,Lambda,0,0.0,159
+17801,Croatia,2021-02-22,Lambda,0,0.0,394
+17825,Croatia,2021-03-08,Lambda,0,0.0,582
+17849,Croatia,2021-03-22,Lambda,0,0.0,626
+17873,Croatia,2021-04-05,Lambda,0,0.0,749
+17897,Croatia,2021-04-19,Lambda,0,0.0,375
+17921,Croatia,2021-05-03,Lambda,0,0.0,786
+17945,Croatia,2021-05-17,Lambda,0,0.0,639
+17969,Croatia,2021-05-31,Lambda,0,0.0,370
+17993,Croatia,2021-06-14,Lambda,0,0.0,311
+18017,Croatia,2021-06-28,Lambda,0,0.0,162
+18041,Croatia,2021-07-12,Lambda,0,0.0,369
+18065,Croatia,2021-07-26,Lambda,0,0.0,407
+18089,Croatia,2021-08-09,Lambda,0,0.0,511
+18113,Croatia,2021-08-23,Lambda,0,0.0,770
+18137,Croatia,2021-09-06,Lambda,0,0.0,993
+18161,Croatia,2021-09-20,Lambda,0,0.0,739
+18185,Croatia,2021-10-04,Lambda,0,0.0,692
+18209,Croatia,2021-10-18,Lambda,0,0.0,661
+18233,Croatia,2021-11-01,Lambda,0,0.0,640
+18257,Croatia,2021-11-15,Lambda,0,0.0,742
+18281,Croatia,2021-11-29,Lambda,0,0.0,835
+18305,Croatia,2021-12-13,Lambda,0,0.0,935
+18329,Curacao,2020-08-17,Lambda,0,0.0,3
+18353,Curacao,2020-10-12,Lambda,0,0.0,1
+18377,Curacao,2020-10-26,Lambda,0,0.0,3
+18401,Curacao,2020-11-09,Lambda,0,0.0,8
+18425,Curacao,2020-11-23,Lambda,0,0.0,4
+18449,Curacao,2020-12-07,Lambda,0,0.0,2
+18473,Curacao,2020-12-21,Lambda,0,0.0,8
+18497,Curacao,2021-01-04,Lambda,0,0.0,5
+18521,Curacao,2021-01-11,Lambda,0,0.0,6
+18545,Curacao,2021-01-25,Lambda,0,0.0,15
+18569,Curacao,2021-02-08,Lambda,0,0.0,15
+18593,Curacao,2021-02-22,Lambda,0,0.0,36
+18617,Curacao,2021-03-08,Lambda,0,0.0,50
+18641,Curacao,2021-03-22,Lambda,0,0.0,55
+18665,Curacao,2021-04-05,Lambda,0,0.0,57
+18689,Curacao,2021-04-19,Lambda,0,0.0,61
+18713,Curacao,2021-05-03,Lambda,0,0.0,45
+18737,Curacao,2021-05-17,Lambda,0,0.0,25
+18761,Curacao,2021-05-31,Lambda,0,0.0,10
+18785,Curacao,2021-06-14,Lambda,0,0.0,4
+18809,Curacao,2021-06-28,Lambda,0,0.0,16
+18833,Curacao,2021-07-12,Lambda,0,0.0,38
+18857,Curacao,2021-07-26,Lambda,0,0.0,67
+18881,Curacao,2021-08-09,Lambda,0,0.0,62
+18905,Curacao,2021-08-23,Lambda,0,0.0,49
+18929,Curacao,2021-09-06,Lambda,0,0.0,47
+18953,Curacao,2021-09-20,Lambda,0,0.0,58
+18977,Curacao,2021-10-04,Lambda,0,0.0,56
+19001,Curacao,2021-10-18,Lambda,0,0.0,53
+19025,Curacao,2021-11-01,Lambda,0,0.0,47
+19049,Curacao,2021-11-15,Lambda,0,0.0,28
+19073,Curacao,2021-11-29,Lambda,0,0.0,20
+19097,Curacao,2021-12-13,Lambda,0,0.0,24
+19121,Cyprus,2020-05-11,Lambda,0,0.0,23
+19145,Cyprus,2020-05-25,Lambda,0,0.0,20
+19169,Cyprus,2020-06-08,Lambda,0,0.0,12
+19193,Cyprus,2020-06-22,Lambda,0,0.0,11
+19217,Cyprus,2020-07-06,Lambda,0,0.0,2
+19241,Cyprus,2020-07-20,Lambda,0,0.0,3
+19265,Cyprus,2020-08-03,Lambda,0,0.0,11
+19289,Cyprus,2020-08-17,Lambda,0,0.0,24
+19313,Cyprus,2020-08-31,Lambda,0,0.0,12
+19337,Cyprus,2020-09-14,Lambda,0,0.0,4
+19361,Cyprus,2020-09-28,Lambda,0,0.0,39
+19385,Cyprus,2020-10-12,Lambda,0,0.0,24
+19409,Cyprus,2020-10-26,Lambda,0,0.0,11
+19433,Cyprus,2020-11-09,Lambda,0,0.0,159
+19457,Cyprus,2020-11-23,Lambda,0,0.0,9
+19481,Cyprus,2020-12-07,Lambda,0,0.0,63
+19505,Cyprus,2020-12-21,Lambda,0,0.0,3
+19529,Cyprus,2021-01-04,Lambda,0,0.0,80
+19553,Cyprus,2021-01-11,Lambda,0,0.0,28
+19577,Cyprus,2021-01-25,Lambda,0,0.0,35
+19601,Cyprus,2021-02-08,Lambda,0,0.0,17
+19625,Czechia,2020-05-11,Lambda,0,0.0,6
+19649,Czechia,2020-05-25,Lambda,0,0.0,9
+19673,Czechia,2020-06-08,Lambda,0,0.0,4
+19697,Czechia,2020-06-22,Lambda,0,0.0,9
+19721,Czechia,2020-07-20,Lambda,0,0.0,9
+19745,Czechia,2020-08-03,Lambda,0,0.0,24
+19769,Czechia,2020-08-17,Lambda,0,0.0,26
+19793,Czechia,2020-08-31,Lambda,0,0.0,11
+19817,Czechia,2020-09-14,Lambda,0,0.0,9
+19841,Czechia,2020-09-28,Lambda,0,0.0,23
+19865,Czechia,2020-10-12,Lambda,0,0.0,76
+19889,Czechia,2020-10-26,Lambda,0,0.0,60
+19913,Czechia,2020-11-09,Lambda,0,0.0,56
+19937,Czechia,2020-11-23,Lambda,0,0.0,19
+19961,Czechia,2020-12-07,Lambda,0,0.0,9
+19985,Czechia,2020-12-21,Lambda,0,0.0,16
+20009,Czechia,2021-01-04,Lambda,0,0.0,26
+20033,Czechia,2021-01-11,Lambda,0,0.0,201
+20057,Czechia,2021-01-25,Lambda,0,0.0,97
+20081,Czechia,2021-02-08,Lambda,0,0.0,378
+20105,Czechia,2021-02-22,Lambda,0,0.0,617
+20129,Czechia,2021-03-08,Lambda,0,0.0,501
+20153,Czechia,2021-03-22,Lambda,0,0.0,556
+20177,Czechia,2021-04-05,Lambda,0,0.0,374
+20201,Czechia,2021-04-19,Lambda,0,0.0,635
+20225,Czechia,2021-05-03,Lambda,0,0.0,780
+20249,Czechia,2021-05-17,Lambda,0,0.0,558
+20273,Czechia,2021-05-31,Lambda,0,0.0,275
+20297,Czechia,2021-06-14,Lambda,0,0.0,388
+20321,Czechia,2021-06-28,Lambda,0,0.0,218
+20345,Czechia,2021-07-12,Lambda,0,0.0,501
+20369,Czechia,2021-07-26,Lambda,0,0.0,527
+20393,Czechia,2021-08-09,Lambda,0,0.0,566
+20417,Czechia,2021-08-23,Lambda,0,0.0,875
+20441,Czechia,2021-09-06,Lambda,1,0.12,844
+20465,Czechia,2021-09-20,Lambda,0,0.0,1382
+20489,Czechia,2021-10-04,Lambda,0,0.0,1373
+20513,Czechia,2021-10-18,Lambda,0,0.0,1766
+20537,Czechia,2021-11-01,Lambda,0,0.0,2031
+20561,Czechia,2021-11-15,Lambda,0,0.0,1420
+20585,Czechia,2021-11-29,Lambda,0,0.0,1331
+20609,Czechia,2021-12-13,Lambda,0,0.0,1431
+20633,Czechia,2021-12-27,Lambda,0,0.0,330
+20657,Czechia,2022-01-05,Lambda,0,0.0,15
+20681,Denmark,2020-05-11,Lambda,0,0.0,155
+20705,Denmark,2020-05-25,Lambda,0,0.0,136
+20729,Denmark,2020-06-08,Lambda,0,0.0,122
+20753,Denmark,2020-06-22,Lambda,0,0.0,169
+20777,Denmark,2020-07-06,Lambda,0,0.0,60
+20801,Denmark,2020-07-20,Lambda,0,0.0,100
+20825,Denmark,2020-08-03,Lambda,0,0.0,152
+20849,Denmark,2020-08-17,Lambda,0,0.0,437
+20873,Denmark,2020-08-31,Lambda,0,0.0,594
+20897,Denmark,2020-09-14,Lambda,0,0.0,979
+20921,Denmark,2020-09-28,Lambda,0,0.0,1644
+20945,Denmark,2020-10-12,Lambda,0,0.0,835
+20969,Denmark,2020-10-26,Lambda,0,0.0,1554
+20993,Denmark,2020-11-09,Lambda,0,0.0,3067
+21017,Denmark,2020-11-23,Lambda,0,0.0,3165
+21041,Denmark,2020-12-07,Lambda,0,0.0,5060
+21065,Denmark,2020-12-21,Lambda,0,0.0,9321
+21089,Denmark,2021-01-04,Lambda,0,0.0,7686
+21113,Denmark,2021-01-11,Lambda,0,0.0,4145
+21137,Denmark,2021-01-25,Lambda,0,0.0,8109
+21161,Denmark,2021-02-08,Lambda,0,0.0,4769
+21185,Denmark,2021-02-22,Lambda,0,0.0,4388
+21209,Denmark,2021-03-08,Lambda,0,0.0,5371
+21233,Denmark,2021-03-22,Lambda,0,0.0,6351
+21257,Denmark,2021-04-05,Lambda,0,0.0,7193
+21281,Denmark,2021-04-19,Lambda,1,0.01,7082
+21305,Denmark,2021-05-03,Lambda,0,0.0,7679
+21329,Denmark,2021-05-17,Lambda,0,0.0,9822
+21353,Denmark,2021-05-31,Lambda,0,0.0,9480
+21377,Denmark,2021-06-14,Lambda,0,0.0,5882
+21401,Denmark,2021-06-28,Lambda,0,0.0,2061
+21425,Denmark,2021-07-12,Lambda,6,0.12,5124
+21449,Denmark,2021-07-26,Lambda,0,0.0,10876
+21473,Denmark,2021-08-09,Lambda,1,0.01,10917
+21497,Denmark,2021-08-23,Lambda,1,0.01,11256
+21521,Denmark,2021-09-06,Lambda,0,0.0,8743
+21545,Denmark,2021-09-20,Lambda,0,0.0,4585
+21569,Denmark,2021-10-04,Lambda,0,0.0,4878
+21593,Denmark,2021-10-18,Lambda,0,0.0,7662
+21617,Denmark,2021-11-01,Lambda,0,0.0,15515
+21641,Denmark,2021-11-15,Lambda,0,0.0,22315
+21665,Denmark,2021-11-29,Lambda,0,0.0,23829
+21689,Denmark,2021-12-13,Lambda,0,0.0,30285
+21713,Denmark,2021-12-27,Lambda,0,0.0,6817
+21737,Djibouti,2020-05-11,Lambda,0,0.0,2
+21761,Djibouti,2020-05-25,Lambda,0,0.0,2
+21785,Djibouti,2020-06-08,Lambda,0,0.0,5
+21809,Djibouti,2020-06-22,Lambda,0,0.0,13
+21833,Djibouti,2020-07-06,Lambda,0,0.0,1
+21857,Djibouti,2020-07-20,Lambda,0,0.0,2
+21881,Djibouti,2020-08-03,Lambda,0,0.0,2
+21905,Djibouti,2020-10-26,Lambda,0,0.0,1
+21929,Djibouti,2020-11-09,Lambda,0,0.0,1
+21953,Djibouti,2020-11-23,Lambda,0,0.0,14
+21977,Djibouti,2020-12-07,Lambda,0,0.0,1
+22001,Djibouti,2020-12-21,Lambda,0,0.0,5
+22025,Djibouti,2021-01-04,Lambda,0,0.0,2
+22049,Djibouti,2021-01-25,Lambda,0,0.0,11
+22073,Djibouti,2021-02-08,Lambda,0,0.0,3
+22097,Djibouti,2021-02-22,Lambda,0,0.0,30
+22121,Djibouti,2021-03-08,Lambda,0,0.0,56
+22145,Djibouti,2021-03-22,Lambda,0,0.0,26
+22169,Djibouti,2021-04-05,Lambda,0,0.0,64
+22193,Djibouti,2021-04-19,Lambda,0,0.0,37
+22217,Djibouti,2021-05-03,Lambda,0,0.0,23
+22241,Djibouti,2021-05-17,Lambda,0,0.0,5
+22265,Djibouti,2021-05-31,Lambda,0,0.0,1
+22289,Djibouti,2021-07-12,Lambda,0,0.0,1
+22313,Djibouti,2021-08-09,Lambda,0,0.0,2
+22337,Djibouti,2021-09-06,Lambda,0,0.0,2
+22361,Djibouti,2021-09-20,Lambda,0,0.0,9
+22385,Djibouti,2021-10-04,Lambda,0,0.0,25
+22409,Djibouti,2021-10-18,Lambda,0,0.0,19
+22433,Djibouti,2021-11-01,Lambda,0,0.0,2
+22457,Dominican Republic,2020-05-11,Lambda,0,0.0,5
+22481,Dominican Republic,2020-11-23,Lambda,0,0.0,1
+22505,Dominican Republic,2021-01-04,Lambda,0,0.0,1
+22529,Dominican Republic,2021-01-25,Lambda,0,0.0,33
+22553,Dominican Republic,2021-02-08,Lambda,0,0.0,24
+22577,Dominican Republic,2021-02-22,Lambda,0,0.0,3
+22601,Dominican Republic,2021-03-08,Lambda,0,0.0,11
+22625,Dominican Republic,2021-03-22,Lambda,0,0.0,58
+22649,Dominican Republic,2021-04-05,Lambda,0,0.0,13
+22673,Dominican Republic,2021-04-19,Lambda,0,0.0,17
+22697,Dominican Republic,2021-05-03,Lambda,0,0.0,1
+22721,Dominican Republic,2021-05-17,Lambda,2,2.3,87
+22745,Dominican Republic,2021-05-31,Lambda,3,2.97,101
+22769,Dominican Republic,2021-06-14,Lambda,0,0.0,19
+22793,Dominican Republic,2021-06-28,Lambda,0,0.0,13
+22817,Dominican Republic,2021-07-12,Lambda,0,0.0,10
+22841,Dominican Republic,2021-07-26,Lambda,0,0.0,10
+22865,Dominican Republic,2021-08-09,Lambda,1,3.45,29
+22889,Dominican Republic,2021-08-23,Lambda,0,0.0,4
+22913,Dominican Republic,2021-09-06,Lambda,0,0.0,2
+22937,Dominican Republic,2021-09-20,Lambda,0,0.0,3
+22961,Dominican Republic,2021-10-04,Lambda,0,0.0,1
+22985,Dominican Republic,2021-10-18,Lambda,0,0.0,99
+23009,Dominican Republic,2021-11-01,Lambda,0,0.0,20
+23033,Ecuador,2020-05-11,Lambda,0,0.0,7
+23057,Ecuador,2020-05-25,Lambda,0,0.0,4
+23081,Ecuador,2020-06-08,Lambda,0,0.0,8
+23105,Ecuador,2020-06-22,Lambda,0,0.0,3
+23129,Ecuador,2020-07-06,Lambda,0,0.0,18
+23153,Ecuador,2020-07-20,Lambda,0,0.0,3
+23177,Ecuador,2020-08-03,Lambda,0,0.0,6
+23201,Ecuador,2020-08-17,Lambda,0,0.0,26
+23225,Ecuador,2020-08-31,Lambda,0,0.0,17
+23249,Ecuador,2020-09-14,Lambda,0,0.0,19
+23273,Ecuador,2020-09-28,Lambda,0,0.0,3
+23297,Ecuador,2020-10-12,Lambda,0,0.0,13
+23321,Ecuador,2020-10-26,Lambda,0,0.0,5
+23345,Ecuador,2020-11-09,Lambda,0,0.0,6
+23369,Ecuador,2020-11-23,Lambda,0,0.0,3
+23393,Ecuador,2020-12-07,Lambda,0,0.0,6
+23417,Ecuador,2020-12-21,Lambda,0,0.0,12
+23441,Ecuador,2021-01-04,Lambda,0,0.0,10
+23465,Ecuador,2021-01-11,Lambda,0,0.0,13
+23489,Ecuador,2021-01-25,Lambda,0,0.0,18
+23513,Ecuador,2021-02-08,Lambda,0,0.0,2
+23537,Ecuador,2021-02-22,Lambda,0,0.0,2
+23561,Ecuador,2021-03-08,Lambda,0,0.0,6
+23585,Ecuador,2021-03-22,Lambda,0,0.0,17
+23609,Ecuador,2021-04-05,Lambda,1,4.35,23
+23633,Ecuador,2021-04-19,Lambda,10,17.54,57
+23657,Ecuador,2021-05-03,Lambda,4,6.15,65
+23681,Ecuador,2021-05-17,Lambda,11,7.91,139
+23705,Ecuador,2021-05-31,Lambda,15,14.71,102
+23729,Ecuador,2021-06-14,Lambda,22,13.17,167
+23753,Ecuador,2021-06-28,Lambda,26,17.93,145
+23777,Ecuador,2021-07-12,Lambda,51,13.93,366
+23801,Ecuador,2021-07-26,Lambda,94,16.64,565
+23825,Ecuador,2021-08-09,Lambda,16,6.9,232
+23849,Ecuador,2021-08-23,Lambda,17,6.51,261
+23873,Ecuador,2021-09-06,Lambda,21,6.86,306
+23897,Ecuador,2021-09-20,Lambda,4,2.58,155
+23921,Ecuador,2021-10-04,Lambda,4,1.87,214
+23945,Ecuador,2021-10-18,Lambda,1,1.08,93
+23969,Ecuador,2021-11-01,Lambda,0,0.0,23
+23993,Ecuador,2021-11-15,Lambda,0,0.0,100
+24017,Ecuador,2021-11-29,Lambda,0,0.0,135
+24041,Ecuador,2021-12-13,Lambda,0,0.0,93
+24065,Ecuador,2021-12-27,Lambda,0,0.0,55
+24089,Egypt,2020-05-11,Lambda,0,0.0,38
+24113,Egypt,2020-05-25,Lambda,0,0.0,22
+24137,Egypt,2020-06-08,Lambda,0,0.0,141
+24161,Egypt,2020-06-22,Lambda,0,0.0,77
+24185,Egypt,2020-07-06,Lambda,0,0.0,128
+24209,Egypt,2020-07-20,Lambda,0,0.0,44
+24233,Egypt,2020-08-03,Lambda,0,0.0,41
+24257,Egypt,2020-08-17,Lambda,0,0.0,29
+24281,Egypt,2020-08-31,Lambda,0,0.0,43
+24305,Egypt,2020-09-14,Lambda,0,0.0,25
+24329,Egypt,2020-09-28,Lambda,0,0.0,17
+24353,Egypt,2020-10-12,Lambda,0,0.0,15
+24377,Egypt,2020-10-26,Lambda,0,0.0,11
+24401,Egypt,2020-11-09,Lambda,0,0.0,12
+24425,Egypt,2020-11-23,Lambda,0,0.0,12
+24449,Egypt,2020-12-07,Lambda,0,0.0,3
+24473,Egypt,2020-12-21,Lambda,0,0.0,14
+24497,Egypt,2021-01-04,Lambda,0,0.0,99
+24521,Egypt,2021-01-11,Lambda,0,0.0,40
+24545,Egypt,2021-01-25,Lambda,0,0.0,3
+24569,Egypt,2021-02-22,Lambda,0,0.0,79
+24593,Egypt,2021-03-08,Lambda,0,0.0,21
+24617,Egypt,2021-03-22,Lambda,0,0.0,12
+24641,Egypt,2021-04-05,Lambda,0,0.0,74
+24665,Egypt,2021-04-19,Lambda,0,0.0,10
+24689,Egypt,2021-05-03,Lambda,0,0.0,89
+24713,Egypt,2021-05-17,Lambda,0,0.0,42
+24737,Egypt,2021-05-31,Lambda,0,0.0,23
+24761,Egypt,2021-06-14,Lambda,0,0.0,10
+24785,Egypt,2021-06-28,Lambda,0,0.0,4
+24809,Egypt,2021-07-12,Lambda,0,0.0,3
+24833,Egypt,2021-07-26,Lambda,0,0.0,1
+24857,Egypt,2021-08-09,Lambda,0,0.0,9
+24881,Egypt,2021-09-06,Lambda,0,0.0,23
+24905,Egypt,2021-09-20,Lambda,0,0.0,5
+24929,Egypt,2021-10-04,Lambda,0,0.0,9
+24953,Egypt,2021-10-18,Lambda,0,0.0,21
+24977,Egypt,2021-11-01,Lambda,0,0.0,66
+25001,Egypt,2021-11-15,Lambda,0,0.0,13
+25025,Egypt,2021-11-29,Lambda,0,0.0,6
+25049,Egypt,2021-12-13,Lambda,0,0.0,1
+25073,Estonia,2020-09-14,Lambda,0,0.0,9
+25097,Estonia,2020-09-28,Lambda,0,0.0,120
+25121,Estonia,2020-10-12,Lambda,0,0.0,55
+25145,Estonia,2020-10-26,Lambda,0,0.0,21
+25169,Estonia,2020-11-09,Lambda,0,0.0,53
+25193,Estonia,2020-11-23,Lambda,0,0.0,18
+25217,Estonia,2020-12-21,Lambda,0,0.0,2
+25241,Estonia,2021-01-04,Lambda,0,0.0,46
+25265,Estonia,2021-01-11,Lambda,0,0.0,5
+25289,Estonia,2021-01-25,Lambda,0,0.0,10
+25313,Estonia,2021-02-08,Lambda,0,0.0,47
+25337,Estonia,2021-02-22,Lambda,0,0.0,564
+25361,Estonia,2021-03-08,Lambda,0,0.0,163
+25385,Estonia,2021-03-22,Lambda,0,0.0,1018
+25409,Estonia,2021-04-05,Lambda,0,0.0,1121
+25433,Estonia,2021-04-19,Lambda,0,0.0,368
+25457,Estonia,2021-05-03,Lambda,0,0.0,351
+25481,Estonia,2021-05-17,Lambda,0,0.0,326
+25505,Estonia,2021-06-14,Lambda,0,0.0,137
+25529,Estonia,2021-06-28,Lambda,0,0.0,45
+25553,Estonia,2021-07-12,Lambda,0,0.0,138
+25577,Estonia,2021-07-26,Lambda,0,0.0,252
+25601,Estonia,2021-08-09,Lambda,0,0.0,360
+25625,Estonia,2021-08-23,Lambda,0,0.0,371
+25649,Estonia,2021-09-06,Lambda,0,0.0,369
+25673,Estonia,2021-09-20,Lambda,0,0.0,346
+25697,Estonia,2021-10-04,Lambda,0,0.0,348
+25721,Estonia,2021-10-18,Lambda,0,0.0,319
+25745,Estonia,2021-11-01,Lambda,0,0.0,344
+25769,Estonia,2021-11-15,Lambda,0,0.0,294
+25793,Estonia,2021-11-29,Lambda,0,0.0,340
+25817,Estonia,2021-12-13,Lambda,0,0.0,82
+25841,Ethiopia,2020-11-23,Lambda,0,0.0,4
+25865,Ethiopia,2020-12-21,Lambda,0,0.0,4
+25889,Ethiopia,2021-01-25,Lambda,0,0.0,6
+25913,Ethiopia,2021-02-08,Lambda,0,0.0,10
+25937,Ethiopia,2021-02-22,Lambda,0,0.0,4
+25961,Ethiopia,2021-03-08,Lambda,0,0.0,13
+25985,Ethiopia,2021-03-22,Lambda,0,0.0,4
+26009,Ethiopia,2021-04-05,Lambda,0,0.0,6
+26033,Ethiopia,2021-04-19,Lambda,0,0.0,1
+26057,Ethiopia,2021-05-03,Lambda,0,0.0,2
+26081,Ethiopia,2021-05-31,Lambda,0,0.0,26
+26105,Ethiopia,2021-06-14,Lambda,0,0.0,5
+26129,Ethiopia,2021-07-12,Lambda,0,0.0,6
+26153,Ethiopia,2021-07-26,Lambda,0,0.0,59
+26177,Ethiopia,2021-08-09,Lambda,0,0.0,253
+26201,Ethiopia,2021-08-23,Lambda,0,0.0,119
+26225,Fiji,2020-08-31,Lambda,0,0.0,1
+26249,Fiji,2020-11-23,Lambda,0,0.0,2
+26273,Fiji,2020-12-07,Lambda,0,0.0,2
+26297,Fiji,2021-01-04,Lambda,0,0.0,2
+26321,Fiji,2021-02-08,Lambda,0,0.0,1
+26345,Fiji,2021-03-08,Lambda,0,0.0,1
+26369,Fiji,2021-03-22,Lambda,0,0.0,1
+26393,Fiji,2021-04-19,Lambda,0,0.0,7
+26417,Fiji,2021-05-03,Lambda,0,0.0,18
+26441,Fiji,2021-05-17,Lambda,0,0.0,22
+26465,Fiji,2021-05-31,Lambda,0,0.0,24
+26489,Fiji,2021-06-14,Lambda,0,0.0,52
+26513,Fiji,2021-06-28,Lambda,0,0.0,252
+26537,Fiji,2021-07-12,Lambda,0,0.0,140
+26561,Finland,2020-05-11,Lambda,0,0.0,102
+26585,Finland,2020-05-25,Lambda,0,0.0,51
+26609,Finland,2020-06-08,Lambda,0,0.0,37
+26633,Finland,2020-06-22,Lambda,0,0.0,4
+26657,Finland,2020-08-17,Lambda,0,0.0,10
+26681,Finland,2020-08-31,Lambda,0,0.0,14
+26705,Finland,2020-09-14,Lambda,0,0.0,23
+26729,Finland,2020-09-28,Lambda,0,0.0,96
+26753,Finland,2020-10-12,Lambda,0,0.0,283
+26777,Finland,2020-10-26,Lambda,0,0.0,98
+26801,Finland,2020-11-09,Lambda,0,0.0,51
+26825,Finland,2020-11-23,Lambda,0,0.0,54
+26849,Finland,2020-12-07,Lambda,0,0.0,156
+26873,Finland,2020-12-21,Lambda,0,0.0,114
+26897,Finland,2021-01-04,Lambda,0,0.0,148
+26921,Finland,2021-01-11,Lambda,0,0.0,124
+26945,Finland,2021-01-25,Lambda,0,0.0,765
+26969,Finland,2021-02-08,Lambda,0,0.0,1240
+26993,Finland,2021-02-22,Lambda,0,0.0,1587
+27017,Finland,2021-03-08,Lambda,0,0.0,1653
+27041,Finland,2021-03-22,Lambda,0,0.0,1715
+27065,Finland,2021-04-05,Lambda,0,0.0,987
+27089,Finland,2021-04-19,Lambda,0,0.0,702
+27113,Finland,2021-05-03,Lambda,0,0.0,542
+27137,Finland,2021-05-17,Lambda,0,0.0,601
+27161,Finland,2021-05-31,Lambda,0,0.0,529
+27185,Finland,2021-06-14,Lambda,0,0.0,294
+27209,Finland,2021-06-28,Lambda,0,0.0,734
+27233,Finland,2021-07-12,Lambda,0,0.0,822
+27257,Finland,2021-07-26,Lambda,0,0.0,1484
+27281,Finland,2021-08-09,Lambda,0,0.0,1655
+27305,Finland,2021-08-23,Lambda,0,0.0,1027
+27329,Finland,2021-09-06,Lambda,0,0.0,930
+27353,Finland,2021-09-20,Lambda,0,0.0,749
+27377,Finland,2021-10-04,Lambda,0,0.0,967
+27401,Finland,2021-10-18,Lambda,0,0.0,864
+27425,Finland,2021-11-01,Lambda,0,0.0,670
+27449,Finland,2021-11-15,Lambda,0,0.0,417
+27473,Finland,2021-11-29,Lambda,0,0.0,61
+27497,France,2020-05-11,Lambda,0,0.0,201
+27521,France,2020-05-25,Lambda,0,0.0,64
+27545,France,2020-06-08,Lambda,0,0.0,33
+27569,France,2020-06-22,Lambda,0,0.0,45
+27593,France,2020-07-06,Lambda,0,0.0,30
+27617,France,2020-07-20,Lambda,0,0.0,71
+27641,France,2020-08-03,Lambda,0,0.0,140
+27665,France,2020-08-17,Lambda,0,0.0,239
+27689,France,2020-08-31,Lambda,0,0.0,251
+27713,France,2020-09-14,Lambda,0,0.0,822
+27737,France,2020-09-28,Lambda,0,0.0,488
+27761,France,2020-10-12,Lambda,0,0.0,427
+27785,France,2020-10-26,Lambda,0,0.0,870
+27809,France,2020-11-09,Lambda,0,0.0,1020
+27833,France,2020-11-23,Lambda,0,0.0,619
+27857,France,2020-12-07,Lambda,0,0.0,347
+27881,France,2020-12-21,Lambda,0,0.0,404
+27905,France,2021-01-04,Lambda,0,0.0,518
+27929,France,2021-01-11,Lambda,0,0.0,738
+27953,France,2021-01-25,Lambda,0,0.0,2173
+27977,France,2021-02-08,Lambda,0,0.0,3995
+28001,France,2021-02-22,Lambda,0,0.0,2991
+28025,France,2021-03-08,Lambda,0,0.0,4276
+28049,France,2021-03-22,Lambda,0,0.0,6421
+28073,France,2021-04-05,Lambda,0,0.0,6026
+28097,France,2021-04-19,Lambda,2,0.04,5009
+28121,France,2021-05-03,Lambda,0,0.0,4393
+28145,France,2021-05-17,Lambda,3,0.09,3260
+28169,France,2021-05-31,Lambda,5,0.16,3135
+28193,France,2021-06-14,Lambda,6,0.27,2215
+28217,France,2021-06-28,Lambda,8,0.41,1950
+28241,France,2021-07-12,Lambda,16,0.38,4263
+28265,France,2021-07-26,Lambda,20,0.15,13457
+28289,France,2021-08-09,Lambda,5,0.05,9502
+28313,France,2021-08-23,Lambda,0,0.0,8879
+28337,France,2021-09-06,Lambda,1,0.01,8082
+28361,France,2021-09-20,Lambda,0,0.0,4638
+28385,France,2021-10-04,Lambda,0,0.0,3410
+28409,France,2021-10-18,Lambda,1,0.03,3568
+28433,France,2021-11-01,Lambda,0,0.0,10296
+28457,France,2021-11-15,Lambda,0,0.0,10101
+28481,France,2021-11-29,Lambda,0,0.0,8030
+28505,France,2021-12-13,Lambda,0,0.0,10382
+28529,France,2021-12-27,Lambda,0,0.0,2220
+28553,France,2022-01-05,Lambda,0,0.0,117
+28577,Gambia,2020-05-11,Lambda,0,0.0,13
+28601,Gambia,2020-05-25,Lambda,0,0.0,14
+28625,Gambia,2020-06-08,Lambda,0,0.0,11
+28649,Gambia,2020-06-22,Lambda,0,0.0,5
+28673,Gambia,2020-07-06,Lambda,0,0.0,23
+28697,Gambia,2020-07-20,Lambda,0,0.0,4
+28721,Gambia,2020-08-03,Lambda,0,0.0,241
+28745,Gambia,2020-08-17,Lambda,0,0.0,30
+28769,Gambia,2020-08-31,Lambda,0,0.0,37
+28793,Gambia,2020-09-14,Lambda,0,0.0,21
+28817,Gambia,2020-09-28,Lambda,0,0.0,4
+28841,Gambia,2020-10-12,Lambda,0,0.0,5
+28865,Gambia,2020-10-26,Lambda,0,0.0,1
+28889,Gambia,2021-01-04,Lambda,0,0.0,1
+28913,Gambia,2021-01-11,Lambda,0,0.0,2
+28937,Gambia,2021-01-25,Lambda,0,0.0,8
+28961,Gambia,2021-02-08,Lambda,0,0.0,11
+28985,Gambia,2021-02-22,Lambda,0,0.0,8
+29009,Gambia,2021-03-08,Lambda,0,0.0,21
+29033,Gambia,2021-03-22,Lambda,0,0.0,43
+29057,Gambia,2021-04-05,Lambda,0,0.0,14
+29081,Gambia,2021-04-19,Lambda,0,0.0,5
+29105,Gambia,2021-05-03,Lambda,0,0.0,11
+29129,Gambia,2021-05-17,Lambda,0,0.0,2
+29153,Gambia,2021-05-31,Lambda,0,0.0,12
+29177,Gambia,2021-06-14,Lambda,0,0.0,2
+29201,Gambia,2021-06-28,Lambda,0,0.0,5
+29225,Gambia,2021-07-12,Lambda,0,0.0,69
+29249,Gambia,2021-07-26,Lambda,0,0.0,40
+29273,Gambia,2021-08-09,Lambda,0,0.0,127
+29297,Gambia,2021-08-23,Lambda,0,0.0,73
+29321,Georgia,2020-05-11,Lambda,0,0.0,4
+29345,Georgia,2020-06-08,Lambda,0,0.0,1
+29369,Georgia,2020-06-22,Lambda,0,0.0,1
+29393,Georgia,2020-09-28,Lambda,0,0.0,2
+29417,Georgia,2020-10-12,Lambda,0,0.0,1
+29441,Georgia,2020-11-09,Lambda,0,0.0,2
+29465,Georgia,2020-11-23,Lambda,0,0.0,4
+29489,Georgia,2020-12-07,Lambda,0,0.0,1
+29513,Georgia,2020-12-21,Lambda,0,0.0,3
+29537,Georgia,2021-01-04,Lambda,0,0.0,1
+29561,Georgia,2021-01-11,Lambda,0,0.0,1
+29585,Georgia,2021-01-25,Lambda,0,0.0,4
+29609,Georgia,2021-02-08,Lambda,0,0.0,4
+29633,Georgia,2021-02-22,Lambda,0,0.0,9
+29657,Georgia,2021-03-08,Lambda,0,0.0,10
+29681,Georgia,2021-03-22,Lambda,0,0.0,6
+29705,Georgia,2021-04-05,Lambda,0,0.0,4
+29729,Georgia,2021-04-19,Lambda,0,0.0,1
+29753,Georgia,2021-05-03,Lambda,0,0.0,3
+29777,Georgia,2021-05-17,Lambda,0,0.0,23
+29801,Georgia,2021-05-31,Lambda,0,0.0,28
+29825,Georgia,2021-06-14,Lambda,0,0.0,17
+29849,Georgia,2021-06-28,Lambda,0,0.0,17
+29873,Georgia,2021-07-12,Lambda,0,0.0,27
+29897,Georgia,2021-07-26,Lambda,0,0.0,8
+29921,Georgia,2021-08-09,Lambda,0,0.0,16
+29945,Georgia,2021-08-23,Lambda,0,0.0,12
+29969,Georgia,2021-09-06,Lambda,0,0.0,30
+29993,Georgia,2021-09-20,Lambda,0,0.0,5
+30017,Georgia,2021-10-04,Lambda,0,0.0,70
+30041,Georgia,2021-10-18,Lambda,0,0.0,94
+30065,Georgia,2021-11-01,Lambda,0,0.0,33
+30089,Georgia,2021-11-15,Lambda,0,0.0,81
+30113,Georgia,2021-11-29,Lambda,0,0.0,78
+30137,Georgia,2021-12-13,Lambda,0,0.0,129
+30161,Georgia,2021-12-27,Lambda,0,0.0,110
+30185,Germany,2020-05-11,Lambda,0,0.0,105
+30209,Germany,2020-05-25,Lambda,0,0.0,94
+30233,Germany,2020-06-08,Lambda,0,0.0,82
+30257,Germany,2020-06-22,Lambda,0,0.0,1528
+30281,Germany,2020-07-06,Lambda,0,0.0,390
+30305,Germany,2020-07-20,Lambda,0,0.0,103
+30329,Germany,2020-08-03,Lambda,0,0.0,53
+30353,Germany,2020-08-17,Lambda,0,0.0,144
+30377,Germany,2020-08-31,Lambda,0,0.0,174
+30401,Germany,2020-09-14,Lambda,0,0.0,115
+30425,Germany,2020-09-28,Lambda,0,0.0,324
+30449,Germany,2020-10-12,Lambda,0,0.0,349
+30473,Germany,2020-10-26,Lambda,0,0.0,387
+30497,Germany,2020-11-09,Lambda,0,0.0,494
+30521,Germany,2020-11-23,Lambda,0,0.0,589
+30545,Germany,2020-12-07,Lambda,0,0.0,770
+30569,Germany,2020-12-21,Lambda,0,0.0,999
+30593,Germany,2021-01-04,Lambda,0,0.0,666
+30617,Germany,2021-01-11,Lambda,0,0.0,524
+30641,Germany,2021-01-25,Lambda,0,0.0,3161
+30665,Germany,2021-02-08,Lambda,2,0.03,6330
+30689,Germany,2021-02-22,Lambda,3,0.03,9085
+30713,Germany,2021-03-08,Lambda,10,0.09,11511
+30737,Germany,2021-03-22,Lambda,3,0.02,14479
+30761,Germany,2021-04-05,Lambda,6,0.04,16353
+30785,Germany,2021-04-19,Lambda,12,0.06,19363
+30809,Germany,2021-05-03,Lambda,10,0.05,19306
+30833,Germany,2021-05-17,Lambda,10,0.06,15645
+30857,Germany,2021-05-31,Lambda,24,0.24,9815
+30881,Germany,2021-06-14,Lambda,15,0.28,5401
+30905,Germany,2021-06-28,Lambda,1,0.04,2632
+30929,Germany,2021-07-12,Lambda,3,0.11,2651
+30953,Germany,2021-07-26,Lambda,2,0.04,4588
+30977,Germany,2021-08-09,Lambda,1,0.02,6197
+31001,Germany,2021-08-23,Lambda,0,0.0,13221
+31025,Germany,2021-09-06,Lambda,0,0.0,19285
+31049,Germany,2021-09-20,Lambda,0,0.0,19996
+31073,Germany,2021-10-04,Lambda,0,0.0,15758
+31097,Germany,2021-10-18,Lambda,0,0.0,12393
+31121,Germany,2021-11-01,Lambda,0,0.0,15674
+31145,Germany,2021-11-15,Lambda,0,0.0,17801
+31169,Germany,2021-11-29,Lambda,0,0.0,23129
+31193,Germany,2021-12-13,Lambda,0,0.0,22895
+31217,Germany,2021-12-27,Lambda,0,0.0,12584
+31241,Ghana,2020-05-11,Lambda,0,0.0,1
+31265,Ghana,2020-05-25,Lambda,0,0.0,18
+31289,Ghana,2020-06-08,Lambda,0,0.0,8
+31313,Ghana,2020-06-22,Lambda,0,0.0,8
+31337,Ghana,2020-07-06,Lambda,0,0.0,1
+31361,Ghana,2020-07-20,Lambda,0,0.0,10
+31385,Ghana,2020-08-03,Lambda,0,0.0,43
+31409,Ghana,2020-08-17,Lambda,0,0.0,5
+31433,Ghana,2020-08-31,Lambda,0,0.0,20
+31457,Ghana,2020-09-14,Lambda,0,0.0,19
+31481,Ghana,2020-09-28,Lambda,0,0.0,1
+31505,Ghana,2020-10-12,Lambda,0,0.0,3
+31529,Ghana,2020-11-09,Lambda,0,0.0,20
+31553,Ghana,2020-11-23,Lambda,0,0.0,17
+31577,Ghana,2020-12-07,Lambda,0,0.0,32
+31601,Ghana,2020-12-21,Lambda,0,0.0,23
+31625,Ghana,2021-01-04,Lambda,0,0.0,22
+31649,Ghana,2021-01-11,Lambda,0,0.0,115
+31673,Ghana,2021-01-25,Lambda,0,0.0,91
+31697,Ghana,2021-02-08,Lambda,0,0.0,76
+31721,Ghana,2021-02-22,Lambda,0,0.0,95
+31745,Ghana,2021-03-08,Lambda,0,0.0,55
+31769,Ghana,2021-03-22,Lambda,0,0.0,61
+31793,Ghana,2021-04-05,Lambda,0,0.0,46
+31817,Ghana,2021-04-19,Lambda,0,0.0,96
+31841,Ghana,2021-05-03,Lambda,0,0.0,84
+31865,Ghana,2021-05-17,Lambda,0,0.0,60
+31889,Ghana,2021-05-31,Lambda,0,0.0,78
+31913,Ghana,2021-06-14,Lambda,0,0.0,58
+31937,Ghana,2021-06-28,Lambda,0,0.0,104
+31961,Ghana,2021-07-12,Lambda,0,0.0,156
+31985,Ghana,2021-07-26,Lambda,0,0.0,168
+32009,Ghana,2021-08-09,Lambda,0,0.0,110
+32033,Ghana,2021-08-23,Lambda,0,0.0,112
+32057,Ghana,2021-09-06,Lambda,0,0.0,17
+32081,Ghana,2021-09-20,Lambda,0,0.0,151
+32105,Ghana,2021-10-04,Lambda,0,0.0,64
+32129,Ghana,2021-10-18,Lambda,0,0.0,90
+32153,Ghana,2021-11-01,Lambda,0,0.0,64
+32177,Ghana,2021-11-15,Lambda,0,0.0,29
+32201,Ghana,2021-11-29,Lambda,0,0.0,76
+32225,Ghana,2021-12-13,Lambda,0,0.0,36
+32249,Greece,2020-05-11,Lambda,0,0.0,8
+32273,Greece,2020-05-25,Lambda,0,0.0,8
+32297,Greece,2020-08-03,Lambda,0,0.0,2
+32321,Greece,2020-08-17,Lambda,0,0.0,15
+32345,Greece,2020-08-31,Lambda,0,0.0,2
+32369,Greece,2020-09-14,Lambda,0,0.0,24
+32393,Greece,2020-09-28,Lambda,0,0.0,40
+32417,Greece,2020-10-12,Lambda,0,0.0,42
+32441,Greece,2020-10-26,Lambda,0,0.0,22
+32465,Greece,2020-11-09,Lambda,0,0.0,207
+32489,Greece,2020-11-23,Lambda,0,0.0,141
+32513,Greece,2020-12-07,Lambda,0,0.0,78
+32537,Greece,2020-12-21,Lambda,0,0.0,264
+32561,Greece,2021-01-04,Lambda,0,0.0,172
+32585,Greece,2021-01-11,Lambda,0,0.0,48
+32609,Greece,2021-01-25,Lambda,0,0.0,142
+32633,Greece,2021-02-08,Lambda,0,0.0,111
+32657,Greece,2021-02-22,Lambda,0,0.0,143
+32681,Greece,2021-03-08,Lambda,0,0.0,1114
+32705,Greece,2021-03-22,Lambda,0,0.0,1040
+32729,Greece,2021-04-05,Lambda,0,0.0,338
+32753,Greece,2021-04-19,Lambda,0,0.0,609
+32777,Greece,2021-05-03,Lambda,0,0.0,1269
+32801,Greece,2021-05-17,Lambda,0,0.0,1255
+32825,Greece,2021-05-31,Lambda,0,0.0,562
+32849,Greece,2021-06-14,Lambda,0,0.0,183
+32873,Greece,2021-06-28,Lambda,0,0.0,84
+32897,Greece,2021-07-12,Lambda,0,0.0,296
+32921,Greece,2021-07-26,Lambda,0,0.0,354
+32945,Greece,2021-08-09,Lambda,0,0.0,218
+32969,Greece,2021-08-23,Lambda,0,0.0,175
+32993,Greece,2021-09-06,Lambda,0,0.0,347
+33017,Greece,2021-09-20,Lambda,0,0.0,649
+33041,Greece,2021-10-04,Lambda,0,0.0,321
+33065,Greece,2021-10-18,Lambda,0,0.0,12
+33089,Greece,2021-11-01,Lambda,0,0.0,155
+33113,Greece,2021-11-15,Lambda,0,0.0,586
+33137,Greece,2021-11-29,Lambda,0,0.0,558
+33161,Greece,2021-12-13,Lambda,0,0.0,610
+33185,Guatemala,2020-05-25,Lambda,0,0.0,3
+33209,Guatemala,2020-06-08,Lambda,0,0.0,6
+33233,Guatemala,2020-06-22,Lambda,0,0.0,19
+33257,Guatemala,2020-07-06,Lambda,0,0.0,11
+33281,Guatemala,2020-07-20,Lambda,0,0.0,6
+33305,Guatemala,2020-08-03,Lambda,0,0.0,10
+33329,Guatemala,2020-08-17,Lambda,0,0.0,3
+33353,Guatemala,2020-08-31,Lambda,0,0.0,1
+33377,Guatemala,2020-09-14,Lambda,0,0.0,1
+33401,Guatemala,2020-09-28,Lambda,0,0.0,4
+33425,Guatemala,2020-10-12,Lambda,0,0.0,48
+33449,Guatemala,2020-10-26,Lambda,0,0.0,31
+33473,Guatemala,2020-11-09,Lambda,0,0.0,29
+33497,Guatemala,2020-11-23,Lambda,0,0.0,7
+33521,Guatemala,2020-12-07,Lambda,0,0.0,17
+33545,Guatemala,2020-12-21,Lambda,0,0.0,10
+33569,Guatemala,2021-01-04,Lambda,0,0.0,11
+33593,Guatemala,2021-01-11,Lambda,0,0.0,35
+33617,Guatemala,2021-01-25,Lambda,0,0.0,51
+33641,Guatemala,2021-02-08,Lambda,0,0.0,29
+33665,Guatemala,2021-02-22,Lambda,0,0.0,9
+33689,Guatemala,2021-03-08,Lambda,0,0.0,44
+33713,Guatemala,2021-03-22,Lambda,0,0.0,14
+33737,Guatemala,2021-04-05,Lambda,0,0.0,9
+33761,Guatemala,2021-04-19,Lambda,0,0.0,27
+33785,Guatemala,2021-05-03,Lambda,0,0.0,8
+33809,Guatemala,2021-05-17,Lambda,0,0.0,11
+33833,Guatemala,2021-05-31,Lambda,0,0.0,19
+33857,Guatemala,2021-06-14,Lambda,0,0.0,24
+33881,Guatemala,2021-06-28,Lambda,0,0.0,82
+33905,Guatemala,2021-07-12,Lambda,2,1.17,171
+33929,Guatemala,2021-07-26,Lambda,0,0.0,55
+33953,Guatemala,2021-08-09,Lambda,1,1.32,76
+33977,Guatemala,2021-08-23,Lambda,0,0.0,85
+34001,Guatemala,2021-09-06,Lambda,0,0.0,95
+34025,Guatemala,2021-09-20,Lambda,0,0.0,135
+34049,Guatemala,2021-10-04,Lambda,0,0.0,125
+34073,Guatemala,2021-10-18,Lambda,0,0.0,59
+34097,Guatemala,2021-11-01,Lambda,0,0.0,23
+34121,Guatemala,2021-11-15,Lambda,0,0.0,24
+34145,Guatemala,2021-11-29,Lambda,0,0.0,18
+34169,Guatemala,2021-12-13,Lambda,0,0.0,4
+34193,Hong Kong,2020-05-11,Lambda,0,0.0,3
+34217,Hong Kong,2020-05-25,Lambda,0,0.0,4
+34241,Hong Kong,2020-06-08,Lambda,0,0.0,8
+34265,Hong Kong,2020-06-22,Lambda,0,0.0,5
+34289,Hong Kong,2020-07-06,Lambda,0,0.0,34
+34313,Hong Kong,2020-07-20,Lambda,0,0.0,234
+34337,Hong Kong,2020-08-03,Lambda,0,0.0,248
+34361,Hong Kong,2020-08-17,Lambda,0,0.0,105
+34385,Hong Kong,2020-08-31,Lambda,0,0.0,55
+34409,Hong Kong,2020-09-14,Lambda,0,0.0,29
+34433,Hong Kong,2020-09-28,Lambda,0,0.0,40
+34457,Hong Kong,2020-10-12,Lambda,0,0.0,65
+34481,Hong Kong,2020-10-26,Lambda,0,0.0,13
+34505,Hong Kong,2020-11-09,Lambda,0,0.0,26
+34529,Hong Kong,2020-11-23,Lambda,0,0.0,114
+34553,Hong Kong,2020-12-07,Lambda,0,0.0,234
+34577,Hong Kong,2020-12-21,Lambda,0,0.0,141
+34601,Hong Kong,2021-01-04,Lambda,0,0.0,182
+34625,Hong Kong,2021-01-11,Lambda,0,0.0,19
+34649,Hong Kong,2021-01-25,Lambda,0,0.0,67
+34673,Hong Kong,2021-02-08,Lambda,0,0.0,45
+34697,Hong Kong,2021-02-22,Lambda,0,0.0,12
+34721,Hong Kong,2021-03-08,Lambda,0,0.0,28
+34745,Hong Kong,2021-03-22,Lambda,0,0.0,139
+34769,Hong Kong,2021-04-05,Lambda,0,0.0,43
+34793,Hong Kong,2021-04-19,Lambda,0,0.0,77
+34817,Hong Kong,2021-05-03,Lambda,0,0.0,40
+34841,Hong Kong,2021-05-17,Lambda,0,0.0,21
+34865,Hong Kong,2021-05-31,Lambda,0,0.0,8
+34889,Hong Kong,2021-06-14,Lambda,0,0.0,30
+34913,Hong Kong,2021-06-28,Lambda,0,0.0,52
+34937,Hong Kong,2021-07-12,Lambda,0,0.0,33
+34961,Hong Kong,2021-07-26,Lambda,0,0.0,15
+34985,Hong Kong,2021-08-09,Lambda,0,0.0,26
+35009,Hong Kong,2021-08-23,Lambda,0,0.0,27
+35033,Hong Kong,2021-09-06,Lambda,0,0.0,49
+35057,Hong Kong,2021-09-20,Lambda,0,0.0,29
+35081,Hong Kong,2021-10-04,Lambda,0,0.0,24
+35105,Hong Kong,2021-10-18,Lambda,0,0.0,28
+35129,Hong Kong,2021-11-01,Lambda,0,0.0,25
+35153,Hong Kong,2021-11-15,Lambda,0,0.0,31
+35177,Hong Kong,2021-11-29,Lambda,0,0.0,40
+35201,Hong Kong,2021-12-13,Lambda,0,0.0,25
+35225,Hong Kong,2021-12-27,Lambda,0,0.0,46
+35249,Hungary,2020-05-11,Lambda,0,0.0,7
+35273,Hungary,2020-05-25,Lambda,0,0.0,5
+35297,Hungary,2020-06-08,Lambda,0,0.0,10
+35321,Hungary,2020-06-22,Lambda,0,0.0,4
+35345,Hungary,2020-07-06,Lambda,0,0.0,3
+35369,Hungary,2020-07-20,Lambda,0,0.0,1
+35393,Hungary,2020-08-31,Lambda,0,0.0,7
+35417,Hungary,2020-09-14,Lambda,0,0.0,71
+35441,Hungary,2020-10-12,Lambda,0,0.0,106
+35465,Hungary,2020-10-26,Lambda,0,0.0,6
+35489,Hungary,2020-11-09,Lambda,0,0.0,37
+35513,Hungary,2020-12-21,Lambda,0,0.0,1
+35537,Hungary,2021-01-11,Lambda,0,0.0,8
+35561,Hungary,2021-01-25,Lambda,0,0.0,19
+35585,Hungary,2021-02-08,Lambda,0,0.0,27
+35609,Hungary,2021-02-22,Lambda,0,0.0,11
+35633,Hungary,2021-03-08,Lambda,0,0.0,3
+35657,Iceland,2020-08-03,Lambda,0,0.0,58
+35681,Iceland,2020-08-17,Lambda,0,0.0,86
+35705,Iceland,2020-08-31,Lambda,0,0.0,80
+35729,Iceland,2020-09-14,Lambda,0,0.0,47
+35753,Iceland,2020-09-28,Lambda,0,0.0,468
+35777,Iceland,2020-10-12,Lambda,0,0.0,867
+35801,Iceland,2020-10-26,Lambda,0,0.0,851
+35825,Iceland,2020-11-09,Lambda,0,0.0,538
+35849,Iceland,2020-11-23,Lambda,0,0.0,170
+35873,Iceland,2020-12-07,Lambda,0,0.0,193
+35897,Iceland,2020-12-21,Lambda,0,0.0,155
+35921,Iceland,2021-01-04,Lambda,0,0.0,140
+35945,Iceland,2021-01-11,Lambda,0,0.0,104
+35969,Iceland,2021-01-25,Lambda,0,0.0,84
+35993,Iceland,2021-02-08,Lambda,0,0.0,29
+36017,Iceland,2021-02-22,Lambda,0,0.0,21
+36041,Iceland,2021-03-08,Lambda,0,0.0,15
+36065,Iceland,2021-03-22,Lambda,0,0.0,54
+36089,Iceland,2021-04-05,Lambda,0,0.0,103
+36113,Iceland,2021-04-19,Lambda,0,0.0,88
+36137,Iceland,2021-05-03,Lambda,0,0.0,157
+36161,Iceland,2021-05-17,Lambda,0,0.0,63
+36185,Iceland,2021-05-31,Lambda,0,0.0,41
+36209,Iceland,2021-06-14,Lambda,0,0.0,45
+36233,Iceland,2021-06-28,Lambda,0,0.0,37
+36257,Iceland,2021-07-12,Lambda,0,0.0,40
+36281,Iceland,2021-07-26,Lambda,0,0.0,623
+36305,Iceland,2021-08-09,Lambda,0,0.0,1449
+36329,Iceland,2021-08-23,Lambda,0,0.0,1268
+36353,Iceland,2021-09-06,Lambda,0,0.0,400
+36377,India,2020-05-11,Lambda,0,0.0,471
+36401,India,2020-05-25,Lambda,0,0.0,649
+36425,India,2020-06-08,Lambda,0,0.0,617
+36449,India,2020-06-22,Lambda,0,0.0,766
+36473,India,2020-07-06,Lambda,0,0.0,276
+36497,India,2020-07-20,Lambda,0,0.0,317
+36521,India,2020-08-03,Lambda,0,0.0,393
+36545,India,2020-08-17,Lambda,0,0.0,418
+36569,India,2020-08-31,Lambda,0,0.0,235
+36593,India,2020-09-14,Lambda,0,0.0,423
+36617,India,2020-09-28,Lambda,0,0.0,397
+36641,India,2020-10-12,Lambda,0,0.0,409
+36665,India,2020-10-26,Lambda,0,0.0,329
+36689,India,2020-11-09,Lambda,0,0.0,354
+36713,India,2020-11-23,Lambda,0,0.0,286
+36737,India,2020-12-07,Lambda,0,0.0,1130
+36761,India,2020-12-21,Lambda,0,0.0,1546
+36785,India,2021-01-04,Lambda,0,0.0,1293
+36809,India,2021-01-11,Lambda,0,0.0,584
+36833,India,2021-01-25,Lambda,0,0.0,1170
+36857,India,2021-02-08,Lambda,0,0.0,1336
+36881,India,2021-02-22,Lambda,0,0.0,1697
+36905,India,2021-03-08,Lambda,0,0.0,2478
+36929,India,2021-03-22,Lambda,0,0.0,3761
+36953,India,2021-04-05,Lambda,0,0.0,4734
+36977,India,2021-04-19,Lambda,0,0.0,7463
+37001,India,2021-05-03,Lambda,0,0.0,8086
+37025,India,2021-05-17,Lambda,0,0.0,6417
+37049,India,2021-05-31,Lambda,0,0.0,5348
+37073,India,2021-06-14,Lambda,0,0.0,4258
+37097,India,2021-06-28,Lambda,0,0.0,3779
+37121,India,2021-07-12,Lambda,0,0.0,3408
+37145,India,2021-07-26,Lambda,0,0.0,3285
+37169,India,2021-08-09,Lambda,0,0.0,2888
+37193,India,2021-08-23,Lambda,0,0.0,2645
+37217,India,2021-09-06,Lambda,0,0.0,3657
+37241,India,2021-09-20,Lambda,0,0.0,3224
+37265,India,2021-10-04,Lambda,0,0.0,2436
+37289,India,2021-10-18,Lambda,0,0.0,1978
+37313,India,2021-11-01,Lambda,0,0.0,1781
+37337,India,2021-11-15,Lambda,0,0.0,1362
+37361,India,2021-11-29,Lambda,0,0.0,1360
+37385,India,2021-12-13,Lambda,0,0.0,1085
+37409,India,2021-12-27,Lambda,0,0.0,499
+37433,Indonesia,2020-05-11,Lambda,0,0.0,11
+37457,Indonesia,2020-05-25,Lambda,0,0.0,13
+37481,Indonesia,2020-06-08,Lambda,0,0.0,18
+37505,Indonesia,2020-06-22,Lambda,0,0.0,20
+37529,Indonesia,2020-07-06,Lambda,0,0.0,16
+37553,Indonesia,2020-07-20,Lambda,0,0.0,18
+37577,Indonesia,2020-08-03,Lambda,0,0.0,28
+37601,Indonesia,2020-08-17,Lambda,0,0.0,26
+37625,Indonesia,2020-08-31,Lambda,0,0.0,24
+37649,Indonesia,2020-09-14,Lambda,0,0.0,41
+37673,Indonesia,2020-09-28,Lambda,0,0.0,22
+37697,Indonesia,2020-10-12,Lambda,0,0.0,29
+37721,Indonesia,2020-10-26,Lambda,0,0.0,55
+37745,Indonesia,2020-11-09,Lambda,0,0.0,43
+37769,Indonesia,2020-11-23,Lambda,0,0.0,82
+37793,Indonesia,2020-12-07,Lambda,0,0.0,79
+37817,Indonesia,2020-12-21,Lambda,0,0.0,98
+37841,Indonesia,2021-01-04,Lambda,0,0.0,156
+37865,Indonesia,2021-01-11,Lambda,0,0.0,227
+37889,Indonesia,2021-01-25,Lambda,0,0.0,386
+37913,Indonesia,2021-02-08,Lambda,0,0.0,240
+37937,Indonesia,2021-02-22,Lambda,0,0.0,192
+37961,Indonesia,2021-03-08,Lambda,0,0.0,301
+37985,Indonesia,2021-03-22,Lambda,0,0.0,252
+38009,Indonesia,2021-04-05,Lambda,0,0.0,175
+38033,Indonesia,2021-04-19,Lambda,0,0.0,183
+38057,Indonesia,2021-05-03,Lambda,0,0.0,248
+38081,Indonesia,2021-05-17,Lambda,0,0.0,353
+38105,Indonesia,2021-05-31,Lambda,0,0.0,590
+38129,Indonesia,2021-06-14,Lambda,0,0.0,650
+38153,Indonesia,2021-06-28,Lambda,0,0.0,1041
+38177,Indonesia,2021-07-12,Lambda,0,0.0,977
+38201,Indonesia,2021-07-26,Lambda,0,0.0,752
+38225,Indonesia,2021-08-09,Lambda,0,0.0,1015
+38249,Indonesia,2021-08-23,Lambda,0,0.0,555
+38273,Indonesia,2021-09-06,Lambda,0,0.0,651
+38297,Indonesia,2021-09-20,Lambda,0,0.0,393
+38321,Indonesia,2021-10-04,Lambda,0,0.0,276
+38345,Indonesia,2021-10-18,Lambda,0,0.0,243
+38369,Indonesia,2021-11-01,Lambda,0,0.0,145
+38393,Indonesia,2021-11-15,Lambda,0,0.0,136
+38417,Indonesia,2021-11-29,Lambda,0,0.0,143
+38441,Indonesia,2021-12-13,Lambda,0,0.0,200
+38465,Indonesia,2021-12-27,Lambda,0,0.0,308
+38489,Iran,2020-05-11,Lambda,0,0.0,12
+38513,Iran,2020-05-25,Lambda,0,0.0,8
+38537,Iran,2020-06-08,Lambda,0,0.0,5
+38561,Iran,2020-06-22,Lambda,0,0.0,11
+38585,Iran,2020-07-06,Lambda,0,0.0,6
+38609,Iran,2020-07-20,Lambda,0,0.0,4
+38633,Iran,2020-08-31,Lambda,0,0.0,6
+38657,Iran,2020-09-28,Lambda,0,0.0,3
+38681,Iran,2020-10-12,Lambda,0,0.0,2
+38705,Iran,2020-10-26,Lambda,0,0.0,3
+38729,Iran,2020-11-09,Lambda,0,0.0,19
+38753,Iran,2020-11-23,Lambda,0,0.0,13
+38777,Iran,2020-12-07,Lambda,0,0.0,15
+38801,Iran,2020-12-21,Lambda,0,0.0,13
+38825,Iran,2021-01-04,Lambda,0,0.0,7
+38849,Iran,2021-01-11,Lambda,0,0.0,15
+38873,Iran,2021-01-25,Lambda,0,0.0,10
+38897,Iran,2021-02-08,Lambda,0,0.0,54
+38921,Iran,2021-02-22,Lambda,0,0.0,33
+38945,Iran,2021-03-08,Lambda,0,0.0,13
+38969,Iran,2021-04-05,Lambda,0,0.0,17
+38993,Iran,2021-04-19,Lambda,0,0.0,22
+39017,Iran,2021-05-03,Lambda,0,0.0,48
+39041,Iran,2021-05-17,Lambda,0,0.0,17
+39065,Iran,2021-05-31,Lambda,0,0.0,4
+39089,Iran,2021-07-26,Lambda,0,0.0,1
+39113,Iran,2021-08-09,Lambda,0,0.0,3
+39137,Iran,2021-09-06,Lambda,0,0.0,2
+39161,Iran,2021-12-13,Lambda,0,0.0,2
+39185,Iran,2021-12-27,Lambda,0,0.0,1
+39209,Iraq,2020-06-08,Lambda,0,0.0,10
+39233,Iraq,2020-06-22,Lambda,0,0.0,18
+39257,Iraq,2020-07-06,Lambda,0,0.0,2
+39281,Iraq,2020-10-12,Lambda,0,0.0,2
+39305,Iraq,2020-12-21,Lambda,0,0.0,2
+39329,Iraq,2021-01-04,Lambda,0,0.0,2
+39353,Iraq,2021-01-11,Lambda,0,0.0,1
+39377,Iraq,2021-01-25,Lambda,0,0.0,4
+39401,Iraq,2021-02-08,Lambda,0,0.0,4
+39425,Iraq,2021-02-22,Lambda,0,0.0,63
+39449,Iraq,2021-03-08,Lambda,0,0.0,15
+39473,Iraq,2021-03-22,Lambda,0,0.0,5
+39497,Iraq,2021-04-05,Lambda,0,0.0,5
+39521,Iraq,2021-04-19,Lambda,0,0.0,2
+39545,Iraq,2021-05-03,Lambda,0,0.0,12
+39569,Iraq,2021-05-17,Lambda,0,0.0,3
+39593,Iraq,2021-05-31,Lambda,0,0.0,2
+39617,Iraq,2021-06-14,Lambda,0,0.0,2
+39641,Iraq,2021-07-12,Lambda,0,0.0,2
+39665,Iraq,2021-07-26,Lambda,0,0.0,8
+39689,Iraq,2021-08-09,Lambda,0,0.0,2
+39713,Iraq,2021-11-15,Lambda,0,0.0,1
+39737,Ireland,2020-05-11,Lambda,0,0.0,115
+39761,Ireland,2020-05-25,Lambda,0,0.0,43
+39785,Ireland,2020-06-08,Lambda,0,0.0,8
+39809,Ireland,2020-06-22,Lambda,0,0.0,5
+39833,Ireland,2020-07-06,Lambda,0,0.0,9
+39857,Ireland,2020-07-20,Lambda,0,0.0,32
+39881,Ireland,2020-08-03,Lambda,0,0.0,59
+39905,Ireland,2020-08-17,Lambda,0,0.0,87
+39929,Ireland,2020-08-31,Lambda,0,0.0,22
+39953,Ireland,2020-09-14,Lambda,0,0.0,79
+39977,Ireland,2020-09-28,Lambda,0,0.0,102
+40001,Ireland,2020-10-12,Lambda,0,0.0,85
+40025,Ireland,2020-10-26,Lambda,0,0.0,100
+40049,Ireland,2020-11-09,Lambda,0,0.0,70
+40073,Ireland,2020-11-23,Lambda,0,0.0,95
+40097,Ireland,2020-12-07,Lambda,0,0.0,91
+40121,Ireland,2020-12-21,Lambda,0,0.0,100
+40145,Ireland,2021-01-04,Lambda,0,0.0,208
+40169,Ireland,2021-01-11,Lambda,0,0.0,140
+40193,Ireland,2021-01-25,Lambda,0,0.0,505
+40217,Ireland,2021-02-08,Lambda,0,0.0,1177
+40241,Ireland,2021-02-22,Lambda,0,0.0,1474
+40265,Ireland,2021-03-08,Lambda,0,0.0,1630
+40289,Ireland,2021-03-22,Lambda,0,0.0,1718
+40313,Ireland,2021-04-05,Lambda,0,0.0,1383
+40337,Ireland,2021-04-19,Lambda,0,0.0,1464
+40361,Ireland,2021-05-03,Lambda,0,0.0,1901
+40385,Ireland,2021-05-17,Lambda,0,0.0,1873
+40409,Ireland,2021-05-31,Lambda,0,0.0,2353
+40433,Ireland,2021-06-14,Lambda,0,0.0,1402
+40457,Ireland,2021-06-28,Lambda,0,0.0,1570
+40481,Ireland,2021-07-12,Lambda,3,0.17,1759
+40505,Ireland,2021-07-26,Lambda,1,0.03,2900
+40529,Ireland,2021-08-09,Lambda,0,0.0,3011
+40553,Ireland,2021-08-23,Lambda,0,0.0,2888
+40577,Ireland,2021-09-06,Lambda,0,0.0,2161
+40601,Ireland,2021-09-20,Lambda,0,0.0,2429
+40625,Ireland,2021-10-04,Lambda,0,0.0,1681
+40649,Ireland,2021-10-18,Lambda,0,0.0,2961
+40673,Ireland,2021-11-01,Lambda,0,0.0,3373
+40697,Ireland,2021-11-15,Lambda,0,0.0,990
+40721,Ireland,2021-11-29,Lambda,0,0.0,487
+40745,Ireland,2021-12-13,Lambda,0,0.0,888
+40769,Israel,2020-05-11,Lambda,0,0.0,8
+40793,Israel,2020-05-25,Lambda,0,0.0,4
+40817,Israel,2020-06-08,Lambda,0,0.0,18
+40841,Israel,2020-06-22,Lambda,0,0.0,7
+40865,Israel,2020-07-06,Lambda,0,0.0,16
+40889,Israel,2020-07-20,Lambda,0,0.0,6
+40913,Israel,2020-08-03,Lambda,0,0.0,48
+40937,Israel,2020-08-17,Lambda,0,0.0,9
+40961,Israel,2020-08-31,Lambda,0,0.0,1
+40985,Israel,2020-09-14,Lambda,0,0.0,3
+41009,Israel,2020-09-28,Lambda,0,0.0,1
+41033,Israel,2020-10-26,Lambda,0,0.0,1
+41057,Israel,2020-11-23,Lambda,0,0.0,1
+41081,Israel,2020-12-07,Lambda,0,0.0,9
+41105,Israel,2020-12-21,Lambda,0,0.0,54
+41129,Israel,2021-01-04,Lambda,0,0.0,1402
+41153,Israel,2021-01-11,Lambda,0,0.0,696
+41177,Israel,2021-01-25,Lambda,0,0.0,1167
+41201,Israel,2021-02-08,Lambda,0,0.0,2335
+41225,Israel,2021-02-22,Lambda,0,0.0,885
+41249,Israel,2021-03-08,Lambda,0,0.0,2004
+41273,Israel,2021-03-22,Lambda,0,0.0,925
+41297,Israel,2021-04-05,Lambda,0,0.0,830
+41321,Israel,2021-04-19,Lambda,2,0.41,482
+41345,Israel,2021-05-03,Lambda,2,0.56,357
+41369,Israel,2021-05-17,Lambda,26,12.75,204
+41393,Israel,2021-05-31,Lambda,0,0.0,150
+41417,Israel,2021-06-14,Lambda,0,0.0,114
+41441,Israel,2021-06-28,Lambda,1,0.12,847
+41465,Israel,2021-07-12,Lambda,0,0.0,1627
+41489,Israel,2021-07-26,Lambda,0,0.0,512
+41513,Israel,2021-08-09,Lambda,0,0.0,1647
+41537,Israel,2021-08-23,Lambda,0,0.0,1562
+41561,Israel,2021-09-06,Lambda,0,0.0,2177
+41585,Israel,2021-09-20,Lambda,0,0.0,2418
+41609,Israel,2021-10-04,Lambda,0,0.0,779
+41633,Israel,2021-10-18,Lambda,0,0.0,1546
+41657,Israel,2021-11-01,Lambda,0,0.0,1041
+41681,Israel,2021-11-15,Lambda,0,0.0,1652
+41705,Israel,2021-11-29,Lambda,0,0.0,2632
+41729,Israel,2021-12-13,Lambda,0,0.0,2885
+41753,Israel,2021-12-27,Lambda,0,0.0,2935
+41777,Italy,2020-05-11,Lambda,0,0.0,128
+41801,Italy,2020-05-25,Lambda,0,0.0,51
+41825,Italy,2020-06-08,Lambda,0,0.0,35
+41849,Italy,2020-06-22,Lambda,0,0.0,51
+41873,Italy,2020-07-06,Lambda,0,0.0,109
+41897,Italy,2020-07-20,Lambda,0,0.0,33
+41921,Italy,2020-08-03,Lambda,0,0.0,28
+41945,Italy,2020-08-17,Lambda,0,0.0,30
+41969,Italy,2020-08-31,Lambda,0,0.0,133
+41993,Italy,2020-09-14,Lambda,0,0.0,155
+42017,Italy,2020-09-28,Lambda,0,0.0,164
+42041,Italy,2020-10-12,Lambda,0,0.0,153
+42065,Italy,2020-10-26,Lambda,0,0.0,221
+42089,Italy,2020-11-09,Lambda,0,0.0,489
+42113,Italy,2020-11-23,Lambda,0,0.0,261
+42137,Italy,2020-12-07,Lambda,0,0.0,264
+42161,Italy,2020-12-21,Lambda,0,0.0,723
+42185,Italy,2021-01-04,Lambda,0,0.0,764
+42209,Italy,2021-01-11,Lambda,0,0.0,430
+42233,Italy,2021-01-25,Lambda,0,0.0,1202
+42257,Italy,2021-02-08,Lambda,0,0.0,1037
+42281,Italy,2021-02-22,Lambda,0,0.0,3126
+42305,Italy,2021-03-08,Lambda,0,0.0,4193
+42329,Italy,2021-03-22,Lambda,0,0.0,5646
+42353,Italy,2021-04-05,Lambda,0,0.0,3420
+42377,Italy,2021-04-19,Lambda,0,0.0,3809
+42401,Italy,2021-05-03,Lambda,0,0.0,4066
+42425,Italy,2021-05-17,Lambda,0,0.0,2377
+42449,Italy,2021-05-31,Lambda,2,0.07,2678
+42473,Italy,2021-06-14,Lambda,5,0.32,1546
+42497,Italy,2021-06-28,Lambda,1,0.05,1968
+42521,Italy,2021-07-12,Lambda,2,0.07,3054
+42545,Italy,2021-07-26,Lambda,3,0.06,4771
+42569,Italy,2021-08-09,Lambda,1,0.02,4135
+42593,Italy,2021-08-23,Lambda,0,0.0,3261
+42617,Italy,2021-09-06,Lambda,0,0.0,3515
+42641,Italy,2021-09-20,Lambda,0,0.0,2256
+42665,Italy,2021-10-04,Lambda,0,0.0,2494
+42689,Italy,2021-10-18,Lambda,0,0.0,2186
+42713,Italy,2021-11-01,Lambda,0,0.0,2505
+42737,Italy,2021-11-15,Lambda,0,0.0,3024
+42761,Italy,2021-11-29,Lambda,0,0.0,3356
+42785,Italy,2021-12-13,Lambda,0,0.0,3415
+42809,Italy,2021-12-27,Lambda,0,0.0,2356
+42833,Jamaica,2021-01-04,Lambda,0,0.0,5
+42857,Jamaica,2021-01-25,Lambda,0,0.0,7
+42881,Jamaica,2021-02-08,Lambda,0,0.0,10
+42905,Jamaica,2021-02-22,Lambda,0,0.0,3
+42929,Jamaica,2021-03-08,Lambda,0,0.0,112
+42953,Jamaica,2021-03-22,Lambda,0,0.0,1
+42977,Jamaica,2021-04-05,Lambda,0,0.0,9
+43001,Jamaica,2021-04-19,Lambda,0,0.0,10
+43025,Jamaica,2021-05-03,Lambda,0,0.0,1
+43049,Jamaica,2021-05-17,Lambda,0,0.0,30
+43073,Jamaica,2021-05-31,Lambda,0,0.0,26
+43097,Jamaica,2021-07-26,Lambda,0,0.0,92
+43121,Jamaica,2021-08-09,Lambda,0,0.0,8
+43145,Jamaica,2021-08-23,Lambda,0,0.0,34
+43169,Jamaica,2021-09-06,Lambda,0,0.0,9
+43193,Jamaica,2021-10-04,Lambda,0,0.0,1
+43217,Jamaica,2021-10-18,Lambda,0,0.0,1
+43241,Jamaica,2021-11-01,Lambda,0,0.0,7
+43265,Japan,2020-05-11,Lambda,0,0.0,415
+43289,Japan,2020-05-25,Lambda,0,0.0,116
+43313,Japan,2020-06-08,Lambda,0,0.0,146
+43337,Japan,2020-06-22,Lambda,0,0.0,189
+43361,Japan,2020-07-06,Lambda,0,0.0,386
+43385,Japan,2020-07-20,Lambda,0,0.0,779
+43409,Japan,2020-08-03,Lambda,0,0.0,1843
+43433,Japan,2020-08-17,Lambda,0,0.0,2125
+43457,Japan,2020-08-31,Lambda,0,0.0,1450
+43481,Japan,2020-09-14,Lambda,0,0.0,764
+43505,Japan,2020-09-28,Lambda,0,0.0,523
+43529,Japan,2020-10-12,Lambda,0,0.0,546
+43553,Japan,2020-10-26,Lambda,0,0.0,685
+43577,Japan,2020-11-09,Lambda,0,0.0,818
+43601,Japan,2020-11-23,Lambda,0,0.0,1745
+43625,Japan,2020-12-07,Lambda,0,0.0,1976
+43649,Japan,2020-12-21,Lambda,0,0.0,2240
+43673,Japan,2021-01-04,Lambda,0,0.0,2441
+43697,Japan,2021-01-11,Lambda,0,0.0,2303
+43721,Japan,2021-01-25,Lambda,0,0.0,3637
+43745,Japan,2021-02-08,Lambda,0,0.0,2366
+43769,Japan,2021-02-22,Lambda,0,0.0,1316
+43793,Japan,2021-03-08,Lambda,0,0.0,1308
+43817,Japan,2021-03-22,Lambda,0,0.0,2208
+43841,Japan,2021-04-05,Lambda,0,0.0,4081
+43865,Japan,2021-04-19,Lambda,0,0.0,5582
+43889,Japan,2021-05-03,Lambda,0,0.0,10178
+43913,Japan,2021-05-17,Lambda,0,0.0,9411
+43937,Japan,2021-05-31,Lambda,0,0.0,5920
+43961,Japan,2021-06-14,Lambda,0,0.0,4207
+43985,Japan,2021-06-28,Lambda,0,0.0,4220
+44009,Japan,2021-07-12,Lambda,0,0.0,5720
+44033,Japan,2021-07-26,Lambda,1,0.01,10145
+44057,Japan,2021-08-09,Lambda,0,0.0,17302
+44081,Japan,2021-08-23,Lambda,2,0.01,28942
+44105,Japan,2021-09-06,Lambda,0,0.0,24621
+44129,Japan,2021-09-20,Lambda,1,0.01,9641
+44153,Japan,2021-10-04,Lambda,0,0.0,2773
+44177,Japan,2021-10-18,Lambda,0,0.0,1163
+44201,Japan,2021-11-01,Lambda,0,0.0,531
+44225,Japan,2021-11-15,Lambda,0,0.0,423
+44249,Japan,2021-11-29,Lambda,0,0.0,275
+44273,Japan,2021-12-13,Lambda,0,0.0,226
+44297,Japan,2021-12-27,Lambda,0,0.0,153
+44321,Jordan,2020-06-08,Lambda,0,0.0,2
+44345,Jordan,2020-06-22,Lambda,0,0.0,1
+44369,Jordan,2020-07-06,Lambda,0,0.0,3
+44393,Jordan,2020-08-17,Lambda,0,0.0,1
+44417,Jordan,2020-08-31,Lambda,0,0.0,13
+44441,Jordan,2020-09-14,Lambda,0,0.0,27
+44465,Jordan,2020-09-28,Lambda,0,0.0,15
+44489,Jordan,2020-10-12,Lambda,0,0.0,311
+44513,Jordan,2020-10-26,Lambda,0,0.0,90
+44537,Jordan,2020-11-09,Lambda,0,0.0,48
+44561,Jordan,2020-12-07,Lambda,0,0.0,2
+44585,Jordan,2020-12-21,Lambda,0,0.0,2
+44609,Jordan,2021-01-04,Lambda,0,0.0,9
+44633,Jordan,2021-01-11,Lambda,0,0.0,42
+44657,Jordan,2021-01-25,Lambda,0,0.0,6
+44681,Jordan,2021-02-08,Lambda,0,0.0,25
+44705,Jordan,2021-02-22,Lambda,0,0.0,17
+44729,Jordan,2021-03-08,Lambda,0,0.0,12
+44753,Jordan,2021-03-22,Lambda,0,0.0,29
+44777,Jordan,2021-04-05,Lambda,0,0.0,13
+44801,Jordan,2021-04-19,Lambda,0,0.0,19
+44825,Jordan,2021-05-03,Lambda,0,0.0,16
+44849,Jordan,2021-05-17,Lambda,0,0.0,17
+44873,Jordan,2021-05-31,Lambda,0,0.0,14
+44897,Jordan,2021-06-14,Lambda,0,0.0,27
+44921,Jordan,2021-06-28,Lambda,0,0.0,16
+44945,Jordan,2021-07-12,Lambda,0,0.0,12
+44969,Jordan,2021-07-26,Lambda,0,0.0,5
+44993,Jordan,2021-08-09,Lambda,0,0.0,13
+45017,Jordan,2021-08-23,Lambda,0,0.0,12
+45041,Jordan,2021-09-06,Lambda,0,0.0,22
+45065,Jordan,2021-09-20,Lambda,0,0.0,35
+45089,Jordan,2021-10-04,Lambda,0,0.0,71
+45113,Jordan,2021-10-18,Lambda,0,0.0,64
+45137,Jordan,2021-11-01,Lambda,0,0.0,43
+45161,Jordan,2021-11-15,Lambda,0,0.0,39
+45185,Jordan,2021-11-29,Lambda,0,0.0,38
+45209,Jordan,2021-12-13,Lambda,0,0.0,26
+45233,Jordan,2021-12-27,Lambda,0,0.0,32
+45257,Kazakhstan,2020-05-11,Lambda,0,0.0,2
+45281,Kazakhstan,2020-05-25,Lambda,0,0.0,1
+45305,Kazakhstan,2020-11-23,Lambda,0,0.0,9
+45329,Kazakhstan,2020-12-07,Lambda,0,0.0,2
+45353,Kazakhstan,2020-12-21,Lambda,0,0.0,13
+45377,Kazakhstan,2021-01-04,Lambda,0,0.0,9
+45401,Kazakhstan,2021-01-11,Lambda,0,0.0,7
+45425,Kazakhstan,2021-01-25,Lambda,0,0.0,1
+45449,Kazakhstan,2021-03-08,Lambda,0,0.0,16
+45473,Kazakhstan,2021-03-22,Lambda,0,0.0,39
+45497,Kazakhstan,2021-04-05,Lambda,0,0.0,59
+45521,Kazakhstan,2021-04-19,Lambda,0,0.0,35
+45545,Kazakhstan,2021-05-03,Lambda,0,0.0,47
+45569,Kazakhstan,2021-07-26,Lambda,0,0.0,1
+45593,Kazakhstan,2021-08-23,Lambda,0,0.0,93
+45617,Kazakhstan,2021-09-06,Lambda,0,0.0,3
+45641,Kazakhstan,2021-09-20,Lambda,0,0.0,19
+45665,Kazakhstan,2021-10-04,Lambda,0,0.0,20
+45689,Kazakhstan,2021-10-18,Lambda,0,0.0,53
+45713,Kenya,2020-05-11,Lambda,0,0.0,76
+45737,Kenya,2020-05-25,Lambda,0,0.0,125
+45761,Kenya,2020-06-08,Lambda,0,0.0,38
+45785,Kenya,2020-06-22,Lambda,0,0.0,57
+45809,Kenya,2020-07-06,Lambda,0,0.0,89
+45833,Kenya,2020-07-20,Lambda,0,0.0,67
+45857,Kenya,2020-08-03,Lambda,0,0.0,38
+45881,Kenya,2020-08-17,Lambda,0,0.0,56
+45905,Kenya,2020-08-31,Lambda,0,0.0,54
+45929,Kenya,2020-09-14,Lambda,0,0.0,54
+45953,Kenya,2020-09-28,Lambda,0,0.0,17
+45977,Kenya,2020-10-12,Lambda,0,0.0,68
+46001,Kenya,2020-10-26,Lambda,0,0.0,157
+46025,Kenya,2020-11-09,Lambda,0,0.0,344
+46049,Kenya,2020-11-23,Lambda,0,0.0,256
+46073,Kenya,2020-12-07,Lambda,0,0.0,157
+46097,Kenya,2020-12-21,Lambda,0,0.0,75
+46121,Kenya,2021-01-04,Lambda,0,0.0,29
+46145,Kenya,2021-01-11,Lambda,0,0.0,37
+46169,Kenya,2021-01-25,Lambda,0,0.0,52
+46193,Kenya,2021-02-08,Lambda,0,0.0,70
+46217,Kenya,2021-02-22,Lambda,0,0.0,64
+46241,Kenya,2021-03-08,Lambda,0,0.0,224
+46265,Kenya,2021-03-22,Lambda,0,0.0,261
+46289,Kenya,2021-04-05,Lambda,0,0.0,169
+46313,Kenya,2021-04-19,Lambda,0,0.0,133
+46337,Kenya,2021-05-03,Lambda,0,0.0,136
+46361,Kenya,2021-05-17,Lambda,0,0.0,117
+46385,Kenya,2021-05-31,Lambda,0,0.0,194
+46409,Kenya,2021-06-14,Lambda,0,0.0,132
+46433,Kenya,2021-06-28,Lambda,0,0.0,173
+46457,Kenya,2021-07-12,Lambda,0,0.0,278
+46481,Kenya,2021-07-26,Lambda,0,0.0,222
+46505,Kenya,2021-08-09,Lambda,0,0.0,296
+46529,Kenya,2021-08-23,Lambda,0,0.0,290
+46553,Kenya,2021-09-06,Lambda,0,0.0,230
+46577,Kenya,2021-09-20,Lambda,0,0.0,157
+46601,Kenya,2021-10-04,Lambda,0,0.0,99
+46625,Kenya,2021-10-18,Lambda,0,0.0,64
+46649,Kenya,2021-11-01,Lambda,0,0.0,33
+46673,Kenya,2021-11-15,Lambda,0,0.0,47
+46697,Kenya,2021-11-29,Lambda,0,0.0,18
+46721,Kenya,2021-12-13,Lambda,0,0.0,44
+46745,Kosovo,2020-05-11,Lambda,0,0.0,1
+46769,Kosovo,2020-07-20,Lambda,0,0.0,4
+46793,Kosovo,2020-08-03,Lambda,0,0.0,4
+46817,Kosovo,2020-11-23,Lambda,0,0.0,1
+46841,Kosovo,2020-12-21,Lambda,0,0.0,3
+46865,Kosovo,2021-01-04,Lambda,0,0.0,7
+46889,Kosovo,2021-01-11,Lambda,0,0.0,14
+46913,Kosovo,2021-05-03,Lambda,0,0.0,2
+46937,Kosovo,2021-05-17,Lambda,0,0.0,11
+46961,Kosovo,2021-05-31,Lambda,0,0.0,1
+46985,Kosovo,2021-06-14,Lambda,0,0.0,7
+47009,Kosovo,2021-07-12,Lambda,0,0.0,3
+47033,Kosovo,2021-07-26,Lambda,0,0.0,44
+47057,Kosovo,2021-08-09,Lambda,0,0.0,166
+47081,Kosovo,2021-08-23,Lambda,0,0.0,154
+47105,Kosovo,2021-09-06,Lambda,0,0.0,64
+47129,Kosovo,2021-09-20,Lambda,0,0.0,243
+47153,Kosovo,2021-10-04,Lambda,0,0.0,110
+47177,Kosovo,2021-10-18,Lambda,0,0.0,39
+47201,Kosovo,2021-11-01,Lambda,0,0.0,42
+47225,Kosovo,2021-11-15,Lambda,0,0.0,40
+47249,Kosovo,2021-11-29,Lambda,0,0.0,26
+47273,Kosovo,2021-12-13,Lambda,0,0.0,4
+47297,Kuwait,2021-01-04,Lambda,0,0.0,15
+47321,Kuwait,2021-01-25,Lambda,0,0.0,5
+47345,Kuwait,2021-02-08,Lambda,0,0.0,5
+47369,Kuwait,2021-04-19,Lambda,0,0.0,3
+47393,Kuwait,2021-05-31,Lambda,0,0.0,7
+47417,Kuwait,2021-06-14,Lambda,0,0.0,32
+47441,Kuwait,2021-06-28,Lambda,0,0.0,40
+47465,Kuwait,2021-07-12,Lambda,0,0.0,66
+47489,Kuwait,2021-08-09,Lambda,0,0.0,8
+47513,Kuwait,2021-08-23,Lambda,0,0.0,32
+47537,Kuwait,2021-09-06,Lambda,0,0.0,5
+47561,Kuwait,2021-09-20,Lambda,0,0.0,18
+47585,Kuwait,2021-10-04,Lambda,0,0.0,30
+47609,Kuwait,2021-10-18,Lambda,0,0.0,22
+47633,Kuwait,2021-11-01,Lambda,0,0.0,21
+47657,Kuwait,2021-11-15,Lambda,0,0.0,4
+47681,Kuwait,2021-11-29,Lambda,0,0.0,12
+47705,Kuwait,2021-12-13,Lambda,0,0.0,3
+47729,Latvia,2020-05-11,Lambda,0,0.0,19
+47753,Latvia,2020-06-08,Lambda,0,0.0,3
+47777,Latvia,2020-06-22,Lambda,0,0.0,5
+47801,Latvia,2020-07-06,Lambda,0,0.0,3
+47825,Latvia,2020-07-20,Lambda,0,0.0,29
+47849,Latvia,2020-08-03,Lambda,0,0.0,11
+47873,Latvia,2020-08-17,Lambda,0,0.0,18
+47897,Latvia,2020-08-31,Lambda,0,0.0,21
+47921,Latvia,2020-09-14,Lambda,0,0.0,23
+47945,Latvia,2020-09-28,Lambda,0,0.0,46
+47969,Latvia,2020-10-12,Lambda,0,0.0,297
+47993,Latvia,2020-10-26,Lambda,0,0.0,12
+48017,Latvia,2020-11-09,Lambda,0,0.0,1
+48041,Latvia,2020-11-23,Lambda,0,0.0,1
+48065,Latvia,2020-12-21,Lambda,0,0.0,5
+48089,Latvia,2021-01-04,Lambda,0,0.0,1
+48113,Latvia,2021-01-11,Lambda,0,0.0,3
+48137,Latvia,2021-01-25,Lambda,0,0.0,82
+48161,Latvia,2021-02-08,Lambda,0,0.0,249
+48185,Latvia,2021-02-22,Lambda,0,0.0,427
+48209,Latvia,2021-03-08,Lambda,0,0.0,468
+48233,Latvia,2021-03-22,Lambda,0,0.0,991
+48257,Latvia,2021-04-05,Lambda,0,0.0,458
+48281,Latvia,2021-04-19,Lambda,0,0.0,750
+48305,Latvia,2021-05-03,Lambda,0,0.0,725
+48329,Latvia,2021-05-17,Lambda,0,0.0,509
+48353,Latvia,2021-05-31,Lambda,0,0.0,517
+48377,Latvia,2021-06-14,Lambda,0,0.0,65
+48401,Latvia,2021-06-28,Lambda,0,0.0,71
+48425,Latvia,2021-07-12,Lambda,0,0.0,108
+48449,Latvia,2021-07-26,Lambda,0,0.0,137
+48473,Latvia,2021-08-09,Lambda,0,0.0,149
+48497,Latvia,2021-08-23,Lambda,0,0.0,86
+48521,Lebanon,2020-06-08,Lambda,0,0.0,3
+48545,Lebanon,2020-07-06,Lambda,0,0.0,2
+48569,Lebanon,2020-08-03,Lambda,0,0.0,4
+48593,Lebanon,2020-08-17,Lambda,0,0.0,3
+48617,Lebanon,2020-09-14,Lambda,0,0.0,10
+48641,Lebanon,2020-10-12,Lambda,0,0.0,3
+48665,Lebanon,2020-12-07,Lambda,0,0.0,2
+48689,Lebanon,2020-12-21,Lambda,0,0.0,1
+48713,Lebanon,2021-01-04,Lambda,0,0.0,18
+48737,Lebanon,2021-01-11,Lambda,0,0.0,31
+48761,Lebanon,2021-01-25,Lambda,0,0.0,63
+48785,Lebanon,2021-02-08,Lambda,0,0.0,62
+48809,Lebanon,2021-02-22,Lambda,0,0.0,139
+48833,Lebanon,2021-03-08,Lambda,0,0.0,157
+48857,Lebanon,2021-03-22,Lambda,0,0.0,130
+48881,Lebanon,2021-04-05,Lambda,0,0.0,117
+48905,Lebanon,2021-04-19,Lambda,0,0.0,77
+48929,Lebanon,2021-05-03,Lambda,0,0.0,91
+48953,Lebanon,2021-05-17,Lambda,0,0.0,11
+48977,Lebanon,2021-06-28,Lambda,0,0.0,4
+49001,Lebanon,2021-07-12,Lambda,0,0.0,52
+49025,Lebanon,2021-07-26,Lambda,0,0.0,25
+49049,Lebanon,2021-12-13,Lambda,0,0.0,4
+49073,Liechtenstein,2020-10-26,Lambda,0,0.0,3
+49097,Liechtenstein,2020-11-23,Lambda,0,0.0,1
+49121,Liechtenstein,2020-12-07,Lambda,0,0.0,2
+49145,Liechtenstein,2020-12-21,Lambda,0,0.0,12
+49169,Liechtenstein,2021-01-04,Lambda,0,0.0,15
+49193,Liechtenstein,2021-01-25,Lambda,0,0.0,3
+49217,Liechtenstein,2021-02-08,Lambda,0,0.0,9
+49241,Liechtenstein,2021-02-22,Lambda,0,0.0,1
+49265,Liechtenstein,2021-03-08,Lambda,0,0.0,3
+49289,Liechtenstein,2021-04-05,Lambda,0,0.0,1
+49313,Liechtenstein,2021-04-19,Lambda,0,0.0,16
+49337,Liechtenstein,2021-05-03,Lambda,0,0.0,12
+49361,Liechtenstein,2021-05-17,Lambda,0,0.0,7
+49385,Liechtenstein,2021-05-31,Lambda,0,0.0,2
+49409,Liechtenstein,2021-06-14,Lambda,0,0.0,2
+49433,Liechtenstein,2021-06-28,Lambda,0,0.0,2
+49457,Liechtenstein,2021-07-12,Lambda,0,0.0,2
+49481,Liechtenstein,2021-07-26,Lambda,0,0.0,4
+49505,Liechtenstein,2021-08-09,Lambda,0,0.0,2
+49529,Liechtenstein,2021-08-23,Lambda,0,0.0,11
+49553,Liechtenstein,2021-09-06,Lambda,0,0.0,7
+49577,Liechtenstein,2021-09-20,Lambda,0,0.0,5
+49601,Liechtenstein,2021-10-04,Lambda,0,0.0,4
+49625,Liechtenstein,2021-10-18,Lambda,0,0.0,4
+49649,Liechtenstein,2021-11-01,Lambda,0,0.0,11
+49673,Liechtenstein,2021-11-15,Lambda,0,0.0,63
+49697,Liechtenstein,2021-11-29,Lambda,0,0.0,131
+49721,Liechtenstein,2021-12-13,Lambda,0,0.0,126
+49745,Lithuania,2020-05-25,Lambda,0,0.0,13
+49769,Lithuania,2020-06-08,Lambda,0,0.0,2
+49793,Lithuania,2020-08-03,Lambda,0,0.0,9
+49817,Lithuania,2020-08-17,Lambda,0,0.0,16
+49841,Lithuania,2020-08-31,Lambda,0,0.0,14
+49865,Lithuania,2020-09-14,Lambda,0,0.0,30
+49889,Lithuania,2020-09-28,Lambda,0,0.0,4
+49913,Lithuania,2020-10-12,Lambda,0,0.0,4
+49937,Lithuania,2020-10-26,Lambda,0,0.0,2
+49961,Lithuania,2020-11-09,Lambda,0,0.0,3
+49985,Lithuania,2020-11-23,Lambda,0,0.0,17
+50009,Lithuania,2020-12-07,Lambda,0,0.0,199
+50033,Lithuania,2020-12-21,Lambda,0,0.0,206
+50057,Lithuania,2021-01-04,Lambda,0,0.0,112
+50081,Lithuania,2021-01-11,Lambda,0,0.0,122
+50105,Lithuania,2021-01-25,Lambda,0,0.0,191
+50129,Lithuania,2021-02-08,Lambda,0,0.0,181
+50153,Lithuania,2021-02-22,Lambda,0,0.0,881
+50177,Lithuania,2021-03-08,Lambda,0,0.0,1198
+50201,Lithuania,2021-03-22,Lambda,0,0.0,1395
+50225,Lithuania,2021-04-05,Lambda,0,0.0,1624
+50249,Lithuania,2021-04-19,Lambda,0,0.0,1710
+50273,Lithuania,2021-05-03,Lambda,0,0.0,1619
+50297,Lithuania,2021-05-17,Lambda,0,0.0,1422
+50321,Lithuania,2021-05-31,Lambda,0,0.0,1484
+50345,Lithuania,2021-06-14,Lambda,0,0.0,664
+50369,Lithuania,2021-06-28,Lambda,0,0.0,211
+50393,Lithuania,2021-07-12,Lambda,0,0.0,236
+50417,Lithuania,2021-07-26,Lambda,0,0.0,993
+50441,Lithuania,2021-08-09,Lambda,0,0.0,1516
+50465,Lithuania,2021-08-23,Lambda,0,0.0,1415
+50489,Lithuania,2021-09-06,Lambda,0,0.0,1200
+50513,Lithuania,2021-09-20,Lambda,0,0.0,871
+50537,Lithuania,2021-10-04,Lambda,0,0.0,731
+50561,Lithuania,2021-10-18,Lambda,0,0.0,944
+50585,Lithuania,2021-11-01,Lambda,0,0.0,1008
+50609,Lithuania,2021-11-15,Lambda,0,0.0,1167
+50633,Lithuania,2021-11-29,Lambda,0,0.0,858
+50657,Lithuania,2021-12-13,Lambda,0,0.0,899
+50681,Lithuania,2021-12-27,Lambda,0,0.0,212
+50705,Luxembourg,2020-05-11,Lambda,0,0.0,6
+50729,Luxembourg,2020-05-25,Lambda,0,0.0,12
+50753,Luxembourg,2020-06-22,Lambda,0,0.0,4
+50777,Luxembourg,2020-07-06,Lambda,0,0.0,20
+50801,Luxembourg,2020-07-20,Lambda,0,0.0,24
+50825,Luxembourg,2020-08-03,Lambda,0,0.0,20
+50849,Luxembourg,2020-08-17,Lambda,0,0.0,17
+50873,Luxembourg,2020-08-31,Lambda,0,0.0,4
+50897,Luxembourg,2020-09-14,Lambda,0,0.0,7
+50921,Luxembourg,2020-09-28,Lambda,0,0.0,18
+50945,Luxembourg,2020-10-12,Lambda,0,0.0,34
+50969,Luxembourg,2020-10-26,Lambda,0,0.0,394
+50993,Luxembourg,2020-11-09,Lambda,0,0.0,535
+51017,Luxembourg,2020-11-23,Lambda,0,0.0,444
+51041,Luxembourg,2020-12-07,Lambda,0,0.0,769
+51065,Luxembourg,2020-12-21,Lambda,0,0.0,676
+51089,Luxembourg,2021-01-04,Lambda,0,0.0,267
+51113,Luxembourg,2021-01-11,Lambda,0,0.0,114
+51137,Luxembourg,2021-01-25,Lambda,0,0.0,256
+51161,Luxembourg,2021-02-08,Lambda,0,0.0,593
+51185,Luxembourg,2021-02-22,Lambda,0,0.0,354
+51209,Luxembourg,2021-03-08,Lambda,0,0.0,754
+51233,Luxembourg,2021-03-22,Lambda,0,0.0,683
+51257,Luxembourg,2021-04-05,Lambda,0,0.0,948
+51281,Luxembourg,2021-04-19,Lambda,0,0.0,1043
+51305,Luxembourg,2021-05-03,Lambda,0,0.0,1073
+51329,Luxembourg,2021-05-17,Lambda,0,0.0,744
+51353,Luxembourg,2021-05-31,Lambda,0,0.0,392
+51377,Luxembourg,2021-06-14,Lambda,0,0.0,240
+51401,Luxembourg,2021-06-28,Lambda,0,0.0,130
+51425,Luxembourg,2021-07-12,Lambda,0,0.0,944
+51449,Luxembourg,2021-07-26,Lambda,0,0.0,699
+51473,Luxembourg,2021-08-09,Lambda,0,0.0,459
+51497,Luxembourg,2021-08-23,Lambda,0,0.0,413
+51521,Luxembourg,2021-09-06,Lambda,0,0.0,549
+51545,Luxembourg,2021-09-20,Lambda,0,0.0,600
+51569,Luxembourg,2021-10-04,Lambda,0,0.0,705
+51593,Luxembourg,2021-10-18,Lambda,0,0.0,764
+51617,Luxembourg,2021-11-01,Lambda,0,0.0,798
+51641,Luxembourg,2021-11-15,Lambda,0,0.0,766
+51665,Luxembourg,2021-11-29,Lambda,0,0.0,1044
+51689,Luxembourg,2021-12-13,Lambda,0,0.0,653
+51713,Madagascar,2020-05-11,Lambda,0,0.0,13
+51737,Madagascar,2020-05-25,Lambda,0,0.0,14
+51761,Madagascar,2020-06-08,Lambda,0,0.0,35
+51785,Madagascar,2020-06-22,Lambda,0,0.0,23
+51809,Madagascar,2020-07-06,Lambda,0,0.0,31
+51833,Madagascar,2020-07-20,Lambda,0,0.0,36
+51857,Madagascar,2020-08-03,Lambda,0,0.0,29
+51881,Madagascar,2020-08-17,Lambda,0,0.0,15
+51905,Madagascar,2020-08-31,Lambda,0,0.0,26
+51929,Madagascar,2020-09-14,Lambda,0,0.0,25
+51953,Madagascar,2020-09-28,Lambda,0,0.0,9
+51977,Madagascar,2020-10-12,Lambda,0,0.0,13
+52001,Madagascar,2020-10-26,Lambda,0,0.0,10
+52025,Madagascar,2020-11-09,Lambda,0,0.0,10
+52049,Madagascar,2020-11-23,Lambda,0,0.0,19
+52073,Madagascar,2020-12-07,Lambda,0,0.0,10
+52097,Madagascar,2020-12-21,Lambda,0,0.0,21
+52121,Madagascar,2021-01-04,Lambda,0,0.0,13
+52145,Madagascar,2021-01-11,Lambda,0,0.0,17
+52169,Madagascar,2021-01-25,Lambda,0,0.0,38
+52193,Madagascar,2021-02-08,Lambda,0,0.0,33
+52217,Madagascar,2021-02-22,Lambda,0,0.0,19
+52241,Madagascar,2021-03-08,Lambda,0,0.0,28
+52265,Madagascar,2021-03-22,Lambda,0,0.0,39
+52289,Madagascar,2021-04-05,Lambda,0,0.0,52
+52313,Madagascar,2021-04-19,Lambda,0,0.0,113
+52337,Madagascar,2021-05-03,Lambda,0,0.0,16
+52361,Madagascar,2021-05-17,Lambda,0,0.0,15
+52385,Madagascar,2021-05-31,Lambda,0,0.0,10
+52409,Madagascar,2021-07-12,Lambda,0,0.0,17
+52433,Madagascar,2021-07-26,Lambda,0,0.0,23
+52457,Malawi,2020-08-17,Lambda,0,0.0,1
+52481,Malawi,2020-09-28,Lambda,0,0.0,1
+52505,Malawi,2020-12-07,Lambda,0,0.0,2
+52529,Malawi,2020-12-21,Lambda,0,0.0,1
+52553,Malawi,2021-01-04,Lambda,0,0.0,18
+52577,Malawi,2021-01-11,Lambda,0,0.0,12
+52601,Malawi,2021-01-25,Lambda,0,0.0,154
+52625,Malawi,2021-02-08,Lambda,0,0.0,69
+52649,Malawi,2021-02-22,Lambda,0,0.0,21
+52673,Malawi,2021-03-08,Lambda,0,0.0,45
+52697,Malawi,2021-03-22,Lambda,0,0.0,23
+52721,Malawi,2021-04-05,Lambda,0,0.0,6
+52745,Malawi,2021-04-19,Lambda,0,0.0,40
+52769,Malawi,2021-05-03,Lambda,0,0.0,33
+52793,Malawi,2021-05-17,Lambda,0,0.0,4
+52817,Malawi,2021-05-31,Lambda,0,0.0,24
+52841,Malawi,2021-06-14,Lambda,0,0.0,50
+52865,Malawi,2021-06-28,Lambda,0,0.0,72
+52889,Malawi,2021-07-12,Lambda,0,0.0,76
+52913,Malawi,2021-07-26,Lambda,0,0.0,33
+52937,Malawi,2021-08-09,Lambda,0,0.0,38
+52961,Malawi,2021-08-23,Lambda,0,0.0,15
+52985,Malawi,2021-09-06,Lambda,0,0.0,12
+53009,Malawi,2021-09-20,Lambda,0,0.0,24
+53033,Malawi,2021-10-04,Lambda,0,0.0,2
+53057,Malawi,2021-11-01,Lambda,0,0.0,1
+53081,Malawi,2021-12-13,Lambda,0,0.0,13
+53105,Malawi,2021-12-27,Lambda,0,0.0,21
+53129,Malaysia,2020-05-11,Lambda,0,0.0,7
+53153,Malaysia,2020-05-25,Lambda,0,0.0,14
+53177,Malaysia,2020-06-08,Lambda,0,0.0,8
+53201,Malaysia,2020-06-22,Lambda,0,0.0,3
+53225,Malaysia,2020-07-20,Lambda,0,0.0,2
+53249,Malaysia,2020-08-03,Lambda,0,0.0,6
+53273,Malaysia,2020-08-17,Lambda,0,0.0,9
+53297,Malaysia,2020-08-31,Lambda,0,0.0,1
+53321,Malaysia,2020-09-14,Lambda,0,0.0,23
+53345,Malaysia,2020-10-12,Lambda,0,0.0,26
+53369,Malaysia,2020-10-26,Lambda,0,0.0,41
+53393,Malaysia,2020-11-09,Lambda,0,0.0,76
+53417,Malaysia,2020-11-23,Lambda,0,0.0,62
+53441,Malaysia,2020-12-07,Lambda,0,0.0,42
+53465,Malaysia,2020-12-21,Lambda,0,0.0,65
+53489,Malaysia,2021-01-04,Lambda,0,0.0,37
+53513,Malaysia,2021-01-11,Lambda,0,0.0,56
+53537,Malaysia,2021-01-25,Lambda,0,0.0,170
+53561,Malaysia,2021-02-08,Lambda,0,0.0,104
+53585,Malaysia,2021-02-22,Lambda,0,0.0,106
+53609,Malaysia,2021-03-08,Lambda,0,0.0,57
+53633,Malaysia,2021-03-22,Lambda,0,0.0,64
+53657,Malaysia,2021-04-05,Lambda,0,0.0,110
+53681,Malaysia,2021-04-19,Lambda,0,0.0,208
+53705,Malaysia,2021-05-03,Lambda,0,0.0,125
+53729,Malaysia,2021-05-17,Lambda,0,0.0,125
+53753,Malaysia,2021-05-31,Lambda,0,0.0,73
+53777,Malaysia,2021-06-14,Lambda,0,0.0,72
+53801,Malaysia,2021-06-28,Lambda,0,0.0,104
+53825,Malaysia,2021-07-12,Lambda,0,0.0,134
+53849,Malaysia,2021-07-26,Lambda,0,0.0,212
+53873,Malaysia,2021-08-09,Lambda,0,0.0,452
+53897,Malaysia,2021-08-23,Lambda,0,0.0,627
+53921,Malaysia,2021-09-06,Lambda,0,0.0,686
+53945,Malaysia,2021-09-20,Lambda,0,0.0,819
+53969,Malaysia,2021-10-04,Lambda,0,0.0,683
+53993,Malaysia,2021-10-18,Lambda,0,0.0,458
+54017,Malaysia,2021-11-01,Lambda,0,0.0,417
+54041,Malaysia,2021-11-15,Lambda,0,0.0,397
+54065,Malaysia,2021-11-29,Lambda,0,0.0,301
+54089,Malaysia,2021-12-13,Lambda,0,0.0,218
+54113,Malaysia,2021-12-27,Lambda,0,0.0,42
+54137,Maldives,2020-05-11,Lambda,0,0.0,1
+54161,Maldives,2020-05-25,Lambda,0,0.0,1
+54185,Maldives,2020-06-08,Lambda,0,0.0,1
+54209,Maldives,2020-06-22,Lambda,0,0.0,1
+54233,Maldives,2020-07-20,Lambda,0,0.0,2
+54257,Maldives,2020-08-03,Lambda,0,0.0,1
+54281,Maldives,2020-08-17,Lambda,0,0.0,3
+54305,Maldives,2020-09-28,Lambda,0,0.0,1
+54329,Maldives,2020-11-09,Lambda,0,0.0,1
+54353,Maldives,2020-11-23,Lambda,0,0.0,1
+54377,Maldives,2021-01-04,Lambda,0,0.0,4
+54401,Maldives,2021-01-11,Lambda,0,0.0,2
+54425,Maldives,2021-01-25,Lambda,0,0.0,1
+54449,Maldives,2021-02-08,Lambda,0,0.0,5
+54473,Maldives,2021-02-22,Lambda,0,0.0,1
+54497,Maldives,2021-03-08,Lambda,0,0.0,5
+54521,Maldives,2021-03-22,Lambda,0,0.0,2
+54545,Maldives,2021-04-05,Lambda,0,0.0,3
+54569,Maldives,2021-05-03,Lambda,0,0.0,5
+54593,Maldives,2021-05-17,Lambda,0,0.0,4
+54617,Maldives,2021-05-31,Lambda,0,0.0,5
+54641,Maldives,2021-06-14,Lambda,0,0.0,1
+54665,Maldives,2021-06-28,Lambda,0,0.0,7
+54689,Maldives,2021-07-12,Lambda,0,0.0,3
+54713,Maldives,2021-07-26,Lambda,0,0.0,17
+54737,Maldives,2021-08-09,Lambda,0,0.0,24
+54761,Maldives,2021-08-23,Lambda,0,0.0,51
+54785,Maldives,2021-09-06,Lambda,0,0.0,106
+54809,Maldives,2021-09-20,Lambda,0,0.0,61
+54833,Maldives,2021-10-04,Lambda,0,0.0,113
+54857,Maldives,2021-10-18,Lambda,0,0.0,97
+54881,Maldives,2021-11-01,Lambda,0,0.0,52
+54905,Maldives,2021-11-15,Lambda,0,0.0,85
+54929,Maldives,2021-11-29,Lambda,0,0.0,59
+54953,Maldives,2021-12-13,Lambda,0,0.0,107
+54977,Maldives,2021-12-27,Lambda,0,0.0,32
+55001,Malta,2020-08-17,Lambda,0,0.0,1
+55025,Malta,2020-08-31,Lambda,0,0.0,2
+55049,Malta,2020-09-14,Lambda,0,0.0,7
+55073,Malta,2021-04-05,Lambda,0,0.0,38
+55097,Malta,2021-04-19,Lambda,0,0.0,32
+55121,Malta,2021-05-03,Lambda,0,0.0,44
+55145,Malta,2021-05-17,Lambda,0,0.0,32
+55169,Malta,2021-05-31,Lambda,0,0.0,15
+55193,Malta,2021-06-14,Lambda,0,0.0,11
+55217,Malta,2021-06-28,Lambda,0,0.0,9
+55241,Malta,2021-07-12,Lambda,0,0.0,60
+55265,Malta,2021-07-26,Lambda,0,0.0,48
+55289,Malta,2021-08-09,Lambda,0,0.0,19
+55313,Malta,2021-10-18,Lambda,0,0.0,52
+55337,Malta,2021-11-01,Lambda,0,0.0,24
+55361,Malta,2021-11-15,Lambda,0,0.0,22
+55385,Malta,2021-11-29,Lambda,0,0.0,132
+55409,Malta,2021-12-13,Lambda,0,0.0,21
+55433,Malta,2021-12-27,Lambda,0,0.0,34
+55457,Mauritius,2020-10-26,Lambda,0,0.0,2
+55481,Mauritius,2020-11-09,Lambda,0,0.0,1
+55505,Mauritius,2020-11-23,Lambda,0,0.0,3
+55529,Mauritius,2020-12-07,Lambda,0,0.0,4
+55553,Mauritius,2020-12-21,Lambda,0,0.0,2
+55577,Mauritius,2021-01-04,Lambda,0,0.0,2
+55601,Mauritius,2021-01-11,Lambda,0,0.0,8
+55625,Mauritius,2021-01-25,Lambda,0,0.0,6
+55649,Mauritius,2021-02-08,Lambda,0,0.0,5
+55673,Mauritius,2021-02-22,Lambda,0,0.0,3
+55697,Mauritius,2021-03-08,Lambda,0,0.0,8
+55721,Mauritius,2021-03-22,Lambda,0,0.0,89
+55745,Mauritius,2021-04-05,Lambda,0,0.0,10
+55769,Mauritius,2021-04-19,Lambda,0,0.0,3
+55793,Mauritius,2021-05-03,Lambda,0,0.0,8
+55817,Mauritius,2021-05-17,Lambda,0,0.0,40
+55841,Mauritius,2021-05-31,Lambda,0,0.0,8
+55865,Mauritius,2021-06-14,Lambda,0,0.0,13
+55889,Mauritius,2021-06-28,Lambda,0,0.0,18
+55913,Mauritius,2021-07-12,Lambda,0,0.0,23
+55937,Mauritius,2021-07-26,Lambda,0,0.0,21
+55961,Mauritius,2021-08-09,Lambda,0,0.0,10
+55985,Mauritius,2021-08-23,Lambda,0,0.0,7
+56009,Mauritius,2021-09-06,Lambda,0,0.0,18
+56033,Mauritius,2021-09-20,Lambda,0,0.0,11
+56057,Mauritius,2021-10-04,Lambda,0,0.0,13
+56081,Mauritius,2021-10-18,Lambda,0,0.0,17
+56105,Mauritius,2021-11-01,Lambda,0,0.0,31
+56129,Mauritius,2021-11-15,Lambda,0,0.0,2
+56153,Mauritius,2021-11-29,Lambda,0,0.0,82
+56177,Mexico,2020-05-11,Lambda,0,0.0,208
+56201,Mexico,2020-05-25,Lambda,0,0.0,264
+56225,Mexico,2020-06-08,Lambda,0,0.0,290
+56249,Mexico,2020-06-22,Lambda,0,0.0,166
+56273,Mexico,2020-07-06,Lambda,0,0.0,219
+56297,Mexico,2020-07-20,Lambda,0,0.0,135
+56321,Mexico,2020-08-03,Lambda,0,0.0,155
+56345,Mexico,2020-08-17,Lambda,0,0.0,144
+56369,Mexico,2020-08-31,Lambda,0,0.0,178
+56393,Mexico,2020-09-14,Lambda,0,0.0,123
+56417,Mexico,2020-09-28,Lambda,0,0.0,62
+56441,Mexico,2020-10-12,Lambda,0,0.0,81
+56465,Mexico,2020-10-26,Lambda,0,0.0,90
+56489,Mexico,2020-11-09,Lambda,0,0.0,89
+56513,Mexico,2020-11-23,Lambda,0,0.0,170
+56537,Mexico,2020-12-07,Lambda,0,0.0,233
+56561,Mexico,2020-12-21,Lambda,0,0.0,310
+56585,Mexico,2021-01-04,Lambda,0,0.0,277
+56609,Mexico,2021-01-11,Lambda,0,0.0,128
+56633,Mexico,2021-01-25,Lambda,0,0.0,365
+56657,Mexico,2021-02-08,Lambda,0,0.0,362
+56681,Mexico,2021-02-22,Lambda,0,0.0,1128
+56705,Mexico,2021-03-08,Lambda,0,0.0,1327
+56729,Mexico,2021-03-22,Lambda,0,0.0,1130
+56753,Mexico,2021-04-05,Lambda,0,0.0,1011
+56777,Mexico,2021-04-19,Lambda,5,0.4,1263
+56801,Mexico,2021-05-03,Lambda,25,1.8,1390
+56825,Mexico,2021-05-17,Lambda,15,0.94,1589
+56849,Mexico,2021-05-31,Lambda,15,0.87,1724
+56873,Mexico,2021-06-14,Lambda,34,1.53,2222
+56897,Mexico,2021-06-28,Lambda,48,2.54,1889
+56921,Mexico,2021-07-12,Lambda,35,1.65,2121
+56945,Mexico,2021-07-26,Lambda,20,0.82,2443
+56969,Mexico,2021-08-09,Lambda,15,0.5,3024
+56993,Mexico,2021-08-23,Lambda,6,0.24,2528
+57017,Mexico,2021-09-06,Lambda,0,0.0,2069
+57041,Mexico,2021-09-20,Lambda,0,0.0,2057
+57065,Mexico,2021-10-04,Lambda,0,0.0,2511
+57089,Mexico,2021-10-18,Lambda,0,0.0,1868
+57113,Mexico,2021-11-01,Lambda,0,0.0,1724
+57137,Mexico,2021-11-15,Lambda,0,0.0,1384
+57161,Mexico,2021-11-29,Lambda,0,0.0,938
+57185,Mexico,2021-12-13,Lambda,0,0.0,998
+57209,Mexico,2021-12-27,Lambda,0,0.0,435
+57233,Mexico,2022-01-05,Lambda,0,0.0,11
+57257,Moldova,2020-06-22,Lambda,0,0.0,4
+57281,Moldova,2020-09-14,Lambda,0,0.0,8
+57305,Moldova,2021-02-08,Lambda,0,0.0,3
+57329,Moldova,2021-02-22,Lambda,0,0.0,1
+57353,Moldova,2021-03-08,Lambda,0,0.0,7
+57377,Moldova,2021-03-22,Lambda,0,0.0,2
+57401,Moldova,2021-04-05,Lambda,0,0.0,5
+57425,Moldova,2021-04-19,Lambda,0,0.0,2
+57449,Moldova,2021-05-03,Lambda,0,0.0,4
+57473,Moldova,2021-05-17,Lambda,0,0.0,12
+57497,Moldova,2021-05-31,Lambda,0,0.0,1
+57521,Moldova,2021-06-28,Lambda,0,0.0,6
+57545,Moldova,2021-07-12,Lambda,0,0.0,7
+57569,Moldova,2021-08-23,Lambda,0,0.0,4
+57593,Moldova,2021-09-06,Lambda,0,0.0,9
+57617,Moldova,2021-09-20,Lambda,0,0.0,26
+57641,Moldova,2021-11-01,Lambda,0,0.0,2
+57665,Moldova,2021-11-15,Lambda,0,0.0,10
+57689,Moldova,2021-11-29,Lambda,0,0.0,9
+57713,Moldova,2021-12-13,Lambda,0,0.0,15
+57737,Moldova,2021-12-27,Lambda,0,0.0,15
+57761,Monaco,2021-01-25,Lambda,0,0.0,1
+57785,Monaco,2021-02-08,Lambda,0,0.0,1
+57809,Monaco,2021-03-08,Lambda,0,0.0,4
+57833,Monaco,2021-04-19,Lambda,0,0.0,2
+57857,Monaco,2021-05-31,Lambda,0,0.0,1
+57881,Monaco,2021-06-14,Lambda,0,0.0,11
+57905,Monaco,2021-06-28,Lambda,0,0.0,20
+57929,Monaco,2021-07-12,Lambda,0,0.0,1
+57953,Monaco,2021-07-26,Lambda,0,0.0,14
+57977,Monaco,2021-08-09,Lambda,0,0.0,14
+58001,Monaco,2021-09-06,Lambda,0,0.0,6
+58025,Monaco,2021-09-20,Lambda,0,0.0,2
+58049,Monaco,2021-11-01,Lambda,0,0.0,3
+58073,Monaco,2021-11-15,Lambda,0,0.0,3
+58097,Monaco,2021-12-27,Lambda,0,0.0,1
+58121,Mongolia,2020-08-17,Lambda,0,0.0,1
+58145,Mongolia,2020-10-12,Lambda,0,0.0,1
+58169,Mongolia,2020-11-09,Lambda,0,0.0,2
+58193,Mongolia,2020-11-23,Lambda,0,0.0,1
+58217,Mongolia,2020-12-07,Lambda,0,0.0,1
+58241,Mongolia,2020-12-21,Lambda,0,0.0,1
+58265,Mongolia,2021-01-04,Lambda,0,0.0,2
+58289,Mongolia,2021-01-11,Lambda,0,0.0,2
+58313,Mongolia,2021-01-25,Lambda,0,0.0,2
+58337,Mongolia,2021-02-08,Lambda,0,0.0,1
+58361,Mongolia,2021-02-22,Lambda,0,0.0,3
+58385,Mongolia,2021-03-08,Lambda,0,0.0,2
+58409,Mongolia,2021-03-22,Lambda,0,0.0,7
+58433,Mongolia,2021-04-19,Lambda,0,0.0,2
+58457,Mongolia,2021-05-17,Lambda,0,0.0,3
+58481,Mongolia,2021-06-28,Lambda,0,0.0,16
+58505,Mongolia,2021-07-12,Lambda,0,0.0,34
+58529,Mongolia,2021-07-26,Lambda,0,0.0,17
+58553,Mongolia,2021-08-09,Lambda,0,0.0,52
+58577,Montenegro,2020-07-20,Lambda,0,0.0,9
+58601,Montenegro,2021-01-25,Lambda,0,0.0,19
+58625,Montenegro,2021-06-14,Lambda,0,0.0,17
+58649,Montenegro,2021-06-28,Lambda,0,0.0,18
+58673,Montenegro,2021-07-12,Lambda,0,0.0,20
+58697,Montenegro,2021-07-26,Lambda,0,0.0,30
+58721,Montenegro,2021-08-09,Lambda,0,0.0,72
+58745,Montenegro,2021-08-23,Lambda,0,0.0,41
+58769,Montenegro,2021-09-06,Lambda,0,0.0,34
+58793,Montenegro,2021-09-20,Lambda,0,0.0,5
+58817,Montenegro,2021-10-04,Lambda,0,0.0,1
+58841,Montenegro,2021-10-18,Lambda,0,0.0,15
+58865,Montenegro,2021-11-01,Lambda,0,0.0,34
+58889,Montenegro,2021-11-15,Lambda,0,0.0,38
+58913,Montenegro,2021-11-29,Lambda,0,0.0,25
+58937,Montenegro,2021-12-13,Lambda,0,0.0,69
+58961,Morocco,2020-05-11,Lambda,0,0.0,25
+58985,Morocco,2020-05-25,Lambda,0,0.0,3
+59009,Morocco,2020-06-08,Lambda,0,0.0,1
+59033,Morocco,2020-06-22,Lambda,0,0.0,1
+59057,Morocco,2020-07-06,Lambda,0,0.0,2
+59081,Morocco,2020-07-20,Lambda,0,0.0,19
+59105,Morocco,2020-08-17,Lambda,0,0.0,2
+59129,Morocco,2020-09-28,Lambda,0,0.0,2
+59153,Morocco,2020-11-09,Lambda,0,0.0,1
+59177,Morocco,2020-12-21,Lambda,0,0.0,26
+59201,Morocco,2021-01-04,Lambda,0,0.0,15
+59225,Morocco,2021-01-11,Lambda,0,0.0,22
+59249,Morocco,2021-01-25,Lambda,0,0.0,1
+59273,Morocco,2021-02-08,Lambda,0,0.0,4
+59297,Morocco,2021-03-08,Lambda,0,0.0,17
+59321,Morocco,2021-03-22,Lambda,0,0.0,24
+59345,Morocco,2021-04-05,Lambda,0,0.0,18
+59369,Morocco,2021-04-19,Lambda,0,0.0,20
+59393,Morocco,2021-05-03,Lambda,0,0.0,5
+59417,Morocco,2021-05-31,Lambda,0,0.0,1
+59441,Morocco,2021-06-14,Lambda,0,0.0,1
+59465,Morocco,2021-06-28,Lambda,0,0.0,7
+59489,Morocco,2021-07-12,Lambda,0,0.0,9
+59513,Morocco,2021-07-26,Lambda,0,0.0,31
+59537,Morocco,2021-09-06,Lambda,0,0.0,45
+59561,Morocco,2021-09-20,Lambda,0,0.0,15
+59585,Morocco,2021-10-04,Lambda,0,0.0,2
+59609,Morocco,2021-10-18,Lambda,0,0.0,26
+59633,Morocco,2021-11-01,Lambda,0,0.0,20
+59657,Morocco,2021-11-15,Lambda,0,0.0,8
+59681,Morocco,2021-11-29,Lambda,0,0.0,9
+59705,Morocco,2021-12-13,Lambda,0,0.0,2
+59729,Morocco,2021-12-27,Lambda,0,0.0,16
+59753,Mozambique,2020-07-20,Lambda,0,0.0,7
+59777,Mozambique,2020-08-17,Lambda,0,0.0,1
+59801,Mozambique,2020-08-31,Lambda,0,0.0,10
+59825,Mozambique,2020-09-14,Lambda,0,0.0,5
+59849,Mozambique,2020-09-28,Lambda,0,0.0,5
+59873,Mozambique,2020-10-12,Lambda,0,0.0,13
+59897,Mozambique,2020-10-26,Lambda,0,0.0,2
+59921,Mozambique,2020-11-09,Lambda,0,0.0,32
+59945,Mozambique,2020-11-23,Lambda,0,0.0,11
+59969,Mozambique,2020-12-07,Lambda,0,0.0,29
+59993,Mozambique,2020-12-21,Lambda,0,0.0,11
+60017,Mozambique,2021-01-04,Lambda,0,0.0,30
+60041,Mozambique,2021-01-11,Lambda,0,0.0,31
+60065,Mozambique,2021-01-25,Lambda,0,0.0,104
+60089,Mozambique,2021-02-08,Lambda,0,0.0,42
+60113,Mozambique,2021-02-22,Lambda,0,0.0,47
+60137,Mozambique,2021-03-08,Lambda,0,0.0,22
+60161,Mozambique,2021-03-22,Lambda,0,0.0,83
+60185,Mozambique,2021-04-05,Lambda,0,0.0,11
+60209,Mozambique,2021-04-19,Lambda,0,0.0,9
+60233,Mozambique,2021-05-03,Lambda,0,0.0,20
+60257,Mozambique,2021-05-17,Lambda,0,0.0,9
+60281,Mozambique,2021-05-31,Lambda,0,0.0,12
+60305,Mozambique,2021-06-14,Lambda,0,0.0,8
+60329,Mozambique,2021-06-28,Lambda,0,0.0,114
+60353,Mozambique,2021-07-12,Lambda,0,0.0,109
+60377,Mozambique,2021-07-26,Lambda,0,0.0,64
+60401,Mozambique,2021-08-09,Lambda,0,0.0,24
+60425,Mozambique,2021-08-23,Lambda,0,0.0,1
+60449,Mozambique,2021-09-06,Lambda,0,0.0,15
+60473,Mozambique,2021-09-20,Lambda,0,0.0,14
+60497,Mozambique,2021-10-04,Lambda,0,0.0,9
+60521,Mozambique,2021-10-18,Lambda,0,0.0,2
+60545,Mozambique,2021-11-01,Lambda,0,0.0,2
+60569,Mozambique,2021-11-15,Lambda,0,0.0,1
+60593,Mozambique,2021-11-29,Lambda,0,0.0,4
+60617,Mozambique,2021-12-13,Lambda,0,0.0,14
+60641,Nepal,2020-08-03,Lambda,0,0.0,2
+60665,Nepal,2020-08-17,Lambda,0,0.0,12
+60689,Nepal,2020-08-31,Lambda,0,0.0,1
+60713,Nepal,2020-10-12,Lambda,0,0.0,1
+60737,Nepal,2020-11-23,Lambda,0,0.0,1
+60761,Nepal,2020-12-07,Lambda,0,0.0,1
+60785,Nepal,2021-04-19,Lambda,0,0.0,4
+60809,Nepal,2021-05-03,Lambda,0,0.0,17
+60833,Nepal,2021-05-17,Lambda,0,0.0,30
+60857,Nepal,2021-05-31,Lambda,0,0.0,18
+60881,Nepal,2021-06-14,Lambda,0,0.0,39
+60905,Nepal,2021-06-28,Lambda,0,0.0,14
+60929,Nepal,2021-07-12,Lambda,0,0.0,25
+60953,Nepal,2021-07-26,Lambda,0,0.0,15
+60977,Nepal,2021-08-09,Lambda,0,0.0,22
+61001,Nepal,2021-08-23,Lambda,0,0.0,43
+61025,Nepal,2021-09-06,Lambda,0,0.0,11
+61049,Nepal,2021-09-20,Lambda,0,0.0,25
+61073,Nepal,2021-10-04,Lambda,0,0.0,22
+61097,Nepal,2021-11-01,Lambda,0,0.0,5
+61121,Nepal,2021-11-15,Lambda,0,0.0,6
+61145,Nepal,2021-11-29,Lambda,0,0.0,25
+61169,Nepal,2021-12-13,Lambda,0,0.0,25
+61193,Nepal,2021-12-27,Lambda,0,0.0,4
+61217,Netherlands,2020-05-11,Lambda,0,0.0,214
+61241,Netherlands,2020-05-25,Lambda,0,0.0,226
+61265,Netherlands,2020-06-08,Lambda,0,0.0,144
+61289,Netherlands,2020-06-22,Lambda,0,0.0,98
+61313,Netherlands,2020-07-06,Lambda,0,0.0,91
+61337,Netherlands,2020-07-20,Lambda,0,0.0,67
+61361,Netherlands,2020-08-03,Lambda,0,0.0,90
+61385,Netherlands,2020-08-17,Lambda,0,0.0,123
+61409,Netherlands,2020-08-31,Lambda,0,0.0,127
+61433,Netherlands,2020-09-14,Lambda,0,0.0,120
+61457,Netherlands,2020-09-28,Lambda,0,0.0,273
+61481,Netherlands,2020-10-12,Lambda,0,0.0,297
+61505,Netherlands,2020-10-26,Lambda,0,0.0,436
+61529,Netherlands,2020-11-09,Lambda,0,0.0,416
+61553,Netherlands,2020-11-23,Lambda,0,0.0,437
+61577,Netherlands,2020-12-07,Lambda,0,0.0,533
+61601,Netherlands,2020-12-21,Lambda,0,0.0,818
+61625,Netherlands,2021-01-04,Lambda,0,0.0,1142
+61649,Netherlands,2021-01-11,Lambda,0,0.0,790
+61673,Netherlands,2021-01-25,Lambda,0,0.0,1750
+61697,Netherlands,2021-02-08,Lambda,0,0.0,2269
+61721,Netherlands,2021-02-22,Lambda,0,0.0,2431
+61745,Netherlands,2021-03-08,Lambda,0,0.0,3167
+61769,Netherlands,2021-03-22,Lambda,0,0.0,4040
+61793,Netherlands,2021-04-05,Lambda,0,0.0,3860
+61817,Netherlands,2021-04-19,Lambda,0,0.0,3602
+61841,Netherlands,2021-05-03,Lambda,0,0.0,3934
+61865,Netherlands,2021-05-17,Lambda,0,0.0,3490
+61889,Netherlands,2021-05-31,Lambda,1,0.03,2969
+61913,Netherlands,2021-06-14,Lambda,0,0.0,2635
+61937,Netherlands,2021-06-28,Lambda,1,0.05,1888
+61961,Netherlands,2021-07-12,Lambda,10,0.28,3583
+61985,Netherlands,2021-07-26,Lambda,0,0.0,4845
+62009,Netherlands,2021-08-09,Lambda,0,0.0,3079
+62033,Netherlands,2021-08-23,Lambda,0,0.0,3129
+62057,Netherlands,2021-09-06,Lambda,0,0.0,3390
+62081,Netherlands,2021-09-20,Lambda,0,0.0,2691
+62105,Netherlands,2021-10-04,Lambda,0,0.0,2258
+62129,Netherlands,2021-10-18,Lambda,0,0.0,2733
+62153,Netherlands,2021-11-01,Lambda,0,0.0,3174
+62177,Netherlands,2021-11-15,Lambda,0,0.0,3645
+62201,Netherlands,2021-11-29,Lambda,0,0.0,3714
+62225,Netherlands,2021-12-13,Lambda,0,0.0,3137
+62249,Netherlands,2021-12-27,Lambda,0,0.0,867
+62273,Netherlands,2022-01-05,Lambda,0,0.0,25
+62297,New Zealand,2020-05-11,Lambda,0,0.0,8
+62321,New Zealand,2020-05-25,Lambda,0,0.0,1
+62345,New Zealand,2020-06-22,Lambda,0,0.0,5
+62369,New Zealand,2020-07-06,Lambda,0,0.0,3
+62393,New Zealand,2020-07-20,Lambda,0,0.0,3
+62417,New Zealand,2020-08-03,Lambda,0,0.0,2
+62441,New Zealand,2020-08-17,Lambda,0,0.0,37
+62465,New Zealand,2020-08-31,Lambda,0,0.0,74
+62489,New Zealand,2020-09-14,Lambda,0,0.0,33
+62513,New Zealand,2020-09-28,Lambda,0,0.0,16
+62537,New Zealand,2020-10-12,Lambda,0,0.0,14
+62561,New Zealand,2020-10-26,Lambda,0,0.0,36
+62585,New Zealand,2020-11-09,Lambda,0,0.0,33
+62609,New Zealand,2020-11-23,Lambda,0,0.0,20
+62633,New Zealand,2020-12-07,Lambda,0,0.0,28
+62657,New Zealand,2020-12-21,Lambda,0,0.0,20
+62681,New Zealand,2021-01-04,Lambda,0,0.0,28
+62705,New Zealand,2021-01-11,Lambda,0,0.0,11
+62729,New Zealand,2021-01-25,Lambda,0,0.0,22
+62753,New Zealand,2021-02-08,Lambda,0,0.0,17
+62777,New Zealand,2021-02-22,Lambda,0,0.0,19
+62801,New Zealand,2021-03-08,Lambda,0,0.0,26
+62825,New Zealand,2021-03-22,Lambda,0,0.0,28
+62849,New Zealand,2021-04-05,Lambda,0,0.0,29
+62873,New Zealand,2021-04-19,Lambda,0,0.0,26
+62897,New Zealand,2021-05-03,Lambda,0,0.0,19
+62921,New Zealand,2021-05-17,Lambda,0,0.0,7
+62945,New Zealand,2021-05-31,Lambda,0,0.0,8
+62969,New Zealand,2021-06-14,Lambda,0,0.0,14
+62993,New Zealand,2021-06-28,Lambda,0,0.0,16
+63017,New Zealand,2021-07-12,Lambda,0,0.0,12
+63041,New Zealand,2021-07-26,Lambda,0,0.0,49
+63065,New Zealand,2021-08-09,Lambda,0,0.0,31
+63089,New Zealand,2021-08-23,Lambda,0,0.0,173
+63113,New Zealand,2021-09-06,Lambda,0,0.0,615
+63137,New Zealand,2021-09-20,Lambda,0,0.0,238
+63161,New Zealand,2021-10-04,Lambda,0,0.0,276
+63185,New Zealand,2021-10-18,Lambda,0,0.0,583
+63209,New Zealand,2021-11-01,Lambda,0,0.0,605
+63233,New Zealand,2021-11-15,Lambda,0,0.0,567
+63257,New Zealand,2021-11-29,Lambda,0,0.0,460
+63281,New Zealand,2021-12-13,Lambda,0,0.0,313
+63305,New Zealand,2021-12-27,Lambda,0,0.0,223
+63329,New Zealand,2022-01-05,Lambda,0,0.0,11
+63353,Nigeria,2020-05-11,Lambda,0,0.0,26
+63377,Nigeria,2020-05-25,Lambda,0,0.0,31
+63401,Nigeria,2020-06-08,Lambda,0,0.0,16
+63425,Nigeria,2020-06-22,Lambda,0,0.0,27
+63449,Nigeria,2020-07-06,Lambda,0,0.0,28
+63473,Nigeria,2020-07-20,Lambda,0,0.0,48
+63497,Nigeria,2020-08-03,Lambda,0,0.0,5
+63521,Nigeria,2020-08-17,Lambda,0,0.0,11
+63545,Nigeria,2020-08-31,Lambda,0,0.0,5
+63569,Nigeria,2020-09-14,Lambda,0,0.0,5
+63593,Nigeria,2020-10-12,Lambda,0,0.0,5
+63617,Nigeria,2020-10-26,Lambda,0,0.0,7
+63641,Nigeria,2020-11-09,Lambda,0,0.0,1
+63665,Nigeria,2020-11-23,Lambda,0,0.0,4
+63689,Nigeria,2020-12-07,Lambda,0,0.0,31
+63713,Nigeria,2020-12-21,Lambda,0,0.0,34
+63737,Nigeria,2021-01-04,Lambda,0,0.0,73
+63761,Nigeria,2021-01-11,Lambda,0,0.0,131
+63785,Nigeria,2021-01-25,Lambda,0,0.0,127
+63809,Nigeria,2021-02-08,Lambda,0,0.0,231
+63833,Nigeria,2021-02-22,Lambda,0,0.0,164
+63857,Nigeria,2021-03-08,Lambda,0,0.0,111
+63881,Nigeria,2021-03-22,Lambda,0,0.0,45
+63905,Nigeria,2021-04-05,Lambda,0,0.0,18
+63929,Nigeria,2021-04-19,Lambda,0,0.0,7
+63953,Nigeria,2021-05-03,Lambda,0,0.0,23
+63977,Nigeria,2021-05-17,Lambda,0,0.0,8
+64001,Nigeria,2021-05-31,Lambda,0,0.0,6
+64025,Nigeria,2021-06-14,Lambda,0,0.0,7
+64049,Nigeria,2021-06-28,Lambda,0,0.0,14
+64073,Nigeria,2021-07-12,Lambda,0,0.0,43
+64097,Nigeria,2021-07-26,Lambda,0,0.0,94
+64121,Nigeria,2021-08-09,Lambda,0,0.0,498
+64145,Nigeria,2021-08-23,Lambda,0,0.0,535
+64169,Nigeria,2021-09-06,Lambda,0,0.0,576
+64193,Nigeria,2021-09-20,Lambda,0,0.0,331
+64217,Nigeria,2021-10-04,Lambda,0,0.0,93
+64241,Nigeria,2021-10-18,Lambda,0,0.0,60
+64265,Nigeria,2021-11-01,Lambda,0,0.0,34
+64289,Nigeria,2021-11-15,Lambda,0,0.0,22
+64313,Nigeria,2021-11-29,Lambda,0,0.0,56
+64337,Nigeria,2021-12-13,Lambda,0,0.0,73
+64361,Nigeria,2021-12-27,Lambda,0,0.0,10
+64385,North Macedonia,2020-05-25,Lambda,0,0.0,1
+64409,North Macedonia,2020-06-08,Lambda,0,0.0,17
+64433,North Macedonia,2020-06-22,Lambda,0,0.0,18
+64457,North Macedonia,2020-07-06,Lambda,0,0.0,20
+64481,North Macedonia,2020-07-20,Lambda,0,0.0,5
+64505,North Macedonia,2020-08-03,Lambda,0,0.0,6
+64529,North Macedonia,2020-08-17,Lambda,0,0.0,8
+64553,North Macedonia,2020-08-31,Lambda,0,0.0,2
+64577,North Macedonia,2020-09-14,Lambda,0,0.0,9
+64601,North Macedonia,2020-10-12,Lambda,0,0.0,7
+64625,North Macedonia,2020-10-26,Lambda,0,0.0,13
+64649,North Macedonia,2020-11-09,Lambda,0,0.0,20
+64673,North Macedonia,2020-11-23,Lambda,0,0.0,8
+64697,North Macedonia,2020-12-07,Lambda,0,0.0,4
+64721,North Macedonia,2020-12-21,Lambda,0,0.0,16
+64745,North Macedonia,2021-01-04,Lambda,0,0.0,27
+64769,North Macedonia,2021-01-11,Lambda,0,0.0,23
+64793,North Macedonia,2021-01-25,Lambda,0,0.0,68
+64817,North Macedonia,2021-02-08,Lambda,0,0.0,61
+64841,North Macedonia,2021-02-22,Lambda,0,0.0,58
+64865,North Macedonia,2021-03-08,Lambda,0,0.0,15
+64889,North Macedonia,2021-03-22,Lambda,0,0.0,26
+64913,North Macedonia,2021-04-05,Lambda,0,0.0,36
+64937,North Macedonia,2021-04-19,Lambda,0,0.0,103
+64961,North Macedonia,2021-05-03,Lambda,0,0.0,15
+64985,North Macedonia,2021-05-17,Lambda,0,0.0,30
+65009,North Macedonia,2021-05-31,Lambda,0,0.0,17
+65033,North Macedonia,2021-06-14,Lambda,0,0.0,12
+65057,North Macedonia,2021-06-28,Lambda,0,0.0,4
+65081,North Macedonia,2021-07-12,Lambda,0,0.0,7
+65105,North Macedonia,2021-07-26,Lambda,0,0.0,22
+65129,North Macedonia,2021-08-09,Lambda,0,0.0,12
+65153,North Macedonia,2021-11-01,Lambda,0,0.0,11
+65177,North Macedonia,2021-11-15,Lambda,0,0.0,37
+65201,Norway,2020-05-11,Lambda,0,0.0,28
+65225,Norway,2020-05-25,Lambda,0,0.0,18
+65249,Norway,2020-06-08,Lambda,0,0.0,8
+65273,Norway,2020-06-22,Lambda,0,0.0,31
+65297,Norway,2020-07-06,Lambda,0,0.0,61
+65321,Norway,2020-07-20,Lambda,0,0.0,33
+65345,Norway,2020-08-03,Lambda,0,0.0,84
+65369,Norway,2020-08-17,Lambda,0,0.0,164
+65393,Norway,2020-08-31,Lambda,0,0.0,47
+65417,Norway,2020-09-14,Lambda,0,0.0,109
+65441,Norway,2020-09-28,Lambda,0,0.0,117
+65465,Norway,2020-10-12,Lambda,0,0.0,156
+65489,Norway,2020-10-26,Lambda,0,0.0,204
+65513,Norway,2020-11-09,Lambda,0,0.0,265
+65537,Norway,2020-11-23,Lambda,0,0.0,163
+65561,Norway,2020-12-07,Lambda,0,0.0,187
+65585,Norway,2020-12-21,Lambda,0,0.0,274
+65609,Norway,2021-01-04,Lambda,0,0.0,272
+65633,Norway,2021-01-11,Lambda,0,0.0,266
+65657,Norway,2021-01-25,Lambda,0,0.0,740
+65681,Norway,2021-02-08,Lambda,0,0.0,1400
+65705,Norway,2021-02-22,Lambda,0,0.0,1404
+65729,Norway,2021-03-08,Lambda,0,0.0,1547
+65753,Norway,2021-03-22,Lambda,0,0.0,1671
+65777,Norway,2021-04-05,Lambda,0,0.0,1328
+65801,Norway,2021-04-19,Lambda,0,0.0,1847
+65825,Norway,2021-05-03,Lambda,0,0.0,1654
+65849,Norway,2021-05-17,Lambda,0,0.0,1837
+65873,Norway,2021-05-31,Lambda,0,0.0,1417
+65897,Norway,2021-06-14,Lambda,0,0.0,1134
+65921,Norway,2021-06-28,Lambda,0,0.0,827
+65945,Norway,2021-07-12,Lambda,1,0.12,867
+65969,Norway,2021-07-26,Lambda,0,0.0,892
+65993,Norway,2021-08-09,Lambda,0,0.0,1320
+66017,Norway,2021-08-23,Lambda,0,0.0,1747
+66041,Norway,2021-09-06,Lambda,0,0.0,1917
+66065,Norway,2021-09-20,Lambda,0,0.0,2089
+66089,Norway,2021-10-04,Lambda,0,0.0,1632
+66113,Norway,2021-10-18,Lambda,0,0.0,1421
+66137,Norway,2021-11-01,Lambda,0,0.0,2045
+66161,Norway,2021-11-15,Lambda,0,0.0,1848
+66185,Norway,2021-11-29,Lambda,0,0.0,1532
+66209,Norway,2021-12-13,Lambda,0,0.0,988
+66233,Norway,2021-12-27,Lambda,0,0.0,67
+66257,Oman,2020-05-11,Lambda,0,0.0,22
+66281,Oman,2020-05-25,Lambda,0,0.0,55
+66305,Oman,2020-06-08,Lambda,0,0.0,25
+66329,Oman,2020-06-22,Lambda,0,0.0,11
+66353,Oman,2020-07-06,Lambda,0,0.0,8
+66377,Oman,2020-07-20,Lambda,0,0.0,8
+66401,Oman,2020-08-03,Lambda,0,0.0,1
+66425,Oman,2020-08-17,Lambda,0,0.0,7
+66449,Oman,2020-08-31,Lambda,0,0.0,1
+66473,Oman,2020-09-14,Lambda,0,0.0,6
+66497,Oman,2020-09-28,Lambda,0,0.0,6
+66521,Oman,2020-10-12,Lambda,0,0.0,1
+66545,Oman,2020-10-26,Lambda,0,0.0,1
+66569,Oman,2020-11-23,Lambda,0,0.0,1
+66593,Oman,2021-01-04,Lambda,0,0.0,3
+66617,Oman,2021-01-11,Lambda,0,0.0,3
+66641,Oman,2021-01-25,Lambda,0,0.0,3
+66665,Oman,2021-02-08,Lambda,0,0.0,12
+66689,Oman,2021-02-22,Lambda,0,0.0,9
+66713,Oman,2021-03-08,Lambda,0,0.0,10
+66737,Oman,2021-03-22,Lambda,0,0.0,7
+66761,Oman,2021-04-05,Lambda,0,0.0,11
+66785,Oman,2021-04-19,Lambda,0,0.0,18
+66809,Oman,2021-05-03,Lambda,0,0.0,53
+66833,Oman,2021-05-17,Lambda,0,0.0,21
+66857,Oman,2021-05-31,Lambda,0,0.0,12
+66881,Oman,2021-06-14,Lambda,0,0.0,43
+66905,Oman,2021-06-28,Lambda,0,0.0,71
+66929,Oman,2021-07-12,Lambda,0,0.0,7
+66953,Oman,2021-09-06,Lambda,0,0.0,1
+66977,Oman,2021-12-13,Lambda,0,0.0,8
+67001,Oman,2021-12-27,Lambda,0,0.0,1
+67025,Pakistan,2020-05-11,Lambda,0,0.0,3
+67049,Pakistan,2020-05-25,Lambda,0,0.0,10
+67073,Pakistan,2020-06-08,Lambda,0,0.0,24
+67097,Pakistan,2020-06-22,Lambda,0,0.0,8
+67121,Pakistan,2020-07-06,Lambda,0,0.0,5
+67145,Pakistan,2020-07-20,Lambda,0,0.0,6
+67169,Pakistan,2020-08-17,Lambda,0,0.0,10
+67193,Pakistan,2020-09-14,Lambda,0,0.0,3
+67217,Pakistan,2020-10-12,Lambda,0,0.0,8
+67241,Pakistan,2020-10-26,Lambda,0,0.0,1
+67265,Pakistan,2020-11-09,Lambda,0,0.0,1
+67289,Pakistan,2020-11-23,Lambda,0,0.0,8
+67313,Pakistan,2020-12-07,Lambda,0,0.0,20
+67337,Pakistan,2020-12-21,Lambda,0,0.0,26
+67361,Pakistan,2021-01-04,Lambda,0,0.0,14
+67385,Pakistan,2021-01-11,Lambda,0,0.0,7
+67409,Pakistan,2021-01-25,Lambda,0,0.0,3
+67433,Pakistan,2021-02-08,Lambda,0,0.0,4
+67457,Pakistan,2021-02-22,Lambda,0,0.0,3
+67481,Pakistan,2021-03-08,Lambda,0,0.0,7
+67505,Pakistan,2021-03-22,Lambda,0,0.0,31
+67529,Pakistan,2021-04-05,Lambda,0,0.0,6
+67553,Pakistan,2021-04-19,Lambda,0,0.0,138
+67577,Pakistan,2021-05-03,Lambda,0,0.0,53
+67601,Pakistan,2021-05-17,Lambda,0,0.0,30
+67625,Pakistan,2021-05-31,Lambda,0,0.0,80
+67649,Pakistan,2021-06-14,Lambda,0,0.0,195
+67673,Pakistan,2021-06-28,Lambda,0,0.0,54
+67697,Pakistan,2021-07-12,Lambda,0,0.0,59
+67721,Pakistan,2021-07-26,Lambda,0,0.0,67
+67745,Pakistan,2021-08-09,Lambda,0,0.0,121
+67769,Pakistan,2021-08-23,Lambda,0,0.0,108
+67793,Pakistan,2021-09-06,Lambda,0,0.0,176
+67817,Pakistan,2021-09-20,Lambda,0,0.0,65
+67841,Pakistan,2021-10-04,Lambda,0,0.0,26
+67865,Pakistan,2021-10-18,Lambda,0,0.0,51
+67889,Pakistan,2021-11-01,Lambda,0,0.0,40
+67913,Pakistan,2021-11-15,Lambda,0,0.0,41
+67937,Pakistan,2021-11-29,Lambda,0,0.0,10
+67961,Pakistan,2021-12-13,Lambda,0,0.0,25
+67985,Pakistan,2021-12-27,Lambda,0,0.0,19
+68009,Pakistan,2022-01-05,Lambda,0,0.0,6
+68033,Papua New Guinea,2020-07-20,Lambda,0,0.0,4
+68057,Papua New Guinea,2020-08-03,Lambda,0,0.0,34
+68081,Papua New Guinea,2020-08-17,Lambda,0,0.0,55
+68105,Papua New Guinea,2020-08-31,Lambda,0,0.0,7
+68129,Papua New Guinea,2020-09-14,Lambda,0,0.0,2
+68153,Papua New Guinea,2020-09-28,Lambda,0,0.0,2
+68177,Papua New Guinea,2020-10-12,Lambda,0,0.0,6
+68201,Papua New Guinea,2020-12-07,Lambda,0,0.0,22
+68225,Papua New Guinea,2020-12-21,Lambda,0,0.0,9
+68249,Papua New Guinea,2021-01-04,Lambda,0,0.0,11
+68273,Papua New Guinea,2021-01-11,Lambda,0,0.0,3
+68297,Papua New Guinea,2021-01-25,Lambda,0,0.0,2
+68321,Papua New Guinea,2021-02-08,Lambda,0,0.0,11
+68345,Papua New Guinea,2021-02-22,Lambda,0,0.0,60
+68369,Papua New Guinea,2021-03-08,Lambda,0,0.0,190
+68393,Papua New Guinea,2021-03-22,Lambda,0,0.0,368
+68417,Papua New Guinea,2021-04-05,Lambda,0,0.0,598
+68441,Papua New Guinea,2021-04-19,Lambda,0,0.0,100
+68465,Papua New Guinea,2021-05-03,Lambda,0,0.0,128
+68489,Papua New Guinea,2021-05-17,Lambda,0,0.0,193
+68513,Papua New Guinea,2021-05-31,Lambda,0,0.0,18
+68537,Papua New Guinea,2021-06-14,Lambda,0,0.0,14
+68561,Papua New Guinea,2021-06-28,Lambda,0,0.0,3
+68585,Papua New Guinea,2021-07-12,Lambda,0,0.0,16
+68609,Papua New Guinea,2021-07-26,Lambda,0,0.0,19
+68633,Papua New Guinea,2021-08-09,Lambda,0,0.0,19
+68657,Papua New Guinea,2021-08-23,Lambda,0,0.0,106
+68681,Papua New Guinea,2021-09-06,Lambda,0,0.0,385
+68705,Papua New Guinea,2021-09-20,Lambda,0,0.0,214
+68729,Papua New Guinea,2021-10-04,Lambda,0,0.0,368
+68753,Papua New Guinea,2021-10-18,Lambda,0,0.0,242
+68777,Papua New Guinea,2021-11-01,Lambda,0,0.0,116
+68801,Papua New Guinea,2021-11-15,Lambda,0,0.0,34
+68825,Papua New Guinea,2021-11-29,Lambda,0,0.0,7
+68849,Paraguay,2020-05-11,Lambda,0,0.0,5
+68873,Paraguay,2020-05-25,Lambda,0,0.0,2
+68897,Paraguay,2020-06-08,Lambda,0,0.0,3
+68921,Paraguay,2020-06-22,Lambda,0,0.0,1
+68945,Paraguay,2020-07-06,Lambda,0,0.0,5
+68969,Paraguay,2020-07-20,Lambda,0,0.0,5
+68993,Paraguay,2020-08-03,Lambda,0,0.0,2
+69017,Paraguay,2020-08-17,Lambda,0,0.0,14
+69041,Paraguay,2020-08-31,Lambda,0,0.0,2
+69065,Paraguay,2020-09-14,Lambda,0,0.0,7
+69089,Paraguay,2020-09-28,Lambda,0,0.0,1
+69113,Paraguay,2020-10-12,Lambda,0,0.0,3
+69137,Paraguay,2020-11-09,Lambda,0,0.0,1
+69161,Paraguay,2020-11-23,Lambda,0,0.0,1
+69185,Paraguay,2020-12-07,Lambda,0,0.0,2
+69209,Paraguay,2020-12-21,Lambda,0,0.0,14
+69233,Paraguay,2021-01-04,Lambda,0,0.0,3
+69257,Paraguay,2021-01-11,Lambda,0,0.0,15
+69281,Paraguay,2021-01-25,Lambda,0,0.0,9
+69305,Paraguay,2021-02-08,Lambda,0,0.0,66
+69329,Paraguay,2021-02-22,Lambda,0,0.0,61
+69353,Paraguay,2021-03-08,Lambda,0,0.0,70
+69377,Paraguay,2021-03-22,Lambda,0,0.0,55
+69401,Paraguay,2021-04-05,Lambda,0,0.0,14
+69425,Paraguay,2021-04-19,Lambda,0,0.0,31
+69449,Paraguay,2021-05-03,Lambda,0,0.0,20
+69473,Paraguay,2021-05-17,Lambda,0,0.0,26
+69497,Paraguay,2021-05-31,Lambda,0,0.0,14
+69521,Paraguay,2021-06-14,Lambda,0,0.0,41
+69545,Paraguay,2021-06-28,Lambda,0,0.0,18
+69569,Paraguay,2021-07-12,Lambda,0,0.0,59
+69593,Paraguay,2021-07-26,Lambda,0,0.0,25
+69617,Paraguay,2021-08-09,Lambda,0,0.0,64
+69641,Paraguay,2021-08-23,Lambda,0,0.0,60
+69665,Paraguay,2021-09-06,Lambda,0,0.0,78
+69689,Paraguay,2021-09-20,Lambda,0,0.0,26
+69713,Paraguay,2021-10-04,Lambda,0,0.0,33
+69737,Paraguay,2021-10-18,Lambda,0,0.0,9
+69761,Paraguay,2021-11-01,Lambda,0,0.0,14
+69785,Peru,2020-05-11,Lambda,0,0.0,49
+69809,Peru,2020-05-25,Lambda,0,0.0,50
+69833,Peru,2020-06-08,Lambda,0,0.0,5
+69857,Peru,2020-06-22,Lambda,0,0.0,92
+69881,Peru,2020-07-06,Lambda,0,0.0,35
+69905,Peru,2020-07-20,Lambda,0,0.0,10
+69929,Peru,2020-08-03,Lambda,0,0.0,12
+69953,Peru,2020-08-17,Lambda,0,0.0,49
+69977,Peru,2020-08-31,Lambda,0,0.0,105
+70001,Peru,2020-09-14,Lambda,0,0.0,44
+70025,Peru,2020-09-28,Lambda,0,0.0,33
+70049,Peru,2020-10-12,Lambda,0,0.0,8
+70073,Peru,2020-10-26,Lambda,0,0.0,128
+70097,Peru,2020-11-09,Lambda,0,0.0,3
+70121,Peru,2020-11-23,Lambda,0,0.0,32
+70145,Peru,2020-12-07,Lambda,0,0.0,33
+70169,Peru,2020-12-21,Lambda,0,0.0,130
+70193,Peru,2021-01-04,Lambda,2,1.83,109
+70217,Peru,2021-01-11,Lambda,2,6.9,29
+70241,Peru,2021-01-25,Lambda,31,25.2,123
+70265,Peru,2021-02-08,Lambda,23,25.27,91
+70289,Peru,2021-02-22,Lambda,41,34.17,120
+70313,Peru,2021-03-08,Lambda,90,58.06,155
+70337,Peru,2021-03-22,Lambda,177,74.37,238
+70361,Peru,2021-04-05,Lambda,131,68.95,190
+70385,Peru,2021-04-19,Lambda,400,76.48,523
+70409,Peru,2021-05-03,Lambda,266,82.87,321
+70433,Peru,2021-05-17,Lambda,253,77.85,325
+70457,Peru,2021-05-31,Lambda,209,73.59,284
+70481,Peru,2021-06-14,Lambda,627,78.08,803
+70505,Peru,2021-06-28,Lambda,358,72.18,496
+70529,Peru,2021-07-12,Lambda,293,62.74,467
+70553,Peru,2021-07-26,Lambda,321,54.78,586
+70577,Peru,2021-08-09,Lambda,189,37.28,507
+70601,Peru,2021-08-23,Lambda,214,33.18,645
+70625,Peru,2021-09-06,Lambda,147,24.38,603
+70649,Peru,2021-09-20,Lambda,115,14.71,782
+70673,Peru,2021-10-04,Lambda,72,8.79,819
+70697,Peru,2021-10-18,Lambda,22,2.73,805
+70721,Peru,2021-11-01,Lambda,9,1.25,721
+70745,Peru,2021-11-15,Lambda,9,1.05,858
+70769,Peru,2021-11-29,Lambda,0,0.0,717
+70793,Peru,2021-12-13,Lambda,2,3.08,65
+70817,Peru,2021-12-27,Lambda,0,0.0,10
+70841,Philippines,2020-06-08,Lambda,0,0.0,1
+70865,Philippines,2020-06-22,Lambda,0,0.0,5
+70889,Philippines,2020-07-06,Lambda,0,0.0,9
+70913,Philippines,2020-07-20,Lambda,0,0.0,4
+70937,Philippines,2020-09-14,Lambda,0,0.0,2
+70961,Philippines,2020-09-28,Lambda,0,0.0,3
+70985,Philippines,2020-10-12,Lambda,0,0.0,1
+71009,Philippines,2020-10-26,Lambda,0,0.0,3
+71033,Philippines,2020-11-09,Lambda,0,0.0,141
+71057,Philippines,2020-11-23,Lambda,0,0.0,178
+71081,Philippines,2020-12-07,Lambda,0,0.0,233
+71105,Philippines,2020-12-21,Lambda,0,0.0,298
+71129,Philippines,2021-01-04,Lambda,0,0.0,238
+71153,Philippines,2021-01-11,Lambda,0,0.0,340
+71177,Philippines,2021-01-25,Lambda,0,0.0,530
+71201,Philippines,2021-02-08,Lambda,0,0.0,556
+71225,Philippines,2021-02-22,Lambda,0,0.0,451
+71249,Philippines,2021-03-08,Lambda,0,0.0,303
+71273,Philippines,2021-03-22,Lambda,0,0.0,780
+71297,Philippines,2021-04-05,Lambda,0,0.0,1016
+71321,Philippines,2021-04-19,Lambda,0,0.0,386
+71345,Philippines,2021-05-03,Lambda,0,0.0,394
+71369,Philippines,2021-05-17,Lambda,0,0.0,343
+71393,Philippines,2021-05-31,Lambda,0,0.0,331
+71417,Philippines,2021-06-14,Lambda,0,0.0,575
+71441,Philippines,2021-06-28,Lambda,0,0.0,836
+71465,Philippines,2021-07-12,Lambda,0,0.0,886
+71489,Philippines,2021-07-26,Lambda,0,0.0,1114
+71513,Philippines,2021-08-09,Lambda,0,0.0,1400
+71537,Philippines,2021-08-23,Lambda,0,0.0,1119
+71561,Philippines,2021-09-06,Lambda,0,0.0,262
+71585,Poland,2020-05-11,Lambda,0,0.0,59
+71609,Poland,2020-05-25,Lambda,0,0.0,26
+71633,Poland,2020-06-08,Lambda,0,0.0,23
+71657,Poland,2020-06-22,Lambda,0,0.0,4
+71681,Poland,2020-08-31,Lambda,0,0.0,3
+71705,Poland,2020-09-14,Lambda,0,0.0,6
+71729,Poland,2020-09-28,Lambda,0,0.0,6
+71753,Poland,2020-10-12,Lambda,0,0.0,2
+71777,Poland,2020-10-26,Lambda,0,0.0,1
+71801,Poland,2020-11-09,Lambda,0,0.0,6
+71825,Poland,2020-11-23,Lambda,0,0.0,16
+71849,Poland,2020-12-07,Lambda,0,0.0,27
+71873,Poland,2020-12-21,Lambda,0,0.0,53
+71897,Poland,2021-01-04,Lambda,0,0.0,120
+71921,Poland,2021-01-11,Lambda,0,0.0,56
+71945,Poland,2021-01-25,Lambda,0,0.0,259
+71969,Poland,2021-02-08,Lambda,0,0.0,379
+71993,Poland,2021-02-22,Lambda,0,0.0,729
+72017,Poland,2021-03-08,Lambda,0,0.0,1485
+72041,Poland,2021-03-22,Lambda,0,0.0,2146
+72065,Poland,2021-04-05,Lambda,0,0.0,1803
+72089,Poland,2021-04-19,Lambda,0,0.0,2782
+72113,Poland,2021-05-03,Lambda,0,0.0,2636
+72137,Poland,2021-05-17,Lambda,0,0.0,2568
+72161,Poland,2021-05-31,Lambda,0,0.0,1627
+72185,Poland,2021-06-14,Lambda,0,0.0,621
+72209,Poland,2021-06-28,Lambda,1,0.67,150
+72233,Poland,2021-07-12,Lambda,0,0.0,186
+72257,Poland,2021-07-26,Lambda,0,0.0,243
+72281,Poland,2021-08-09,Lambda,0,0.0,333
+72305,Poland,2021-08-23,Lambda,0,0.0,751
+72329,Poland,2021-09-06,Lambda,0,0.0,935
+72353,Poland,2021-09-20,Lambda,0,0.0,1424
+72377,Poland,2021-10-04,Lambda,0,0.0,1724
+72401,Poland,2021-10-18,Lambda,0,0.0,2282
+72425,Poland,2021-11-01,Lambda,0,0.0,2785
+72449,Poland,2021-11-15,Lambda,0,0.0,4144
+72473,Poland,2021-11-29,Lambda,0,0.0,2239
+72497,Poland,2021-12-13,Lambda,0,0.0,3352
+72521,Poland,2021-12-27,Lambda,0,0.0,1269
+72545,Poland,2022-01-05,Lambda,0,0.0,124
+72569,Portugal,2020-05-11,Lambda,0,0.0,26
+72593,Portugal,2020-05-25,Lambda,0,0.0,28
+72617,Portugal,2020-06-08,Lambda,0,0.0,92
+72641,Portugal,2020-06-22,Lambda,0,0.0,37
+72665,Portugal,2020-07-06,Lambda,0,0.0,53
+72689,Portugal,2020-07-20,Lambda,0,0.0,27
+72713,Portugal,2020-08-31,Lambda,0,0.0,36
+72737,Portugal,2020-09-14,Lambda,0,0.0,3
+72761,Portugal,2020-10-26,Lambda,0,0.0,1
+72785,Portugal,2020-11-09,Lambda,0,0.0,27
+72809,Portugal,2020-11-23,Lambda,0,0.0,372
+72833,Portugal,2020-12-07,Lambda,0,0.0,32
+72857,Portugal,2020-12-21,Lambda,0,0.0,44
+72881,Portugal,2021-01-04,Lambda,0,0.0,294
+72905,Portugal,2021-01-11,Lambda,0,0.0,238
+72929,Portugal,2021-01-25,Lambda,0,0.0,737
+72953,Portugal,2021-02-08,Lambda,0,0.0,201
+72977,Portugal,2021-02-22,Lambda,0,0.0,901
+73001,Portugal,2021-03-08,Lambda,0,0.0,735
+73025,Portugal,2021-03-22,Lambda,0,0.0,443
+73049,Portugal,2021-04-05,Lambda,0,0.0,70
+73073,Portugal,2021-04-19,Lambda,1,0.06,1586
+73097,Portugal,2021-05-03,Lambda,0,0.0,98
+73121,Portugal,2021-05-17,Lambda,0,0.0,1061
+73145,Portugal,2021-05-31,Lambda,0,0.0,110
+73169,Portugal,2021-06-14,Lambda,1,0.08,1247
+73193,Portugal,2021-06-28,Lambda,0,0.0,1170
+73217,Portugal,2021-07-12,Lambda,0,0.0,1132
+73241,Portugal,2021-07-26,Lambda,0,0.0,1250
+73265,Portugal,2021-08-09,Lambda,0,0.0,955
+73289,Portugal,2021-08-23,Lambda,0,0.0,1002
+73313,Portugal,2021-09-06,Lambda,0,0.0,1110
+73337,Portugal,2021-09-20,Lambda,0,0.0,1093
+73361,Portugal,2021-10-04,Lambda,0,0.0,1041
+73385,Portugal,2021-10-18,Lambda,0,0.0,891
+73409,Portugal,2021-11-01,Lambda,0,0.0,1079
+73433,Portugal,2021-11-15,Lambda,0,0.0,958
+73457,Portugal,2021-11-29,Lambda,0,0.0,1286
+73481,Portugal,2021-12-13,Lambda,0,0.0,916
+73505,Portugal,2021-12-27,Lambda,0,0.0,510
+73529,Qatar,2020-05-11,Lambda,0,0.0,172
+73553,Qatar,2020-05-25,Lambda,0,0.0,175
+73577,Qatar,2020-06-08,Lambda,0,0.0,179
+73601,Qatar,2020-06-22,Lambda,0,0.0,154
+73625,Qatar,2020-07-06,Lambda,0,0.0,97
+73649,Qatar,2020-07-20,Lambda,0,0.0,61
+73673,Qatar,2020-08-03,Lambda,0,0.0,8
+73697,Qatar,2020-08-17,Lambda,0,0.0,90
+73721,Qatar,2020-08-31,Lambda,0,0.0,47
+73745,Qatar,2020-09-14,Lambda,0,0.0,57
+73769,Qatar,2020-09-28,Lambda,0,0.0,12
+73793,Qatar,2020-10-12,Lambda,0,0.0,34
+73817,Qatar,2020-10-26,Lambda,0,0.0,21
+73841,Qatar,2020-11-09,Lambda,0,0.0,14
+73865,Qatar,2020-11-23,Lambda,0,0.0,20
+73889,Qatar,2020-12-07,Lambda,0,0.0,23
+73913,Qatar,2020-12-21,Lambda,0,0.0,2
+73937,Qatar,2021-01-04,Lambda,0,0.0,146
+73961,Qatar,2021-01-11,Lambda,0,0.0,13
+73985,Qatar,2021-01-25,Lambda,0,0.0,26
+74009,Qatar,2021-02-08,Lambda,0,0.0,68
+74033,Qatar,2021-02-22,Lambda,0,0.0,94
+74057,Qatar,2021-03-08,Lambda,0,0.0,90
+74081,Qatar,2021-03-22,Lambda,0,0.0,121
+74105,Qatar,2021-04-05,Lambda,0,0.0,71
+74129,Qatar,2021-04-19,Lambda,0,0.0,119
+74153,Qatar,2021-05-03,Lambda,0,0.0,350
+74177,Qatar,2021-05-17,Lambda,0,0.0,195
+74201,Qatar,2021-05-31,Lambda,0,0.0,78
+74225,Qatar,2021-06-14,Lambda,0,0.0,58
+74249,Qatar,2021-08-09,Lambda,0,0.0,1
+74273,Qatar,2021-08-23,Lambda,0,0.0,520
+74297,Qatar,2021-09-06,Lambda,0,0.0,444
+74321,Qatar,2021-09-20,Lambda,0,0.0,183
+74345,Qatar,2021-10-04,Lambda,0,0.0,84
+74369,Qatar,2021-10-18,Lambda,0,0.0,13
+74393,Qatar,2021-11-01,Lambda,0,0.0,50
+74417,Qatar,2021-11-15,Lambda,0,0.0,75
+74441,Qatar,2021-11-29,Lambda,0,0.0,82
+74465,Romania,2020-05-11,Lambda,0,0.0,33
+74489,Romania,2020-05-25,Lambda,0,0.0,18
+74513,Romania,2020-06-08,Lambda,0,0.0,18
+74537,Romania,2020-06-22,Lambda,0,0.0,17
+74561,Romania,2020-07-06,Lambda,0,0.0,10
+74585,Romania,2020-07-20,Lambda,0,0.0,23
+74609,Romania,2020-08-03,Lambda,0,0.0,81
+74633,Romania,2020-08-17,Lambda,0,0.0,15
+74657,Romania,2020-08-31,Lambda,0,0.0,79
+74681,Romania,2020-09-14,Lambda,0,0.0,49
+74705,Romania,2020-09-28,Lambda,0,0.0,63
+74729,Romania,2020-10-12,Lambda,0,0.0,20
+74753,Romania,2020-10-26,Lambda,0,0.0,54
+74777,Romania,2020-11-09,Lambda,0,0.0,84
+74801,Romania,2020-11-23,Lambda,0,0.0,136
+74825,Romania,2020-12-07,Lambda,0,0.0,171
+74849,Romania,2020-12-21,Lambda,0,0.0,101
+74873,Romania,2021-01-04,Lambda,0,0.0,96
+74897,Romania,2021-01-11,Lambda,0,0.0,67
+74921,Romania,2021-01-25,Lambda,0,0.0,92
+74945,Romania,2021-02-08,Lambda,0,0.0,168
+74969,Romania,2021-02-22,Lambda,0,0.0,166
+74993,Romania,2021-03-08,Lambda,0,0.0,269
+75017,Romania,2021-03-22,Lambda,0,0.0,260
+75041,Romania,2021-04-05,Lambda,0,0.0,297
+75065,Romania,2021-04-19,Lambda,0,0.0,186
+75089,Romania,2021-05-03,Lambda,0,0.0,131
+75113,Romania,2021-05-17,Lambda,0,0.0,167
+75137,Romania,2021-05-31,Lambda,0,0.0,152
+75161,Romania,2021-06-14,Lambda,0,0.0,119
+75185,Romania,2021-06-28,Lambda,0,0.0,72
+75209,Romania,2021-07-12,Lambda,0,0.0,58
+75233,Romania,2021-07-26,Lambda,0,0.0,97
+75257,Romania,2021-08-09,Lambda,0,0.0,262
+75281,Romania,2021-08-23,Lambda,0,0.0,281
+75305,Romania,2021-09-06,Lambda,0,0.0,587
+75329,Romania,2021-09-20,Lambda,0,0.0,1056
+75353,Romania,2021-10-04,Lambda,0,0.0,985
+75377,Romania,2021-10-18,Lambda,0,0.0,884
+75401,Romania,2021-11-01,Lambda,0,0.0,612
+75425,Romania,2021-11-15,Lambda,0,0.0,229
+75449,Romania,2021-11-29,Lambda,0,0.0,132
+75473,Romania,2021-12-13,Lambda,0,0.0,86
+75497,Romania,2021-12-27,Lambda,0,0.0,83
+75521,Russia,2020-05-11,Lambda,0,0.0,65
+75545,Russia,2020-05-25,Lambda,0,0.0,122
+75569,Russia,2020-06-08,Lambda,0,0.0,154
+75593,Russia,2020-06-22,Lambda,0,0.0,63
+75617,Russia,2020-07-06,Lambda,0,0.0,37
+75641,Russia,2020-07-20,Lambda,0,0.0,77
+75665,Russia,2020-08-03,Lambda,0,0.0,53
+75689,Russia,2020-08-17,Lambda,0,0.0,59
+75713,Russia,2020-08-31,Lambda,0,0.0,73
+75737,Russia,2020-09-14,Lambda,0,0.0,134
+75761,Russia,2020-09-28,Lambda,0,0.0,228
+75785,Russia,2020-10-12,Lambda,0,0.0,228
+75809,Russia,2020-10-26,Lambda,0,0.0,104
+75833,Russia,2020-11-09,Lambda,0,0.0,91
+75857,Russia,2020-11-23,Lambda,0,0.0,275
+75881,Russia,2020-12-07,Lambda,0,0.0,145
+75905,Russia,2020-12-21,Lambda,0,0.0,188
+75929,Russia,2021-01-04,Lambda,0,0.0,247
+75953,Russia,2021-01-11,Lambda,0,0.0,48
+75977,Russia,2021-01-25,Lambda,0,0.0,74
+76001,Russia,2021-02-08,Lambda,0,0.0,19
+76025,Russia,2021-02-22,Lambda,0,0.0,304
+76049,Russia,2021-03-08,Lambda,0,0.0,196
+76073,Russia,2021-03-22,Lambda,0,0.0,263
+76097,Russia,2021-04-05,Lambda,0,0.0,220
+76121,Russia,2021-04-19,Lambda,0,0.0,313
+76145,Russia,2021-05-03,Lambda,0,0.0,313
+76169,Russia,2021-05-17,Lambda,0,0.0,291
+76193,Russia,2021-05-31,Lambda,0,0.0,511
+76217,Russia,2021-06-14,Lambda,0,0.0,904
+76241,Russia,2021-06-28,Lambda,0,0.0,543
+76265,Russia,2021-07-12,Lambda,0,0.0,665
+76289,Russia,2021-07-26,Lambda,0,0.0,214
+76313,Russia,2021-08-09,Lambda,0,0.0,256
+76337,Russia,2021-08-23,Lambda,0,0.0,227
+76361,Russia,2021-09-06,Lambda,0,0.0,277
+76385,Russia,2021-09-20,Lambda,0,0.0,380
+76409,Russia,2021-10-04,Lambda,0,0.0,425
+76433,Russia,2021-10-18,Lambda,0,0.0,707
+76457,Russia,2021-11-01,Lambda,0,0.0,913
+76481,Russia,2021-11-15,Lambda,0,0.0,511
+76505,Russia,2021-11-29,Lambda,0,0.0,316
+76529,Russia,2021-12-13,Lambda,0,0.0,151
+76553,Russia,2021-12-27,Lambda,0,0.0,155
+76577,Rwanda,2020-06-08,Lambda,0,0.0,1
+76601,Rwanda,2020-06-22,Lambda,0,0.0,8
+76625,Rwanda,2020-07-20,Lambda,0,0.0,4
+76649,Rwanda,2020-08-03,Lambda,0,0.0,4
+76673,Rwanda,2020-08-17,Lambda,0,0.0,11
+76697,Rwanda,2020-08-31,Lambda,0,0.0,59
+76721,Rwanda,2020-09-14,Lambda,0,0.0,5
+76745,Rwanda,2020-10-26,Lambda,0,0.0,10
+76769,Rwanda,2020-11-09,Lambda,0,0.0,8
+76793,Rwanda,2020-12-07,Lambda,0,0.0,2
+76817,Rwanda,2020-12-21,Lambda,0,0.0,47
+76841,Rwanda,2021-01-04,Lambda,0,0.0,25
+76865,Rwanda,2021-01-11,Lambda,0,0.0,19
+76889,Rwanda,2021-01-25,Lambda,0,0.0,56
+76913,Rwanda,2021-02-08,Lambda,0,0.0,21
+76937,Rwanda,2021-02-22,Lambda,0,0.0,21
+76961,Rwanda,2021-03-08,Lambda,0,0.0,10
+76985,Rwanda,2021-03-22,Lambda,0,0.0,4
+77009,Rwanda,2021-04-05,Lambda,0,0.0,21
+77033,Rwanda,2021-04-19,Lambda,0,0.0,6
+77057,Rwanda,2021-05-03,Lambda,0,0.0,5
+77081,Rwanda,2021-05-17,Lambda,0,0.0,8
+77105,Rwanda,2021-05-31,Lambda,0,0.0,4
+77129,Rwanda,2021-06-14,Lambda,0,0.0,6
+77153,Rwanda,2021-06-28,Lambda,0,0.0,119
+77177,Rwanda,2021-07-12,Lambda,0,0.0,59
+77201,Rwanda,2021-07-26,Lambda,0,0.0,21
+77225,Rwanda,2021-08-09,Lambda,0,0.0,56
+77249,Rwanda,2021-08-23,Lambda,0,0.0,12
+77273,Rwanda,2021-09-06,Lambda,0,0.0,40
+77297,Rwanda,2021-09-20,Lambda,0,0.0,5
+77321,Rwanda,2021-10-04,Lambda,0,0.0,5
+77345,Rwanda,2021-11-01,Lambda,0,0.0,7
+77369,Senegal,2020-06-08,Lambda,0,0.0,13
+77393,Senegal,2020-06-22,Lambda,0,0.0,62
+77417,Senegal,2020-07-06,Lambda,0,0.0,8
+77441,Senegal,2020-07-20,Lambda,0,0.0,12
+77465,Senegal,2020-08-03,Lambda,0,0.0,19
+77489,Senegal,2020-08-17,Lambda,0,0.0,20
+77513,Senegal,2020-08-31,Lambda,0,0.0,5
+77537,Senegal,2020-09-14,Lambda,0,0.0,4
+77561,Senegal,2020-09-28,Lambda,0,0.0,3
+77585,Senegal,2020-10-26,Lambda,0,0.0,1
+77609,Senegal,2020-12-21,Lambda,0,0.0,12
+77633,Senegal,2021-01-04,Lambda,0,0.0,83
+77657,Senegal,2021-01-11,Lambda,0,0.0,50
+77681,Senegal,2021-01-25,Lambda,0,0.0,43
+77705,Senegal,2021-02-08,Lambda,0,0.0,37
+77729,Senegal,2021-02-22,Lambda,0,0.0,7
+77753,Senegal,2021-03-08,Lambda,0,0.0,10
+77777,Senegal,2021-03-22,Lambda,0,0.0,5
+77801,Senegal,2021-04-05,Lambda,0,0.0,17
+77825,Senegal,2021-04-19,Lambda,0,0.0,5
+77849,Senegal,2021-05-03,Lambda,0,0.0,2
+77873,Senegal,2021-05-17,Lambda,0,0.0,6
+77897,Senegal,2021-05-31,Lambda,0,0.0,3
+77921,Senegal,2021-06-14,Lambda,0,0.0,50
+77945,Senegal,2021-06-28,Lambda,0,0.0,1
+77969,Senegal,2021-07-12,Lambda,0,0.0,3
+77993,Senegal,2021-07-26,Lambda,0,0.0,47
+78017,Senegal,2021-08-09,Lambda,0,0.0,43
+78041,Senegal,2021-08-23,Lambda,0,0.0,16
+78065,Senegal,2021-09-06,Lambda,0,0.0,23
+78089,Senegal,2021-09-20,Lambda,0,0.0,1
+78113,Senegal,2021-10-04,Lambda,0,0.0,5
+78137,Senegal,2021-10-18,Lambda,0,0.0,5
+78161,Senegal,2021-11-01,Lambda,0,0.0,17
+78185,Senegal,2021-11-15,Lambda,0,0.0,9
+78209,Senegal,2021-11-29,Lambda,0,0.0,6
+78233,Senegal,2021-12-13,Lambda,0,0.0,22
+78257,Senegal,2021-12-27,Lambda,0,0.0,20
+78281,Serbia,2020-05-11,Lambda,0,0.0,30
+78305,Serbia,2020-05-25,Lambda,0,0.0,8
+78329,Serbia,2020-06-08,Lambda,0,0.0,3
+78353,Serbia,2020-06-22,Lambda,0,0.0,11
+78377,Serbia,2020-07-06,Lambda,0,0.0,13
+78401,Serbia,2020-07-20,Lambda,0,0.0,27
+78425,Serbia,2020-08-03,Lambda,0,0.0,32
+78449,Serbia,2020-08-17,Lambda,0,0.0,21
+78473,Serbia,2020-08-31,Lambda,0,0.0,3
+78497,Serbia,2020-09-14,Lambda,0,0.0,1
+78521,Serbia,2020-09-28,Lambda,0,0.0,14
+78545,Serbia,2020-10-12,Lambda,0,0.0,30
+78569,Serbia,2020-10-26,Lambda,0,0.0,18
+78593,Serbia,2020-11-09,Lambda,0,0.0,7
+78617,Serbia,2020-11-23,Lambda,0,0.0,14
+78641,Serbia,2020-12-07,Lambda,0,0.0,6
+78665,Serbia,2020-12-21,Lambda,0,0.0,9
+78689,Serbia,2021-01-04,Lambda,0,0.0,16
+78713,Serbia,2021-01-11,Lambda,0,0.0,14
+78737,Serbia,2021-01-25,Lambda,0,0.0,6
+78761,Serbia,2021-02-08,Lambda,0,0.0,14
+78785,Serbia,2021-02-22,Lambda,0,0.0,12
+78809,Serbia,2021-03-08,Lambda,0,0.0,17
+78833,Serbia,2021-03-22,Lambda,0,0.0,11
+78857,Serbia,2021-04-05,Lambda,0,0.0,1
+78881,Serbia,2021-04-19,Lambda,0,0.0,8
+78905,Serbia,2021-05-03,Lambda,0,0.0,14
+78929,Serbia,2021-05-17,Lambda,0,0.0,29
+78953,Serbia,2021-05-31,Lambda,0,0.0,18
+78977,Serbia,2021-06-14,Lambda,0,0.0,5
+79001,Serbia,2021-06-28,Lambda,0,0.0,1
+79025,Serbia,2021-07-12,Lambda,0,0.0,15
+79049,Serbia,2021-07-26,Lambda,0,0.0,15
+79073,Serbia,2021-08-09,Lambda,0,0.0,5
+79097,Serbia,2021-08-23,Lambda,0,0.0,2
+79121,Serbia,2021-09-06,Lambda,0,0.0,12
+79145,Serbia,2021-09-20,Lambda,0,0.0,1
+79169,Serbia,2021-10-18,Lambda,0,0.0,14
+79193,Seychelles,2020-07-06,Lambda,0,0.0,2
+79217,Seychelles,2020-09-28,Lambda,0,0.0,1
+79241,Seychelles,2020-10-12,Lambda,0,0.0,1
+79265,Seychelles,2021-01-04,Lambda,0,0.0,1
+79289,Seychelles,2021-01-11,Lambda,0,0.0,4
+79313,Seychelles,2021-02-08,Lambda,0,0.0,2
+79337,Seychelles,2021-02-22,Lambda,0,0.0,1
+79361,Seychelles,2021-04-19,Lambda,0,0.0,1
+79385,Seychelles,2021-05-03,Lambda,0,0.0,3
+79409,Seychelles,2021-05-17,Lambda,0,0.0,2
+79433,Seychelles,2021-05-31,Lambda,0,0.0,44
+79457,Seychelles,2021-06-14,Lambda,0,0.0,54
+79481,Seychelles,2021-06-28,Lambda,0,0.0,15
+79505,Seychelles,2021-07-12,Lambda,0,0.0,4
+79529,Seychelles,2021-07-26,Lambda,0,0.0,10
+79553,Seychelles,2021-08-09,Lambda,0,0.0,23
+79577,Seychelles,2021-08-23,Lambda,0,0.0,97
+79601,Seychelles,2021-09-06,Lambda,0,0.0,57
+79625,Seychelles,2021-09-20,Lambda,0,0.0,83
+79649,Seychelles,2021-10-04,Lambda,0,0.0,59
+79673,Seychelles,2021-10-18,Lambda,0,0.0,58
+79697,Seychelles,2021-11-01,Lambda,0,0.0,21
+79721,Singapore,2020-05-11,Lambda,0,0.0,112
+79745,Singapore,2020-05-25,Lambda,0,0.0,72
+79769,Singapore,2020-06-08,Lambda,0,0.0,61
+79793,Singapore,2020-06-22,Lambda,0,0.0,48
+79817,Singapore,2020-07-06,Lambda,0,0.0,74
+79841,Singapore,2020-07-20,Lambda,0,0.0,73
+79865,Singapore,2020-08-03,Lambda,0,0.0,22
+79889,Singapore,2020-08-17,Lambda,0,0.0,18
+79913,Singapore,2020-08-31,Lambda,0,0.0,28
+79937,Singapore,2020-09-14,Lambda,0,0.0,24
+79961,Singapore,2020-09-28,Lambda,0,0.0,11
+79985,Singapore,2020-10-12,Lambda,0,0.0,27
+80009,Singapore,2020-10-26,Lambda,0,0.0,24
+80033,Singapore,2020-11-09,Lambda,0,0.0,23
+80057,Singapore,2020-11-23,Lambda,0,0.0,26
+80081,Singapore,2020-12-07,Lambda,0,0.0,24
+80105,Singapore,2020-12-21,Lambda,0,0.0,36
+80129,Singapore,2021-01-04,Lambda,0,0.0,61
+80153,Singapore,2021-01-11,Lambda,0,0.0,37
+80177,Singapore,2021-01-25,Lambda,0,0.0,67
+80201,Singapore,2021-02-08,Lambda,0,0.0,74
+80225,Singapore,2021-02-22,Lambda,0,0.0,42
+80249,Singapore,2021-03-08,Lambda,0,0.0,31
+80273,Singapore,2021-03-22,Lambda,0,0.0,45
+80297,Singapore,2021-04-05,Lambda,0,0.0,164
+80321,Singapore,2021-04-19,Lambda,0,0.0,188
+80345,Singapore,2021-05-03,Lambda,0,0.0,191
+80369,Singapore,2021-05-17,Lambda,0,0.0,220
+80393,Singapore,2021-05-31,Lambda,0,0.0,330
+80417,Singapore,2021-06-14,Lambda,0,0.0,178
+80441,Singapore,2021-06-28,Lambda,0,0.0,217
+80465,Singapore,2021-07-12,Lambda,0,0.0,75
+80489,Singapore,2021-07-26,Lambda,0,0.0,836
+80513,Singapore,2021-08-09,Lambda,0,0.0,864
+80537,Singapore,2021-08-23,Lambda,0,0.0,643
+80561,Singapore,2021-09-06,Lambda,0,0.0,1007
+80585,Singapore,2021-09-20,Lambda,0,0.0,700
+80609,Singapore,2021-10-04,Lambda,0,0.0,611
+80633,Singapore,2021-10-18,Lambda,0,0.0,571
+80657,Singapore,2021-11-01,Lambda,0,0.0,537
+80681,Singapore,2021-11-15,Lambda,0,0.0,542
+80705,Singapore,2021-11-29,Lambda,0,0.0,466
+80729,Singapore,2021-12-13,Lambda,0,0.0,424
+80753,Singapore,2021-12-27,Lambda,0,0.0,499
+80777,Sint Maarten (Dutch part),2021-01-25,Lambda,0,0.0,10
+80801,Sint Maarten (Dutch part),2021-02-22,Lambda,0,0.0,40
+80825,Sint Maarten (Dutch part),2021-03-08,Lambda,0,0.0,5
+80849,Sint Maarten (Dutch part),2021-03-22,Lambda,0,0.0,7
+80873,Sint Maarten (Dutch part),2021-04-05,Lambda,0,0.0,40
+80897,Sint Maarten (Dutch part),2021-04-19,Lambda,0,0.0,20
+80921,Sint Maarten (Dutch part),2021-05-03,Lambda,0,0.0,33
+80945,Sint Maarten (Dutch part),2021-05-17,Lambda,0,0.0,28
+80969,Sint Maarten (Dutch part),2021-05-31,Lambda,0,0.0,111
+80993,Sint Maarten (Dutch part),2021-06-14,Lambda,0,0.0,51
+81017,Sint Maarten (Dutch part),2021-06-28,Lambda,0,0.0,68
+81041,Sint Maarten (Dutch part),2021-07-12,Lambda,0,0.0,39
+81065,Sint Maarten (Dutch part),2021-07-26,Lambda,0,0.0,67
+81089,Sint Maarten (Dutch part),2021-08-09,Lambda,0,0.0,147
+81113,Sint Maarten (Dutch part),2021-08-23,Lambda,0,0.0,425
+81137,Sint Maarten (Dutch part),2021-09-06,Lambda,1,0.35,284
+81161,Sint Maarten (Dutch part),2021-09-20,Lambda,1,0.68,148
+81185,Sint Maarten (Dutch part),2021-10-04,Lambda,0,0.0,153
+81209,Sint Maarten (Dutch part),2021-10-18,Lambda,0,0.0,34
+81233,Sint Maarten (Dutch part),2021-11-01,Lambda,0,0.0,39
+81257,Sint Maarten (Dutch part),2021-11-15,Lambda,0,0.0,17
+81281,Sint Maarten (Dutch part),2021-11-29,Lambda,0,0.0,20
+81305,Sint Maarten (Dutch part),2021-12-13,Lambda,0,0.0,12
+81329,Slovakia,2020-05-11,Lambda,0,0.0,3
+81353,Slovakia,2020-05-25,Lambda,0,0.0,1
+81377,Slovakia,2020-07-06,Lambda,0,0.0,2
+81401,Slovakia,2020-07-20,Lambda,0,0.0,1
+81425,Slovakia,2020-08-03,Lambda,0,0.0,1
+81449,Slovakia,2020-08-17,Lambda,0,0.0,2
+81473,Slovakia,2020-08-31,Lambda,0,0.0,1
+81497,Slovakia,2020-09-14,Lambda,0,0.0,4
+81521,Slovakia,2020-09-28,Lambda,0,0.0,6
+81545,Slovakia,2020-10-12,Lambda,0,0.0,1
+81569,Slovakia,2020-10-26,Lambda,0,0.0,1
+81593,Slovakia,2020-11-09,Lambda,0,0.0,1
+81617,Slovakia,2020-11-23,Lambda,0,0.0,15
+81641,Slovakia,2020-12-07,Lambda,0,0.0,55
+81665,Slovakia,2020-12-21,Lambda,0,0.0,1
+81689,Slovakia,2021-01-04,Lambda,0,0.0,96
+81713,Slovakia,2021-01-11,Lambda,0,0.0,52
+81737,Slovakia,2021-01-25,Lambda,0,0.0,30
+81761,Slovakia,2021-02-08,Lambda,0,0.0,117
+81785,Slovakia,2021-02-22,Lambda,0,0.0,62
+81809,Slovakia,2021-03-08,Lambda,0,0.0,437
+81833,Slovakia,2021-03-22,Lambda,0,0.0,583
+81857,Slovakia,2021-04-05,Lambda,0,0.0,660
+81881,Slovakia,2021-04-19,Lambda,0,0.0,616
+81905,Slovakia,2021-05-03,Lambda,0,0.0,337
+81929,Slovakia,2021-05-17,Lambda,0,0.0,338
+81953,Slovakia,2021-05-31,Lambda,0,0.0,691
+81977,Slovakia,2021-06-14,Lambda,0,0.0,594
+82001,Slovakia,2021-06-28,Lambda,0,0.0,249
+82025,Slovakia,2021-07-12,Lambda,0,0.0,242
+82049,Slovakia,2021-07-26,Lambda,0,0.0,271
+82073,Slovakia,2021-08-09,Lambda,0,0.0,372
+82097,Slovakia,2021-08-23,Lambda,0,0.0,619
+82121,Slovakia,2021-09-06,Lambda,0,0.0,782
+82145,Slovakia,2021-09-20,Lambda,0,0.0,1205
+82169,Slovakia,2021-10-04,Lambda,0,0.0,845
+82193,Slovakia,2021-10-18,Lambda,0,0.0,1710
+82217,Slovakia,2021-11-01,Lambda,0,0.0,1733
+82241,Slovakia,2021-11-15,Lambda,0,0.0,2290
+82265,Slovakia,2021-11-29,Lambda,0,0.0,1254
+82289,Slovakia,2021-12-13,Lambda,0,0.0,1289
+82313,Slovakia,2021-12-27,Lambda,0,0.0,79
+82337,Slovenia,2020-05-11,Lambda,0,0.0,4
+82361,Slovenia,2020-06-08,Lambda,0,0.0,4
+82385,Slovenia,2020-06-22,Lambda,0,0.0,11
+82409,Slovenia,2020-07-06,Lambda,0,0.0,52
+82433,Slovenia,2020-07-20,Lambda,0,0.0,58
+82457,Slovenia,2020-08-03,Lambda,0,0.0,65
+82481,Slovenia,2020-08-17,Lambda,0,0.0,76
+82505,Slovenia,2020-08-31,Lambda,0,0.0,101
+82529,Slovenia,2020-09-14,Lambda,0,0.0,176
+82553,Slovenia,2020-09-28,Lambda,0,0.0,168
+82577,Slovenia,2020-10-12,Lambda,0,0.0,341
+82601,Slovenia,2020-10-26,Lambda,0,0.0,355
+82625,Slovenia,2020-11-09,Lambda,0,0.0,889
+82649,Slovenia,2020-11-23,Lambda,0,0.0,131
+82673,Slovenia,2020-12-07,Lambda,0,0.0,968
+82697,Slovenia,2020-12-21,Lambda,0,0.0,888
+82721,Slovenia,2021-01-04,Lambda,0,0.0,442
+82745,Slovenia,2021-01-11,Lambda,0,0.0,657
+82769,Slovenia,2021-01-25,Lambda,0,0.0,362
+82793,Slovenia,2021-02-08,Lambda,0,0.0,1577
+82817,Slovenia,2021-02-22,Lambda,0,0.0,1288
+82841,Slovenia,2021-03-08,Lambda,0,0.0,1458
+82865,Slovenia,2021-03-22,Lambda,0,0.0,1303
+82889,Slovenia,2021-04-05,Lambda,0,0.0,1656
+82913,Slovenia,2021-04-19,Lambda,0,0.0,2046
+82937,Slovenia,2021-05-03,Lambda,0,0.0,1979
+82961,Slovenia,2021-05-17,Lambda,0,0.0,1267
+82985,Slovenia,2021-05-31,Lambda,0,0.0,699
+83009,Slovenia,2021-06-14,Lambda,0,0.0,658
+83033,Slovenia,2021-06-28,Lambda,0,0.0,385
+83057,Slovenia,2021-07-12,Lambda,0,0.0,474
+83081,Slovenia,2021-07-26,Lambda,0,0.0,749
+83105,Slovenia,2021-08-09,Lambda,0,0.0,1341
+83129,Slovenia,2021-08-23,Lambda,0,0.0,2022
+83153,Slovenia,2021-09-06,Lambda,0,0.0,2598
+83177,Slovenia,2021-09-20,Lambda,0,0.0,2162
+83201,Slovenia,2021-10-04,Lambda,0,0.0,2328
+83225,Slovenia,2021-10-18,Lambda,0,0.0,2736
+83249,Slovenia,2021-11-01,Lambda,0,0.0,2786
+83273,Slovenia,2021-11-15,Lambda,0,0.0,2276
+83297,Slovenia,2021-11-29,Lambda,0,0.0,2620
+83321,Slovenia,2021-12-13,Lambda,0,0.0,1520
+83345,South Africa,2020-05-11,Lambda,0,0.0,135
+83369,South Africa,2020-05-25,Lambda,0,0.0,93
+83393,South Africa,2020-06-08,Lambda,0,0.0,105
+83417,South Africa,2020-06-22,Lambda,0,0.0,190
+83441,South Africa,2020-07-06,Lambda,0,0.0,290
+83465,South Africa,2020-07-20,Lambda,0,0.0,470
+83489,South Africa,2020-08-03,Lambda,0,0.0,551
+83513,South Africa,2020-08-17,Lambda,0,0.0,220
+83537,South Africa,2020-08-31,Lambda,0,0.0,129
+83561,South Africa,2020-09-14,Lambda,0,0.0,356
+83585,South Africa,2020-09-28,Lambda,0,0.0,223
+83609,South Africa,2020-10-12,Lambda,0,0.0,304
+83633,South Africa,2020-10-26,Lambda,0,0.0,358
+83657,South Africa,2020-11-09,Lambda,0,0.0,478
+83681,South Africa,2020-11-23,Lambda,0,0.0,418
+83705,South Africa,2020-12-07,Lambda,0,0.0,488
+83729,South Africa,2020-12-21,Lambda,0,0.0,546
+83753,South Africa,2021-01-04,Lambda,0,0.0,874
+83777,South Africa,2021-01-11,Lambda,0,0.0,668
+83801,South Africa,2021-01-25,Lambda,0,0.0,566
+83825,South Africa,2021-02-08,Lambda,0,0.0,393
+83849,South Africa,2021-02-22,Lambda,0,0.0,296
+83873,South Africa,2021-03-08,Lambda,0,0.0,225
+83897,South Africa,2021-03-22,Lambda,0,0.0,448
+83921,South Africa,2021-04-05,Lambda,0,0.0,324
+83945,South Africa,2021-04-19,Lambda,0,0.0,250
+83969,South Africa,2021-05-03,Lambda,0,0.0,390
+83993,South Africa,2021-05-17,Lambda,0,0.0,545
+84017,South Africa,2021-05-31,Lambda,0,0.0,646
+84041,South Africa,2021-06-14,Lambda,0,0.0,1101
+84065,South Africa,2021-06-28,Lambda,0,0.0,1661
+84089,South Africa,2021-07-12,Lambda,0,0.0,2226
+84113,South Africa,2021-07-26,Lambda,0,0.0,1667
+84137,South Africa,2021-08-09,Lambda,0,0.0,1601
+84161,South Africa,2021-08-23,Lambda,0,0.0,1242
+84185,South Africa,2021-09-06,Lambda,0,0.0,1269
+84209,South Africa,2021-09-20,Lambda,0,0.0,925
+84233,South Africa,2021-10-04,Lambda,0,0.0,522
+84257,South Africa,2021-10-18,Lambda,0,0.0,453
+84281,South Africa,2021-11-01,Lambda,0,0.0,209
+84305,South Africa,2021-11-15,Lambda,0,0.0,116
+84329,South Africa,2021-11-29,Lambda,0,0.0,829
+84353,South Africa,2021-12-13,Lambda,0,0.0,1121
+84377,South Africa,2021-12-27,Lambda,0,0.0,65
+84401,South Korea,2020-05-11,Lambda,0,0.0,48
+84425,South Korea,2020-05-25,Lambda,0,0.0,64
+84449,South Korea,2020-06-08,Lambda,0,0.0,165
+84473,South Korea,2020-06-22,Lambda,0,0.0,108
+84497,South Korea,2020-07-06,Lambda,0,0.0,159
+84521,South Korea,2020-07-20,Lambda,0,0.0,110
+84545,South Korea,2020-08-03,Lambda,0,0.0,98
+84569,South Korea,2020-08-17,Lambda,0,0.0,123
+84593,South Korea,2020-08-31,Lambda,0,0.0,176
+84617,South Korea,2020-09-14,Lambda,0,0.0,64
+84641,South Korea,2020-09-28,Lambda,0,0.0,63
+84665,South Korea,2020-10-12,Lambda,0,0.0,57
+84689,South Korea,2020-10-26,Lambda,0,0.0,84
+84713,South Korea,2020-11-09,Lambda,0,0.0,77
+84737,South Korea,2020-11-23,Lambda,0,0.0,171
+84761,South Korea,2020-12-07,Lambda,0,0.0,160
+84785,South Korea,2020-12-21,Lambda,0,0.0,178
+84809,South Korea,2021-01-04,Lambda,0,0.0,187
+84833,South Korea,2021-01-11,Lambda,0,0.0,72
+84857,South Korea,2021-01-25,Lambda,0,0.0,146
+84881,South Korea,2021-02-08,Lambda,0,0.0,197
+84905,South Korea,2021-02-22,Lambda,0,0.0,242
+84929,South Korea,2021-03-08,Lambda,0,0.0,258
+84953,South Korea,2021-03-22,Lambda,0,0.0,271
+84977,South Korea,2021-04-05,Lambda,0,0.0,324
+85001,South Korea,2021-04-19,Lambda,0,0.0,408
+85025,South Korea,2021-05-03,Lambda,0,0.0,530
+85049,South Korea,2021-05-17,Lambda,0,0.0,223
+85073,South Korea,2021-05-31,Lambda,0,0.0,210
+85097,South Korea,2021-06-14,Lambda,0,0.0,473
+85121,South Korea,2021-06-28,Lambda,0,0.0,575
+85145,South Korea,2021-07-12,Lambda,0,0.0,715
+85169,South Korea,2021-07-26,Lambda,0,0.0,1062
+85193,South Korea,2021-08-09,Lambda,0,0.0,960
+85217,South Korea,2021-08-23,Lambda,0,0.0,909
+85241,South Korea,2021-09-06,Lambda,0,0.0,1318
+85265,South Korea,2021-09-20,Lambda,0,0.0,1216
+85289,South Korea,2021-10-04,Lambda,0,0.0,943
+85313,South Korea,2021-10-18,Lambda,0,0.0,1137
+85337,South Korea,2021-11-01,Lambda,0,0.0,1562
+85361,South Korea,2021-11-15,Lambda,0,0.0,1574
+85385,South Korea,2021-11-29,Lambda,0,0.0,1368
+85409,South Korea,2021-12-13,Lambda,0,0.0,1620
+85433,South Korea,2021-12-27,Lambda,0,0.0,393
+85457,Spain,2020-05-11,Lambda,0,0.0,180
+85481,Spain,2020-05-25,Lambda,0,0.0,95
+85505,Spain,2020-06-08,Lambda,0,0.0,63
+85529,Spain,2020-06-22,Lambda,0,0.0,73
+85553,Spain,2020-07-06,Lambda,0,0.0,140
+85577,Spain,2020-07-20,Lambda,0,0.0,149
+85601,Spain,2020-08-03,Lambda,0,0.0,170
+85625,Spain,2020-08-17,Lambda,0,0.0,251
+85649,Spain,2020-08-31,Lambda,0,0.0,281
+85673,Spain,2020-09-14,Lambda,0,0.0,444
+85697,Spain,2020-09-28,Lambda,0,0.0,488
+85721,Spain,2020-10-12,Lambda,0,0.0,513
+85745,Spain,2020-10-26,Lambda,0,0.0,478
+85769,Spain,2020-11-09,Lambda,0,0.0,360
+85793,Spain,2020-11-23,Lambda,0,0.0,409
+85817,Spain,2020-12-07,Lambda,0,0.0,471
+85841,Spain,2020-12-21,Lambda,0,0.0,967
+85865,Spain,2021-01-04,Lambda,0,0.0,1095
+85889,Spain,2021-01-11,Lambda,0,0.0,632
+85913,Spain,2021-01-25,Lambda,0,0.0,2620
+85937,Spain,2021-02-08,Lambda,0,0.0,3043
+85961,Spain,2021-02-22,Lambda,0,0.0,2628
+85985,Spain,2021-03-08,Lambda,0,0.0,2674
+86009,Spain,2021-03-22,Lambda,1,0.04,2431
+86033,Spain,2021-04-05,Lambda,5,0.18,2788
+86057,Spain,2021-04-19,Lambda,13,0.44,2957
+86081,Spain,2021-05-03,Lambda,8,0.28,2815
+86105,Spain,2021-05-17,Lambda,11,0.33,3341
+86129,Spain,2021-05-31,Lambda,14,0.54,2613
+86153,Spain,2021-06-14,Lambda,27,0.84,3221
+86177,Spain,2021-06-28,Lambda,30,1.0,3000
+86201,Spain,2021-07-12,Lambda,54,0.9,5987
+86225,Spain,2021-07-26,Lambda,34,0.64,5278
+86249,Spain,2021-08-09,Lambda,15,0.28,5388
+86273,Spain,2021-08-23,Lambda,10,0.27,3647
+86297,Spain,2021-09-06,Lambda,1,0.03,3246
+86321,Spain,2021-09-20,Lambda,0,0.0,2186
+86345,Spain,2021-10-04,Lambda,0,0.0,1510
+86369,Spain,2021-10-18,Lambda,0,0.0,1213
+86393,Spain,2021-11-01,Lambda,0,0.0,1559
+86417,Spain,2021-11-15,Lambda,0,0.0,1713
+86441,Spain,2021-11-29,Lambda,0,0.0,2010
+86465,Spain,2021-12-13,Lambda,0,0.0,2121
+86489,Spain,2021-12-27,Lambda,0,0.0,991
+86513,Sri Lanka,2020-05-11,Lambda,0,0.0,1
+86537,Sri Lanka,2020-06-22,Lambda,0,0.0,1
+86561,Sri Lanka,2020-08-03,Lambda,0,0.0,4
+86585,Sri Lanka,2020-10-12,Lambda,0,0.0,3
+86609,Sri Lanka,2020-10-26,Lambda,0,0.0,11
+86633,Sri Lanka,2020-11-09,Lambda,0,0.0,8
+86657,Sri Lanka,2020-11-23,Lambda,0,0.0,2
+86681,Sri Lanka,2020-12-07,Lambda,0,0.0,6
+86705,Sri Lanka,2020-12-21,Lambda,0,0.0,1
+86729,Sri Lanka,2021-01-04,Lambda,0,0.0,10
+86753,Sri Lanka,2021-01-11,Lambda,0,0.0,3
+86777,Sri Lanka,2021-01-25,Lambda,0,0.0,54
+86801,Sri Lanka,2021-02-08,Lambda,0,0.0,69
+86825,Sri Lanka,2021-02-22,Lambda,0,0.0,52
+86849,Sri Lanka,2021-03-08,Lambda,0,0.0,24
+86873,Sri Lanka,2021-03-22,Lambda,0,0.0,48
+86897,Sri Lanka,2021-04-05,Lambda,0,0.0,12
+86921,Sri Lanka,2021-04-19,Lambda,0,0.0,8
+86945,Sri Lanka,2021-05-03,Lambda,0,0.0,66
+86969,Sri Lanka,2021-05-17,Lambda,0,0.0,44
+86993,Sri Lanka,2021-05-31,Lambda,0,0.0,43
+87017,Sri Lanka,2021-06-14,Lambda,0,0.0,61
+87041,Sri Lanka,2021-06-28,Lambda,0,0.0,142
+87065,Sri Lanka,2021-07-12,Lambda,0,0.0,71
+87089,Sri Lanka,2021-07-26,Lambda,0,0.0,82
+87113,Sri Lanka,2021-08-09,Lambda,0,0.0,118
+87137,Sri Lanka,2021-08-23,Lambda,0,0.0,103
+87161,Sri Lanka,2021-09-06,Lambda,0,0.0,223
+87185,Sri Lanka,2021-09-20,Lambda,0,0.0,143
+87209,Sri Lanka,2021-10-04,Lambda,0,0.0,83
+87233,Sri Lanka,2021-10-18,Lambda,0,0.0,168
+87257,Sri Lanka,2021-11-01,Lambda,0,0.0,106
+87281,Sri Lanka,2021-11-15,Lambda,0,0.0,84
+87305,Sri Lanka,2021-11-29,Lambda,0,0.0,101
+87329,Sri Lanka,2021-12-13,Lambda,0,0.0,197
+87353,Sri Lanka,2021-12-27,Lambda,0,0.0,191
+87377,Sri Lanka,2022-01-05,Lambda,0,0.0,11
+87401,Suriname,2020-05-11,Lambda,0,0.0,1
+87425,Suriname,2020-06-22,Lambda,0,0.0,3
+87449,Suriname,2020-07-06,Lambda,0,0.0,33
+87473,Suriname,2020-07-20,Lambda,0,0.0,24
+87497,Suriname,2020-08-03,Lambda,0,0.0,2
+87521,Suriname,2020-08-17,Lambda,0,0.0,22
+87545,Suriname,2020-08-31,Lambda,0,0.0,3
+87569,Suriname,2020-12-21,Lambda,0,0.0,10
+87593,Suriname,2021-01-04,Lambda,0,0.0,6
+87617,Suriname,2021-01-25,Lambda,0,0.0,17
+87641,Suriname,2021-02-08,Lambda,0,0.0,8
+87665,Suriname,2021-02-22,Lambda,0,0.0,9
+87689,Suriname,2021-03-08,Lambda,0,0.0,31
+87713,Suriname,2021-03-22,Lambda,0,0.0,13
+87737,Suriname,2021-04-05,Lambda,0,0.0,57
+87761,Suriname,2021-04-19,Lambda,0,0.0,49
+87785,Suriname,2021-05-03,Lambda,0,0.0,23
+87809,Suriname,2021-05-17,Lambda,0,0.0,43
+87833,Suriname,2021-05-31,Lambda,0,0.0,53
+87857,Suriname,2021-06-14,Lambda,0,0.0,37
+87881,Suriname,2021-06-28,Lambda,0,0.0,50
+87905,Suriname,2021-07-12,Lambda,0,0.0,39
+87929,Suriname,2021-07-26,Lambda,0,0.0,35
+87953,Suriname,2021-08-09,Lambda,0,0.0,50
+87977,Suriname,2021-08-23,Lambda,0,0.0,43
+88001,Suriname,2021-09-06,Lambda,0,0.0,57
+88025,Suriname,2021-09-20,Lambda,0,0.0,64
+88049,Suriname,2021-10-04,Lambda,0,0.0,31
+88073,Suriname,2021-10-18,Lambda,0,0.0,39
+88097,Suriname,2021-11-01,Lambda,0,0.0,16
+88121,Suriname,2021-11-15,Lambda,0,0.0,23
+88145,Suriname,2021-11-29,Lambda,0,0.0,17
+88169,Suriname,2021-12-13,Lambda,0,0.0,23
+88193,Sweden,2020-05-11,Lambda,0,0.0,52
+88217,Sweden,2020-05-25,Lambda,0,0.0,81
+88241,Sweden,2020-06-08,Lambda,0,0.0,83
+88265,Sweden,2020-06-22,Lambda,0,0.0,36
+88289,Sweden,2020-07-06,Lambda,0,0.0,43
+88313,Sweden,2020-07-20,Lambda,0,0.0,40
+88337,Sweden,2020-08-03,Lambda,0,0.0,15
+88361,Sweden,2020-08-17,Lambda,0,0.0,41
+88385,Sweden,2020-08-31,Lambda,0,0.0,43
+88409,Sweden,2020-09-14,Lambda,0,0.0,38
+88433,Sweden,2020-09-28,Lambda,0,0.0,54
+88457,Sweden,2020-10-12,Lambda,0,0.0,45
+88481,Sweden,2020-10-26,Lambda,0,0.0,43
+88505,Sweden,2020-11-09,Lambda,0,0.0,125
+88529,Sweden,2020-11-23,Lambda,0,0.0,105
+88553,Sweden,2020-12-07,Lambda,0,0.0,145
+88577,Sweden,2020-12-21,Lambda,0,0.0,174
+88601,Sweden,2021-01-04,Lambda,0,0.0,535
+88625,Sweden,2021-01-11,Lambda,0,0.0,289
+88649,Sweden,2021-01-25,Lambda,0,0.0,2203
+88673,Sweden,2021-02-08,Lambda,0,0.0,5546
+88697,Sweden,2021-02-22,Lambda,0,0.0,9307
+88721,Sweden,2021-03-08,Lambda,0,0.0,11288
+88745,Sweden,2021-03-22,Lambda,0,0.0,13397
+88769,Sweden,2021-04-05,Lambda,0,0.0,10365
+88793,Sweden,2021-04-19,Lambda,0,0.0,7416
+88817,Sweden,2021-05-03,Lambda,0,0.0,6766
+88841,Sweden,2021-05-17,Lambda,0,0.0,7046
+88865,Sweden,2021-05-31,Lambda,0,0.0,5268
+88889,Sweden,2021-06-14,Lambda,0,0.0,3876
+88913,Sweden,2021-06-28,Lambda,0,0.0,3329
+88937,Sweden,2021-07-12,Lambda,2,0.09,2229
+88961,Sweden,2021-07-26,Lambda,1,0.03,3358
+88985,Sweden,2021-08-09,Lambda,0,0.0,4585
+89009,Sweden,2021-08-23,Lambda,1,0.02,6148
+89033,Sweden,2021-09-06,Lambda,0,0.0,5028
+89057,Sweden,2021-09-20,Lambda,0,0.0,4183
+89081,Sweden,2021-10-04,Lambda,0,0.0,3358
+89105,Sweden,2021-10-18,Lambda,0,0.0,2824
+89129,Sweden,2021-11-01,Lambda,0,0.0,4604
+89153,Sweden,2021-11-15,Lambda,0,0.0,4812
+89177,Sweden,2021-11-29,Lambda,0,0.0,4120
+89201,Sweden,2021-12-13,Lambda,0,0.0,3572
+89225,Sweden,2021-12-27,Lambda,0,0.0,1239
+89249,Switzerland,2020-05-11,Lambda,0,0.0,106
+89273,Switzerland,2020-05-25,Lambda,0,0.0,23
+89297,Switzerland,2020-06-08,Lambda,0,0.0,27
+89321,Switzerland,2020-06-22,Lambda,0,0.0,25
+89345,Switzerland,2020-07-06,Lambda,0,0.0,89
+89369,Switzerland,2020-07-20,Lambda,0,0.0,169
+89393,Switzerland,2020-08-03,Lambda,0,0.0,145
+89417,Switzerland,2020-08-17,Lambda,0,0.0,174
+89441,Switzerland,2020-08-31,Lambda,0,0.0,306
+89465,Switzerland,2020-09-14,Lambda,0,0.0,288
+89489,Switzerland,2020-09-28,Lambda,0,0.0,52
+89513,Switzerland,2020-10-12,Lambda,0,0.0,448
+89537,Switzerland,2020-10-26,Lambda,0,0.0,998
+89561,Switzerland,2020-11-09,Lambda,0,0.0,1607
+89585,Switzerland,2020-11-23,Lambda,0,0.0,1685
+89609,Switzerland,2020-12-07,Lambda,0,0.0,1421
+89633,Switzerland,2020-12-21,Lambda,0,0.0,2426
+89657,Switzerland,2021-01-04,Lambda,0,0.0,3229
+89681,Switzerland,2021-01-11,Lambda,0,0.0,1785
+89705,Switzerland,2021-01-25,Lambda,0,0.0,3563
+89729,Switzerland,2021-02-08,Lambda,0,0.0,3053
+89753,Switzerland,2021-02-22,Lambda,0,0.0,1819
+89777,Switzerland,2021-03-08,Lambda,0,0.0,1936
+89801,Switzerland,2021-03-22,Lambda,0,0.0,2524
+89825,Switzerland,2021-04-05,Lambda,0,0.0,2521
+89849,Switzerland,2021-04-19,Lambda,0,0.0,3200
+89873,Switzerland,2021-05-03,Lambda,0,0.0,4034
+89897,Switzerland,2021-05-17,Lambda,3,0.1,2882
+89921,Switzerland,2021-05-31,Lambda,3,0.14,2210
+89945,Switzerland,2021-06-14,Lambda,0,0.0,1108
+89969,Switzerland,2021-06-28,Lambda,3,0.63,479
+89993,Switzerland,2021-07-12,Lambda,6,0.62,963
+90017,Switzerland,2021-07-26,Lambda,11,0.38,2932
+90041,Switzerland,2021-08-09,Lambda,6,0.13,4623
+90065,Switzerland,2021-08-23,Lambda,2,0.03,6633
+90089,Switzerland,2021-09-06,Lambda,0,0.0,4379
+90113,Switzerland,2021-09-20,Lambda,0,0.0,4396
+90137,Switzerland,2021-10-04,Lambda,0,0.0,3784
+90161,Switzerland,2021-10-18,Lambda,0,0.0,3230
+90185,Switzerland,2021-11-01,Lambda,0,0.0,5102
+90209,Switzerland,2021-11-15,Lambda,0,0.0,6584
+90233,Switzerland,2021-11-29,Lambda,0,0.0,6568
+90257,Switzerland,2021-12-13,Lambda,0,0.0,4811
+90281,Switzerland,2021-12-27,Lambda,0,0.0,1330
+90305,Thailand,2020-08-03,Lambda,0,0.0,5
+90329,Thailand,2020-08-31,Lambda,0,0.0,2
+90353,Thailand,2020-09-28,Lambda,0,0.0,2
+90377,Thailand,2020-10-12,Lambda,0,0.0,7
+90401,Thailand,2020-10-26,Lambda,0,0.0,7
+90425,Thailand,2020-11-09,Lambda,0,0.0,6
+90449,Thailand,2020-11-23,Lambda,0,0.0,9
+90473,Thailand,2020-12-07,Lambda,0,0.0,18
+90497,Thailand,2020-12-21,Lambda,0,0.0,76
+90521,Thailand,2021-01-04,Lambda,0,0.0,37
+90545,Thailand,2021-01-11,Lambda,0,0.0,47
+90569,Thailand,2021-01-25,Lambda,0,0.0,33
+90593,Thailand,2021-02-08,Lambda,0,0.0,33
+90617,Thailand,2021-02-22,Lambda,0,0.0,108
+90641,Thailand,2021-03-08,Lambda,0,0.0,29
+90665,Thailand,2021-03-22,Lambda,0,0.0,33
+90689,Thailand,2021-04-05,Lambda,0,0.0,29
+90713,Thailand,2021-04-19,Lambda,0,0.0,129
+90737,Thailand,2021-05-03,Lambda,0,0.0,99
+90761,Thailand,2021-05-17,Lambda,0,0.0,589
+90785,Thailand,2021-05-31,Lambda,0,0.0,613
+90809,Thailand,2021-06-14,Lambda,0,0.0,274
+90833,Thailand,2021-06-28,Lambda,0,0.0,391
+90857,Thailand,2021-07-12,Lambda,0,0.0,208
+90881,Thailand,2021-07-26,Lambda,0,0.0,590
+90905,Thailand,2021-08-09,Lambda,0,0.0,298
+90929,Thailand,2021-08-23,Lambda,0,0.0,310
+90953,Thailand,2021-09-06,Lambda,0,0.0,308
+90977,Thailand,2021-09-20,Lambda,0,0.0,437
+91001,Thailand,2021-10-04,Lambda,0,0.0,807
+91025,Thailand,2021-10-18,Lambda,0,0.0,951
+91049,Thailand,2021-11-01,Lambda,0,0.0,948
+91073,Thailand,2021-11-15,Lambda,0,0.0,586
+91097,Thailand,2021-11-29,Lambda,0,0.0,516
+91121,Thailand,2021-12-13,Lambda,0,0.0,460
+91145,Thailand,2021-12-27,Lambda,0,0.0,23
+91169,Togo,2020-05-25,Lambda,0,0.0,3
+91193,Togo,2020-06-08,Lambda,0,0.0,4
+91217,Togo,2020-07-20,Lambda,0,0.0,2
+91241,Togo,2020-09-28,Lambda,0,0.0,5
+91265,Togo,2020-10-12,Lambda,0,0.0,1
+91289,Togo,2020-11-23,Lambda,0,0.0,1
+91313,Togo,2020-12-07,Lambda,0,0.0,1
+91337,Togo,2020-12-21,Lambda,0,0.0,8
+91361,Togo,2021-01-04,Lambda,0,0.0,5
+91385,Togo,2021-01-25,Lambda,0,0.0,6
+91409,Togo,2021-02-08,Lambda,0,0.0,40
+91433,Togo,2021-02-22,Lambda,0,0.0,40
+91457,Togo,2021-03-08,Lambda,0,0.0,36
+91481,Togo,2021-03-22,Lambda,0,0.0,12
+91505,Togo,2021-04-05,Lambda,0,0.0,8
+91529,Togo,2021-04-19,Lambda,0,0.0,14
+91553,Togo,2021-05-03,Lambda,0,0.0,8
+91577,Togo,2021-06-14,Lambda,0,0.0,25
+91601,Togo,2021-06-28,Lambda,0,0.0,27
+91625,Togo,2021-07-12,Lambda,0,0.0,24
+91649,Togo,2021-07-26,Lambda,0,0.0,24
+91673,Togo,2021-08-09,Lambda,0,0.0,44
+91697,Trinidad and Tobago,2020-06-22,Lambda,0,0.0,1
+91721,Trinidad and Tobago,2020-08-17,Lambda,0,0.0,1
+91745,Trinidad and Tobago,2020-08-31,Lambda,0,0.0,10
+91769,Trinidad and Tobago,2020-09-14,Lambda,0,0.0,5
+91793,Trinidad and Tobago,2020-09-28,Lambda,0,0.0,1
+91817,Trinidad and Tobago,2020-11-09,Lambda,0,0.0,4
+91841,Trinidad and Tobago,2020-11-23,Lambda,0,0.0,1
+91865,Trinidad and Tobago,2020-12-07,Lambda,0,0.0,9
+91889,Trinidad and Tobago,2020-12-21,Lambda,0,0.0,3
+91913,Trinidad and Tobago,2021-01-25,Lambda,0,0.0,1
+91937,Trinidad and Tobago,2021-02-22,Lambda,0,0.0,4
+91961,Trinidad and Tobago,2021-03-08,Lambda,0,0.0,2
+91985,Trinidad and Tobago,2021-03-22,Lambda,0,0.0,6
+92009,Trinidad and Tobago,2021-04-05,Lambda,0,0.0,8
+92033,Trinidad and Tobago,2021-04-19,Lambda,0,0.0,70
+92057,Trinidad and Tobago,2021-05-03,Lambda,0,0.0,197
+92081,Trinidad and Tobago,2021-05-17,Lambda,0,0.0,142
+92105,Trinidad and Tobago,2021-05-31,Lambda,0,0.0,28
+92129,Trinidad and Tobago,2021-06-14,Lambda,0,0.0,23
+92153,Trinidad and Tobago,2021-06-28,Lambda,0,0.0,11
+92177,Trinidad and Tobago,2021-07-12,Lambda,0,0.0,8
+92201,Trinidad and Tobago,2021-07-26,Lambda,0,0.0,12
+92225,Trinidad and Tobago,2021-08-09,Lambda,0,0.0,50
+92249,Trinidad and Tobago,2021-08-23,Lambda,0,0.0,60
+92273,Trinidad and Tobago,2021-09-06,Lambda,0,0.0,15
+92297,Trinidad and Tobago,2021-09-20,Lambda,0,0.0,50
+92321,Trinidad and Tobago,2021-10-04,Lambda,0,0.0,65
+92345,Trinidad and Tobago,2021-10-18,Lambda,0,0.0,124
+92369,Trinidad and Tobago,2021-11-01,Lambda,0,0.0,117
+92393,Trinidad and Tobago,2021-11-15,Lambda,0,0.0,162
+92417,Trinidad and Tobago,2021-11-29,Lambda,0,0.0,106
+92441,Trinidad and Tobago,2021-12-13,Lambda,0,0.0,105
+92465,Trinidad and Tobago,2021-12-27,Lambda,0,0.0,35
+92489,Turkey,2020-05-11,Lambda,0,0.0,95
+92513,Turkey,2020-05-25,Lambda,0,0.0,74
+92537,Turkey,2020-06-08,Lambda,0,0.0,33
+92561,Turkey,2020-06-22,Lambda,0,0.0,21
+92585,Turkey,2020-07-06,Lambda,0,0.0,20
+92609,Turkey,2020-07-20,Lambda,0,0.0,1
+92633,Turkey,2020-08-03,Lambda,0,0.0,10
+92657,Turkey,2020-08-17,Lambda,0,0.0,4
+92681,Turkey,2020-08-31,Lambda,0,0.0,10
+92705,Turkey,2020-09-14,Lambda,0,0.0,11
+92729,Turkey,2020-09-28,Lambda,0,0.0,11
+92753,Turkey,2020-10-12,Lambda,0,0.0,2
+92777,Turkey,2020-10-26,Lambda,0,0.0,2
+92801,Turkey,2020-11-23,Lambda,0,0.0,32
+92825,Turkey,2020-12-07,Lambda,0,0.0,1
+92849,Turkey,2020-12-21,Lambda,0,0.0,24
+92873,Turkey,2021-01-04,Lambda,0,0.0,67
+92897,Turkey,2021-01-11,Lambda,0,0.0,12
+92921,Turkey,2021-01-25,Lambda,0,0.0,230
+92945,Turkey,2021-02-08,Lambda,0,0.0,335
+92969,Turkey,2021-02-22,Lambda,0,0.0,1104
+92993,Turkey,2021-03-08,Lambda,0,0.0,1135
+93017,Turkey,2021-03-22,Lambda,0,0.0,978
+93041,Turkey,2021-04-05,Lambda,0,0.0,1375
+93065,Turkey,2021-04-19,Lambda,0,0.0,21
+93089,Turkey,2021-05-03,Lambda,0,0.0,144
+93113,Turkey,2021-05-17,Lambda,0,0.0,292
+93137,Turkey,2021-05-31,Lambda,0,0.0,290
+93161,Turkey,2021-06-14,Lambda,0,0.0,270
+93185,Turkey,2021-06-28,Lambda,0,0.0,1143
+93209,Turkey,2021-07-12,Lambda,0,0.0,4053
+93233,Turkey,2021-07-26,Lambda,0,0.0,1260
+93257,Turkey,2021-08-09,Lambda,0,0.0,12442
+93281,Turkey,2021-08-23,Lambda,0,0.0,32547
+93305,Turkey,2021-09-06,Lambda,0,0.0,1319
+93329,Turkey,2021-09-20,Lambda,0,0.0,2714
+93353,Turkey,2021-10-04,Lambda,0,0.0,3008
+93377,Turkey,2021-10-18,Lambda,0,0.0,1716
+93401,Turkey,2021-11-01,Lambda,0,0.0,361
+93425,Turkey,2021-11-15,Lambda,0,0.0,2426
+93449,Turkey,2021-11-29,Lambda,0,0.0,2383
+93473,Turkey,2021-12-13,Lambda,0,0.0,2782
+93497,Turkey,2021-12-27,Lambda,0,0.0,2100
+93521,Uganda,2020-05-11,Lambda,0,0.0,27
+93545,Uganda,2020-05-25,Lambda,0,0.0,1
+93569,Uganda,2020-07-06,Lambda,0,0.0,4
+93593,Uganda,2020-07-20,Lambda,0,0.0,2
+93617,Uganda,2020-08-03,Lambda,0,0.0,9
+93641,Uganda,2020-08-17,Lambda,0,0.0,31
+93665,Uganda,2020-08-31,Lambda,0,0.0,27
+93689,Uganda,2020-09-14,Lambda,0,0.0,37
+93713,Uganda,2020-09-28,Lambda,0,0.0,10
+93737,Uganda,2020-10-12,Lambda,0,0.0,8
+93761,Uganda,2020-10-26,Lambda,0,0.0,2
+93785,Uganda,2020-11-09,Lambda,0,0.0,26
+93809,Uganda,2020-11-23,Lambda,0,0.0,29
+93833,Uganda,2020-12-07,Lambda,0,0.0,2
+93857,Uganda,2020-12-21,Lambda,0,0.0,39
+93881,Uganda,2021-01-04,Lambda,0,0.0,59
+93905,Uganda,2021-01-25,Lambda,0,0.0,25
+93929,Uganda,2021-02-08,Lambda,0,0.0,2
+93953,Uganda,2021-02-22,Lambda,0,0.0,8
+93977,Uganda,2021-03-08,Lambda,0,0.0,9
+94001,Uganda,2021-03-22,Lambda,0,0.0,10
+94025,Uganda,2021-04-05,Lambda,0,0.0,26
+94049,Uganda,2021-04-19,Lambda,0,0.0,17
+94073,Uganda,2021-05-03,Lambda,0,0.0,11
+94097,Uganda,2021-05-17,Lambda,0,0.0,17
+94121,Uganda,2021-05-31,Lambda,0,0.0,21
+94145,Uganda,2021-06-14,Lambda,0,0.0,172
+94169,Uganda,2021-06-28,Lambda,0,0.0,114
+94193,Uganda,2021-07-12,Lambda,0,0.0,12
+94217,Uganda,2021-07-26,Lambda,0,0.0,15
+94241,Uganda,2021-08-09,Lambda,0,0.0,17
+94265,Uganda,2021-08-23,Lambda,0,0.0,5
+94289,Uganda,2021-12-13,Lambda,0,0.0,1
+94313,Ukraine,2020-05-11,Lambda,0,0.0,2
+94337,Ukraine,2020-05-25,Lambda,0,0.0,9
+94361,Ukraine,2020-06-08,Lambda,0,0.0,23
+94385,Ukraine,2020-07-06,Lambda,0,0.0,14
+94409,Ukraine,2020-07-20,Lambda,0,0.0,3
+94433,Ukraine,2020-08-03,Lambda,0,0.0,3
+94457,Ukraine,2020-08-17,Lambda,0,0.0,10
+94481,Ukraine,2020-09-28,Lambda,0,0.0,2
+94505,Ukraine,2020-10-12,Lambda,0,0.0,3
+94529,Ukraine,2020-10-26,Lambda,0,0.0,2
+94553,Ukraine,2020-11-23,Lambda,0,0.0,1
+94577,Ukraine,2020-12-07,Lambda,0,0.0,1
+94601,Ukraine,2021-01-04,Lambda,0,0.0,45
+94625,Ukraine,2021-01-11,Lambda,0,0.0,27
+94649,Ukraine,2021-01-25,Lambda,0,0.0,25
+94673,Ukraine,2021-02-22,Lambda,0,0.0,6
+94697,Ukraine,2021-03-08,Lambda,0,0.0,26
+94721,Ukraine,2021-03-22,Lambda,0,0.0,36
+94745,Ukraine,2021-04-05,Lambda,0,0.0,2
+94769,Ukraine,2021-05-17,Lambda,0,0.0,4
+94793,Ukraine,2021-05-31,Lambda,0,0.0,21
+94817,Ukraine,2021-06-14,Lambda,0,0.0,3
+94841,Ukraine,2021-06-28,Lambda,0,0.0,43
+94865,Ukraine,2021-07-12,Lambda,0,0.0,33
+94889,Ukraine,2021-07-26,Lambda,0,0.0,32
+94913,Ukraine,2021-09-06,Lambda,0,0.0,10
+94937,Ukraine,2021-09-20,Lambda,0,0.0,41
+94961,Ukraine,2021-10-04,Lambda,0,0.0,12
+94985,Ukraine,2021-10-18,Lambda,0,0.0,2
+95009,Ukraine,2021-11-01,Lambda,0,0.0,106
+95033,Ukraine,2021-11-15,Lambda,0,0.0,10
+95057,Ukraine,2021-11-29,Lambda,0,0.0,48
+95081,Ukraine,2021-12-13,Lambda,0,0.0,8
+95105,Ukraine,2021-12-27,Lambda,0,0.0,1
+95129,United Arab Emirates,2020-05-11,Lambda,0,0.0,133
+95153,United Arab Emirates,2020-05-25,Lambda,0,0.0,891
+95177,United Arab Emirates,2020-06-08,Lambda,0,0.0,18
+95201,United Arab Emirates,2020-06-22,Lambda,0,0.0,106
+95225,United Arab Emirates,2020-07-06,Lambda,0,0.0,151
+95249,United Arab Emirates,2020-07-20,Lambda,0,0.0,4
+95273,United Arab Emirates,2020-08-17,Lambda,0,0.0,6
+95297,United Arab Emirates,2020-08-31,Lambda,0,0.0,65
+95321,United Arab Emirates,2020-09-14,Lambda,0,0.0,24
+95345,United Arab Emirates,2020-09-28,Lambda,0,0.0,39
+95369,United Arab Emirates,2020-10-12,Lambda,0,0.0,69
+95393,United Arab Emirates,2020-10-26,Lambda,0,0.0,56
+95417,United Arab Emirates,2020-11-09,Lambda,0,0.0,21
+95441,United Arab Emirates,2020-11-23,Lambda,0,0.0,67
+95465,United Arab Emirates,2020-12-07,Lambda,0,0.0,57
+95489,United Arab Emirates,2020-12-21,Lambda,0,0.0,40
+95513,United Arab Emirates,2021-01-04,Lambda,0,0.0,155
+95537,United Arab Emirates,2021-01-11,Lambda,0,0.0,80
+95561,United Arab Emirates,2021-01-25,Lambda,0,0.0,143
+95585,United Arab Emirates,2021-02-08,Lambda,0,0.0,324
+95609,United Arab Emirates,2021-02-22,Lambda,0,0.0,14
+95633,United Arab Emirates,2021-05-03,Lambda,0,0.0,5
+95657,United Arab Emirates,2021-06-14,Lambda,0,0.0,2
+95681,United Arab Emirates,2021-06-28,Lambda,0,0.0,20
+95705,United Kingdom,2020-05-11,Lambda,0,0.0,4753
+95729,United Kingdom,2020-05-25,Lambda,0,0.0,2767
+95753,United Kingdom,2020-06-08,Lambda,0,0.0,1761
+95777,United Kingdom,2020-06-22,Lambda,0,0.0,4716
+95801,United Kingdom,2020-07-06,Lambda,0,0.0,2286
+95825,United Kingdom,2020-07-20,Lambda,0,0.0,1088
+95849,United Kingdom,2020-08-03,Lambda,0,0.0,1190
+95873,United Kingdom,2020-08-17,Lambda,0,0.0,2357
+95897,United Kingdom,2020-08-31,Lambda,0,0.0,4144
+95921,United Kingdom,2020-09-14,Lambda,0,0.0,5667
+95945,United Kingdom,2020-09-28,Lambda,0,0.0,9722
+95969,United Kingdom,2020-10-12,Lambda,0,0.0,11598
+95993,United Kingdom,2020-10-26,Lambda,0,0.0,16191
+96017,United Kingdom,2020-11-09,Lambda,0,0.0,17930
+96041,United Kingdom,2020-11-23,Lambda,0,0.0,18024
+96065,United Kingdom,2020-12-07,Lambda,0,0.0,8465
+96089,United Kingdom,2020-12-21,Lambda,0,0.0,21638
+96113,United Kingdom,2021-01-04,Lambda,0,0.0,18777
+96137,United Kingdom,2021-01-11,Lambda,0,0.0,12673
+96161,United Kingdom,2021-01-25,Lambda,0,0.0,30847
+96185,United Kingdom,2021-02-08,Lambda,0,0.0,33472
+96209,United Kingdom,2021-02-22,Lambda,0,0.0,32917
+96233,United Kingdom,2021-03-08,Lambda,2,0.01,30391
+96257,United Kingdom,2021-03-22,Lambda,0,0.0,35371
+96281,United Kingdom,2021-04-05,Lambda,1,0.0,29673
+96305,United Kingdom,2021-04-19,Lambda,0,0.0,15908
+96329,United Kingdom,2021-05-03,Lambda,0,0.0,14275
+96353,United Kingdom,2021-05-17,Lambda,2,0.01,14374
+96377,United Kingdom,2021-05-31,Lambda,0,0.0,23824
+96401,United Kingdom,2021-06-14,Lambda,1,0.0,37317
+96425,United Kingdom,2021-06-28,Lambda,1,0.0,43442
+96449,United Kingdom,2021-07-12,Lambda,1,0.0,56140
+96473,United Kingdom,2021-07-26,Lambda,0,0.0,57203
+96497,United Kingdom,2021-08-09,Lambda,0,0.0,64528
+96521,United Kingdom,2021-08-23,Lambda,0,0.0,63959
+96545,United Kingdom,2021-09-06,Lambda,0,0.0,77119
+96569,United Kingdom,2021-09-20,Lambda,0,0.0,77089
+96593,United Kingdom,2021-10-04,Lambda,0,0.0,75474
+96617,United Kingdom,2021-10-18,Lambda,0,0.0,76720
+96641,United Kingdom,2021-11-01,Lambda,1,0.0,86068
+96665,United Kingdom,2021-11-15,Lambda,0,0.0,96946
+96689,United Kingdom,2021-11-29,Lambda,0,0.0,112772
+96713,United Kingdom,2021-12-13,Lambda,0,0.0,127342
+96737,United Kingdom,2021-12-27,Lambda,0,0.0,80002
+96761,United Kingdom,2022-01-05,Lambda,0,0.0,562
+96785,United States,2020-05-11,Lambda,0,0.0,5804
+96809,United States,2020-05-25,Lambda,0,0.0,4736
+96833,United States,2020-06-08,Lambda,0,0.0,4035
+96857,United States,2020-06-22,Lambda,0,0.0,6070
+96881,United States,2020-07-06,Lambda,0,0.0,8371
+96905,United States,2020-07-20,Lambda,0,0.0,10122
+96929,United States,2020-08-03,Lambda,0,0.0,7801
+96953,United States,2020-08-17,Lambda,0,0.0,5992
+96977,United States,2020-08-31,Lambda,0,0.0,4888
+97001,United States,2020-09-14,Lambda,0,0.0,4362
+97025,United States,2020-09-28,Lambda,0,0.0,5077
+97049,United States,2020-10-12,Lambda,0,0.0,5764
+97073,United States,2020-10-26,Lambda,0,0.0,7535
+97097,United States,2020-11-09,Lambda,0,0.0,12540
+97121,United States,2020-11-23,Lambda,0,0.0,13561
+97145,United States,2020-12-07,Lambda,0,0.0,13266
+97169,United States,2020-12-21,Lambda,0,0.0,19936
+97193,United States,2021-01-04,Lambda,0,0.0,21204
+97217,United States,2021-01-11,Lambda,0,0.0,18451
+97241,United States,2021-01-25,Lambda,1,0.0,38293
+97265,United States,2021-02-08,Lambda,8,0.02,34853
+97289,United States,2021-02-22,Lambda,13,0.04,35919
+97313,United States,2021-03-08,Lambda,20,0.05,39935
+97337,United States,2021-03-22,Lambda,59,0.11,52615
+97361,United States,2021-04-05,Lambda,93,0.13,68922
+97385,United States,2021-04-19,Lambda,151,0.19,80542
+97409,United States,2021-05-03,Lambda,188,0.27,68541
+97433,United States,2021-05-17,Lambda,148,0.29,51424
+97457,United States,2021-05-31,Lambda,111,0.38,28913
+97481,United States,2021-06-14,Lambda,72,0.35,20283
+97505,United States,2021-06-28,Lambda,89,0.4,22291
+97529,United States,2021-07-12,Lambda,93,0.25,37254
+97553,United States,2021-07-26,Lambda,93,0.12,79713
+97577,United States,2021-08-09,Lambda,73,0.05,146170
+97601,United States,2021-08-23,Lambda,33,0.03,130754
+97625,United States,2021-09-06,Lambda,7,0.01,137159
+97649,United States,2021-09-20,Lambda,1,0.0,134718
+97673,United States,2021-10-04,Lambda,0,0.0,111660
+97697,United States,2021-10-18,Lambda,0,0.0,107920
+97721,United States,2021-11-01,Lambda,0,0.0,104883
+97745,United States,2021-11-15,Lambda,0,0.0,117419
+97769,United States,2021-11-29,Lambda,0,0.0,100281
+97793,United States,2021-12-13,Lambda,1,0.0,102430
+97817,United States,2021-12-27,Lambda,0,0.0,49235
+97841,United States,2022-01-05,Lambda,0,0.0,35
+97865,Uruguay,2020-05-11,Lambda,0,0.0,3
+97889,Uruguay,2020-05-25,Lambda,0,0.0,14
+97913,Uruguay,2020-06-08,Lambda,0,0.0,11
+97937,Uruguay,2020-06-22,Lambda,0,0.0,15
+97961,Uruguay,2020-07-06,Lambda,0,0.0,13
+97985,Uruguay,2020-07-20,Lambda,0,0.0,12
+98009,Uruguay,2020-08-03,Lambda,0,0.0,7
+98033,Uruguay,2020-08-17,Lambda,0,0.0,1
+98057,Uruguay,2020-09-28,Lambda,0,0.0,6
+98081,Uruguay,2020-10-12,Lambda,0,0.0,2
+98105,Uruguay,2020-11-09,Lambda,0,0.0,3
+98129,Uruguay,2020-11-23,Lambda,0,0.0,2
+98153,Uruguay,2020-12-07,Lambda,0,0.0,8
+98177,Uruguay,2020-12-21,Lambda,0,0.0,13
+98201,Uruguay,2021-01-04,Lambda,0,0.0,11
+98225,Uruguay,2021-01-11,Lambda,0,0.0,15
+98249,Uruguay,2021-01-25,Lambda,0,0.0,50
+98273,Uruguay,2021-02-08,Lambda,0,0.0,60
+98297,Uruguay,2021-02-22,Lambda,0,0.0,53
+98321,Uruguay,2021-03-08,Lambda,0,0.0,101
+98345,Uruguay,2021-03-22,Lambda,0,0.0,57
+98369,Uruguay,2021-04-05,Lambda,0,0.0,70
+98393,Uruguay,2021-04-19,Lambda,1,0.75,134
+98417,Uruguay,2021-05-03,Lambda,0,0.0,21
+98441,Vietnam,2021-01-04,Lambda,0,0.0,1
+98465,Vietnam,2021-01-11,Lambda,0,0.0,1
+98489,Vietnam,2021-02-08,Lambda,0,0.0,2
+98513,Vietnam,2021-02-22,Lambda,0,0.0,4
+98537,Vietnam,2021-05-03,Lambda,0,0.0,15
+98561,Vietnam,2021-05-17,Lambda,0,0.0,58
+98585,Vietnam,2021-05-31,Lambda,0,0.0,26
+98609,Vietnam,2021-06-14,Lambda,0,0.0,14
+98633,Vietnam,2021-06-28,Lambda,0,0.0,6
+98657,Vietnam,2021-07-26,Lambda,0,0.0,67
+98681,Vietnam,2021-08-09,Lambda,0,0.0,106
+98705,Vietnam,2021-08-23,Lambda,0,0.0,139
+98729,Vietnam,2021-09-06,Lambda,0,0.0,862
+98753,Vietnam,2021-09-20,Lambda,0,0.0,63
+98777,Vietnam,2021-10-04,Lambda,0,0.0,88
+98801,Vietnam,2021-10-18,Lambda,0,0.0,58
+98825,Vietnam,2021-11-01,Lambda,0,0.0,82
+98849,Vietnam,2021-11-15,Lambda,0,0.0,69
+98873,Vietnam,2021-11-29,Lambda,0,0.0,59
+98897,Vietnam,2021-12-13,Lambda,0,0.0,35
+98921,Vietnam,2021-12-27,Lambda,0,0.0,50
+98945,Zambia,2020-05-11,Lambda,0,0.0,4
+98969,Zambia,2020-06-08,Lambda,0,0.0,21
+98993,Zambia,2020-06-22,Lambda,0,0.0,25
+99017,Zambia,2020-07-06,Lambda,0,0.0,29
+99041,Zambia,2020-07-20,Lambda,0,0.0,62
+99065,Zambia,2020-08-03,Lambda,0,0.0,184
+99089,Zambia,2020-08-17,Lambda,0,0.0,63
+99113,Zambia,2020-08-31,Lambda,0,0.0,35
+99137,Zambia,2020-09-14,Lambda,0,0.0,2
+99161,Zambia,2020-10-12,Lambda,0,0.0,4
+99185,Zambia,2020-10-26,Lambda,0,0.0,1
+99209,Zambia,2020-12-07,Lambda,0,0.0,4
+99233,Zambia,2020-12-21,Lambda,0,0.0,10
+99257,Zambia,2021-01-04,Lambda,0,0.0,20
+99281,Zambia,2021-01-11,Lambda,0,0.0,26
+99305,Zambia,2021-01-25,Lambda,0,0.0,38
+99329,Zambia,2021-02-08,Lambda,0,0.0,49
+99353,Zambia,2021-02-22,Lambda,0,0.0,76
+99377,Zambia,2021-03-08,Lambda,0,0.0,8
+99401,Zambia,2021-03-22,Lambda,0,0.0,5
+99425,Zambia,2021-04-05,Lambda,0,0.0,9
+99449,Zambia,2021-04-19,Lambda,0,0.0,2
+99473,Zambia,2021-05-03,Lambda,0,0.0,18
+99497,Zambia,2021-05-31,Lambda,0,0.0,87
+99521,Zambia,2021-06-14,Lambda,0,0.0,94
+99545,Zambia,2021-06-28,Lambda,0,0.0,22
+99569,Zambia,2021-07-12,Lambda,0,0.0,70
+99593,Zambia,2021-07-26,Lambda,0,0.0,41
+99617,Zambia,2021-08-09,Lambda,0,0.0,17
+99641,Zambia,2021-08-23,Lambda,0,0.0,7
+99665,Zambia,2021-09-06,Lambda,0,0.0,37
+99689,Zambia,2021-09-20,Lambda,0,0.0,1
+99713,Zambia,2021-12-13,Lambda,0,0.0,39
+99737,Zambia,2021-12-27,Lambda,0,0.0,7
+99761,Zimbabwe,2020-05-11,Lambda,0,0.0,35
+99785,Zimbabwe,2020-06-08,Lambda,0,0.0,41
+99809,Zimbabwe,2020-08-03,Lambda,0,0.0,24
+99833,Zimbabwe,2020-08-17,Lambda,0,0.0,5
+99857,Zimbabwe,2020-08-31,Lambda,0,0.0,7
+99881,Zimbabwe,2020-09-14,Lambda,0,0.0,8
+99905,Zimbabwe,2020-10-12,Lambda,0,0.0,5
+99929,Zimbabwe,2020-10-26,Lambda,0,0.0,4
+99953,Zimbabwe,2020-11-09,Lambda,0,0.0,1
+99977,Zimbabwe,2020-11-23,Lambda,0,0.0,1
+100001,Zimbabwe,2020-12-07,Lambda,0,0.0,1
+100025,Zimbabwe,2020-12-21,Lambda,0,0.0,28
+100049,Zimbabwe,2021-01-04,Lambda,0,0.0,160
+100073,Zimbabwe,2021-01-11,Lambda,0,0.0,114
+100097,Zimbabwe,2021-01-25,Lambda,0,0.0,57
+100121,Zimbabwe,2021-02-08,Lambda,0,0.0,37
+100145,Zimbabwe,2021-02-22,Lambda,0,0.0,1
+100169,Zimbabwe,2021-03-08,Lambda,0,0.0,8
+100193,Zimbabwe,2021-06-28,Lambda,0,0.0,3
+100217,Zimbabwe,2021-07-12,Lambda,0,0.0,42
+100241,Zimbabwe,2021-07-26,Lambda,0,0.0,35
+100265,Zimbabwe,2021-08-09,Lambda,0,0.0,18
+100289,Zimbabwe,2021-08-23,Lambda,0,0.0,18
+100313,Zimbabwe,2021-09-06,Lambda,0,0.0,14
+100337,Zimbabwe,2021-09-20,Lambda,0,0.0,6
+100361,Zimbabwe,2021-10-04,Lambda,0,0.0,2
+100385,Zimbabwe,2021-10-18,Lambda,0,0.0,5
+100409,Zimbabwe,2021-11-01,Lambda,0,0.0,6

@@ -1,0 +1,4185 @@
+,location,date,variant,num_sequences,perc_sequences,num_sequences_total
+11,Angola,2020-07-06,Delta,0,0.0,3
+35,Angola,2020-08-31,Delta,0,0.0,1
+59,Angola,2020-09-28,Delta,0,0.0,10
+83,Angola,2020-10-12,Delta,0,0.0,29
+107,Angola,2020-10-26,Delta,0,0.0,7
+131,Angola,2020-12-07,Delta,0,0.0,6
+155,Angola,2020-12-21,Delta,0,0.0,93
+179,Angola,2021-01-04,Delta,0,0.0,5
+203,Angola,2021-01-11,Delta,0,0.0,16
+227,Angola,2021-01-25,Delta,0,0.0,52
+251,Angola,2021-02-08,Delta,0,0.0,42
+275,Angola,2021-02-22,Delta,0,0.0,39
+299,Angola,2021-03-08,Delta,0,0.0,113
+323,Angola,2021-03-22,Delta,0,0.0,121
+347,Angola,2021-04-05,Delta,0,0.0,137
+371,Angola,2021-04-19,Delta,2,2.41,83
+395,Angola,2021-05-03,Delta,1,2.94,34
+419,Angola,2021-05-17,Delta,4,80.0,5
+443,Angola,2021-05-31,Delta,0,0.0,7
+467,Angola,2021-06-14,Delta,0,0.0,22
+491,Angola,2021-06-28,Delta,10,16.95,59
+515,Angola,2021-07-12,Delta,23,50.0,46
+539,Angola,2021-07-26,Delta,6,60.0,10
+563,Angola,2021-08-09,Delta,3,75.0,4
+587,Angola,2021-08-23,Delta,1,100.0,1
+611,Angola,2021-09-06,Delta,20,100.0,20
+635,Angola,2021-09-20,Delta,57,100.0,57
+659,Angola,2021-10-04,Delta,33,100.0,33
+683,Argentina,2020-05-11,Delta,0,0.0,151
+707,Argentina,2020-05-25,Delta,0,0.0,167
+731,Argentina,2020-06-08,Delta,0,0.0,67
+755,Argentina,2020-06-22,Delta,0,0.0,79
+779,Argentina,2020-07-06,Delta,0,0.0,63
+803,Argentina,2020-07-20,Delta,0,0.0,113
+827,Argentina,2020-08-03,Delta,0,0.0,103
+851,Argentina,2020-08-17,Delta,0,0.0,113
+875,Argentina,2020-08-31,Delta,0,0.0,138
+899,Argentina,2020-09-14,Delta,0,0.0,50
+923,Argentina,2020-09-28,Delta,0,0.0,56
+947,Argentina,2020-10-12,Delta,0,0.0,39
+971,Argentina,2020-10-26,Delta,0,0.0,102
+995,Argentina,2020-11-09,Delta,0,0.0,58
+1019,Argentina,2020-11-23,Delta,1,1.59,63
+1043,Argentina,2020-12-07,Delta,0,0.0,49
+1067,Argentina,2020-12-21,Delta,0,0.0,71
+1091,Argentina,2021-01-04,Delta,0,0.0,49
+1115,Argentina,2021-01-11,Delta,0,0.0,33
+1139,Argentina,2021-01-25,Delta,0,0.0,62
+1163,Argentina,2021-02-08,Delta,0,0.0,69
+1187,Argentina,2021-02-22,Delta,0,0.0,57
+1211,Argentina,2021-03-08,Delta,1,1.54,65
+1235,Argentina,2021-03-22,Delta,0,0.0,177
+1259,Argentina,2021-04-05,Delta,0,0.0,196
+1283,Argentina,2021-04-19,Delta,0,0.0,298
+1307,Argentina,2021-05-03,Delta,1,0.3,337
+1331,Argentina,2021-05-17,Delta,0,0.0,338
+1355,Argentina,2021-05-31,Delta,0,0.0,301
+1379,Argentina,2021-06-14,Delta,1,0.25,407
+1403,Argentina,2021-06-28,Delta,2,0.53,380
+1427,Argentina,2021-07-12,Delta,19,5.34,356
+1451,Argentina,2021-07-26,Delta,44,13.1,336
+1475,Argentina,2021-08-09,Delta,86,17.92,480
+1499,Argentina,2021-08-23,Delta,85,19.02,447
+1523,Argentina,2021-09-06,Delta,90,20.13,447
+1547,Argentina,2021-09-20,Delta,127,40.58,313
+1571,Argentina,2021-10-04,Delta,113,47.68,237
+1595,Argentina,2021-10-18,Delta,171,47.37,361
+1619,Argentina,2021-11-01,Delta,417,75.41,553
+1643,Argentina,2021-11-15,Delta,270,81.33,332
+1667,Argentina,2021-11-29,Delta,105,89.74,117
+1691,Argentina,2021-12-13,Delta,70,80.46,87
+1715,Argentina,2021-12-27,Delta,12,12.77,94
+1739,Aruba,2020-08-17,Delta,0,0.0,4
+1763,Aruba,2020-08-31,Delta,0,0.0,1
+1787,Aruba,2021-01-25,Delta,0,0.0,26
+1811,Aruba,2021-02-08,Delta,0,0.0,114
+1835,Aruba,2021-02-22,Delta,0,0.0,154
+1859,Aruba,2021-03-08,Delta,0,0.0,125
+1883,Aruba,2021-03-22,Delta,0,0.0,99
+1907,Aruba,2021-04-05,Delta,0,0.0,92
+1931,Aruba,2021-04-19,Delta,14,9.66,145
+1955,Aruba,2021-05-03,Delta,2,1.43,140
+1979,Aruba,2021-05-17,Delta,10,9.9,101
+2003,Aruba,2021-05-31,Delta,0,0.0,107
+2027,Aruba,2021-06-14,Delta,4,4.49,89
+2051,Aruba,2021-06-28,Delta,0,0.0,24
+2075,Aruba,2021-07-12,Delta,13,44.83,29
+2099,Aruba,2021-07-26,Delta,84,86.6,97
+2123,Aruba,2021-08-09,Delta,335,98.24,341
+2147,Aruba,2021-08-23,Delta,518,98.67,525
+2171,Aruba,2021-09-06,Delta,258,98.85,261
+2195,Aruba,2021-09-20,Delta,140,100.0,140
+2219,Aruba,2021-10-04,Delta,177,100.0,177
+2243,Aruba,2021-10-18,Delta,37,100.0,37
+2267,Aruba,2021-11-15,Delta,68,100.0,68
+2291,Aruba,2021-11-29,Delta,43,100.0,43
+2315,Aruba,2021-12-13,Delta,61,100.0,61
+2339,Australia,2020-05-11,Delta,0,0.0,148
+2363,Australia,2020-05-25,Delta,0,0.0,103
+2387,Australia,2020-06-08,Delta,0,0.0,94
+2411,Australia,2020-06-22,Delta,0,0.0,172
+2435,Australia,2020-07-06,Delta,0,0.0,814
+2459,Australia,2020-07-20,Delta,0,0.0,2733
+2483,Australia,2020-08-03,Delta,0,0.0,4183
+2507,Australia,2020-08-17,Delta,0,0.0,3020
+2531,Australia,2020-08-31,Delta,0,0.0,1987
+2555,Australia,2020-09-14,Delta,0,0.0,770
+2579,Australia,2020-09-28,Delta,0,0.0,323
+2603,Australia,2020-10-12,Delta,0,0.0,182
+2627,Australia,2020-10-26,Delta,0,0.0,132
+2651,Australia,2020-11-09,Delta,0,0.0,63
+2675,Australia,2020-11-23,Delta,0,0.0,64
+2699,Australia,2020-12-07,Delta,0,0.0,49
+2723,Australia,2020-12-21,Delta,0,0.0,142
+2747,Australia,2021-01-04,Delta,0,0.0,208
+2771,Australia,2021-01-11,Delta,0,0.0,74
+2795,Australia,2021-01-25,Delta,0,0.0,100
+2819,Australia,2021-02-08,Delta,0,0.0,53
+2843,Australia,2021-02-22,Delta,0,0.0,80
+2867,Australia,2021-03-08,Delta,0,0.0,71
+2891,Australia,2021-03-22,Delta,1,0.82,122
+2915,Australia,2021-04-05,Delta,3,2.44,123
+2939,Australia,2021-04-19,Delta,34,21.66,157
+2963,Australia,2021-05-03,Delta,84,41.18,204
+2987,Australia,2021-05-17,Delta,45,38.46,117
+3011,Australia,2021-05-31,Delta,19,17.59,108
+3035,Australia,2021-06-14,Delta,55,41.67,132
+3059,Australia,2021-06-28,Delta,209,84.62,247
+3083,Australia,2021-07-12,Delta,732,95.44,767
+3107,Australia,2021-07-26,Delta,1736,99.66,1742
+3131,Australia,2021-08-09,Delta,2731,99.89,2734
+3155,Australia,2021-08-23,Delta,3195,99.91,3198
+3179,Australia,2021-09-06,Delta,3742,99.95,3744
+3203,Australia,2021-09-20,Delta,3526,100.0,3526
+3227,Australia,2021-10-04,Delta,1823,99.95,1824
+3251,Australia,2021-10-18,Delta,2410,100.0,2410
+3275,Australia,2021-11-01,Delta,1883,100.0,1883
+3299,Australia,2021-11-15,Delta,2078,100.0,2078
+3323,Australia,2021-11-29,Delta,1984,99.6,1992
+3347,Australia,2021-12-13,Delta,2432,86.86,2800
+3371,Australia,2021-12-27,Delta,406,23.52,1726
+3395,Austria,2020-05-11,Delta,0,0.0,34
+3419,Austria,2020-05-25,Delta,0,0.0,41
+3443,Austria,2020-06-08,Delta,0,0.0,1
+3467,Austria,2020-06-22,Delta,0,0.0,1
+3491,Austria,2020-07-06,Delta,0,0.0,2
+3515,Austria,2020-07-20,Delta,0,0.0,11
+3539,Austria,2020-08-03,Delta,0,0.0,9
+3563,Austria,2020-08-17,Delta,0,0.0,22
+3587,Austria,2020-08-31,Delta,0,0.0,44
+3611,Austria,2020-09-14,Delta,0,0.0,35
+3635,Austria,2020-09-28,Delta,0,0.0,39
+3659,Austria,2020-10-12,Delta,0,0.0,30
+3683,Austria,2020-10-26,Delta,0,0.0,84
+3707,Austria,2020-11-09,Delta,0,0.0,181
+3731,Austria,2020-11-23,Delta,0,0.0,159
+3755,Austria,2020-12-07,Delta,0,0.0,137
+3779,Austria,2020-12-21,Delta,0,0.0,45
+3803,Austria,2021-01-04,Delta,0,0.0,315
+3827,Austria,2021-01-11,Delta,0,0.0,136
+3851,Austria,2021-01-25,Delta,0,0.0,250
+3875,Austria,2021-02-08,Delta,0,0.0,385
+3899,Austria,2021-02-22,Delta,0,0.0,415
+3923,Austria,2021-03-08,Delta,0,0.0,464
+3947,Austria,2021-03-22,Delta,0,0.0,567
+3971,Austria,2021-04-05,Delta,0,0.0,291
+3995,Austria,2021-04-19,Delta,2,0.57,353
+4019,Austria,2021-05-03,Delta,5,1.52,329
+4043,Austria,2021-05-17,Delta,3,0.48,619
+4067,Austria,2021-05-31,Delta,11,2.83,389
+4091,Austria,2021-06-14,Delta,171,42.96,398
+4115,Austria,2021-06-28,Delta,443,59.07,750
+4139,Austria,2021-07-12,Delta,446,88.32,505
+4163,Austria,2021-07-26,Delta,763,98.96,771
+4187,Austria,2021-08-09,Delta,616,98.88,623
+4211,Austria,2021-08-23,Delta,621,99.68,623
+4235,Austria,2021-09-06,Delta,583,99.66,585
+4259,Austria,2021-09-20,Delta,513,100.0,513
+4283,Austria,2021-10-04,Delta,444,100.0,444
+4307,Austria,2021-10-18,Delta,437,100.0,437
+4331,Austria,2021-11-01,Delta,634,100.0,634
+4355,Austria,2021-11-15,Delta,561,100.0,561
+4379,Austria,2021-11-29,Delta,158,95.76,165
+4403,Austria,2021-12-13,Delta,156,85.25,183
+4427,Bahrain,2020-06-08,Delta,0,0.0,1
+4451,Bahrain,2020-06-22,Delta,0,0.0,2
+4475,Bahrain,2020-07-06,Delta,0,0.0,11
+4499,Bahrain,2020-08-03,Delta,0,0.0,3
+4523,Bahrain,2020-08-31,Delta,0,0.0,3
+4547,Bahrain,2020-09-14,Delta,0,0.0,2
+4571,Bahrain,2020-09-28,Delta,0,0.0,2
+4595,Bahrain,2020-10-12,Delta,0,0.0,10
+4619,Bahrain,2020-10-26,Delta,0,0.0,45
+4643,Bahrain,2020-11-09,Delta,0,0.0,6
+4667,Bahrain,2020-11-23,Delta,0,0.0,38
+4691,Bahrain,2021-02-08,Delta,0,0.0,1
+4715,Bahrain,2021-02-22,Delta,0,0.0,2
+4739,Bahrain,2021-03-22,Delta,0,0.0,7
+4763,Bahrain,2021-04-05,Delta,0,0.0,2
+4787,Bahrain,2021-04-19,Delta,15,35.71,42
+4811,Bahrain,2021-05-03,Delta,0,0.0,9
+4835,Bahrain,2021-05-17,Delta,29,50.88,57
+4859,Bahrain,2021-05-31,Delta,39,84.78,46
+4883,Bahrain,2021-06-14,Delta,18,75.0,24
+4907,Bahrain,2021-06-28,Delta,82,97.62,84
+4931,Bahrain,2021-07-12,Delta,65,94.2,69
+4955,Bahrain,2021-07-26,Delta,103,97.17,106
+4979,Bahrain,2021-08-09,Delta,46,95.83,48
+5003,Bahrain,2021-09-06,Delta,227,100.0,227
+5027,Bahrain,2021-10-04,Delta,186,100.0,186
+5051,Bahrain,2021-10-18,Delta,372,100.0,372
+5075,Bahrain,2021-11-01,Delta,467,100.0,467
+5099,Bahrain,2021-11-15,Delta,370,100.0,370
+5123,Bangladesh,2020-05-11,Delta,0,0.0,124
+5147,Bangladesh,2020-05-25,Delta,0,0.0,168
+5171,Bangladesh,2020-06-08,Delta,0,0.0,69
+5195,Bangladesh,2020-06-22,Delta,0,0.0,111
+5219,Bangladesh,2020-07-06,Delta,0,0.0,175
+5243,Bangladesh,2020-07-20,Delta,0,0.0,139
+5267,Bangladesh,2020-08-03,Delta,0,0.0,66
+5291,Bangladesh,2020-08-17,Delta,0,0.0,26
+5315,Bangladesh,2020-08-31,Delta,0,0.0,25
+5339,Bangladesh,2020-09-14,Delta,0,0.0,35
+5363,Bangladesh,2020-09-28,Delta,0,0.0,8
+5387,Bangladesh,2020-10-12,Delta,0,0.0,20
+5411,Bangladesh,2020-10-26,Delta,0,0.0,15
+5435,Bangladesh,2020-11-09,Delta,0,0.0,27
+5459,Bangladesh,2020-11-23,Delta,0,0.0,30
+5483,Bangladesh,2020-12-07,Delta,0,0.0,57
+5507,Bangladesh,2020-12-21,Delta,0,0.0,25
+5531,Bangladesh,2021-01-04,Delta,0,0.0,53
+5555,Bangladesh,2021-01-11,Delta,0,0.0,15
+5579,Bangladesh,2021-01-25,Delta,0,0.0,62
+5603,Bangladesh,2021-02-08,Delta,0,0.0,42
+5627,Bangladesh,2021-02-22,Delta,0,0.0,36
+5651,Bangladesh,2021-03-08,Delta,0,0.0,14
+5675,Bangladesh,2021-03-22,Delta,0,0.0,156
+5699,Bangladesh,2021-04-05,Delta,0,0.0,87
+5723,Bangladesh,2021-04-19,Delta,0,0.0,131
+5747,Bangladesh,2021-05-03,Delta,11,19.64,56
+5771,Bangladesh,2021-05-17,Delta,23,39.66,58
+5795,Bangladesh,2021-05-31,Delta,40,40.4,99
+5819,Bangladesh,2021-06-14,Delta,44,63.77,69
+5843,Bangladesh,2021-06-28,Delta,106,94.64,112
+5867,Bangladesh,2021-07-12,Delta,239,97.95,244
+5891,Bangladesh,2021-07-26,Delta,173,99.43,174
+5915,Bangladesh,2021-08-09,Delta,149,100.0,149
+5939,Bangladesh,2021-08-23,Delta,140,100.0,140
+5963,Bangladesh,2021-09-06,Delta,131,100.0,131
+5987,Bangladesh,2021-09-20,Delta,126,100.0,126
+6011,Bangladesh,2021-10-04,Delta,94,100.0,94
+6035,Bangladesh,2021-10-18,Delta,136,100.0,136
+6059,Bangladesh,2021-11-01,Delta,94,100.0,94
+6083,Bangladesh,2021-11-15,Delta,118,100.0,118
+6107,Bangladesh,2021-11-29,Delta,112,100.0,112
+6131,Bangladesh,2021-12-13,Delta,42,93.33,45
+6155,Bangladesh,2021-12-27,Delta,20,83.33,24
+6179,Bangladesh,2022-01-05,Delta,0,0.0,3
+6203,Belgium,2020-05-11,Delta,0,0.0,134
+6227,Belgium,2020-05-25,Delta,0,0.0,67
+6251,Belgium,2020-06-08,Delta,0,0.0,15
+6275,Belgium,2020-06-22,Delta,0,0.0,38
+6299,Belgium,2020-07-06,Delta,0,0.0,39
+6323,Belgium,2020-07-20,Delta,0,0.0,39
+6347,Belgium,2020-08-03,Delta,0,0.0,146
+6371,Belgium,2020-08-17,Delta,0,0.0,130
+6395,Belgium,2020-08-31,Delta,0,0.0,54
+6419,Belgium,2020-09-14,Delta,0,0.0,87
+6443,Belgium,2020-09-28,Delta,0,0.0,246
+6467,Belgium,2020-10-12,Delta,0,0.0,130
+6491,Belgium,2020-10-26,Delta,0,0.0,363
+6515,Belgium,2020-11-09,Delta,0,0.0,204
+6539,Belgium,2020-11-23,Delta,0,0.0,241
+6563,Belgium,2020-12-07,Delta,0,0.0,148
+6587,Belgium,2020-12-21,Delta,0,0.0,347
+6611,Belgium,2021-01-04,Delta,0,0.0,242
+6635,Belgium,2021-01-11,Delta,0,0.0,293
+6659,Belgium,2021-01-25,Delta,2,0.15,1378
+6683,Belgium,2021-02-08,Delta,0,0.0,1820
+6707,Belgium,2021-02-22,Delta,0,0.0,1808
+6731,Belgium,2021-03-08,Delta,0,0.0,2237
+6755,Belgium,2021-03-22,Delta,0,0.0,2935
+6779,Belgium,2021-04-05,Delta,0,0.0,3438
+6803,Belgium,2021-04-19,Delta,9,0.31,2911
+6827,Belgium,2021-05-03,Delta,98,2.94,3338
+6851,Belgium,2021-05-17,Delta,98,3.15,3108
+6875,Belgium,2021-05-31,Delta,189,6.4,2952
+6899,Belgium,2021-06-14,Delta,261,13.08,1995
+6923,Belgium,2021-06-28,Delta,480,40.64,1181
+6947,Belgium,2021-07-12,Delta,2090,79.17,2640
+6971,Belgium,2021-07-26,Delta,3682,92.98,3960
+6995,Belgium,2021-08-09,Delta,3945,98.48,4006
+7019,Belgium,2021-08-23,Delta,4515,99.58,4534
+7043,Belgium,2021-09-06,Delta,4481,99.69,4495
+7067,Belgium,2021-09-20,Delta,3110,99.9,3113
+7091,Belgium,2021-10-04,Delta,2922,99.86,2926
+7115,Belgium,2021-10-18,Delta,3313,99.94,3315
+7139,Belgium,2021-11-01,Delta,3525,99.86,3530
+7163,Belgium,2021-11-15,Delta,2728,99.96,2729
+7187,Belgium,2021-11-29,Delta,3069,99.77,3076
+7211,Belgium,2021-12-13,Delta,2797,90.61,3087
+7235,Belgium,2021-12-27,Delta,1025,68.65,1493
+7259,Belgium,2022-01-05,Delta,29,49.15,59
+7283,Belize,2020-08-17,Delta,0,0.0,4
+7307,Belize,2020-08-31,Delta,0,0.0,1
+7331,Belize,2020-09-28,Delta,0,0.0,2
+7355,Belize,2020-10-12,Delta,0,0.0,4
+7379,Belize,2020-10-26,Delta,0,0.0,6
+7403,Belize,2020-11-09,Delta,0,0.0,1
+7427,Belize,2020-12-21,Delta,0,0.0,7
+7451,Belize,2021-01-04,Delta,0,0.0,14
+7475,Belize,2021-01-11,Delta,0,0.0,7
+7499,Belize,2021-01-25,Delta,0,0.0,16
+7523,Belize,2021-02-08,Delta,0,0.0,26
+7547,Belize,2021-02-22,Delta,0,0.0,11
+7571,Belize,2021-03-08,Delta,1,33.33,3
+7595,Belize,2021-03-22,Delta,0,0.0,2
+7619,Belize,2021-04-19,Delta,2,66.67,3
+7643,Belize,2021-05-03,Delta,0,0.0,1
+7667,Belize,2021-05-17,Delta,7,46.67,15
+7691,Belize,2021-05-31,Delta,0,0.0,3
+7715,Belize,2021-06-14,Delta,0,0.0,1
+7739,Belize,2021-06-28,Delta,5,15.62,32
+7763,Belize,2021-07-12,Delta,8,44.44,18
+7787,Belize,2021-07-26,Delta,28,48.28,58
+7811,Belize,2021-08-09,Delta,33,52.38,63
+7835,Belize,2021-08-23,Delta,11,68.75,16
+7859,Benin,2021-02-08,Delta,0,0.0,109
+7883,Benin,2021-03-08,Delta,0,0.0,121
+7907,Benin,2021-04-05,Delta,0,0.0,176
+7931,Benin,2021-04-19,Delta,0,0.0,8
+7955,Benin,2021-05-03,Delta,0,0.0,25
+7979,Benin,2021-05-17,Delta,0,0.0,32
+8003,Benin,2021-05-31,Delta,1,3.7,27
+8027,Benin,2021-06-14,Delta,1,11.11,9
+8051,Benin,2021-06-28,Delta,5,35.71,14
+8075,Benin,2021-07-12,Delta,16,57.14,28
+8099,Benin,2021-07-26,Delta,26,72.22,36
+8123,Benin,2021-08-09,Delta,33,97.06,34
+8147,Benin,2021-08-23,Delta,69,93.24,74
+8171,Benin,2021-09-06,Delta,55,96.49,57
+8195,Bosnia and Herzegovina,2020-05-11,Delta,0,0.0,1
+8219,Bosnia and Herzegovina,2020-06-08,Delta,0,0.0,2
+8243,Bosnia and Herzegovina,2020-07-20,Delta,0,0.0,1
+8267,Bosnia and Herzegovina,2020-08-31,Delta,0,0.0,1
+8291,Bosnia and Herzegovina,2020-09-14,Delta,0,0.0,1
+8315,Bosnia and Herzegovina,2020-09-28,Delta,0,0.0,1
+8339,Bosnia and Herzegovina,2020-10-12,Delta,0,0.0,1
+8363,Bosnia and Herzegovina,2020-11-09,Delta,0,0.0,2
+8387,Bosnia and Herzegovina,2020-11-23,Delta,0,0.0,2
+8411,Bosnia and Herzegovina,2020-12-07,Delta,0,0.0,3
+8435,Bosnia and Herzegovina,2020-12-21,Delta,0,0.0,1
+8459,Bosnia and Herzegovina,2021-01-04,Delta,0,0.0,2
+8483,Bosnia and Herzegovina,2021-01-11,Delta,0,0.0,5
+8507,Bosnia and Herzegovina,2021-01-25,Delta,0,0.0,12
+8531,Bosnia and Herzegovina,2021-02-08,Delta,0,0.0,5
+8555,Bosnia and Herzegovina,2021-02-22,Delta,0,0.0,11
+8579,Bosnia and Herzegovina,2021-03-08,Delta,0,0.0,16
+8603,Bosnia and Herzegovina,2021-03-22,Delta,0,0.0,9
+8627,Bosnia and Herzegovina,2021-04-05,Delta,0,0.0,3
+8651,Bosnia and Herzegovina,2021-04-19,Delta,0,0.0,17
+8675,Bosnia and Herzegovina,2021-05-17,Delta,0,0.0,2
+8699,Bosnia and Herzegovina,2021-05-31,Delta,0,0.0,1
+8723,Bosnia and Herzegovina,2021-06-14,Delta,1,4.35,23
+8747,Bosnia and Herzegovina,2021-06-28,Delta,8,50.0,16
+8771,Bosnia and Herzegovina,2021-07-12,Delta,17,80.95,21
+8795,Bosnia and Herzegovina,2021-07-26,Delta,12,100.0,12
+8819,Bosnia and Herzegovina,2021-08-09,Delta,9,100.0,9
+8843,Bosnia and Herzegovina,2021-08-23,Delta,7,100.0,7
+8867,Bosnia and Herzegovina,2021-09-06,Delta,1,100.0,1
+8891,Bosnia and Herzegovina,2021-09-20,Delta,2,100.0,2
+8915,Bosnia and Herzegovina,2021-10-04,Delta,42,100.0,42
+8939,Bosnia and Herzegovina,2021-10-18,Delta,184,100.0,184
+8963,Bosnia and Herzegovina,2021-11-01,Delta,124,100.0,124
+8987,Bosnia and Herzegovina,2021-11-15,Delta,164,100.0,164
+9011,Bosnia and Herzegovina,2021-11-29,Delta,123,100.0,123
+9035,Bosnia and Herzegovina,2021-12-13,Delta,165,100.0,165
+9059,Botswana,2020-09-14,Delta,0,0.0,1
+9083,Botswana,2020-09-28,Delta,0,0.0,10
+9107,Botswana,2020-10-12,Delta,0,0.0,6
+9131,Botswana,2020-10-26,Delta,0,0.0,6
+9155,Botswana,2020-11-09,Delta,0,0.0,6
+9179,Botswana,2020-11-23,Delta,0,0.0,8
+9203,Botswana,2020-12-07,Delta,0,0.0,10
+9227,Botswana,2020-12-21,Delta,0,0.0,17
+9251,Botswana,2021-01-04,Delta,0,0.0,13
+9275,Botswana,2021-01-11,Delta,0,0.0,6
+9299,Botswana,2021-01-25,Delta,0,0.0,66
+9323,Botswana,2021-02-08,Delta,0,0.0,29
+9347,Botswana,2021-02-22,Delta,0,0.0,10
+9371,Botswana,2021-03-08,Delta,0,0.0,11
+9395,Botswana,2021-03-22,Delta,0,0.0,64
+9419,Botswana,2021-04-05,Delta,0,0.0,7
+9443,Botswana,2021-05-03,Delta,2,28.57,7
+9467,Botswana,2021-05-17,Delta,6,31.58,19
+9491,Botswana,2021-05-31,Delta,2,4.17,48
+9515,Botswana,2021-06-14,Delta,14,13.73,102
+9539,Botswana,2021-06-28,Delta,134,68.37,196
+9563,Botswana,2021-07-12,Delta,87,82.08,106
+9587,Botswana,2021-07-26,Delta,66,97.06,68
+9611,Botswana,2021-08-09,Delta,36,94.74,38
+9635,Botswana,2021-08-23,Delta,81,98.78,82
+9659,Botswana,2021-09-06,Delta,293,99.66,294
+9683,Botswana,2021-09-20,Delta,110,98.21,112
+9707,Botswana,2021-10-04,Delta,56,96.55,58
+9731,Botswana,2021-10-18,Delta,92,100.0,92
+9755,Botswana,2021-11-01,Delta,52,98.11,53
+9779,Botswana,2021-11-15,Delta,110,94.83,116
+9803,Botswana,2021-11-29,Delta,93,75.0,124
+9827,Botswana,2021-12-13,Delta,43,15.81,272
+9851,Botswana,2021-12-27,Delta,0,0.0,143
+9875,Brazil,2020-05-11,Delta,0,0.0,311
+9899,Brazil,2020-05-25,Delta,0,0.0,183
+9923,Brazil,2020-06-08,Delta,0,0.0,194
+9947,Brazil,2020-06-22,Delta,0,0.0,179
+9971,Brazil,2020-07-06,Delta,0,0.0,296
+9995,Brazil,2020-07-20,Delta,0,0.0,168
+10019,Brazil,2020-08-03,Delta,0,0.0,224
+10043,Brazil,2020-08-17,Delta,0,0.0,231
+10067,Brazil,2020-08-31,Delta,0,0.0,157
+10091,Brazil,2020-09-14,Delta,0,0.0,221
+10115,Brazil,2020-09-28,Delta,0,0.0,195
+10139,Brazil,2020-10-12,Delta,0,0.0,196
+10163,Brazil,2020-10-26,Delta,0,0.0,202
+10187,Brazil,2020-11-09,Delta,0,0.0,238
+10211,Brazil,2020-11-23,Delta,0,0.0,361
+10235,Brazil,2020-12-07,Delta,0,0.0,513
+10259,Brazil,2020-12-21,Delta,0,0.0,469
+10283,Brazil,2021-01-04,Delta,0,0.0,578
+10307,Brazil,2021-01-11,Delta,0,0.0,510
+10331,Brazil,2021-01-25,Delta,0,0.0,888
+10355,Brazil,2021-02-08,Delta,0,0.0,991
+10379,Brazil,2021-02-22,Delta,0,0.0,1270
+10403,Brazil,2021-03-08,Delta,0,0.0,1817
+10427,Brazil,2021-03-22,Delta,2,0.1,1929
+10451,Brazil,2021-04-05,Delta,1,0.04,2797
+10475,Brazil,2021-04-19,Delta,3,0.08,3791
+10499,Brazil,2021-05-03,Delta,6,0.16,3804
+10523,Brazil,2021-05-17,Delta,8,0.25,3247
+10547,Brazil,2021-05-31,Delta,4,0.1,4137
+10571,Brazil,2021-06-14,Delta,12,0.24,5088
+10595,Brazil,2021-06-28,Delta,47,1.05,4466
+10619,Brazil,2021-07-12,Delta,295,5.32,5548
+10643,Brazil,2021-07-26,Delta,584,10.85,5381
+10667,Brazil,2021-08-09,Delta,1507,28.89,5217
+10691,Brazil,2021-08-23,Delta,2701,65.4,4130
+10715,Brazil,2021-09-06,Delta,4574,83.64,5469
+10739,Brazil,2021-09-20,Delta,5165,90.6,5701
+10763,Brazil,2021-10-04,Delta,4355,95.25,4572
+10787,Brazil,2021-10-18,Delta,4383,98.52,4449
+10811,Brazil,2021-11-01,Delta,2982,98.94,3014
+10835,Brazil,2021-11-15,Delta,2742,99.46,2757
+10859,Brazil,2021-11-29,Delta,2526,99.18,2547
+10883,Brazil,2021-12-13,Delta,1290,96.85,1332
+10907,Brazil,2021-12-27,Delta,105,41.67,252
+10931,Brunei,2021-01-04,Delta,0,0.0,2
+10955,Brunei,2021-01-25,Delta,0,0.0,1
+10979,Brunei,2021-02-08,Delta,0,0.0,2
+11003,Brunei,2021-07-26,Delta,16,100.0,16
+11027,Brunei,2021-08-23,Delta,12,100.0,12
+11051,Brunei,2021-11-01,Delta,12,100.0,12
+11075,Brunei,2021-11-15,Delta,118,100.0,118
+11099,Brunei,2021-11-29,Delta,125,100.0,125
+11123,Brunei,2021-12-13,Delta,32,100.0,32
+11147,Brunei,2021-12-27,Delta,3,27.27,11
+11171,Bulgaria,2020-05-11,Delta,0,0.0,3
+11195,Bulgaria,2020-05-25,Delta,0,0.0,3
+11219,Bulgaria,2020-07-20,Delta,0,0.0,1
+11243,Bulgaria,2020-08-03,Delta,0,0.0,1
+11267,Bulgaria,2020-08-17,Delta,0,0.0,6
+11291,Bulgaria,2020-08-31,Delta,0,0.0,3
+11315,Bulgaria,2020-09-14,Delta,0,0.0,5
+11339,Bulgaria,2020-09-28,Delta,0,0.0,4
+11363,Bulgaria,2020-10-12,Delta,0,0.0,2
+11387,Bulgaria,2020-10-26,Delta,0,0.0,2
+11411,Bulgaria,2020-11-09,Delta,0,0.0,5
+11435,Bulgaria,2020-11-23,Delta,0,0.0,5
+11459,Bulgaria,2020-12-07,Delta,0,0.0,7
+11483,Bulgaria,2020-12-21,Delta,0,0.0,50
+11507,Bulgaria,2021-01-04,Delta,0,0.0,39
+11531,Bulgaria,2021-01-11,Delta,0,0.0,56
+11555,Bulgaria,2021-01-25,Delta,0,0.0,92
+11579,Bulgaria,2021-02-08,Delta,0,0.0,220
+11603,Bulgaria,2021-02-22,Delta,0,0.0,251
+11627,Bulgaria,2021-03-08,Delta,0,0.0,407
+11651,Bulgaria,2021-03-22,Delta,0,0.0,630
+11675,Bulgaria,2021-04-05,Delta,0,0.0,557
+11699,Bulgaria,2021-04-19,Delta,1,0.27,371
+11723,Bulgaria,2021-05-03,Delta,0,0.0,253
+11747,Bulgaria,2021-05-17,Delta,0,0.0,118
+11771,Bulgaria,2021-05-31,Delta,0,0.0,38
+11795,Bulgaria,2021-06-14,Delta,7,6.8,103
+11819,Bulgaria,2021-06-28,Delta,51,40.8,125
+11843,Bulgaria,2021-07-12,Delta,108,61.36,176
+11867,Bulgaria,2021-07-26,Delta,228,95.4,239
+11891,Bulgaria,2021-08-09,Delta,485,98.18,494
+11915,Bulgaria,2021-08-23,Delta,793,99.37,798
+11939,Bulgaria,2021-09-06,Delta,859,99.54,863
+11963,Bulgaria,2021-09-20,Delta,739,100.0,739
+11987,Bulgaria,2021-10-04,Delta,880,99.89,881
+12011,Bulgaria,2021-10-18,Delta,996,100.0,996
+12035,Bulgaria,2021-11-01,Delta,1024,100.0,1024
+12059,Bulgaria,2021-11-15,Delta,547,100.0,547
+12083,Bulgaria,2021-11-29,Delta,120,100.0,120
+12107,Cambodia,2020-11-09,Delta,0,0.0,2
+12131,Cambodia,2020-11-23,Delta,0,0.0,4
+12155,Cambodia,2020-12-07,Delta,0,0.0,15
+12179,Cambodia,2020-12-21,Delta,0,0.0,1
+12203,Cambodia,2021-01-04,Delta,0,0.0,5
+12227,Cambodia,2021-01-25,Delta,0,0.0,2
+12251,Cambodia,2021-02-08,Delta,0,0.0,3
+12275,Cambodia,2021-02-22,Delta,0,0.0,12
+12299,Cambodia,2021-03-08,Delta,0,0.0,14
+12323,Cambodia,2021-03-22,Delta,0,0.0,13
+12347,Cambodia,2021-04-05,Delta,0,0.0,3
+12371,Cambodia,2021-04-19,Delta,0,0.0,39
+12395,Cambodia,2021-05-03,Delta,0,0.0,56
+12419,Cambodia,2021-05-17,Delta,0,0.0,52
+12443,Cambodia,2021-05-31,Delta,3,4.35,69
+12467,Cambodia,2021-06-14,Delta,12,15.79,76
+12491,Cambodia,2021-06-28,Delta,27,28.72,94
+12515,Cambodia,2021-07-12,Delta,32,39.51,81
+12539,Cambodia,2021-07-26,Delta,51,42.15,121
+12563,Cambodia,2021-08-09,Delta,44,50.57,87
+12587,Cambodia,2021-08-23,Delta,35,33.02,106
+12611,Cambodia,2021-09-06,Delta,40,41.67,96
+12635,Cambodia,2021-09-20,Delta,57,43.18,132
+12659,Cambodia,2021-10-04,Delta,68,63.55,107
+12683,Cambodia,2021-10-18,Delta,106,78.52,135
+12707,Cambodia,2021-11-01,Delta,129,95.56,135
+12731,Cambodia,2021-11-15,Delta,143,100.0,143
+12755,Cambodia,2021-11-29,Delta,149,100.0,149
+12779,Cambodia,2021-12-13,Delta,128,98.46,130
+12803,Cambodia,2021-12-27,Delta,77,80.21,96
+12827,Cameroon,2020-05-11,Delta,0,0.0,4
+12851,Cameroon,2020-05-25,Delta,0,0.0,8
+12875,Cameroon,2020-06-22,Delta,0,0.0,4
+12899,Cameroon,2020-08-17,Delta,0,0.0,2
+12923,Cameroon,2020-10-26,Delta,0,0.0,1
+12947,Cameroon,2020-11-09,Delta,0,0.0,4
+12971,Cameroon,2020-11-23,Delta,0,0.0,7
+12995,Cameroon,2020-12-07,Delta,0,0.0,2
+13019,Cameroon,2020-12-21,Delta,0,0.0,4
+13043,Cameroon,2021-01-04,Delta,0,0.0,23
+13067,Cameroon,2021-01-11,Delta,0,0.0,9
+13091,Cameroon,2021-01-25,Delta,0,0.0,23
+13115,Cameroon,2021-02-08,Delta,0,0.0,51
+13139,Cameroon,2021-02-22,Delta,0,0.0,19
+13163,Cameroon,2021-03-08,Delta,0,0.0,27
+13187,Cameroon,2021-03-22,Delta,0,0.0,5
+13211,Cameroon,2021-04-19,Delta,0,0.0,7
+13235,Cameroon,2021-08-09,Delta,2,66.67,3
+13259,Cameroon,2021-08-23,Delta,45,78.95,57
+13283,Cameroon,2021-09-06,Delta,108,93.1,116
+13307,Cameroon,2021-09-20,Delta,101,95.28,106
+13331,Cameroon,2021-10-04,Delta,50,92.59,54
+13355,Canada,2020-05-11,Delta,0,0.0,903
+13379,Canada,2020-05-25,Delta,0,0.0,597
+13403,Canada,2020-06-08,Delta,0,0.0,211
+13427,Canada,2020-06-22,Delta,0,0.0,203
+13451,Canada,2020-07-06,Delta,0,0.0,107
+13475,Canada,2020-07-20,Delta,0,0.0,204
+13499,Canada,2020-08-03,Delta,0,0.0,295
+13523,Canada,2020-08-17,Delta,0,0.0,586
+13547,Canada,2020-08-31,Delta,0,0.0,737
+13571,Canada,2020-09-14,Delta,0,0.0,728
+13595,Canada,2020-09-28,Delta,0,0.0,758
+13619,Canada,2020-10-12,Delta,0,0.0,1061
+13643,Canada,2020-10-26,Delta,0,0.0,1096
+13667,Canada,2020-11-09,Delta,0,0.0,1442
+13691,Canada,2020-11-23,Delta,0,0.0,1937
+13715,Canada,2020-12-07,Delta,0,0.0,2316
+13739,Canada,2020-12-21,Delta,0,0.0,2431
+13763,Canada,2021-01-04,Delta,1,0.04,2565
+13787,Canada,2021-01-11,Delta,0,0.0,2004
+13811,Canada,2021-01-25,Delta,0,0.0,4574
+13835,Canada,2021-02-08,Delta,0,0.0,3026
+13859,Canada,2021-02-22,Delta,0,0.0,3951
+13883,Canada,2021-03-08,Delta,1,0.02,4581
+13907,Canada,2021-03-22,Delta,1,0.01,7112
+13931,Canada,2021-04-05,Delta,3,0.03,9805
+13955,Canada,2021-04-19,Delta,61,0.57,10654
+13979,Canada,2021-05-03,Delta,191,1.74,11006
+14003,Canada,2021-05-17,Delta,475,5.53,8584
+14027,Canada,2021-05-31,Delta,593,10.07,5887
+14051,Canada,2021-06-14,Delta,662,15.71,4215
+14075,Canada,2021-06-28,Delta,1017,27.4,3712
+14099,Canada,2021-07-12,Delta,764,49.74,1536
+14123,Canada,2021-07-26,Delta,1910,77.83,2454
+14147,Canada,2021-08-09,Delta,6559,92.96,7056
+14171,Canada,2021-08-23,Delta,12758,97.53,13081
+14195,Canada,2021-09-06,Delta,13659,99.03,13793
+14219,Canada,2021-09-20,Delta,8865,99.52,8908
+14243,Canada,2021-10-04,Delta,7148,99.92,7154
+14267,Canada,2021-10-18,Delta,8006,99.88,8016
+14291,Canada,2021-11-01,Delta,6539,99.92,6544
+14315,Canada,2021-11-15,Delta,5624,99.95,5627
+14339,Canada,2021-11-29,Delta,5123,99.55,5146
+14363,Canada,2021-12-13,Delta,4645,89.0,5219
+14387,Canada,2021-12-27,Delta,38,60.32,63
+14411,Chile,2020-05-11,Delta,0,0.0,106
+14435,Chile,2020-05-25,Delta,0,0.0,84
+14459,Chile,2020-06-08,Delta,0,0.0,81
+14483,Chile,2020-06-22,Delta,0,0.0,8
+14507,Chile,2020-07-06,Delta,0,0.0,61
+14531,Chile,2020-07-20,Delta,0,0.0,35
+14555,Chile,2020-08-03,Delta,0,0.0,36
+14579,Chile,2020-08-17,Delta,0,0.0,25
+14603,Chile,2020-08-31,Delta,0,0.0,65
+14627,Chile,2020-09-14,Delta,0,0.0,54
+14651,Chile,2020-09-28,Delta,0,0.0,44
+14675,Chile,2020-10-12,Delta,0,0.0,66
+14699,Chile,2020-10-26,Delta,0,0.0,47
+14723,Chile,2020-11-09,Delta,0,0.0,10
+14747,Chile,2020-11-23,Delta,0,0.0,17
+14771,Chile,2020-12-07,Delta,0,0.0,8
+14795,Chile,2020-12-21,Delta,0,0.0,27
+14819,Chile,2021-01-04,Delta,1,1.27,79
+14843,Chile,2021-01-11,Delta,0,0.0,50
+14867,Chile,2021-01-25,Delta,0,0.0,59
+14891,Chile,2021-02-08,Delta,0,0.0,56
+14915,Chile,2021-02-22,Delta,0,0.0,97
+14939,Chile,2021-03-08,Delta,0,0.0,85
+14963,Chile,2021-03-22,Delta,0,0.0,140
+14987,Chile,2021-04-05,Delta,0,0.0,266
+15011,Chile,2021-04-19,Delta,0,0.0,359
+15035,Chile,2021-05-03,Delta,0,0.0,565
+15059,Chile,2021-05-17,Delta,0,0.0,625
+15083,Chile,2021-05-31,Delta,0,0.0,435
+15107,Chile,2021-06-14,Delta,1,0.16,626
+15131,Chile,2021-06-28,Delta,2,0.28,719
+15155,Chile,2021-07-12,Delta,18,2.08,866
+15179,Chile,2021-07-26,Delta,36,6.34,568
+15203,Chile,2021-08-09,Delta,76,9.63,789
+15227,Chile,2021-08-23,Delta,175,19.91,879
+15251,Chile,2021-09-06,Delta,404,36.69,1101
+15275,Chile,2021-09-20,Delta,855,69.91,1223
+15299,Chile,2021-10-04,Delta,1662,88.45,1879
+15323,Chile,2021-10-18,Delta,1291,94.58,1365
+15347,Chile,2021-11-01,Delta,1273,98.3,1295
+15371,Chile,2021-11-15,Delta,982,98.3,999
+15395,Chile,2021-11-29,Delta,566,98.78,573
+15419,Chile,2021-12-13,Delta,418,91.07,459
+15443,Chile,2021-12-27,Delta,241,47.82,504
+15467,Colombia,2020-05-11,Delta,0,0.0,81
+15491,Colombia,2020-05-25,Delta,0,0.0,2
+15515,Colombia,2020-06-08,Delta,0,0.0,8
+15539,Colombia,2020-06-22,Delta,0,0.0,14
+15563,Colombia,2020-07-06,Delta,0,0.0,29
+15587,Colombia,2020-07-20,Delta,0,0.0,28
+15611,Colombia,2020-08-03,Delta,0,0.0,8
+15635,Colombia,2020-08-17,Delta,0,0.0,20
+15659,Colombia,2020-08-31,Delta,0,0.0,5
+15683,Colombia,2020-09-14,Delta,0,0.0,14
+15707,Colombia,2020-09-28,Delta,0,0.0,5
+15731,Colombia,2020-10-12,Delta,0,0.0,20
+15755,Colombia,2020-10-26,Delta,0,0.0,8
+15779,Colombia,2020-11-09,Delta,0,0.0,6
+15803,Colombia,2020-11-23,Delta,0,0.0,12
+15827,Colombia,2020-12-07,Delta,0,0.0,18
+15851,Colombia,2020-12-21,Delta,1,3.12,32
+15875,Colombia,2021-01-04,Delta,1,1.15,87
+15899,Colombia,2021-01-11,Delta,0,0.0,48
+15923,Colombia,2021-01-25,Delta,0,0.0,83
+15947,Colombia,2021-02-08,Delta,0,0.0,30
+15971,Colombia,2021-02-22,Delta,1,4.17,24
+15995,Colombia,2021-03-08,Delta,0,0.0,73
+16019,Colombia,2021-03-22,Delta,0,0.0,79
+16043,Colombia,2021-04-05,Delta,0,0.0,160
+16067,Colombia,2021-04-19,Delta,0,0.0,803
+16091,Colombia,2021-05-03,Delta,0,0.0,432
+16115,Colombia,2021-05-17,Delta,1,0.27,375
+16139,Colombia,2021-05-31,Delta,1,0.52,194
+16163,Colombia,2021-06-14,Delta,2,0.71,283
+16187,Colombia,2021-06-28,Delta,3,1.34,224
+16211,Colombia,2021-07-12,Delta,13,2.81,462
+16235,Colombia,2021-07-26,Delta,58,6.3,920
+16259,Colombia,2021-08-09,Delta,95,12.26,775
+16283,Colombia,2021-08-23,Delta,224,29.17,768
+16307,Colombia,2021-09-06,Delta,232,42.8,542
+16331,Colombia,2021-09-20,Delta,248,58.63,423
+16355,Colombia,2021-10-04,Delta,586,73.25,800
+16379,Colombia,2021-10-18,Delta,568,87.12,652
+16403,Colombia,2021-11-01,Delta,526,89.91,585
+16427,Colombia,2021-11-15,Delta,582,94.48,616
+16451,Colombia,2021-11-29,Delta,308,96.86,318
+16475,Colombia,2021-12-13,Delta,109,97.32,112
+16499,Colombia,2021-12-27,Delta,69,64.49,107
+16523,Costa Rica,2020-06-08,Delta,0,0.0,8
+16547,Costa Rica,2020-06-22,Delta,0,0.0,15
+16571,Costa Rica,2020-07-06,Delta,0,0.0,19
+16595,Costa Rica,2020-07-20,Delta,0,0.0,22
+16619,Costa Rica,2020-08-03,Delta,0,0.0,13
+16643,Costa Rica,2020-08-17,Delta,0,0.0,13
+16667,Costa Rica,2020-08-31,Delta,0,0.0,3
+16691,Costa Rica,2020-09-14,Delta,0,0.0,7
+16715,Costa Rica,2020-09-28,Delta,0,0.0,6
+16739,Costa Rica,2020-10-12,Delta,0,0.0,9
+16763,Costa Rica,2020-10-26,Delta,0,0.0,7
+16787,Costa Rica,2020-11-09,Delta,0,0.0,8
+16811,Costa Rica,2020-11-23,Delta,0,0.0,10
+16835,Costa Rica,2020-12-07,Delta,0,0.0,9
+16859,Costa Rica,2020-12-21,Delta,0,0.0,14
+16883,Costa Rica,2021-01-04,Delta,0,0.0,37
+16907,Costa Rica,2021-01-11,Delta,0,0.0,10
+16931,Costa Rica,2021-01-25,Delta,0,0.0,41
+16955,Costa Rica,2021-02-08,Delta,0,0.0,27
+16979,Costa Rica,2021-02-22,Delta,0,0.0,35
+17003,Costa Rica,2021-03-08,Delta,0,0.0,66
+17027,Costa Rica,2021-03-22,Delta,0,0.0,80
+17051,Costa Rica,2021-04-05,Delta,0,0.0,58
+17075,Costa Rica,2021-04-19,Delta,0,0.0,71
+17099,Costa Rica,2021-05-03,Delta,0,0.0,57
+17123,Costa Rica,2021-05-17,Delta,0,0.0,33
+17147,Costa Rica,2021-05-31,Delta,0,0.0,47
+17171,Costa Rica,2021-06-14,Delta,1,3.03,33
+17195,Costa Rica,2021-06-28,Delta,7,12.5,56
+17219,Costa Rica,2021-07-12,Delta,20,23.81,84
+17243,Costa Rica,2021-07-26,Delta,46,52.27,88
+17267,Costa Rica,2021-08-09,Delta,74,53.62,138
+17291,Costa Rica,2021-08-23,Delta,99,73.33,135
+17315,Costa Rica,2021-09-06,Delta,57,82.61,69
+17339,Costa Rica,2021-09-20,Delta,83,90.22,92
+17363,Costa Rica,2021-10-04,Delta,69,97.18,71
+17387,Costa Rica,2021-10-18,Delta,150,100.0,150
+17411,Costa Rica,2021-11-01,Delta,146,99.32,147
+17435,Costa Rica,2021-11-15,Delta,156,100.0,156
+17459,Costa Rica,2021-11-29,Delta,108,100.0,108
+17483,Costa Rica,2021-12-13,Delta,59,98.33,60
+17507,Costa Rica,2021-12-27,Delta,27,65.85,41
+17531,Croatia,2020-08-17,Delta,0,0.0,1
+17555,Croatia,2020-08-31,Delta,0,0.0,3
+17579,Croatia,2020-09-14,Delta,0,0.0,11
+17603,Croatia,2020-09-28,Delta,0,0.0,1
+17627,Croatia,2020-10-12,Delta,0,0.0,12
+17651,Croatia,2020-11-23,Delta,0,0.0,29
+17675,Croatia,2020-12-21,Delta,0,0.0,1
+17699,Croatia,2021-01-04,Delta,0,0.0,8
+17723,Croatia,2021-01-11,Delta,0,0.0,11
+17747,Croatia,2021-01-25,Delta,0,0.0,45
+17771,Croatia,2021-02-08,Delta,0,0.0,159
+17795,Croatia,2021-02-22,Delta,0,0.0,394
+17819,Croatia,2021-03-08,Delta,0,0.0,582
+17843,Croatia,2021-03-22,Delta,0,0.0,626
+17867,Croatia,2021-04-05,Delta,0,0.0,749
+17891,Croatia,2021-04-19,Delta,0,0.0,375
+17915,Croatia,2021-05-03,Delta,3,0.38,786
+17939,Croatia,2021-05-17,Delta,0,0.0,639
+17963,Croatia,2021-05-31,Delta,10,2.7,370
+17987,Croatia,2021-06-14,Delta,71,22.83,311
+18011,Croatia,2021-06-28,Delta,100,61.73,162
+18035,Croatia,2021-07-12,Delta,322,87.26,369
+18059,Croatia,2021-07-26,Delta,387,95.09,407
+18083,Croatia,2021-08-09,Delta,502,98.24,511
+18107,Croatia,2021-08-23,Delta,763,99.09,770
+18131,Croatia,2021-09-06,Delta,992,99.9,993
+18155,Croatia,2021-09-20,Delta,739,100.0,739
+18179,Croatia,2021-10-04,Delta,692,100.0,692
+18203,Croatia,2021-10-18,Delta,661,100.0,661
+18227,Croatia,2021-11-01,Delta,640,100.0,640
+18251,Croatia,2021-11-15,Delta,742,100.0,742
+18275,Croatia,2021-11-29,Delta,835,100.0,835
+18299,Croatia,2021-12-13,Delta,927,99.14,935
+18323,Curacao,2020-08-17,Delta,0,0.0,3
+18347,Curacao,2020-10-12,Delta,0,0.0,1
+18371,Curacao,2020-10-26,Delta,0,0.0,3
+18395,Curacao,2020-11-09,Delta,0,0.0,8
+18419,Curacao,2020-11-23,Delta,0,0.0,4
+18443,Curacao,2020-12-07,Delta,0,0.0,2
+18467,Curacao,2020-12-21,Delta,0,0.0,8
+18491,Curacao,2021-01-04,Delta,0,0.0,5
+18515,Curacao,2021-01-11,Delta,0,0.0,6
+18539,Curacao,2021-01-25,Delta,0,0.0,15
+18563,Curacao,2021-02-08,Delta,0,0.0,15
+18587,Curacao,2021-02-22,Delta,0,0.0,36
+18611,Curacao,2021-03-08,Delta,0,0.0,50
+18635,Curacao,2021-03-22,Delta,0,0.0,55
+18659,Curacao,2021-04-05,Delta,0,0.0,57
+18683,Curacao,2021-04-19,Delta,0,0.0,61
+18707,Curacao,2021-05-03,Delta,0,0.0,45
+18731,Curacao,2021-05-17,Delta,0,0.0,25
+18755,Curacao,2021-05-31,Delta,0,0.0,10
+18779,Curacao,2021-06-14,Delta,0,0.0,4
+18803,Curacao,2021-06-28,Delta,0,0.0,16
+18827,Curacao,2021-07-12,Delta,32,84.21,38
+18851,Curacao,2021-07-26,Delta,64,95.52,67
+18875,Curacao,2021-08-09,Delta,61,98.39,62
+18899,Curacao,2021-08-23,Delta,49,100.0,49
+18923,Curacao,2021-09-06,Delta,47,100.0,47
+18947,Curacao,2021-09-20,Delta,58,100.0,58
+18971,Curacao,2021-10-04,Delta,56,100.0,56
+18995,Curacao,2021-10-18,Delta,53,100.0,53
+19019,Curacao,2021-11-01,Delta,47,100.0,47
+19043,Curacao,2021-11-15,Delta,28,100.0,28
+19067,Curacao,2021-11-29,Delta,20,100.0,20
+19091,Curacao,2021-12-13,Delta,24,100.0,24
+19115,Cyprus,2020-05-11,Delta,0,0.0,23
+19139,Cyprus,2020-05-25,Delta,0,0.0,20
+19163,Cyprus,2020-06-08,Delta,0,0.0,12
+19187,Cyprus,2020-06-22,Delta,0,0.0,11
+19211,Cyprus,2020-07-06,Delta,0,0.0,2
+19235,Cyprus,2020-07-20,Delta,0,0.0,3
+19259,Cyprus,2020-08-03,Delta,0,0.0,11
+19283,Cyprus,2020-08-17,Delta,0,0.0,24
+19307,Cyprus,2020-08-31,Delta,0,0.0,12
+19331,Cyprus,2020-09-14,Delta,0,0.0,4
+19355,Cyprus,2020-09-28,Delta,0,0.0,39
+19379,Cyprus,2020-10-12,Delta,0,0.0,24
+19403,Cyprus,2020-10-26,Delta,0,0.0,11
+19427,Cyprus,2020-11-09,Delta,0,0.0,159
+19451,Cyprus,2020-11-23,Delta,0,0.0,9
+19475,Cyprus,2020-12-07,Delta,0,0.0,63
+19499,Cyprus,2020-12-21,Delta,0,0.0,3
+19523,Cyprus,2021-01-04,Delta,0,0.0,80
+19547,Cyprus,2021-01-11,Delta,0,0.0,28
+19571,Cyprus,2021-01-25,Delta,0,0.0,35
+19595,Cyprus,2021-02-08,Delta,0,0.0,17
+19619,Czechia,2020-05-11,Delta,0,0.0,6
+19643,Czechia,2020-05-25,Delta,0,0.0,9
+19667,Czechia,2020-06-08,Delta,0,0.0,4
+19691,Czechia,2020-06-22,Delta,0,0.0,9
+19715,Czechia,2020-07-20,Delta,0,0.0,9
+19739,Czechia,2020-08-03,Delta,0,0.0,24
+19763,Czechia,2020-08-17,Delta,0,0.0,26
+19787,Czechia,2020-08-31,Delta,0,0.0,11
+19811,Czechia,2020-09-14,Delta,0,0.0,9
+19835,Czechia,2020-09-28,Delta,0,0.0,23
+19859,Czechia,2020-10-12,Delta,0,0.0,76
+19883,Czechia,2020-10-26,Delta,0,0.0,60
+19907,Czechia,2020-11-09,Delta,0,0.0,56
+19931,Czechia,2020-11-23,Delta,0,0.0,19
+19955,Czechia,2020-12-07,Delta,0,0.0,9
+19979,Czechia,2020-12-21,Delta,0,0.0,16
+20003,Czechia,2021-01-04,Delta,0,0.0,26
+20027,Czechia,2021-01-11,Delta,0,0.0,201
+20051,Czechia,2021-01-25,Delta,0,0.0,97
+20075,Czechia,2021-02-08,Delta,0,0.0,378
+20099,Czechia,2021-02-22,Delta,0,0.0,617
+20123,Czechia,2021-03-08,Delta,1,0.2,501
+20147,Czechia,2021-03-22,Delta,0,0.0,556
+20171,Czechia,2021-04-05,Delta,1,0.27,374
+20195,Czechia,2021-04-19,Delta,0,0.0,635
+20219,Czechia,2021-05-03,Delta,13,1.67,780
+20243,Czechia,2021-05-17,Delta,23,4.12,558
+20267,Czechia,2021-05-31,Delta,36,13.09,275
+20291,Czechia,2021-06-14,Delta,48,12.37,388
+20315,Czechia,2021-06-28,Delta,88,40.37,218
+20339,Czechia,2021-07-12,Delta,430,85.83,501
+20363,Czechia,2021-07-26,Delta,517,98.1,527
+20387,Czechia,2021-08-09,Delta,559,98.76,566
+20411,Czechia,2021-08-23,Delta,870,99.43,875
+20435,Czechia,2021-09-06,Delta,841,99.64,844
+20459,Czechia,2021-09-20,Delta,1382,100.0,1382
+20483,Czechia,2021-10-04,Delta,1372,99.93,1373
+20507,Czechia,2021-10-18,Delta,1765,99.94,1766
+20531,Czechia,2021-11-01,Delta,2026,99.75,2031
+20555,Czechia,2021-11-15,Delta,1420,100.0,1420
+20579,Czechia,2021-11-29,Delta,1327,99.7,1331
+20603,Czechia,2021-12-13,Delta,1424,99.51,1431
+20627,Czechia,2021-12-27,Delta,278,84.24,330
+20651,Czechia,2022-01-05,Delta,8,53.33,15
+20675,Denmark,2020-05-11,Delta,0,0.0,155
+20699,Denmark,2020-05-25,Delta,0,0.0,136
+20723,Denmark,2020-06-08,Delta,0,0.0,122
+20747,Denmark,2020-06-22,Delta,0,0.0,169
+20771,Denmark,2020-07-06,Delta,0,0.0,60
+20795,Denmark,2020-07-20,Delta,0,0.0,100
+20819,Denmark,2020-08-03,Delta,0,0.0,152
+20843,Denmark,2020-08-17,Delta,0,0.0,437
+20867,Denmark,2020-08-31,Delta,0,0.0,594
+20891,Denmark,2020-09-14,Delta,0,0.0,979
+20915,Denmark,2020-09-28,Delta,0,0.0,1644
+20939,Denmark,2020-10-12,Delta,0,0.0,835
+20963,Denmark,2020-10-26,Delta,0,0.0,1554
+20987,Denmark,2020-11-09,Delta,0,0.0,3067
+21011,Denmark,2020-11-23,Delta,0,0.0,3165
+21035,Denmark,2020-12-07,Delta,0,0.0,5060
+21059,Denmark,2020-12-21,Delta,0,0.0,9321
+21083,Denmark,2021-01-04,Delta,0,0.0,7686
+21107,Denmark,2021-01-11,Delta,0,0.0,4145
+21131,Denmark,2021-01-25,Delta,0,0.0,8109
+21155,Denmark,2021-02-08,Delta,0,0.0,4769
+21179,Denmark,2021-02-22,Delta,0,0.0,4388
+21203,Denmark,2021-03-08,Delta,0,0.0,5371
+21227,Denmark,2021-03-22,Delta,0,0.0,6351
+21251,Denmark,2021-04-05,Delta,3,0.04,7193
+21275,Denmark,2021-04-19,Delta,6,0.08,7082
+21299,Denmark,2021-05-03,Delta,30,0.39,7679
+21323,Denmark,2021-05-17,Delta,43,0.44,9822
+21347,Denmark,2021-05-31,Delta,28,0.3,9480
+21371,Denmark,2021-06-14,Delta,97,1.65,5882
+21395,Denmark,2021-06-28,Delta,418,20.28,2061
+21419,Denmark,2021-07-12,Delta,4040,78.84,5124
+21443,Denmark,2021-07-26,Delta,10411,95.72,10876
+21467,Denmark,2021-08-09,Delta,10815,99.07,10917
+21491,Denmark,2021-08-23,Delta,11224,99.72,11256
+21515,Denmark,2021-09-06,Delta,8738,99.94,8743
+21539,Denmark,2021-09-20,Delta,4583,99.96,4585
+21563,Denmark,2021-10-04,Delta,4877,99.98,4878
+21587,Denmark,2021-10-18,Delta,7662,100.0,7662
+21611,Denmark,2021-11-01,Delta,15513,99.99,15515
+21635,Denmark,2021-11-15,Delta,22314,100.0,22315
+21659,Denmark,2021-11-29,Delta,23819,99.96,23829
+21683,Denmark,2021-12-13,Delta,28791,95.07,30285
+21707,Denmark,2021-12-27,Delta,3282,48.14,6817
+21731,Djibouti,2020-05-11,Delta,0,0.0,2
+21755,Djibouti,2020-05-25,Delta,0,0.0,2
+21779,Djibouti,2020-06-08,Delta,0,0.0,5
+21803,Djibouti,2020-06-22,Delta,0,0.0,13
+21827,Djibouti,2020-07-06,Delta,0,0.0,1
+21851,Djibouti,2020-07-20,Delta,0,0.0,2
+21875,Djibouti,2020-08-03,Delta,0,0.0,2
+21899,Djibouti,2020-10-26,Delta,0,0.0,1
+21923,Djibouti,2020-11-09,Delta,0,0.0,1
+21947,Djibouti,2020-11-23,Delta,0,0.0,14
+21971,Djibouti,2020-12-07,Delta,0,0.0,1
+21995,Djibouti,2020-12-21,Delta,0,0.0,5
+22019,Djibouti,2021-01-04,Delta,0,0.0,2
+22043,Djibouti,2021-01-25,Delta,0,0.0,11
+22067,Djibouti,2021-02-08,Delta,0,0.0,3
+22091,Djibouti,2021-02-22,Delta,0,0.0,30
+22115,Djibouti,2021-03-08,Delta,0,0.0,56
+22139,Djibouti,2021-03-22,Delta,0,0.0,26
+22163,Djibouti,2021-04-05,Delta,0,0.0,64
+22187,Djibouti,2021-04-19,Delta,0,0.0,37
+22211,Djibouti,2021-05-03,Delta,0,0.0,23
+22235,Djibouti,2021-05-17,Delta,0,0.0,5
+22259,Djibouti,2021-05-31,Delta,0,0.0,1
+22283,Djibouti,2021-07-12,Delta,1,100.0,1
+22307,Djibouti,2021-08-09,Delta,2,100.0,2
+22331,Djibouti,2021-09-06,Delta,2,100.0,2
+22355,Djibouti,2021-09-20,Delta,9,100.0,9
+22379,Djibouti,2021-10-04,Delta,25,100.0,25
+22403,Djibouti,2021-10-18,Delta,19,100.0,19
+22427,Djibouti,2021-11-01,Delta,2,100.0,2
+22451,Dominican Republic,2020-05-11,Delta,0,0.0,5
+22475,Dominican Republic,2020-11-23,Delta,0,0.0,1
+22499,Dominican Republic,2021-01-04,Delta,0,0.0,1
+22523,Dominican Republic,2021-01-25,Delta,0,0.0,33
+22547,Dominican Republic,2021-02-08,Delta,0,0.0,24
+22571,Dominican Republic,2021-02-22,Delta,0,0.0,3
+22595,Dominican Republic,2021-03-08,Delta,0,0.0,11
+22619,Dominican Republic,2021-03-22,Delta,0,0.0,58
+22643,Dominican Republic,2021-04-05,Delta,0,0.0,13
+22667,Dominican Republic,2021-04-19,Delta,0,0.0,17
+22691,Dominican Republic,2021-05-03,Delta,0,0.0,1
+22715,Dominican Republic,2021-05-17,Delta,0,0.0,87
+22739,Dominican Republic,2021-05-31,Delta,3,2.97,101
+22763,Dominican Republic,2021-06-14,Delta,0,0.0,19
+22787,Dominican Republic,2021-06-28,Delta,0,0.0,13
+22811,Dominican Republic,2021-07-12,Delta,1,10.0,10
+22835,Dominican Republic,2021-07-26,Delta,0,0.0,10
+22859,Dominican Republic,2021-08-09,Delta,3,10.34,29
+22883,Dominican Republic,2021-08-23,Delta,3,75.0,4
+22907,Dominican Republic,2021-09-06,Delta,2,100.0,2
+22931,Dominican Republic,2021-09-20,Delta,3,100.0,3
+22955,Dominican Republic,2021-10-04,Delta,1,100.0,1
+22979,Dominican Republic,2021-10-18,Delta,97,97.98,99
+23003,Dominican Republic,2021-11-01,Delta,20,100.0,20
+23027,Ecuador,2020-05-11,Delta,0,0.0,7
+23051,Ecuador,2020-05-25,Delta,0,0.0,4
+23075,Ecuador,2020-06-08,Delta,0,0.0,8
+23099,Ecuador,2020-06-22,Delta,0,0.0,3
+23123,Ecuador,2020-07-06,Delta,0,0.0,18
+23147,Ecuador,2020-07-20,Delta,0,0.0,3
+23171,Ecuador,2020-08-03,Delta,0,0.0,6
+23195,Ecuador,2020-08-17,Delta,0,0.0,26
+23219,Ecuador,2020-08-31,Delta,0,0.0,17
+23243,Ecuador,2020-09-14,Delta,0,0.0,19
+23267,Ecuador,2020-09-28,Delta,0,0.0,3
+23291,Ecuador,2020-10-12,Delta,0,0.0,13
+23315,Ecuador,2020-10-26,Delta,0,0.0,5
+23339,Ecuador,2020-11-09,Delta,0,0.0,6
+23363,Ecuador,2020-11-23,Delta,0,0.0,3
+23387,Ecuador,2020-12-07,Delta,0,0.0,6
+23411,Ecuador,2020-12-21,Delta,0,0.0,12
+23435,Ecuador,2021-01-04,Delta,0,0.0,10
+23459,Ecuador,2021-01-11,Delta,0,0.0,13
+23483,Ecuador,2021-01-25,Delta,0,0.0,18
+23507,Ecuador,2021-02-08,Delta,0,0.0,2
+23531,Ecuador,2021-02-22,Delta,0,0.0,2
+23555,Ecuador,2021-03-08,Delta,0,0.0,6
+23579,Ecuador,2021-03-22,Delta,0,0.0,17
+23603,Ecuador,2021-04-05,Delta,0,0.0,23
+23627,Ecuador,2021-04-19,Delta,0,0.0,57
+23651,Ecuador,2021-05-03,Delta,0,0.0,65
+23675,Ecuador,2021-05-17,Delta,0,0.0,139
+23699,Ecuador,2021-05-31,Delta,0,0.0,102
+23723,Ecuador,2021-06-14,Delta,0,0.0,167
+23747,Ecuador,2021-06-28,Delta,6,4.14,145
+23771,Ecuador,2021-07-12,Delta,18,4.92,366
+23795,Ecuador,2021-07-26,Delta,87,15.4,565
+23819,Ecuador,2021-08-09,Delta,70,30.17,232
+23843,Ecuador,2021-08-23,Delta,100,38.31,261
+23867,Ecuador,2021-09-06,Delta,193,63.07,306
+23891,Ecuador,2021-09-20,Delta,116,74.84,155
+23915,Ecuador,2021-10-04,Delta,190,88.79,214
+23939,Ecuador,2021-10-18,Delta,82,88.17,93
+23963,Ecuador,2021-11-01,Delta,21,91.3,23
+23987,Ecuador,2021-11-15,Delta,92,92.0,100
+24011,Ecuador,2021-11-29,Delta,125,92.59,135
+24035,Ecuador,2021-12-13,Delta,90,96.77,93
+24059,Ecuador,2021-12-27,Delta,28,50.91,55
+24083,Egypt,2020-05-11,Delta,0,0.0,38
+24107,Egypt,2020-05-25,Delta,0,0.0,22
+24131,Egypt,2020-06-08,Delta,0,0.0,141
+24155,Egypt,2020-06-22,Delta,0,0.0,77
+24179,Egypt,2020-07-06,Delta,0,0.0,128
+24203,Egypt,2020-07-20,Delta,0,0.0,44
+24227,Egypt,2020-08-03,Delta,0,0.0,41
+24251,Egypt,2020-08-17,Delta,0,0.0,29
+24275,Egypt,2020-08-31,Delta,0,0.0,43
+24299,Egypt,2020-09-14,Delta,0,0.0,25
+24323,Egypt,2020-09-28,Delta,0,0.0,17
+24347,Egypt,2020-10-12,Delta,0,0.0,15
+24371,Egypt,2020-10-26,Delta,0,0.0,11
+24395,Egypt,2020-11-09,Delta,0,0.0,12
+24419,Egypt,2020-11-23,Delta,0,0.0,12
+24443,Egypt,2020-12-07,Delta,0,0.0,3
+24467,Egypt,2020-12-21,Delta,0,0.0,14
+24491,Egypt,2021-01-04,Delta,0,0.0,99
+24515,Egypt,2021-01-11,Delta,0,0.0,40
+24539,Egypt,2021-01-25,Delta,0,0.0,3
+24563,Egypt,2021-02-22,Delta,0,0.0,79
+24587,Egypt,2021-03-08,Delta,0,0.0,21
+24611,Egypt,2021-03-22,Delta,0,0.0,12
+24635,Egypt,2021-04-05,Delta,0,0.0,74
+24659,Egypt,2021-04-19,Delta,0,0.0,10
+24683,Egypt,2021-05-03,Delta,0,0.0,89
+24707,Egypt,2021-05-17,Delta,0,0.0,42
+24731,Egypt,2021-05-31,Delta,0,0.0,23
+24755,Egypt,2021-06-14,Delta,0,0.0,10
+24779,Egypt,2021-06-28,Delta,1,25.0,4
+24803,Egypt,2021-07-12,Delta,0,0.0,3
+24827,Egypt,2021-07-26,Delta,1,100.0,1
+24851,Egypt,2021-08-09,Delta,8,88.89,9
+24875,Egypt,2021-09-06,Delta,23,100.0,23
+24899,Egypt,2021-09-20,Delta,5,100.0,5
+24923,Egypt,2021-10-04,Delta,9,100.0,9
+24947,Egypt,2021-10-18,Delta,20,95.24,21
+24971,Egypt,2021-11-01,Delta,65,98.48,66
+24995,Egypt,2021-11-15,Delta,13,100.0,13
+25019,Egypt,2021-11-29,Delta,6,100.0,6
+25043,Egypt,2021-12-13,Delta,0,0.0,1
+25067,Estonia,2020-09-14,Delta,0,0.0,9
+25091,Estonia,2020-09-28,Delta,0,0.0,120
+25115,Estonia,2020-10-12,Delta,0,0.0,55
+25139,Estonia,2020-10-26,Delta,0,0.0,21
+25163,Estonia,2020-11-09,Delta,0,0.0,53
+25187,Estonia,2020-11-23,Delta,0,0.0,18
+25211,Estonia,2020-12-21,Delta,0,0.0,2
+25235,Estonia,2021-01-04,Delta,0,0.0,46
+25259,Estonia,2021-01-11,Delta,0,0.0,5
+25283,Estonia,2021-01-25,Delta,0,0.0,10
+25307,Estonia,2021-02-08,Delta,0,0.0,47
+25331,Estonia,2021-02-22,Delta,0,0.0,564
+25355,Estonia,2021-03-08,Delta,0,0.0,163
+25379,Estonia,2021-03-22,Delta,0,0.0,1018
+25403,Estonia,2021-04-05,Delta,0,0.0,1121
+25427,Estonia,2021-04-19,Delta,0,0.0,368
+25451,Estonia,2021-05-03,Delta,0,0.0,351
+25475,Estonia,2021-05-17,Delta,0,0.0,326
+25499,Estonia,2021-06-14,Delta,2,1.46,137
+25523,Estonia,2021-06-28,Delta,2,4.44,45
+25547,Estonia,2021-07-12,Delta,126,91.3,138
+25571,Estonia,2021-07-26,Delta,244,96.83,252
+25595,Estonia,2021-08-09,Delta,358,99.44,360
+25619,Estonia,2021-08-23,Delta,371,100.0,371
+25643,Estonia,2021-09-06,Delta,369,100.0,369
+25667,Estonia,2021-09-20,Delta,346,100.0,346
+25691,Estonia,2021-10-04,Delta,348,100.0,348
+25715,Estonia,2021-10-18,Delta,319,100.0,319
+25739,Estonia,2021-11-01,Delta,344,100.0,344
+25763,Estonia,2021-11-15,Delta,294,100.0,294
+25787,Estonia,2021-11-29,Delta,340,100.0,340
+25811,Estonia,2021-12-13,Delta,82,100.0,82
+25835,Ethiopia,2020-11-23,Delta,0,0.0,4
+25859,Ethiopia,2020-12-21,Delta,0,0.0,4
+25883,Ethiopia,2021-01-25,Delta,0,0.0,6
+25907,Ethiopia,2021-02-08,Delta,0,0.0,10
+25931,Ethiopia,2021-02-22,Delta,0,0.0,4
+25955,Ethiopia,2021-03-08,Delta,1,7.69,13
+25979,Ethiopia,2021-03-22,Delta,1,25.0,4
+26003,Ethiopia,2021-04-05,Delta,3,50.0,6
+26027,Ethiopia,2021-04-19,Delta,1,100.0,1
+26051,Ethiopia,2021-05-03,Delta,0,0.0,2
+26075,Ethiopia,2021-05-31,Delta,13,50.0,26
+26099,Ethiopia,2021-06-14,Delta,0,0.0,5
+26123,Ethiopia,2021-07-12,Delta,6,100.0,6
+26147,Ethiopia,2021-07-26,Delta,35,59.32,59
+26171,Ethiopia,2021-08-09,Delta,252,99.6,253
+26195,Ethiopia,2021-08-23,Delta,119,100.0,119
+26219,Fiji,2020-08-31,Delta,0,0.0,1
+26243,Fiji,2020-11-23,Delta,0,0.0,2
+26267,Fiji,2020-12-07,Delta,0,0.0,2
+26291,Fiji,2021-01-04,Delta,0,0.0,2
+26315,Fiji,2021-02-08,Delta,0,0.0,1
+26339,Fiji,2021-03-08,Delta,0,0.0,1
+26363,Fiji,2021-03-22,Delta,0,0.0,1
+26387,Fiji,2021-04-19,Delta,6,85.71,7
+26411,Fiji,2021-05-03,Delta,16,88.89,18
+26435,Fiji,2021-05-17,Delta,21,95.45,22
+26459,Fiji,2021-05-31,Delta,24,100.0,24
+26483,Fiji,2021-06-14,Delta,52,100.0,52
+26507,Fiji,2021-06-28,Delta,252,100.0,252
+26531,Fiji,2021-07-12,Delta,140,100.0,140
+26555,Finland,2020-05-11,Delta,0,0.0,102
+26579,Finland,2020-05-25,Delta,0,0.0,51
+26603,Finland,2020-06-08,Delta,0,0.0,37
+26627,Finland,2020-06-22,Delta,0,0.0,4
+26651,Finland,2020-08-17,Delta,0,0.0,10
+26675,Finland,2020-08-31,Delta,0,0.0,14
+26699,Finland,2020-09-14,Delta,0,0.0,23
+26723,Finland,2020-09-28,Delta,0,0.0,96
+26747,Finland,2020-10-12,Delta,0,0.0,283
+26771,Finland,2020-10-26,Delta,0,0.0,98
+26795,Finland,2020-11-09,Delta,0,0.0,51
+26819,Finland,2020-11-23,Delta,0,0.0,54
+26843,Finland,2020-12-07,Delta,0,0.0,156
+26867,Finland,2020-12-21,Delta,0,0.0,114
+26891,Finland,2021-01-04,Delta,0,0.0,148
+26915,Finland,2021-01-11,Delta,0,0.0,124
+26939,Finland,2021-01-25,Delta,0,0.0,765
+26963,Finland,2021-02-08,Delta,0,0.0,1240
+26987,Finland,2021-02-22,Delta,0,0.0,1587
+27011,Finland,2021-03-08,Delta,0,0.0,1653
+27035,Finland,2021-03-22,Delta,0,0.0,1715
+27059,Finland,2021-04-05,Delta,0,0.0,987
+27083,Finland,2021-04-19,Delta,2,0.28,702
+27107,Finland,2021-05-03,Delta,21,3.87,542
+27131,Finland,2021-05-17,Delta,75,12.48,601
+27155,Finland,2021-05-31,Delta,125,23.63,529
+27179,Finland,2021-06-14,Delta,97,32.99,294
+27203,Finland,2021-06-28,Delta,624,85.01,734
+27227,Finland,2021-07-12,Delta,789,95.99,822
+27251,Finland,2021-07-26,Delta,1468,98.92,1484
+27275,Finland,2021-08-09,Delta,1635,98.79,1655
+27299,Finland,2021-08-23,Delta,1023,99.61,1027
+27323,Finland,2021-09-06,Delta,930,100.0,930
+27347,Finland,2021-09-20,Delta,748,99.87,749
+27371,Finland,2021-10-04,Delta,967,100.0,967
+27395,Finland,2021-10-18,Delta,864,100.0,864
+27419,Finland,2021-11-01,Delta,670,100.0,670
+27443,Finland,2021-11-15,Delta,417,100.0,417
+27467,Finland,2021-11-29,Delta,61,100.0,61
+27491,France,2020-05-11,Delta,0,0.0,201
+27515,France,2020-05-25,Delta,0,0.0,64
+27539,France,2020-06-08,Delta,0,0.0,33
+27563,France,2020-06-22,Delta,0,0.0,45
+27587,France,2020-07-06,Delta,0,0.0,30
+27611,France,2020-07-20,Delta,0,0.0,71
+27635,France,2020-08-03,Delta,0,0.0,140
+27659,France,2020-08-17,Delta,0,0.0,239
+27683,France,2020-08-31,Delta,0,0.0,251
+27707,France,2020-09-14,Delta,0,0.0,822
+27731,France,2020-09-28,Delta,0,0.0,488
+27755,France,2020-10-12,Delta,0,0.0,427
+27779,France,2020-10-26,Delta,0,0.0,870
+27803,France,2020-11-09,Delta,0,0.0,1020
+27827,France,2020-11-23,Delta,0,0.0,619
+27851,France,2020-12-07,Delta,0,0.0,347
+27875,France,2020-12-21,Delta,0,0.0,404
+27899,France,2021-01-04,Delta,0,0.0,518
+27923,France,2021-01-11,Delta,0,0.0,738
+27947,France,2021-01-25,Delta,2,0.09,2173
+27971,France,2021-02-08,Delta,0,0.0,3995
+27995,France,2021-02-22,Delta,0,0.0,2991
+28019,France,2021-03-08,Delta,0,0.0,4276
+28043,France,2021-03-22,Delta,0,0.0,6421
+28067,France,2021-04-05,Delta,0,0.0,6026
+28091,France,2021-04-19,Delta,4,0.08,5009
+28115,France,2021-05-03,Delta,47,1.07,4393
+28139,France,2021-05-17,Delta,51,1.56,3260
+28163,France,2021-05-31,Delta,97,3.09,3135
+28187,France,2021-06-14,Delta,270,12.19,2215
+28211,France,2021-06-28,Delta,768,39.38,1950
+28235,France,2021-07-12,Delta,2894,67.89,4263
+28259,France,2021-07-26,Delta,12253,91.05,13457
+28283,France,2021-08-09,Delta,9053,95.27,9502
+28307,France,2021-08-23,Delta,8697,97.95,8879
+28331,France,2021-09-06,Delta,8014,99.16,8082
+28355,France,2021-09-20,Delta,4620,99.61,4638
+28379,France,2021-10-04,Delta,3401,99.74,3410
+28403,France,2021-10-18,Delta,3550,99.5,3568
+28427,France,2021-11-01,Delta,10265,99.7,10296
+28451,France,2021-11-15,Delta,10058,99.57,10101
+28475,France,2021-11-29,Delta,7946,98.95,8030
+28499,France,2021-12-13,Delta,10007,96.39,10382
+28523,France,2021-12-27,Delta,1691,76.17,2220
+28547,France,2022-01-05,Delta,23,19.66,117
+28571,Gambia,2020-05-11,Delta,0,0.0,13
+28595,Gambia,2020-05-25,Delta,0,0.0,14
+28619,Gambia,2020-06-08,Delta,0,0.0,11
+28643,Gambia,2020-06-22,Delta,0,0.0,5
+28667,Gambia,2020-07-06,Delta,0,0.0,23
+28691,Gambia,2020-07-20,Delta,0,0.0,4
+28715,Gambia,2020-08-03,Delta,0,0.0,241
+28739,Gambia,2020-08-17,Delta,0,0.0,30
+28763,Gambia,2020-08-31,Delta,0,0.0,37
+28787,Gambia,2020-09-14,Delta,0,0.0,21
+28811,Gambia,2020-09-28,Delta,0,0.0,4
+28835,Gambia,2020-10-12,Delta,0,0.0,5
+28859,Gambia,2020-10-26,Delta,0,0.0,1
+28883,Gambia,2021-01-04,Delta,0,0.0,1
+28907,Gambia,2021-01-11,Delta,0,0.0,2
+28931,Gambia,2021-01-25,Delta,0,0.0,8
+28955,Gambia,2021-02-08,Delta,0,0.0,11
+28979,Gambia,2021-02-22,Delta,0,0.0,8
+29003,Gambia,2021-03-08,Delta,0,0.0,21
+29027,Gambia,2021-03-22,Delta,0,0.0,43
+29051,Gambia,2021-04-05,Delta,0,0.0,14
+29075,Gambia,2021-04-19,Delta,4,80.0,5
+29099,Gambia,2021-05-03,Delta,0,0.0,11
+29123,Gambia,2021-05-17,Delta,1,50.0,2
+29147,Gambia,2021-05-31,Delta,7,58.33,12
+29171,Gambia,2021-06-14,Delta,2,100.0,2
+29195,Gambia,2021-06-28,Delta,5,100.0,5
+29219,Gambia,2021-07-12,Delta,68,98.55,69
+29243,Gambia,2021-07-26,Delta,40,100.0,40
+29267,Gambia,2021-08-09,Delta,125,98.43,127
+29291,Gambia,2021-08-23,Delta,72,98.63,73
+29315,Georgia,2020-05-11,Delta,0,0.0,4
+29339,Georgia,2020-06-08,Delta,0,0.0,1
+29363,Georgia,2020-06-22,Delta,0,0.0,1
+29387,Georgia,2020-09-28,Delta,0,0.0,2
+29411,Georgia,2020-10-12,Delta,0,0.0,1
+29435,Georgia,2020-11-09,Delta,0,0.0,2
+29459,Georgia,2020-11-23,Delta,0,0.0,4
+29483,Georgia,2020-12-07,Delta,0,0.0,1
+29507,Georgia,2020-12-21,Delta,0,0.0,3
+29531,Georgia,2021-01-04,Delta,0,0.0,1
+29555,Georgia,2021-01-11,Delta,0,0.0,1
+29579,Georgia,2021-01-25,Delta,0,0.0,4
+29603,Georgia,2021-02-08,Delta,0,0.0,4
+29627,Georgia,2021-02-22,Delta,0,0.0,9
+29651,Georgia,2021-03-08,Delta,0,0.0,10
+29675,Georgia,2021-03-22,Delta,0,0.0,6
+29699,Georgia,2021-04-05,Delta,0,0.0,4
+29723,Georgia,2021-04-19,Delta,0,0.0,1
+29747,Georgia,2021-05-03,Delta,0,0.0,3
+29771,Georgia,2021-05-17,Delta,4,17.39,23
+29795,Georgia,2021-05-31,Delta,1,3.57,28
+29819,Georgia,2021-06-14,Delta,0,0.0,17
+29843,Georgia,2021-06-28,Delta,3,17.65,17
+29867,Georgia,2021-07-12,Delta,17,62.96,27
+29891,Georgia,2021-07-26,Delta,6,75.0,8
+29915,Georgia,2021-08-09,Delta,9,56.25,16
+29939,Georgia,2021-08-23,Delta,11,91.67,12
+29963,Georgia,2021-09-06,Delta,29,96.67,30
+29987,Georgia,2021-09-20,Delta,5,100.0,5
+30011,Georgia,2021-10-04,Delta,70,100.0,70
+30035,Georgia,2021-10-18,Delta,94,100.0,94
+30059,Georgia,2021-11-01,Delta,33,100.0,33
+30083,Georgia,2021-11-15,Delta,81,100.0,81
+30107,Georgia,2021-11-29,Delta,76,97.44,78
+30131,Georgia,2021-12-13,Delta,129,100.0,129
+30155,Georgia,2021-12-27,Delta,64,58.18,110
+30179,Germany,2020-05-11,Delta,0,0.0,105
+30203,Germany,2020-05-25,Delta,0,0.0,94
+30227,Germany,2020-06-08,Delta,0,0.0,82
+30251,Germany,2020-06-22,Delta,0,0.0,1528
+30275,Germany,2020-07-06,Delta,0,0.0,390
+30299,Germany,2020-07-20,Delta,0,0.0,103
+30323,Germany,2020-08-03,Delta,0,0.0,53
+30347,Germany,2020-08-17,Delta,0,0.0,144
+30371,Germany,2020-08-31,Delta,0,0.0,174
+30395,Germany,2020-09-14,Delta,0,0.0,115
+30419,Germany,2020-09-28,Delta,0,0.0,324
+30443,Germany,2020-10-12,Delta,0,0.0,349
+30467,Germany,2020-10-26,Delta,0,0.0,387
+30491,Germany,2020-11-09,Delta,0,0.0,494
+30515,Germany,2020-11-23,Delta,0,0.0,589
+30539,Germany,2020-12-07,Delta,0,0.0,770
+30563,Germany,2020-12-21,Delta,0,0.0,999
+30587,Germany,2021-01-04,Delta,1,0.15,666
+30611,Germany,2021-01-11,Delta,0,0.0,524
+30635,Germany,2021-01-25,Delta,0,0.0,3161
+30659,Germany,2021-02-08,Delta,0,0.0,6330
+30683,Germany,2021-02-22,Delta,0,0.0,9085
+30707,Germany,2021-03-08,Delta,0,0.0,11511
+30731,Germany,2021-03-22,Delta,2,0.01,14479
+30755,Germany,2021-04-05,Delta,4,0.02,16353
+30779,Germany,2021-04-19,Delta,30,0.15,19363
+30803,Germany,2021-05-03,Delta,134,0.69,19306
+30827,Germany,2021-05-17,Delta,306,1.96,15645
+30851,Germany,2021-05-31,Delta,388,3.95,9815
+30875,Germany,2021-06-14,Delta,752,13.92,5401
+30899,Germany,2021-06-28,Delta,1298,49.32,2632
+30923,Germany,2021-07-12,Delta,2108,79.52,2651
+30947,Germany,2021-07-26,Delta,4371,95.27,4588
+30971,Germany,2021-08-09,Delta,6086,98.21,6197
+30995,Germany,2021-08-23,Delta,13147,99.44,13221
+31019,Germany,2021-09-06,Delta,19233,99.73,19285
+31043,Germany,2021-09-20,Delta,19978,99.91,19996
+31067,Germany,2021-10-04,Delta,15735,99.85,15758
+31091,Germany,2021-10-18,Delta,12389,99.97,12393
+31115,Germany,2021-11-01,Delta,15672,99.99,15674
+31139,Germany,2021-11-15,Delta,17791,99.94,17801
+31163,Germany,2021-11-29,Delta,23089,99.83,23129
+31187,Germany,2021-12-13,Delta,22326,97.51,22895
+31211,Germany,2021-12-27,Delta,10858,86.28,12584
+31235,Ghana,2020-05-11,Delta,0,0.0,1
+31259,Ghana,2020-05-25,Delta,0,0.0,18
+31283,Ghana,2020-06-08,Delta,0,0.0,8
+31307,Ghana,2020-06-22,Delta,0,0.0,8
+31331,Ghana,2020-07-06,Delta,0,0.0,1
+31355,Ghana,2020-07-20,Delta,0,0.0,10
+31379,Ghana,2020-08-03,Delta,0,0.0,43
+31403,Ghana,2020-08-17,Delta,0,0.0,5
+31427,Ghana,2020-08-31,Delta,0,0.0,20
+31451,Ghana,2020-09-14,Delta,0,0.0,19
+31475,Ghana,2020-09-28,Delta,0,0.0,1
+31499,Ghana,2020-10-12,Delta,0,0.0,3
+31523,Ghana,2020-11-09,Delta,0,0.0,20
+31547,Ghana,2020-11-23,Delta,0,0.0,17
+31571,Ghana,2020-12-07,Delta,0,0.0,32
+31595,Ghana,2020-12-21,Delta,0,0.0,23
+31619,Ghana,2021-01-04,Delta,0,0.0,22
+31643,Ghana,2021-01-11,Delta,0,0.0,115
+31667,Ghana,2021-01-25,Delta,0,0.0,91
+31691,Ghana,2021-02-08,Delta,0,0.0,76
+31715,Ghana,2021-02-22,Delta,0,0.0,95
+31739,Ghana,2021-03-08,Delta,0,0.0,55
+31763,Ghana,2021-03-22,Delta,0,0.0,61
+31787,Ghana,2021-04-05,Delta,0,0.0,46
+31811,Ghana,2021-04-19,Delta,1,1.04,96
+31835,Ghana,2021-05-03,Delta,5,5.95,84
+31859,Ghana,2021-05-17,Delta,2,3.33,60
+31883,Ghana,2021-05-31,Delta,9,11.54,78
+31907,Ghana,2021-06-14,Delta,6,10.34,58
+31931,Ghana,2021-06-28,Delta,81,77.88,104
+31955,Ghana,2021-07-12,Delta,132,84.62,156
+31979,Ghana,2021-07-26,Delta,162,96.43,168
+32003,Ghana,2021-08-09,Delta,101,91.82,110
+32027,Ghana,2021-08-23,Delta,112,100.0,112
+32051,Ghana,2021-09-06,Delta,17,100.0,17
+32075,Ghana,2021-09-20,Delta,149,98.68,151
+32099,Ghana,2021-10-04,Delta,56,87.5,64
+32123,Ghana,2021-10-18,Delta,79,87.78,90
+32147,Ghana,2021-11-01,Delta,56,87.5,64
+32171,Ghana,2021-11-15,Delta,24,82.76,29
+32195,Ghana,2021-11-29,Delta,22,28.95,76
+32219,Ghana,2021-12-13,Delta,6,16.67,36
+32243,Greece,2020-05-11,Delta,0,0.0,8
+32267,Greece,2020-05-25,Delta,0,0.0,8
+32291,Greece,2020-08-03,Delta,0,0.0,2
+32315,Greece,2020-08-17,Delta,0,0.0,15
+32339,Greece,2020-08-31,Delta,0,0.0,2
+32363,Greece,2020-09-14,Delta,0,0.0,24
+32387,Greece,2020-09-28,Delta,0,0.0,40
+32411,Greece,2020-10-12,Delta,0,0.0,42
+32435,Greece,2020-10-26,Delta,0,0.0,22
+32459,Greece,2020-11-09,Delta,0,0.0,207
+32483,Greece,2020-11-23,Delta,0,0.0,141
+32507,Greece,2020-12-07,Delta,0,0.0,78
+32531,Greece,2020-12-21,Delta,0,0.0,264
+32555,Greece,2021-01-04,Delta,0,0.0,172
+32579,Greece,2021-01-11,Delta,0,0.0,48
+32603,Greece,2021-01-25,Delta,0,0.0,142
+32627,Greece,2021-02-08,Delta,0,0.0,111
+32651,Greece,2021-02-22,Delta,0,0.0,143
+32675,Greece,2021-03-08,Delta,0,0.0,1114
+32699,Greece,2021-03-22,Delta,0,0.0,1040
+32723,Greece,2021-04-05,Delta,1,0.3,338
+32747,Greece,2021-04-19,Delta,0,0.0,609
+32771,Greece,2021-05-03,Delta,8,0.63,1269
+32795,Greece,2021-05-17,Delta,1,0.08,1255
+32819,Greece,2021-05-31,Delta,0,0.0,562
+32843,Greece,2021-06-14,Delta,1,0.55,183
+32867,Greece,2021-06-28,Delta,6,7.14,84
+32891,Greece,2021-07-12,Delta,160,54.05,296
+32915,Greece,2021-07-26,Delta,343,96.89,354
+32939,Greece,2021-08-09,Delta,200,91.74,218
+32963,Greece,2021-08-23,Delta,169,96.57,175
+32987,Greece,2021-09-06,Delta,346,99.71,347
+33011,Greece,2021-09-20,Delta,649,100.0,649
+33035,Greece,2021-10-04,Delta,321,100.0,321
+33059,Greece,2021-10-18,Delta,12,100.0,12
+33083,Greece,2021-11-01,Delta,155,100.0,155
+33107,Greece,2021-11-15,Delta,586,100.0,586
+33131,Greece,2021-11-29,Delta,558,100.0,558
+33155,Greece,2021-12-13,Delta,608,99.67,610
+33179,Guatemala,2020-05-25,Delta,0,0.0,3
+33203,Guatemala,2020-06-08,Delta,0,0.0,6
+33227,Guatemala,2020-06-22,Delta,0,0.0,19
+33251,Guatemala,2020-07-06,Delta,0,0.0,11
+33275,Guatemala,2020-07-20,Delta,0,0.0,6
+33299,Guatemala,2020-08-03,Delta,0,0.0,10
+33323,Guatemala,2020-08-17,Delta,0,0.0,3
+33347,Guatemala,2020-08-31,Delta,0,0.0,1
+33371,Guatemala,2020-09-14,Delta,0,0.0,1
+33395,Guatemala,2020-09-28,Delta,0,0.0,4
+33419,Guatemala,2020-10-12,Delta,0,0.0,48
+33443,Guatemala,2020-10-26,Delta,0,0.0,31
+33467,Guatemala,2020-11-09,Delta,0,0.0,29
+33491,Guatemala,2020-11-23,Delta,0,0.0,7
+33515,Guatemala,2020-12-07,Delta,0,0.0,17
+33539,Guatemala,2020-12-21,Delta,0,0.0,10
+33563,Guatemala,2021-01-04,Delta,0,0.0,11
+33587,Guatemala,2021-01-11,Delta,0,0.0,35
+33611,Guatemala,2021-01-25,Delta,0,0.0,51
+33635,Guatemala,2021-02-08,Delta,0,0.0,29
+33659,Guatemala,2021-02-22,Delta,0,0.0,9
+33683,Guatemala,2021-03-08,Delta,0,0.0,44
+33707,Guatemala,2021-03-22,Delta,0,0.0,14
+33731,Guatemala,2021-04-05,Delta,0,0.0,9
+33755,Guatemala,2021-04-19,Delta,0,0.0,27
+33779,Guatemala,2021-05-03,Delta,1,12.5,8
+33803,Guatemala,2021-05-17,Delta,0,0.0,11
+33827,Guatemala,2021-05-31,Delta,0,0.0,19
+33851,Guatemala,2021-06-14,Delta,2,8.33,24
+33875,Guatemala,2021-06-28,Delta,18,21.95,82
+33899,Guatemala,2021-07-12,Delta,59,34.5,171
+33923,Guatemala,2021-07-26,Delta,26,47.27,55
+33947,Guatemala,2021-08-09,Delta,49,64.47,76
+33971,Guatemala,2021-08-23,Delta,69,81.18,85
+33995,Guatemala,2021-09-06,Delta,86,90.53,95
+34019,Guatemala,2021-09-20,Delta,131,97.04,135
+34043,Guatemala,2021-10-04,Delta,122,97.6,125
+34067,Guatemala,2021-10-18,Delta,59,100.0,59
+34091,Guatemala,2021-11-01,Delta,23,100.0,23
+34115,Guatemala,2021-11-15,Delta,24,100.0,24
+34139,Guatemala,2021-11-29,Delta,18,100.0,18
+34163,Guatemala,2021-12-13,Delta,4,100.0,4
+34187,Hong Kong,2020-05-11,Delta,0,0.0,3
+34211,Hong Kong,2020-05-25,Delta,0,0.0,4
+34235,Hong Kong,2020-06-08,Delta,0,0.0,8
+34259,Hong Kong,2020-06-22,Delta,0,0.0,5
+34283,Hong Kong,2020-07-06,Delta,0,0.0,34
+34307,Hong Kong,2020-07-20,Delta,0,0.0,234
+34331,Hong Kong,2020-08-03,Delta,0,0.0,248
+34355,Hong Kong,2020-08-17,Delta,0,0.0,105
+34379,Hong Kong,2020-08-31,Delta,0,0.0,55
+34403,Hong Kong,2020-09-14,Delta,0,0.0,29
+34427,Hong Kong,2020-09-28,Delta,0,0.0,40
+34451,Hong Kong,2020-10-12,Delta,0,0.0,65
+34475,Hong Kong,2020-10-26,Delta,0,0.0,13
+34499,Hong Kong,2020-11-09,Delta,0,0.0,26
+34523,Hong Kong,2020-11-23,Delta,0,0.0,114
+34547,Hong Kong,2020-12-07,Delta,0,0.0,234
+34571,Hong Kong,2020-12-21,Delta,0,0.0,141
+34595,Hong Kong,2021-01-04,Delta,0,0.0,182
+34619,Hong Kong,2021-01-11,Delta,0,0.0,19
+34643,Hong Kong,2021-01-25,Delta,0,0.0,67
+34667,Hong Kong,2021-02-08,Delta,0,0.0,45
+34691,Hong Kong,2021-02-22,Delta,0,0.0,12
+34715,Hong Kong,2021-03-08,Delta,0,0.0,28
+34739,Hong Kong,2021-03-22,Delta,0,0.0,139
+34763,Hong Kong,2021-04-05,Delta,2,4.65,43
+34787,Hong Kong,2021-04-19,Delta,8,10.39,77
+34811,Hong Kong,2021-05-03,Delta,23,57.5,40
+34835,Hong Kong,2021-05-17,Delta,5,23.81,21
+34859,Hong Kong,2021-05-31,Delta,2,25.0,8
+34883,Hong Kong,2021-06-14,Delta,15,50.0,30
+34907,Hong Kong,2021-06-28,Delta,52,100.0,52
+34931,Hong Kong,2021-07-12,Delta,32,96.97,33
+34955,Hong Kong,2021-07-26,Delta,13,86.67,15
+34979,Hong Kong,2021-08-09,Delta,23,88.46,26
+35003,Hong Kong,2021-08-23,Delta,27,100.0,27
+35027,Hong Kong,2021-09-06,Delta,49,100.0,49
+35051,Hong Kong,2021-09-20,Delta,29,100.0,29
+35075,Hong Kong,2021-10-04,Delta,24,100.0,24
+35099,Hong Kong,2021-10-18,Delta,28,100.0,28
+35123,Hong Kong,2021-11-01,Delta,25,100.0,25
+35147,Hong Kong,2021-11-15,Delta,28,90.32,31
+35171,Hong Kong,2021-11-29,Delta,29,72.5,40
+35195,Hong Kong,2021-12-13,Delta,19,76.0,25
+35219,Hong Kong,2021-12-27,Delta,11,23.91,46
+35243,Hungary,2020-05-11,Delta,0,0.0,7
+35267,Hungary,2020-05-25,Delta,0,0.0,5
+35291,Hungary,2020-06-08,Delta,0,0.0,10
+35315,Hungary,2020-06-22,Delta,0,0.0,4
+35339,Hungary,2020-07-06,Delta,0,0.0,3
+35363,Hungary,2020-07-20,Delta,0,0.0,1
+35387,Hungary,2020-08-31,Delta,0,0.0,7
+35411,Hungary,2020-09-14,Delta,0,0.0,71
+35435,Hungary,2020-10-12,Delta,0,0.0,106
+35459,Hungary,2020-10-26,Delta,0,0.0,6
+35483,Hungary,2020-11-09,Delta,0,0.0,37
+35507,Hungary,2020-12-21,Delta,0,0.0,1
+35531,Hungary,2021-01-11,Delta,0,0.0,8
+35555,Hungary,2021-01-25,Delta,0,0.0,19
+35579,Hungary,2021-02-08,Delta,0,0.0,27
+35603,Hungary,2021-02-22,Delta,0,0.0,11
+35627,Hungary,2021-03-08,Delta,0,0.0,3
+35651,Iceland,2020-08-03,Delta,0,0.0,58
+35675,Iceland,2020-08-17,Delta,0,0.0,86
+35699,Iceland,2020-08-31,Delta,0,0.0,80
+35723,Iceland,2020-09-14,Delta,0,0.0,47
+35747,Iceland,2020-09-28,Delta,0,0.0,468
+35771,Iceland,2020-10-12,Delta,0,0.0,867
+35795,Iceland,2020-10-26,Delta,0,0.0,851
+35819,Iceland,2020-11-09,Delta,0,0.0,538
+35843,Iceland,2020-11-23,Delta,0,0.0,170
+35867,Iceland,2020-12-07,Delta,0,0.0,193
+35891,Iceland,2020-12-21,Delta,0,0.0,155
+35915,Iceland,2021-01-04,Delta,0,0.0,140
+35939,Iceland,2021-01-11,Delta,0,0.0,104
+35963,Iceland,2021-01-25,Delta,0,0.0,84
+35987,Iceland,2021-02-08,Delta,0,0.0,29
+36011,Iceland,2021-02-22,Delta,0,0.0,21
+36035,Iceland,2021-03-08,Delta,0,0.0,15
+36059,Iceland,2021-03-22,Delta,0,0.0,54
+36083,Iceland,2021-04-05,Delta,0,0.0,103
+36107,Iceland,2021-04-19,Delta,0,0.0,88
+36131,Iceland,2021-05-03,Delta,0,0.0,157
+36155,Iceland,2021-05-17,Delta,2,3.17,63
+36179,Iceland,2021-05-31,Delta,2,4.88,41
+36203,Iceland,2021-06-14,Delta,4,8.89,45
+36227,Iceland,2021-06-28,Delta,18,48.65,37
+36251,Iceland,2021-07-12,Delta,31,77.5,40
+36275,Iceland,2021-07-26,Delta,619,99.36,623
+36299,Iceland,2021-08-09,Delta,1446,99.79,1449
+36323,Iceland,2021-08-23,Delta,1268,100.0,1268
+36347,Iceland,2021-09-06,Delta,400,100.0,400
+36371,India,2020-05-11,Delta,0,0.0,471
+36395,India,2020-05-25,Delta,0,0.0,649
+36419,India,2020-06-08,Delta,0,0.0,617
+36443,India,2020-06-22,Delta,0,0.0,766
+36467,India,2020-07-06,Delta,0,0.0,276
+36491,India,2020-07-20,Delta,0,0.0,317
+36515,India,2020-08-03,Delta,0,0.0,393
+36539,India,2020-08-17,Delta,0,0.0,418
+36563,India,2020-08-31,Delta,0,0.0,235
+36587,India,2020-09-14,Delta,0,0.0,423
+36611,India,2020-09-28,Delta,0,0.0,397
+36635,India,2020-10-12,Delta,0,0.0,409
+36659,India,2020-10-26,Delta,2,0.61,329
+36683,India,2020-11-09,Delta,12,3.39,354
+36707,India,2020-11-23,Delta,16,5.59,286
+36731,India,2020-12-07,Delta,20,1.77,1130
+36755,India,2020-12-21,Delta,11,0.71,1546
+36779,India,2021-01-04,Delta,12,0.93,1293
+36803,India,2021-01-11,Delta,47,8.05,584
+36827,India,2021-01-25,Delta,31,2.65,1170
+36851,India,2021-02-08,Delta,49,3.67,1336
+36875,India,2021-02-22,Delta,108,6.36,1697
+36899,India,2021-03-08,Delta,96,3.87,2478
+36923,India,2021-03-22,Delta,287,7.63,3761
+36947,India,2021-04-05,Delta,1103,23.3,4734
+36971,India,2021-04-19,Delta,4147,55.57,7463
+36995,India,2021-05-03,Delta,6174,76.35,8086
+37019,India,2021-05-17,Delta,5830,90.85,6417
+37043,India,2021-05-31,Delta,4987,93.25,5348
+37067,India,2021-06-14,Delta,4056,95.26,4258
+37091,India,2021-06-28,Delta,3649,96.56,3779
+37115,India,2021-07-12,Delta,3241,95.1,3408
+37139,India,2021-07-26,Delta,3209,97.69,3285
+37163,India,2021-08-09,Delta,2817,97.54,2888
+37187,India,2021-08-23,Delta,2595,98.11,2645
+37211,India,2021-09-06,Delta,3609,98.69,3657
+37235,India,2021-09-20,Delta,3181,98.67,3224
+37259,India,2021-10-04,Delta,2402,98.6,2436
+37283,India,2021-10-18,Delta,1948,98.48,1978
+37307,India,2021-11-01,Delta,1734,97.36,1781
+37331,India,2021-11-15,Delta,1258,92.36,1362
+37355,India,2021-11-29,Delta,1291,94.93,1360
+37379,India,2021-12-13,Delta,1032,95.12,1085
+37403,India,2021-12-27,Delta,304,60.92,499
+37427,Indonesia,2020-05-11,Delta,0,0.0,11
+37451,Indonesia,2020-05-25,Delta,0,0.0,13
+37475,Indonesia,2020-06-08,Delta,0,0.0,18
+37499,Indonesia,2020-06-22,Delta,0,0.0,20
+37523,Indonesia,2020-07-06,Delta,0,0.0,16
+37547,Indonesia,2020-07-20,Delta,0,0.0,18
+37571,Indonesia,2020-08-03,Delta,0,0.0,28
+37595,Indonesia,2020-08-17,Delta,0,0.0,26
+37619,Indonesia,2020-08-31,Delta,0,0.0,24
+37643,Indonesia,2020-09-14,Delta,0,0.0,41
+37667,Indonesia,2020-09-28,Delta,0,0.0,22
+37691,Indonesia,2020-10-12,Delta,0,0.0,29
+37715,Indonesia,2020-10-26,Delta,0,0.0,55
+37739,Indonesia,2020-11-09,Delta,0,0.0,43
+37763,Indonesia,2020-11-23,Delta,0,0.0,82
+37787,Indonesia,2020-12-07,Delta,0,0.0,79
+37811,Indonesia,2020-12-21,Delta,0,0.0,98
+37835,Indonesia,2021-01-04,Delta,0,0.0,156
+37859,Indonesia,2021-01-11,Delta,3,1.32,227
+37883,Indonesia,2021-01-25,Delta,0,0.0,386
+37907,Indonesia,2021-02-08,Delta,0,0.0,240
+37931,Indonesia,2021-02-22,Delta,2,1.04,192
+37955,Indonesia,2021-03-08,Delta,0,0.0,301
+37979,Indonesia,2021-03-22,Delta,6,2.38,252
+38003,Indonesia,2021-04-05,Delta,10,5.71,175
+38027,Indonesia,2021-04-19,Delta,15,8.2,183
+38051,Indonesia,2021-05-03,Delta,25,10.08,248
+38075,Indonesia,2021-05-17,Delta,23,6.52,353
+38099,Indonesia,2021-05-31,Delta,158,26.78,590
+38123,Indonesia,2021-06-14,Delta,445,68.46,650
+38147,Indonesia,2021-06-28,Delta,911,87.51,1041
+38171,Indonesia,2021-07-12,Delta,905,92.63,977
+38195,Indonesia,2021-07-26,Delta,727,96.68,752
+38219,Indonesia,2021-08-09,Delta,1002,98.72,1015
+38243,Indonesia,2021-08-23,Delta,555,100.0,555
+38267,Indonesia,2021-09-06,Delta,647,99.39,651
+38291,Indonesia,2021-09-20,Delta,390,99.24,393
+38315,Indonesia,2021-10-04,Delta,270,97.83,276
+38339,Indonesia,2021-10-18,Delta,239,98.35,243
+38363,Indonesia,2021-11-01,Delta,145,100.0,145
+38387,Indonesia,2021-11-15,Delta,135,99.26,136
+38411,Indonesia,2021-11-29,Delta,143,100.0,143
+38435,Indonesia,2021-12-13,Delta,195,97.5,200
+38459,Indonesia,2021-12-27,Delta,178,57.79,308
+38483,Iran,2020-05-11,Delta,0,0.0,12
+38507,Iran,2020-05-25,Delta,0,0.0,8
+38531,Iran,2020-06-08,Delta,0,0.0,5
+38555,Iran,2020-06-22,Delta,0,0.0,11
+38579,Iran,2020-07-06,Delta,0,0.0,6
+38603,Iran,2020-07-20,Delta,0,0.0,4
+38627,Iran,2020-08-31,Delta,0,0.0,6
+38651,Iran,2020-09-28,Delta,0,0.0,3
+38675,Iran,2020-10-12,Delta,0,0.0,2
+38699,Iran,2020-10-26,Delta,0,0.0,3
+38723,Iran,2020-11-09,Delta,0,0.0,19
+38747,Iran,2020-11-23,Delta,0,0.0,13
+38771,Iran,2020-12-07,Delta,0,0.0,15
+38795,Iran,2020-12-21,Delta,0,0.0,13
+38819,Iran,2021-01-04,Delta,0,0.0,7
+38843,Iran,2021-01-11,Delta,0,0.0,15
+38867,Iran,2021-01-25,Delta,0,0.0,10
+38891,Iran,2021-02-08,Delta,0,0.0,54
+38915,Iran,2021-02-22,Delta,0,0.0,33
+38939,Iran,2021-03-08,Delta,0,0.0,13
+38963,Iran,2021-04-05,Delta,0,0.0,17
+38987,Iran,2021-04-19,Delta,1,4.55,22
+39011,Iran,2021-05-03,Delta,16,33.33,48
+39035,Iran,2021-05-17,Delta,0,0.0,17
+39059,Iran,2021-05-31,Delta,0,0.0,4
+39083,Iran,2021-07-26,Delta,0,0.0,1
+39107,Iran,2021-08-09,Delta,3,100.0,3
+39131,Iran,2021-09-06,Delta,2,100.0,2
+39155,Iran,2021-12-13,Delta,0,0.0,2
+39179,Iran,2021-12-27,Delta,0,0.0,1
+39203,Iraq,2020-06-08,Delta,0,0.0,10
+39227,Iraq,2020-06-22,Delta,0,0.0,18
+39251,Iraq,2020-07-06,Delta,0,0.0,2
+39275,Iraq,2020-10-12,Delta,0,0.0,2
+39299,Iraq,2020-12-21,Delta,0,0.0,2
+39323,Iraq,2021-01-04,Delta,0,0.0,2
+39347,Iraq,2021-01-11,Delta,0,0.0,1
+39371,Iraq,2021-01-25,Delta,0,0.0,4
+39395,Iraq,2021-02-08,Delta,0,0.0,4
+39419,Iraq,2021-02-22,Delta,0,0.0,63
+39443,Iraq,2021-03-08,Delta,0,0.0,15
+39467,Iraq,2021-03-22,Delta,0,0.0,5
+39491,Iraq,2021-04-05,Delta,0,0.0,5
+39515,Iraq,2021-04-19,Delta,0,0.0,2
+39539,Iraq,2021-05-03,Delta,2,16.67,12
+39563,Iraq,2021-05-17,Delta,0,0.0,3
+39587,Iraq,2021-05-31,Delta,0,0.0,2
+39611,Iraq,2021-06-14,Delta,1,50.0,2
+39635,Iraq,2021-07-12,Delta,1,50.0,2
+39659,Iraq,2021-07-26,Delta,8,100.0,8
+39683,Iraq,2021-08-09,Delta,2,100.0,2
+39707,Iraq,2021-11-15,Delta,1,100.0,1
+39731,Ireland,2020-05-11,Delta,0,0.0,115
+39755,Ireland,2020-05-25,Delta,0,0.0,43
+39779,Ireland,2020-06-08,Delta,0,0.0,8
+39803,Ireland,2020-06-22,Delta,0,0.0,5
+39827,Ireland,2020-07-06,Delta,0,0.0,9
+39851,Ireland,2020-07-20,Delta,0,0.0,32
+39875,Ireland,2020-08-03,Delta,0,0.0,59
+39899,Ireland,2020-08-17,Delta,0,0.0,87
+39923,Ireland,2020-08-31,Delta,0,0.0,22
+39947,Ireland,2020-09-14,Delta,0,0.0,79
+39971,Ireland,2020-09-28,Delta,0,0.0,102
+39995,Ireland,2020-10-12,Delta,0,0.0,85
+40019,Ireland,2020-10-26,Delta,0,0.0,100
+40043,Ireland,2020-11-09,Delta,0,0.0,70
+40067,Ireland,2020-11-23,Delta,0,0.0,95
+40091,Ireland,2020-12-07,Delta,0,0.0,91
+40115,Ireland,2020-12-21,Delta,0,0.0,100
+40139,Ireland,2021-01-04,Delta,0,0.0,208
+40163,Ireland,2021-01-11,Delta,0,0.0,140
+40187,Ireland,2021-01-25,Delta,0,0.0,505
+40211,Ireland,2021-02-08,Delta,0,0.0,1177
+40235,Ireland,2021-02-22,Delta,0,0.0,1474
+40259,Ireland,2021-03-08,Delta,0,0.0,1630
+40283,Ireland,2021-03-22,Delta,0,0.0,1718
+40307,Ireland,2021-04-05,Delta,6,0.43,1383
+40331,Ireland,2021-04-19,Delta,13,0.89,1464
+40355,Ireland,2021-05-03,Delta,62,3.26,1901
+40379,Ireland,2021-05-17,Delta,64,3.42,1873
+40403,Ireland,2021-05-31,Delta,71,3.02,2353
+40427,Ireland,2021-06-14,Delta,168,11.98,1402
+40451,Ireland,2021-06-28,Delta,705,44.9,1570
+40475,Ireland,2021-07-12,Delta,1584,90.05,1759
+40499,Ireland,2021-07-26,Delta,2789,96.17,2900
+40523,Ireland,2021-08-09,Delta,2983,99.07,3011
+40547,Ireland,2021-08-23,Delta,2877,99.62,2888
+40571,Ireland,2021-09-06,Delta,2160,99.95,2161
+40595,Ireland,2021-09-20,Delta,2429,100.0,2429
+40619,Ireland,2021-10-04,Delta,1681,100.0,1681
+40643,Ireland,2021-10-18,Delta,2961,100.0,2961
+40667,Ireland,2021-11-01,Delta,3373,100.0,3373
+40691,Ireland,2021-11-15,Delta,990,100.0,990
+40715,Ireland,2021-11-29,Delta,481,98.77,487
+40739,Ireland,2021-12-13,Delta,753,84.8,888
+40763,Israel,2020-05-11,Delta,0,0.0,8
+40787,Israel,2020-05-25,Delta,0,0.0,4
+40811,Israel,2020-06-08,Delta,0,0.0,18
+40835,Israel,2020-06-22,Delta,0,0.0,7
+40859,Israel,2020-07-06,Delta,0,0.0,16
+40883,Israel,2020-07-20,Delta,0,0.0,6
+40907,Israel,2020-08-03,Delta,0,0.0,48
+40931,Israel,2020-08-17,Delta,0,0.0,9
+40955,Israel,2020-08-31,Delta,0,0.0,1
+40979,Israel,2020-09-14,Delta,0,0.0,3
+41003,Israel,2020-09-28,Delta,0,0.0,1
+41027,Israel,2020-10-26,Delta,0,0.0,1
+41051,Israel,2020-11-23,Delta,0,0.0,1
+41075,Israel,2020-12-07,Delta,0,0.0,9
+41099,Israel,2020-12-21,Delta,0,0.0,54
+41123,Israel,2021-01-04,Delta,0,0.0,1402
+41147,Israel,2021-01-11,Delta,4,0.57,696
+41171,Israel,2021-01-25,Delta,4,0.34,1167
+41195,Israel,2021-02-08,Delta,6,0.26,2335
+41219,Israel,2021-02-22,Delta,0,0.0,885
+41243,Israel,2021-03-08,Delta,0,0.0,2004
+41267,Israel,2021-03-22,Delta,0,0.0,925
+41291,Israel,2021-04-05,Delta,0,0.0,830
+41315,Israel,2021-04-19,Delta,28,5.81,482
+41339,Israel,2021-05-03,Delta,19,5.32,357
+41363,Israel,2021-05-17,Delta,23,11.27,204
+41387,Israel,2021-05-31,Delta,14,9.33,150
+41411,Israel,2021-06-14,Delta,78,68.42,114
+41435,Israel,2021-06-28,Delta,826,97.52,847
+41459,Israel,2021-07-12,Delta,1521,93.48,1627
+41483,Israel,2021-07-26,Delta,507,99.02,512
+41507,Israel,2021-08-09,Delta,1634,99.21,1647
+41531,Israel,2021-08-23,Delta,1558,99.74,1562
+41555,Israel,2021-09-06,Delta,2170,99.68,2177
+41579,Israel,2021-09-20,Delta,2417,99.96,2418
+41603,Israel,2021-10-04,Delta,778,99.87,779
+41627,Israel,2021-10-18,Delta,1534,99.22,1546
+41651,Israel,2021-11-01,Delta,1010,97.02,1041
+41675,Israel,2021-11-15,Delta,1634,98.91,1652
+41699,Israel,2021-11-29,Delta,2595,98.59,2632
+41723,Israel,2021-12-13,Delta,2600,90.12,2885
+41747,Israel,2021-12-27,Delta,1344,45.79,2935
+41771,Italy,2020-05-11,Delta,0,0.0,128
+41795,Italy,2020-05-25,Delta,0,0.0,51
+41819,Italy,2020-06-08,Delta,0,0.0,35
+41843,Italy,2020-06-22,Delta,0,0.0,51
+41867,Italy,2020-07-06,Delta,0,0.0,109
+41891,Italy,2020-07-20,Delta,0,0.0,33
+41915,Italy,2020-08-03,Delta,0,0.0,28
+41939,Italy,2020-08-17,Delta,0,0.0,30
+41963,Italy,2020-08-31,Delta,0,0.0,133
+41987,Italy,2020-09-14,Delta,0,0.0,155
+42011,Italy,2020-09-28,Delta,0,0.0,164
+42035,Italy,2020-10-12,Delta,0,0.0,153
+42059,Italy,2020-10-26,Delta,0,0.0,221
+42083,Italy,2020-11-09,Delta,0,0.0,489
+42107,Italy,2020-11-23,Delta,0,0.0,261
+42131,Italy,2020-12-07,Delta,0,0.0,264
+42155,Italy,2020-12-21,Delta,0,0.0,723
+42179,Italy,2021-01-04,Delta,0,0.0,764
+42203,Italy,2021-01-11,Delta,0,0.0,430
+42227,Italy,2021-01-25,Delta,0,0.0,1202
+42251,Italy,2021-02-08,Delta,0,0.0,1037
+42275,Italy,2021-02-22,Delta,0,0.0,3126
+42299,Italy,2021-03-08,Delta,1,0.02,4193
+42323,Italy,2021-03-22,Delta,201,3.56,5646
+42347,Italy,2021-04-05,Delta,2,0.06,3420
+42371,Italy,2021-04-19,Delta,5,0.13,3809
+42395,Italy,2021-05-03,Delta,61,1.5,4066
+42419,Italy,2021-05-17,Delta,110,4.63,2377
+42443,Italy,2021-05-31,Delta,131,4.89,2678
+42467,Italy,2021-06-14,Delta,253,16.36,1546
+42491,Italy,2021-06-28,Delta,604,30.69,1968
+42515,Italy,2021-07-12,Delta,2150,70.4,3054
+42539,Italy,2021-07-26,Delta,4360,91.39,4771
+42563,Italy,2021-08-09,Delta,3960,95.77,4135
+42587,Italy,2021-08-23,Delta,3232,99.11,3261
+42611,Italy,2021-09-06,Delta,3503,99.66,3515
+42635,Italy,2021-09-20,Delta,2251,99.78,2256
+42659,Italy,2021-10-04,Delta,2487,99.72,2494
+42683,Italy,2021-10-18,Delta,2114,96.71,2186
+42707,Italy,2021-11-01,Delta,2500,99.8,2505
+42731,Italy,2021-11-15,Delta,3015,99.7,3024
+42755,Italy,2021-11-29,Delta,3205,95.5,3356
+42779,Italy,2021-12-13,Delta,3375,98.83,3415
+42803,Italy,2021-12-27,Delta,1866,79.2,2356
+42827,Jamaica,2021-01-04,Delta,0,0.0,5
+42851,Jamaica,2021-01-25,Delta,0,0.0,7
+42875,Jamaica,2021-02-08,Delta,0,0.0,10
+42899,Jamaica,2021-02-22,Delta,0,0.0,3
+42923,Jamaica,2021-03-08,Delta,0,0.0,112
+42947,Jamaica,2021-03-22,Delta,0,0.0,1
+42971,Jamaica,2021-04-05,Delta,0,0.0,9
+42995,Jamaica,2021-04-19,Delta,0,0.0,10
+43019,Jamaica,2021-05-03,Delta,0,0.0,1
+43043,Jamaica,2021-05-17,Delta,0,0.0,30
+43067,Jamaica,2021-05-31,Delta,0,0.0,26
+43091,Jamaica,2021-07-26,Delta,62,67.39,92
+43115,Jamaica,2021-08-09,Delta,4,50.0,8
+43139,Jamaica,2021-08-23,Delta,22,64.71,34
+43163,Jamaica,2021-09-06,Delta,7,77.78,9
+43187,Jamaica,2021-10-04,Delta,1,100.0,1
+43211,Jamaica,2021-10-18,Delta,1,100.0,1
+43235,Jamaica,2021-11-01,Delta,5,71.43,7
+43259,Japan,2020-05-11,Delta,0,0.0,415
+43283,Japan,2020-05-25,Delta,0,0.0,116
+43307,Japan,2020-06-08,Delta,0,0.0,146
+43331,Japan,2020-06-22,Delta,0,0.0,189
+43355,Japan,2020-07-06,Delta,0,0.0,386
+43379,Japan,2020-07-20,Delta,0,0.0,779
+43403,Japan,2020-08-03,Delta,0,0.0,1843
+43427,Japan,2020-08-17,Delta,0,0.0,2125
+43451,Japan,2020-08-31,Delta,0,0.0,1450
+43475,Japan,2020-09-14,Delta,0,0.0,764
+43499,Japan,2020-09-28,Delta,0,0.0,523
+43523,Japan,2020-10-12,Delta,0,0.0,546
+43547,Japan,2020-10-26,Delta,0,0.0,685
+43571,Japan,2020-11-09,Delta,0,0.0,818
+43595,Japan,2020-11-23,Delta,0,0.0,1745
+43619,Japan,2020-12-07,Delta,0,0.0,1976
+43643,Japan,2020-12-21,Delta,0,0.0,2240
+43667,Japan,2021-01-04,Delta,0,0.0,2441
+43691,Japan,2021-01-11,Delta,0,0.0,2303
+43715,Japan,2021-01-25,Delta,0,0.0,3637
+43739,Japan,2021-02-08,Delta,2,0.08,2366
+43763,Japan,2021-02-22,Delta,0,0.0,1316
+43787,Japan,2021-03-08,Delta,0,0.0,1308
+43811,Japan,2021-03-22,Delta,0,0.0,2208
+43835,Japan,2021-04-05,Delta,3,0.07,4081
+43859,Japan,2021-04-19,Delta,19,0.34,5582
+43883,Japan,2021-05-03,Delta,52,0.51,10178
+43907,Japan,2021-05-17,Delta,145,1.54,9411
+43931,Japan,2021-05-31,Delta,123,2.08,5920
+43955,Japan,2021-06-14,Delta,194,4.61,4207
+43979,Japan,2021-06-28,Delta,527,12.49,4220
+44003,Japan,2021-07-12,Delta,1658,28.99,5720
+44027,Japan,2021-07-26,Delta,6217,61.28,10145
+44051,Japan,2021-08-09,Delta,14466,83.61,17302
+44075,Japan,2021-08-23,Delta,27530,95.12,28942
+44099,Japan,2021-09-06,Delta,24179,98.2,24621
+44123,Japan,2021-09-20,Delta,9580,99.37,9641
+44147,Japan,2021-10-04,Delta,2768,99.82,2773
+44171,Japan,2021-10-18,Delta,1162,99.91,1163
+44195,Japan,2021-11-01,Delta,531,100.0,531
+44219,Japan,2021-11-15,Delta,423,100.0,423
+44243,Japan,2021-11-29,Delta,270,98.18,275
+44267,Japan,2021-12-13,Delta,199,88.05,226
+44291,Japan,2021-12-27,Delta,35,22.88,153
+44315,Jordan,2020-06-08,Delta,0,0.0,2
+44339,Jordan,2020-06-22,Delta,0,0.0,1
+44363,Jordan,2020-07-06,Delta,0,0.0,3
+44387,Jordan,2020-08-17,Delta,0,0.0,1
+44411,Jordan,2020-08-31,Delta,0,0.0,13
+44435,Jordan,2020-09-14,Delta,0,0.0,27
+44459,Jordan,2020-09-28,Delta,0,0.0,15
+44483,Jordan,2020-10-12,Delta,0,0.0,311
+44507,Jordan,2020-10-26,Delta,0,0.0,90
+44531,Jordan,2020-11-09,Delta,0,0.0,48
+44555,Jordan,2020-12-07,Delta,0,0.0,2
+44579,Jordan,2020-12-21,Delta,0,0.0,2
+44603,Jordan,2021-01-04,Delta,0,0.0,9
+44627,Jordan,2021-01-11,Delta,0,0.0,42
+44651,Jordan,2021-01-25,Delta,0,0.0,6
+44675,Jordan,2021-02-08,Delta,0,0.0,25
+44699,Jordan,2021-02-22,Delta,0,0.0,17
+44723,Jordan,2021-03-08,Delta,0,0.0,12
+44747,Jordan,2021-03-22,Delta,0,0.0,29
+44771,Jordan,2021-04-05,Delta,0,0.0,13
+44795,Jordan,2021-04-19,Delta,0,0.0,19
+44819,Jordan,2021-05-03,Delta,3,18.75,16
+44843,Jordan,2021-05-17,Delta,3,17.65,17
+44867,Jordan,2021-05-31,Delta,4,28.57,14
+44891,Jordan,2021-06-14,Delta,22,81.48,27
+44915,Jordan,2021-06-28,Delta,10,62.5,16
+44939,Jordan,2021-07-12,Delta,9,75.0,12
+44963,Jordan,2021-07-26,Delta,5,100.0,5
+44987,Jordan,2021-08-09,Delta,13,100.0,13
+45011,Jordan,2021-08-23,Delta,11,91.67,12
+45035,Jordan,2021-09-06,Delta,22,100.0,22
+45059,Jordan,2021-09-20,Delta,35,100.0,35
+45083,Jordan,2021-10-04,Delta,71,100.0,71
+45107,Jordan,2021-10-18,Delta,64,100.0,64
+45131,Jordan,2021-11-01,Delta,43,100.0,43
+45155,Jordan,2021-11-15,Delta,38,97.44,39
+45179,Jordan,2021-11-29,Delta,38,100.0,38
+45203,Jordan,2021-12-13,Delta,23,88.46,26
+45227,Jordan,2021-12-27,Delta,10,31.25,32
+45251,Kazakhstan,2020-05-11,Delta,0,0.0,2
+45275,Kazakhstan,2020-05-25,Delta,0,0.0,1
+45299,Kazakhstan,2020-11-23,Delta,0,0.0,9
+45323,Kazakhstan,2020-12-07,Delta,0,0.0,2
+45347,Kazakhstan,2020-12-21,Delta,0,0.0,13
+45371,Kazakhstan,2021-01-04,Delta,0,0.0,9
+45395,Kazakhstan,2021-01-11,Delta,0,0.0,7
+45419,Kazakhstan,2021-01-25,Delta,0,0.0,1
+45443,Kazakhstan,2021-03-08,Delta,0,0.0,16
+45467,Kazakhstan,2021-03-22,Delta,0,0.0,39
+45491,Kazakhstan,2021-04-05,Delta,0,0.0,59
+45515,Kazakhstan,2021-04-19,Delta,0,0.0,35
+45539,Kazakhstan,2021-05-03,Delta,0,0.0,47
+45563,Kazakhstan,2021-07-26,Delta,1,100.0,1
+45587,Kazakhstan,2021-08-23,Delta,92,98.92,93
+45611,Kazakhstan,2021-09-06,Delta,3,100.0,3
+45635,Kazakhstan,2021-09-20,Delta,19,100.0,19
+45659,Kazakhstan,2021-10-04,Delta,20,100.0,20
+45683,Kazakhstan,2021-10-18,Delta,53,100.0,53
+45707,Kenya,2020-05-11,Delta,0,0.0,76
+45731,Kenya,2020-05-25,Delta,0,0.0,125
+45755,Kenya,2020-06-08,Delta,0,0.0,38
+45779,Kenya,2020-06-22,Delta,0,0.0,57
+45803,Kenya,2020-07-06,Delta,0,0.0,89
+45827,Kenya,2020-07-20,Delta,0,0.0,67
+45851,Kenya,2020-08-03,Delta,0,0.0,38
+45875,Kenya,2020-08-17,Delta,0,0.0,56
+45899,Kenya,2020-08-31,Delta,0,0.0,54
+45923,Kenya,2020-09-14,Delta,0,0.0,54
+45947,Kenya,2020-09-28,Delta,0,0.0,17
+45971,Kenya,2020-10-12,Delta,0,0.0,68
+45995,Kenya,2020-10-26,Delta,0,0.0,157
+46019,Kenya,2020-11-09,Delta,0,0.0,344
+46043,Kenya,2020-11-23,Delta,0,0.0,256
+46067,Kenya,2020-12-07,Delta,0,0.0,157
+46091,Kenya,2020-12-21,Delta,0,0.0,75
+46115,Kenya,2021-01-04,Delta,0,0.0,29
+46139,Kenya,2021-01-11,Delta,0,0.0,37
+46163,Kenya,2021-01-25,Delta,0,0.0,52
+46187,Kenya,2021-02-08,Delta,0,0.0,70
+46211,Kenya,2021-02-22,Delta,0,0.0,64
+46235,Kenya,2021-03-08,Delta,0,0.0,224
+46259,Kenya,2021-03-22,Delta,1,0.38,261
+46283,Kenya,2021-04-05,Delta,0,0.0,169
+46307,Kenya,2021-04-19,Delta,13,9.77,133
+46331,Kenya,2021-05-03,Delta,14,10.29,136
+46355,Kenya,2021-05-17,Delta,14,11.97,117
+46379,Kenya,2021-05-31,Delta,78,40.21,194
+46403,Kenya,2021-06-14,Delta,73,55.3,132
+46427,Kenya,2021-06-28,Delta,140,80.92,173
+46451,Kenya,2021-07-12,Delta,256,92.09,278
+46475,Kenya,2021-07-26,Delta,214,96.4,222
+46499,Kenya,2021-08-09,Delta,282,95.27,296
+46523,Kenya,2021-08-23,Delta,287,98.97,290
+46547,Kenya,2021-09-06,Delta,230,100.0,230
+46571,Kenya,2021-09-20,Delta,157,100.0,157
+46595,Kenya,2021-10-04,Delta,96,96.97,99
+46619,Kenya,2021-10-18,Delta,59,92.19,64
+46643,Kenya,2021-11-01,Delta,33,100.0,33
+46667,Kenya,2021-11-15,Delta,46,97.87,47
+46691,Kenya,2021-11-29,Delta,14,77.78,18
+46715,Kenya,2021-12-13,Delta,8,18.18,44
+46739,Kosovo,2020-05-11,Delta,0,0.0,1
+46763,Kosovo,2020-07-20,Delta,0,0.0,4
+46787,Kosovo,2020-08-03,Delta,0,0.0,4
+46811,Kosovo,2020-11-23,Delta,0,0.0,1
+46835,Kosovo,2020-12-21,Delta,0,0.0,3
+46859,Kosovo,2021-01-04,Delta,0,0.0,7
+46883,Kosovo,2021-01-11,Delta,0,0.0,14
+46907,Kosovo,2021-05-03,Delta,2,100.0,2
+46931,Kosovo,2021-05-17,Delta,0,0.0,11
+46955,Kosovo,2021-05-31,Delta,0,0.0,1
+46979,Kosovo,2021-06-14,Delta,0,0.0,7
+47003,Kosovo,2021-07-12,Delta,2,66.67,3
+47027,Kosovo,2021-07-26,Delta,43,97.73,44
+47051,Kosovo,2021-08-09,Delta,164,98.8,166
+47075,Kosovo,2021-08-23,Delta,154,100.0,154
+47099,Kosovo,2021-09-06,Delta,64,100.0,64
+47123,Kosovo,2021-09-20,Delta,243,100.0,243
+47147,Kosovo,2021-10-04,Delta,110,100.0,110
+47171,Kosovo,2021-10-18,Delta,39,100.0,39
+47195,Kosovo,2021-11-01,Delta,42,100.0,42
+47219,Kosovo,2021-11-15,Delta,40,100.0,40
+47243,Kosovo,2021-11-29,Delta,26,100.0,26
+47267,Kosovo,2021-12-13,Delta,4,100.0,4
+47291,Kuwait,2021-01-04,Delta,0,0.0,15
+47315,Kuwait,2021-01-25,Delta,0,0.0,5
+47339,Kuwait,2021-02-08,Delta,0,0.0,5
+47363,Kuwait,2021-04-19,Delta,0,0.0,3
+47387,Kuwait,2021-05-31,Delta,2,28.57,7
+47411,Kuwait,2021-06-14,Delta,18,56.25,32
+47435,Kuwait,2021-06-28,Delta,36,90.0,40
+47459,Kuwait,2021-07-12,Delta,65,98.48,66
+47483,Kuwait,2021-08-09,Delta,8,100.0,8
+47507,Kuwait,2021-08-23,Delta,32,100.0,32
+47531,Kuwait,2021-09-06,Delta,5,100.0,5
+47555,Kuwait,2021-09-20,Delta,18,100.0,18
+47579,Kuwait,2021-10-04,Delta,30,100.0,30
+47603,Kuwait,2021-10-18,Delta,21,95.45,22
+47627,Kuwait,2021-11-01,Delta,21,100.0,21
+47651,Kuwait,2021-11-15,Delta,4,100.0,4
+47675,Kuwait,2021-11-29,Delta,12,100.0,12
+47699,Kuwait,2021-12-13,Delta,2,66.67,3
+47723,Latvia,2020-05-11,Delta,0,0.0,19
+47747,Latvia,2020-06-08,Delta,0,0.0,3
+47771,Latvia,2020-06-22,Delta,0,0.0,5
+47795,Latvia,2020-07-06,Delta,0,0.0,3
+47819,Latvia,2020-07-20,Delta,0,0.0,29
+47843,Latvia,2020-08-03,Delta,0,0.0,11
+47867,Latvia,2020-08-17,Delta,0,0.0,18
+47891,Latvia,2020-08-31,Delta,0,0.0,21
+47915,Latvia,2020-09-14,Delta,0,0.0,23
+47939,Latvia,2020-09-28,Delta,0,0.0,46
+47963,Latvia,2020-10-12,Delta,0,0.0,297
+47987,Latvia,2020-10-26,Delta,0,0.0,12
+48011,Latvia,2020-11-09,Delta,0,0.0,1
+48035,Latvia,2020-11-23,Delta,0,0.0,1
+48059,Latvia,2020-12-21,Delta,0,0.0,5
+48083,Latvia,2021-01-04,Delta,0,0.0,1
+48107,Latvia,2021-01-11,Delta,0,0.0,3
+48131,Latvia,2021-01-25,Delta,0,0.0,82
+48155,Latvia,2021-02-08,Delta,0,0.0,249
+48179,Latvia,2021-02-22,Delta,0,0.0,427
+48203,Latvia,2021-03-08,Delta,0,0.0,468
+48227,Latvia,2021-03-22,Delta,0,0.0,991
+48251,Latvia,2021-04-05,Delta,0,0.0,458
+48275,Latvia,2021-04-19,Delta,0,0.0,750
+48299,Latvia,2021-05-03,Delta,0,0.0,725
+48323,Latvia,2021-05-17,Delta,5,0.98,509
+48347,Latvia,2021-05-31,Delta,19,3.68,517
+48371,Latvia,2021-06-14,Delta,12,18.46,65
+48395,Latvia,2021-06-28,Delta,29,40.85,71
+48419,Latvia,2021-07-12,Delta,74,68.52,108
+48443,Latvia,2021-07-26,Delta,134,97.81,137
+48467,Latvia,2021-08-09,Delta,145,97.32,149
+48491,Latvia,2021-08-23,Delta,70,81.4,86
+48515,Lebanon,2020-06-08,Delta,0,0.0,3
+48539,Lebanon,2020-07-06,Delta,0,0.0,2
+48563,Lebanon,2020-08-03,Delta,0,0.0,4
+48587,Lebanon,2020-08-17,Delta,0,0.0,3
+48611,Lebanon,2020-09-14,Delta,0,0.0,10
+48635,Lebanon,2020-10-12,Delta,0,0.0,3
+48659,Lebanon,2020-12-07,Delta,0,0.0,2
+48683,Lebanon,2020-12-21,Delta,0,0.0,1
+48707,Lebanon,2021-01-04,Delta,0,0.0,18
+48731,Lebanon,2021-01-11,Delta,0,0.0,31
+48755,Lebanon,2021-01-25,Delta,0,0.0,63
+48779,Lebanon,2021-02-08,Delta,0,0.0,62
+48803,Lebanon,2021-02-22,Delta,0,0.0,139
+48827,Lebanon,2021-03-08,Delta,0,0.0,157
+48851,Lebanon,2021-03-22,Delta,0,0.0,130
+48875,Lebanon,2021-04-05,Delta,0,0.0,117
+48899,Lebanon,2021-04-19,Delta,0,0.0,77
+48923,Lebanon,2021-05-03,Delta,0,0.0,91
+48947,Lebanon,2021-05-17,Delta,0,0.0,11
+48971,Lebanon,2021-06-28,Delta,4,100.0,4
+48995,Lebanon,2021-07-12,Delta,52,100.0,52
+49019,Lebanon,2021-07-26,Delta,24,96.0,25
+49043,Lebanon,2021-12-13,Delta,0,0.0,4
+49067,Liechtenstein,2020-10-26,Delta,0,0.0,3
+49091,Liechtenstein,2020-11-23,Delta,0,0.0,1
+49115,Liechtenstein,2020-12-07,Delta,0,0.0,2
+49139,Liechtenstein,2020-12-21,Delta,0,0.0,12
+49163,Liechtenstein,2021-01-04,Delta,0,0.0,15
+49187,Liechtenstein,2021-01-25,Delta,0,0.0,3
+49211,Liechtenstein,2021-02-08,Delta,0,0.0,9
+49235,Liechtenstein,2021-02-22,Delta,0,0.0,1
+49259,Liechtenstein,2021-03-08,Delta,0,0.0,3
+49283,Liechtenstein,2021-04-05,Delta,0,0.0,1
+49307,Liechtenstein,2021-04-19,Delta,0,0.0,16
+49331,Liechtenstein,2021-05-03,Delta,0,0.0,12
+49355,Liechtenstein,2021-05-17,Delta,0,0.0,7
+49379,Liechtenstein,2021-05-31,Delta,0,0.0,2
+49403,Liechtenstein,2021-06-14,Delta,0,0.0,2
+49427,Liechtenstein,2021-06-28,Delta,2,100.0,2
+49451,Liechtenstein,2021-07-12,Delta,2,100.0,2
+49475,Liechtenstein,2021-07-26,Delta,4,100.0,4
+49499,Liechtenstein,2021-08-09,Delta,2,100.0,2
+49523,Liechtenstein,2021-08-23,Delta,11,100.0,11
+49547,Liechtenstein,2021-09-06,Delta,7,100.0,7
+49571,Liechtenstein,2021-09-20,Delta,5,100.0,5
+49595,Liechtenstein,2021-10-04,Delta,4,100.0,4
+49619,Liechtenstein,2021-10-18,Delta,4,100.0,4
+49643,Liechtenstein,2021-11-01,Delta,11,100.0,11
+49667,Liechtenstein,2021-11-15,Delta,63,100.0,63
+49691,Liechtenstein,2021-11-29,Delta,131,100.0,131
+49715,Liechtenstein,2021-12-13,Delta,124,98.41,126
+49739,Lithuania,2020-05-25,Delta,0,0.0,13
+49763,Lithuania,2020-06-08,Delta,0,0.0,2
+49787,Lithuania,2020-08-03,Delta,0,0.0,9
+49811,Lithuania,2020-08-17,Delta,0,0.0,16
+49835,Lithuania,2020-08-31,Delta,0,0.0,14
+49859,Lithuania,2020-09-14,Delta,0,0.0,30
+49883,Lithuania,2020-09-28,Delta,0,0.0,4
+49907,Lithuania,2020-10-12,Delta,0,0.0,4
+49931,Lithuania,2020-10-26,Delta,0,0.0,2
+49955,Lithuania,2020-11-09,Delta,0,0.0,3
+49979,Lithuania,2020-11-23,Delta,0,0.0,17
+50003,Lithuania,2020-12-07,Delta,0,0.0,199
+50027,Lithuania,2020-12-21,Delta,0,0.0,206
+50051,Lithuania,2021-01-04,Delta,0,0.0,112
+50075,Lithuania,2021-01-11,Delta,0,0.0,122
+50099,Lithuania,2021-01-25,Delta,0,0.0,191
+50123,Lithuania,2021-02-08,Delta,0,0.0,181
+50147,Lithuania,2021-02-22,Delta,0,0.0,881
+50171,Lithuania,2021-03-08,Delta,0,0.0,1198
+50195,Lithuania,2021-03-22,Delta,0,0.0,1395
+50219,Lithuania,2021-04-05,Delta,0,0.0,1624
+50243,Lithuania,2021-04-19,Delta,0,0.0,1710
+50267,Lithuania,2021-05-03,Delta,0,0.0,1619
+50291,Lithuania,2021-05-17,Delta,0,0.0,1422
+50315,Lithuania,2021-05-31,Delta,2,0.13,1484
+50339,Lithuania,2021-06-14,Delta,8,1.2,664
+50363,Lithuania,2021-06-28,Delta,22,10.43,211
+50387,Lithuania,2021-07-12,Delta,161,68.22,236
+50411,Lithuania,2021-07-26,Delta,971,97.78,993
+50435,Lithuania,2021-08-09,Delta,1510,99.6,1516
+50459,Lithuania,2021-08-23,Delta,1415,100.0,1415
+50483,Lithuania,2021-09-06,Delta,1200,100.0,1200
+50507,Lithuania,2021-09-20,Delta,871,100.0,871
+50531,Lithuania,2021-10-04,Delta,731,100.0,731
+50555,Lithuania,2021-10-18,Delta,943,99.89,944
+50579,Lithuania,2021-11-01,Delta,1008,100.0,1008
+50603,Lithuania,2021-11-15,Delta,1165,99.83,1167
+50627,Lithuania,2021-11-29,Delta,858,100.0,858
+50651,Lithuania,2021-12-13,Delta,892,99.22,899
+50675,Lithuania,2021-12-27,Delta,162,76.42,212
+50699,Luxembourg,2020-05-11,Delta,0,0.0,6
+50723,Luxembourg,2020-05-25,Delta,0,0.0,12
+50747,Luxembourg,2020-06-22,Delta,0,0.0,4
+50771,Luxembourg,2020-07-06,Delta,0,0.0,20
+50795,Luxembourg,2020-07-20,Delta,0,0.0,24
+50819,Luxembourg,2020-08-03,Delta,0,0.0,20
+50843,Luxembourg,2020-08-17,Delta,0,0.0,17
+50867,Luxembourg,2020-08-31,Delta,0,0.0,4
+50891,Luxembourg,2020-09-14,Delta,0,0.0,7
+50915,Luxembourg,2020-09-28,Delta,0,0.0,18
+50939,Luxembourg,2020-10-12,Delta,0,0.0,34
+50963,Luxembourg,2020-10-26,Delta,0,0.0,394
+50987,Luxembourg,2020-11-09,Delta,0,0.0,535
+51011,Luxembourg,2020-11-23,Delta,0,0.0,444
+51035,Luxembourg,2020-12-07,Delta,0,0.0,769
+51059,Luxembourg,2020-12-21,Delta,0,0.0,676
+51083,Luxembourg,2021-01-04,Delta,0,0.0,267
+51107,Luxembourg,2021-01-11,Delta,0,0.0,114
+51131,Luxembourg,2021-01-25,Delta,0,0.0,256
+51155,Luxembourg,2021-02-08,Delta,0,0.0,593
+51179,Luxembourg,2021-02-22,Delta,0,0.0,354
+51203,Luxembourg,2021-03-08,Delta,0,0.0,754
+51227,Luxembourg,2021-03-22,Delta,0,0.0,683
+51251,Luxembourg,2021-04-05,Delta,9,0.95,948
+51275,Luxembourg,2021-04-19,Delta,3,0.29,1043
+51299,Luxembourg,2021-05-03,Delta,1,0.09,1073
+51323,Luxembourg,2021-05-17,Delta,24,3.23,744
+51347,Luxembourg,2021-05-31,Delta,58,14.8,392
+51371,Luxembourg,2021-06-14,Delta,89,37.08,240
+51395,Luxembourg,2021-06-28,Delta,86,66.15,130
+51419,Luxembourg,2021-07-12,Delta,300,31.78,944
+51443,Luxembourg,2021-07-26,Delta,444,63.52,699
+51467,Luxembourg,2021-08-09,Delta,404,88.02,459
+51491,Luxembourg,2021-08-23,Delta,412,99.76,413
+51515,Luxembourg,2021-09-06,Delta,549,100.0,549
+51539,Luxembourg,2021-09-20,Delta,600,100.0,600
+51563,Luxembourg,2021-10-04,Delta,705,100.0,705
+51587,Luxembourg,2021-10-18,Delta,764,100.0,764
+51611,Luxembourg,2021-11-01,Delta,798,100.0,798
+51635,Luxembourg,2021-11-15,Delta,766,100.0,766
+51659,Luxembourg,2021-11-29,Delta,1044,100.0,1044
+51683,Luxembourg,2021-12-13,Delta,652,99.85,653
+51707,Madagascar,2020-05-11,Delta,0,0.0,13
+51731,Madagascar,2020-05-25,Delta,0,0.0,14
+51755,Madagascar,2020-06-08,Delta,0,0.0,35
+51779,Madagascar,2020-06-22,Delta,0,0.0,23
+51803,Madagascar,2020-07-06,Delta,0,0.0,31
+51827,Madagascar,2020-07-20,Delta,0,0.0,36
+51851,Madagascar,2020-08-03,Delta,0,0.0,29
+51875,Madagascar,2020-08-17,Delta,0,0.0,15
+51899,Madagascar,2020-08-31,Delta,0,0.0,26
+51923,Madagascar,2020-09-14,Delta,0,0.0,25
+51947,Madagascar,2020-09-28,Delta,0,0.0,9
+51971,Madagascar,2020-10-12,Delta,0,0.0,13
+51995,Madagascar,2020-10-26,Delta,0,0.0,10
+52019,Madagascar,2020-11-09,Delta,0,0.0,10
+52043,Madagascar,2020-11-23,Delta,0,0.0,19
+52067,Madagascar,2020-12-07,Delta,0,0.0,10
+52091,Madagascar,2020-12-21,Delta,0,0.0,21
+52115,Madagascar,2021-01-04,Delta,0,0.0,13
+52139,Madagascar,2021-01-11,Delta,0,0.0,17
+52163,Madagascar,2021-01-25,Delta,0,0.0,38
+52187,Madagascar,2021-02-08,Delta,0,0.0,33
+52211,Madagascar,2021-02-22,Delta,0,0.0,19
+52235,Madagascar,2021-03-08,Delta,0,0.0,28
+52259,Madagascar,2021-03-22,Delta,0,0.0,39
+52283,Madagascar,2021-04-05,Delta,0,0.0,52
+52307,Madagascar,2021-04-19,Delta,0,0.0,113
+52331,Madagascar,2021-05-03,Delta,0,0.0,16
+52355,Madagascar,2021-05-17,Delta,0,0.0,15
+52379,Madagascar,2021-05-31,Delta,0,0.0,10
+52403,Madagascar,2021-07-12,Delta,0,0.0,17
+52427,Madagascar,2021-07-26,Delta,0,0.0,23
+52451,Malawi,2020-08-17,Delta,0,0.0,1
+52475,Malawi,2020-09-28,Delta,0,0.0,1
+52499,Malawi,2020-12-07,Delta,0,0.0,2
+52523,Malawi,2020-12-21,Delta,0,0.0,1
+52547,Malawi,2021-01-04,Delta,0,0.0,18
+52571,Malawi,2021-01-11,Delta,0,0.0,12
+52595,Malawi,2021-01-25,Delta,0,0.0,154
+52619,Malawi,2021-02-08,Delta,0,0.0,69
+52643,Malawi,2021-02-22,Delta,0,0.0,21
+52667,Malawi,2021-03-08,Delta,0,0.0,45
+52691,Malawi,2021-03-22,Delta,3,13.04,23
+52715,Malawi,2021-04-05,Delta,0,0.0,6
+52739,Malawi,2021-04-19,Delta,2,5.0,40
+52763,Malawi,2021-05-03,Delta,16,48.48,33
+52787,Malawi,2021-05-17,Delta,2,50.0,4
+52811,Malawi,2021-05-31,Delta,21,87.5,24
+52835,Malawi,2021-06-14,Delta,44,88.0,50
+52859,Malawi,2021-06-28,Delta,71,98.61,72
+52883,Malawi,2021-07-12,Delta,76,100.0,76
+52907,Malawi,2021-07-26,Delta,33,100.0,33
+52931,Malawi,2021-08-09,Delta,38,100.0,38
+52955,Malawi,2021-08-23,Delta,15,100.0,15
+52979,Malawi,2021-09-06,Delta,12,100.0,12
+53003,Malawi,2021-09-20,Delta,24,100.0,24
+53027,Malawi,2021-10-04,Delta,2,100.0,2
+53051,Malawi,2021-11-01,Delta,1,100.0,1
+53075,Malawi,2021-12-13,Delta,0,0.0,13
+53099,Malawi,2021-12-27,Delta,0,0.0,21
+53123,Malaysia,2020-05-11,Delta,0,0.0,7
+53147,Malaysia,2020-05-25,Delta,0,0.0,14
+53171,Malaysia,2020-06-08,Delta,0,0.0,8
+53195,Malaysia,2020-06-22,Delta,0,0.0,3
+53219,Malaysia,2020-07-20,Delta,0,0.0,2
+53243,Malaysia,2020-08-03,Delta,0,0.0,6
+53267,Malaysia,2020-08-17,Delta,0,0.0,9
+53291,Malaysia,2020-08-31,Delta,0,0.0,1
+53315,Malaysia,2020-09-14,Delta,0,0.0,23
+53339,Malaysia,2020-10-12,Delta,0,0.0,26
+53363,Malaysia,2020-10-26,Delta,0,0.0,41
+53387,Malaysia,2020-11-09,Delta,0,0.0,76
+53411,Malaysia,2020-11-23,Delta,0,0.0,62
+53435,Malaysia,2020-12-07,Delta,0,0.0,42
+53459,Malaysia,2020-12-21,Delta,0,0.0,65
+53483,Malaysia,2021-01-04,Delta,0,0.0,37
+53507,Malaysia,2021-01-11,Delta,1,1.79,56
+53531,Malaysia,2021-01-25,Delta,0,0.0,170
+53555,Malaysia,2021-02-08,Delta,1,0.96,104
+53579,Malaysia,2021-02-22,Delta,0,0.0,106
+53603,Malaysia,2021-03-08,Delta,0,0.0,57
+53627,Malaysia,2021-03-22,Delta,9,14.06,64
+53651,Malaysia,2021-04-05,Delta,0,0.0,110
+53675,Malaysia,2021-04-19,Delta,7,3.37,208
+53699,Malaysia,2021-05-03,Delta,3,2.4,125
+53723,Malaysia,2021-05-17,Delta,13,10.4,125
+53747,Malaysia,2021-05-31,Delta,11,15.07,73
+53771,Malaysia,2021-06-14,Delta,36,50.0,72
+53795,Malaysia,2021-06-28,Delta,61,58.65,104
+53819,Malaysia,2021-07-12,Delta,121,90.3,134
+53843,Malaysia,2021-07-26,Delta,193,91.04,212
+53867,Malaysia,2021-08-09,Delta,417,92.26,452
+53891,Malaysia,2021-08-23,Delta,620,98.88,627
+53915,Malaysia,2021-09-06,Delta,684,99.71,686
+53939,Malaysia,2021-09-20,Delta,816,99.63,819
+53963,Malaysia,2021-10-04,Delta,682,99.85,683
+53987,Malaysia,2021-10-18,Delta,458,100.0,458
+54011,Malaysia,2021-11-01,Delta,416,99.76,417
+54035,Malaysia,2021-11-15,Delta,394,99.24,397
+54059,Malaysia,2021-11-29,Delta,300,99.67,301
+54083,Malaysia,2021-12-13,Delta,207,94.95,218
+54107,Malaysia,2021-12-27,Delta,37,88.1,42
+54131,Maldives,2020-05-11,Delta,0,0.0,1
+54155,Maldives,2020-05-25,Delta,0,0.0,1
+54179,Maldives,2020-06-08,Delta,0,0.0,1
+54203,Maldives,2020-06-22,Delta,0,0.0,1
+54227,Maldives,2020-07-20,Delta,0,0.0,2
+54251,Maldives,2020-08-03,Delta,0,0.0,1
+54275,Maldives,2020-08-17,Delta,0,0.0,3
+54299,Maldives,2020-09-28,Delta,0,0.0,1
+54323,Maldives,2020-11-09,Delta,0,0.0,1
+54347,Maldives,2020-11-23,Delta,0,0.0,1
+54371,Maldives,2021-01-04,Delta,0,0.0,4
+54395,Maldives,2021-01-11,Delta,0,0.0,2
+54419,Maldives,2021-01-25,Delta,0,0.0,1
+54443,Maldives,2021-02-08,Delta,0,0.0,5
+54467,Maldives,2021-02-22,Delta,0,0.0,1
+54491,Maldives,2021-03-08,Delta,0,0.0,5
+54515,Maldives,2021-03-22,Delta,0,0.0,2
+54539,Maldives,2021-04-05,Delta,0,0.0,3
+54563,Maldives,2021-05-03,Delta,4,80.0,5
+54587,Maldives,2021-05-17,Delta,4,100.0,4
+54611,Maldives,2021-05-31,Delta,5,100.0,5
+54635,Maldives,2021-06-14,Delta,1,100.0,1
+54659,Maldives,2021-06-28,Delta,7,100.0,7
+54683,Maldives,2021-07-12,Delta,3,100.0,3
+54707,Maldives,2021-07-26,Delta,17,100.0,17
+54731,Maldives,2021-08-09,Delta,24,100.0,24
+54755,Maldives,2021-08-23,Delta,51,100.0,51
+54779,Maldives,2021-09-06,Delta,106,100.0,106
+54803,Maldives,2021-09-20,Delta,61,100.0,61
+54827,Maldives,2021-10-04,Delta,113,100.0,113
+54851,Maldives,2021-10-18,Delta,97,100.0,97
+54875,Maldives,2021-11-01,Delta,52,100.0,52
+54899,Maldives,2021-11-15,Delta,85,100.0,85
+54923,Maldives,2021-11-29,Delta,58,98.31,59
+54947,Maldives,2021-12-13,Delta,104,97.2,107
+54971,Maldives,2021-12-27,Delta,25,78.12,32
+54995,Malta,2020-08-17,Delta,0,0.0,1
+55019,Malta,2020-08-31,Delta,0,0.0,2
+55043,Malta,2020-09-14,Delta,0,0.0,7
+55067,Malta,2021-04-05,Delta,0,0.0,38
+55091,Malta,2021-04-19,Delta,0,0.0,32
+55115,Malta,2021-05-03,Delta,0,0.0,44
+55139,Malta,2021-05-17,Delta,0,0.0,32
+55163,Malta,2021-05-31,Delta,1,6.67,15
+55187,Malta,2021-06-14,Delta,0,0.0,11
+55211,Malta,2021-06-28,Delta,3,33.33,9
+55235,Malta,2021-07-12,Delta,59,98.33,60
+55259,Malta,2021-07-26,Delta,47,97.92,48
+55283,Malta,2021-08-09,Delta,18,94.74,19
+55307,Malta,2021-10-18,Delta,52,100.0,52
+55331,Malta,2021-11-01,Delta,24,100.0,24
+55355,Malta,2021-11-15,Delta,22,100.0,22
+55379,Malta,2021-11-29,Delta,132,100.0,132
+55403,Malta,2021-12-13,Delta,21,100.0,21
+55427,Malta,2021-12-27,Delta,0,0.0,34
+55451,Mauritius,2020-10-26,Delta,0,0.0,2
+55475,Mauritius,2020-11-09,Delta,0,0.0,1
+55499,Mauritius,2020-11-23,Delta,0,0.0,3
+55523,Mauritius,2020-12-07,Delta,0,0.0,4
+55547,Mauritius,2020-12-21,Delta,0,0.0,2
+55571,Mauritius,2021-01-04,Delta,0,0.0,2
+55595,Mauritius,2021-01-11,Delta,0,0.0,8
+55619,Mauritius,2021-01-25,Delta,0,0.0,6
+55643,Mauritius,2021-02-08,Delta,0,0.0,5
+55667,Mauritius,2021-02-22,Delta,0,0.0,3
+55691,Mauritius,2021-03-08,Delta,0,0.0,8
+55715,Mauritius,2021-03-22,Delta,0,0.0,89
+55739,Mauritius,2021-04-05,Delta,0,0.0,10
+55763,Mauritius,2021-04-19,Delta,0,0.0,3
+55787,Mauritius,2021-05-03,Delta,0,0.0,8
+55811,Mauritius,2021-05-17,Delta,2,5.0,40
+55835,Mauritius,2021-05-31,Delta,0,0.0,8
+55859,Mauritius,2021-06-14,Delta,2,15.38,13
+55883,Mauritius,2021-06-28,Delta,11,61.11,18
+55907,Mauritius,2021-07-12,Delta,2,8.7,23
+55931,Mauritius,2021-07-26,Delta,2,9.52,21
+55955,Mauritius,2021-08-09,Delta,0,0.0,10
+55979,Mauritius,2021-08-23,Delta,3,42.86,7
+56003,Mauritius,2021-09-06,Delta,0,0.0,18
+56027,Mauritius,2021-09-20,Delta,0,0.0,11
+56051,Mauritius,2021-10-04,Delta,11,84.62,13
+56075,Mauritius,2021-10-18,Delta,11,64.71,17
+56099,Mauritius,2021-11-01,Delta,23,74.19,31
+56123,Mauritius,2021-11-15,Delta,2,100.0,2
+56147,Mauritius,2021-11-29,Delta,74,90.24,82
+56171,Mexico,2020-05-11,Delta,0,0.0,208
+56195,Mexico,2020-05-25,Delta,0,0.0,264
+56219,Mexico,2020-06-08,Delta,0,0.0,290
+56243,Mexico,2020-06-22,Delta,0,0.0,166
+56267,Mexico,2020-07-06,Delta,0,0.0,219
+56291,Mexico,2020-07-20,Delta,0,0.0,135
+56315,Mexico,2020-08-03,Delta,0,0.0,155
+56339,Mexico,2020-08-17,Delta,0,0.0,144
+56363,Mexico,2020-08-31,Delta,0,0.0,178
+56387,Mexico,2020-09-14,Delta,0,0.0,123
+56411,Mexico,2020-09-28,Delta,0,0.0,62
+56435,Mexico,2020-10-12,Delta,0,0.0,81
+56459,Mexico,2020-10-26,Delta,0,0.0,90
+56483,Mexico,2020-11-09,Delta,0,0.0,89
+56507,Mexico,2020-11-23,Delta,0,0.0,170
+56531,Mexico,2020-12-07,Delta,0,0.0,233
+56555,Mexico,2020-12-21,Delta,0,0.0,310
+56579,Mexico,2021-01-04,Delta,0,0.0,277
+56603,Mexico,2021-01-11,Delta,0,0.0,128
+56627,Mexico,2021-01-25,Delta,0,0.0,365
+56651,Mexico,2021-02-08,Delta,0,0.0,362
+56675,Mexico,2021-02-22,Delta,0,0.0,1128
+56699,Mexico,2021-03-08,Delta,0,0.0,1327
+56723,Mexico,2021-03-22,Delta,0,0.0,1130
+56747,Mexico,2021-04-05,Delta,1,0.1,1011
+56771,Mexico,2021-04-19,Delta,0,0.0,1263
+56795,Mexico,2021-05-03,Delta,1,0.07,1390
+56819,Mexico,2021-05-17,Delta,29,1.83,1589
+56843,Mexico,2021-05-31,Delta,63,3.65,1724
+56867,Mexico,2021-06-14,Delta,232,10.44,2222
+56891,Mexico,2021-06-28,Delta,610,32.29,1889
+56915,Mexico,2021-07-12,Delta,1377,64.92,2121
+56939,Mexico,2021-07-26,Delta,2020,82.69,2443
+56963,Mexico,2021-08-09,Delta,2457,81.25,3024
+56987,Mexico,2021-08-23,Delta,2235,88.41,2528
+57011,Mexico,2021-09-06,Delta,2041,98.65,2069
+57035,Mexico,2021-09-20,Delta,2044,99.37,2057
+57059,Mexico,2021-10-04,Delta,2503,99.68,2511
+57083,Mexico,2021-10-18,Delta,1867,99.95,1868
+57107,Mexico,2021-11-01,Delta,1721,99.83,1724
+57131,Mexico,2021-11-15,Delta,1380,99.71,1384
+57155,Mexico,2021-11-29,Delta,933,99.47,938
+57179,Mexico,2021-12-13,Delta,986,98.8,998
+57203,Mexico,2021-12-27,Delta,195,44.83,435
+57227,Mexico,2022-01-05,Delta,11,100.0,11
+57251,Moldova,2020-06-22,Delta,0,0.0,4
+57275,Moldova,2020-09-14,Delta,0,0.0,8
+57299,Moldova,2021-02-08,Delta,0,0.0,3
+57323,Moldova,2021-02-22,Delta,0,0.0,1
+57347,Moldova,2021-03-08,Delta,0,0.0,7
+57371,Moldova,2021-03-22,Delta,0,0.0,2
+57395,Moldova,2021-04-05,Delta,0,0.0,5
+57419,Moldova,2021-04-19,Delta,0,0.0,2
+57443,Moldova,2021-05-03,Delta,0,0.0,4
+57467,Moldova,2021-05-17,Delta,0,0.0,12
+57491,Moldova,2021-05-31,Delta,0,0.0,1
+57515,Moldova,2021-06-28,Delta,4,66.67,6
+57539,Moldova,2021-07-12,Delta,7,100.0,7
+57563,Moldova,2021-08-23,Delta,4,100.0,4
+57587,Moldova,2021-09-06,Delta,9,100.0,9
+57611,Moldova,2021-09-20,Delta,26,100.0,26
+57635,Moldova,2021-11-01,Delta,2,100.0,2
+57659,Moldova,2021-11-15,Delta,10,100.0,10
+57683,Moldova,2021-11-29,Delta,9,100.0,9
+57707,Moldova,2021-12-13,Delta,15,100.0,15
+57731,Moldova,2021-12-27,Delta,15,100.0,15
+57755,Monaco,2021-01-25,Delta,0,0.0,1
+57779,Monaco,2021-02-08,Delta,0,0.0,1
+57803,Monaco,2021-03-08,Delta,0,0.0,4
+57827,Monaco,2021-04-19,Delta,0,0.0,2
+57851,Monaco,2021-05-31,Delta,1,100.0,1
+57875,Monaco,2021-06-14,Delta,11,100.0,11
+57899,Monaco,2021-06-28,Delta,20,100.0,20
+57923,Monaco,2021-07-12,Delta,1,100.0,1
+57947,Monaco,2021-07-26,Delta,14,100.0,14
+57971,Monaco,2021-08-09,Delta,14,100.0,14
+57995,Monaco,2021-09-06,Delta,6,100.0,6
+58019,Monaco,2021-09-20,Delta,2,100.0,2
+58043,Monaco,2021-11-01,Delta,3,100.0,3
+58067,Monaco,2021-11-15,Delta,3,100.0,3
+58091,Monaco,2021-12-27,Delta,1,100.0,1
+58115,Mongolia,2020-08-17,Delta,0,0.0,1
+58139,Mongolia,2020-10-12,Delta,0,0.0,1
+58163,Mongolia,2020-11-09,Delta,0,0.0,2
+58187,Mongolia,2020-11-23,Delta,0,0.0,1
+58211,Mongolia,2020-12-07,Delta,0,0.0,1
+58235,Mongolia,2020-12-21,Delta,0,0.0,1
+58259,Mongolia,2021-01-04,Delta,0,0.0,2
+58283,Mongolia,2021-01-11,Delta,0,0.0,2
+58307,Mongolia,2021-01-25,Delta,0,0.0,2
+58331,Mongolia,2021-02-08,Delta,0,0.0,1
+58355,Mongolia,2021-02-22,Delta,0,0.0,3
+58379,Mongolia,2021-03-08,Delta,0,0.0,2
+58403,Mongolia,2021-03-22,Delta,1,14.29,7
+58427,Mongolia,2021-04-19,Delta,0,0.0,2
+58451,Mongolia,2021-05-17,Delta,1,33.33,3
+58475,Mongolia,2021-06-28,Delta,1,6.25,16
+58499,Mongolia,2021-07-12,Delta,2,5.88,34
+58523,Mongolia,2021-07-26,Delta,1,5.88,17
+58547,Mongolia,2021-08-09,Delta,21,40.38,52
+58571,Montenegro,2020-07-20,Delta,0,0.0,9
+58595,Montenegro,2021-01-25,Delta,0,0.0,19
+58619,Montenegro,2021-06-14,Delta,0,0.0,17
+58643,Montenegro,2021-06-28,Delta,2,11.11,18
+58667,Montenegro,2021-07-12,Delta,10,50.0,20
+58691,Montenegro,2021-07-26,Delta,28,93.33,30
+58715,Montenegro,2021-08-09,Delta,66,91.67,72
+58739,Montenegro,2021-08-23,Delta,40,97.56,41
+58763,Montenegro,2021-09-06,Delta,34,100.0,34
+58787,Montenegro,2021-09-20,Delta,5,100.0,5
+58811,Montenegro,2021-10-04,Delta,1,100.0,1
+58835,Montenegro,2021-10-18,Delta,15,100.0,15
+58859,Montenegro,2021-11-01,Delta,34,100.0,34
+58883,Montenegro,2021-11-15,Delta,38,100.0,38
+58907,Montenegro,2021-11-29,Delta,25,100.0,25
+58931,Montenegro,2021-12-13,Delta,63,91.3,69
+58955,Morocco,2020-05-11,Delta,0,0.0,25
+58979,Morocco,2020-05-25,Delta,0,0.0,3
+59003,Morocco,2020-06-08,Delta,0,0.0,1
+59027,Morocco,2020-06-22,Delta,0,0.0,1
+59051,Morocco,2020-07-06,Delta,0,0.0,2
+59075,Morocco,2020-07-20,Delta,0,0.0,19
+59099,Morocco,2020-08-17,Delta,0,0.0,2
+59123,Morocco,2020-09-28,Delta,0,0.0,2
+59147,Morocco,2020-11-09,Delta,0,0.0,1
+59171,Morocco,2020-12-21,Delta,0,0.0,26
+59195,Morocco,2021-01-04,Delta,0,0.0,15
+59219,Morocco,2021-01-11,Delta,0,0.0,22
+59243,Morocco,2021-01-25,Delta,0,0.0,1
+59267,Morocco,2021-02-08,Delta,0,0.0,4
+59291,Morocco,2021-03-08,Delta,0,0.0,17
+59315,Morocco,2021-03-22,Delta,0,0.0,24
+59339,Morocco,2021-04-05,Delta,0,0.0,18
+59363,Morocco,2021-04-19,Delta,0,0.0,20
+59387,Morocco,2021-05-03,Delta,1,20.0,5
+59411,Morocco,2021-05-31,Delta,0,0.0,1
+59435,Morocco,2021-06-14,Delta,0,0.0,1
+59459,Morocco,2021-06-28,Delta,2,28.57,7
+59483,Morocco,2021-07-12,Delta,5,55.56,9
+59507,Morocco,2021-07-26,Delta,22,70.97,31
+59531,Morocco,2021-09-06,Delta,45,100.0,45
+59555,Morocco,2021-09-20,Delta,15,100.0,15
+59579,Morocco,2021-10-04,Delta,2,100.0,2
+59603,Morocco,2021-10-18,Delta,26,100.0,26
+59627,Morocco,2021-11-01,Delta,20,100.0,20
+59651,Morocco,2021-11-15,Delta,8,100.0,8
+59675,Morocco,2021-11-29,Delta,9,100.0,9
+59699,Morocco,2021-12-13,Delta,2,100.0,2
+59723,Morocco,2021-12-27,Delta,1,6.25,16
+59747,Mozambique,2020-07-20,Delta,0,0.0,7
+59771,Mozambique,2020-08-17,Delta,0,0.0,1
+59795,Mozambique,2020-08-31,Delta,0,0.0,10
+59819,Mozambique,2020-09-14,Delta,0,0.0,5
+59843,Mozambique,2020-09-28,Delta,0,0.0,5
+59867,Mozambique,2020-10-12,Delta,0,0.0,13
+59891,Mozambique,2020-10-26,Delta,0,0.0,2
+59915,Mozambique,2020-11-09,Delta,0,0.0,32
+59939,Mozambique,2020-11-23,Delta,0,0.0,11
+59963,Mozambique,2020-12-07,Delta,0,0.0,29
+59987,Mozambique,2020-12-21,Delta,0,0.0,11
+60011,Mozambique,2021-01-04,Delta,0,0.0,30
+60035,Mozambique,2021-01-11,Delta,0,0.0,31
+60059,Mozambique,2021-01-25,Delta,0,0.0,104
+60083,Mozambique,2021-02-08,Delta,0,0.0,42
+60107,Mozambique,2021-02-22,Delta,0,0.0,47
+60131,Mozambique,2021-03-08,Delta,0,0.0,22
+60155,Mozambique,2021-03-22,Delta,0,0.0,83
+60179,Mozambique,2021-04-05,Delta,0,0.0,11
+60203,Mozambique,2021-04-19,Delta,0,0.0,9
+60227,Mozambique,2021-05-03,Delta,0,0.0,20
+60251,Mozambique,2021-05-17,Delta,3,33.33,9
+60275,Mozambique,2021-05-31,Delta,4,33.33,12
+60299,Mozambique,2021-06-14,Delta,3,37.5,8
+60323,Mozambique,2021-06-28,Delta,110,96.49,114
+60347,Mozambique,2021-07-12,Delta,109,100.0,109
+60371,Mozambique,2021-07-26,Delta,64,100.0,64
+60395,Mozambique,2021-08-09,Delta,24,100.0,24
+60419,Mozambique,2021-08-23,Delta,1,100.0,1
+60443,Mozambique,2021-09-06,Delta,15,100.0,15
+60467,Mozambique,2021-09-20,Delta,14,100.0,14
+60491,Mozambique,2021-10-04,Delta,9,100.0,9
+60515,Mozambique,2021-10-18,Delta,2,100.0,2
+60539,Mozambique,2021-11-01,Delta,2,100.0,2
+60563,Mozambique,2021-11-15,Delta,1,100.0,1
+60587,Mozambique,2021-11-29,Delta,1,25.0,4
+60611,Mozambique,2021-12-13,Delta,0,0.0,14
+60635,Nepal,2020-08-03,Delta,0,0.0,2
+60659,Nepal,2020-08-17,Delta,0,0.0,12
+60683,Nepal,2020-08-31,Delta,0,0.0,1
+60707,Nepal,2020-10-12,Delta,0,0.0,1
+60731,Nepal,2020-11-23,Delta,0,0.0,1
+60755,Nepal,2020-12-07,Delta,0,0.0,1
+60779,Nepal,2021-04-19,Delta,3,75.0,4
+60803,Nepal,2021-05-03,Delta,16,94.12,17
+60827,Nepal,2021-05-17,Delta,29,96.67,30
+60851,Nepal,2021-05-31,Delta,18,100.0,18
+60875,Nepal,2021-06-14,Delta,38,97.44,39
+60899,Nepal,2021-06-28,Delta,14,100.0,14
+60923,Nepal,2021-07-12,Delta,25,100.0,25
+60947,Nepal,2021-07-26,Delta,15,100.0,15
+60971,Nepal,2021-08-09,Delta,22,100.0,22
+60995,Nepal,2021-08-23,Delta,43,100.0,43
+61019,Nepal,2021-09-06,Delta,11,100.0,11
+61043,Nepal,2021-09-20,Delta,25,100.0,25
+61067,Nepal,2021-10-04,Delta,22,100.0,22
+61091,Nepal,2021-11-01,Delta,5,100.0,5
+61115,Nepal,2021-11-15,Delta,6,100.0,6
+61139,Nepal,2021-11-29,Delta,22,88.0,25
+61163,Nepal,2021-12-13,Delta,25,100.0,25
+61187,Nepal,2021-12-27,Delta,4,100.0,4
+61211,Netherlands,2020-05-11,Delta,0,0.0,214
+61235,Netherlands,2020-05-25,Delta,0,0.0,226
+61259,Netherlands,2020-06-08,Delta,0,0.0,144
+61283,Netherlands,2020-06-22,Delta,0,0.0,98
+61307,Netherlands,2020-07-06,Delta,0,0.0,91
+61331,Netherlands,2020-07-20,Delta,0,0.0,67
+61355,Netherlands,2020-08-03,Delta,0,0.0,90
+61379,Netherlands,2020-08-17,Delta,0,0.0,123
+61403,Netherlands,2020-08-31,Delta,0,0.0,127
+61427,Netherlands,2020-09-14,Delta,0,0.0,120
+61451,Netherlands,2020-09-28,Delta,0,0.0,273
+61475,Netherlands,2020-10-12,Delta,0,0.0,297
+61499,Netherlands,2020-10-26,Delta,0,0.0,436
+61523,Netherlands,2020-11-09,Delta,0,0.0,416
+61547,Netherlands,2020-11-23,Delta,0,0.0,437
+61571,Netherlands,2020-12-07,Delta,0,0.0,533
+61595,Netherlands,2020-12-21,Delta,0,0.0,818
+61619,Netherlands,2021-01-04,Delta,0,0.0,1142
+61643,Netherlands,2021-01-11,Delta,6,0.76,790
+61667,Netherlands,2021-01-25,Delta,14,0.8,1750
+61691,Netherlands,2021-02-08,Delta,0,0.0,2269
+61715,Netherlands,2021-02-22,Delta,15,0.62,2431
+61739,Netherlands,2021-03-08,Delta,6,0.19,3167
+61763,Netherlands,2021-03-22,Delta,13,0.32,4040
+61787,Netherlands,2021-04-05,Delta,0,0.0,3860
+61811,Netherlands,2021-04-19,Delta,25,0.69,3602
+61835,Netherlands,2021-05-03,Delta,34,0.86,3934
+61859,Netherlands,2021-05-17,Delta,39,1.12,3490
+61883,Netherlands,2021-05-31,Delta,90,3.03,2969
+61907,Netherlands,2021-06-14,Delta,286,10.85,2635
+61931,Netherlands,2021-06-28,Delta,689,36.49,1888
+61955,Netherlands,2021-07-12,Delta,2924,81.61,3583
+61979,Netherlands,2021-07-26,Delta,4637,95.71,4845
+62003,Netherlands,2021-08-09,Delta,3042,98.8,3079
+62027,Netherlands,2021-08-23,Delta,3113,99.49,3129
+62051,Netherlands,2021-09-06,Delta,3377,99.62,3390
+62075,Netherlands,2021-09-20,Delta,2688,99.89,2691
+62099,Netherlands,2021-10-04,Delta,2254,99.82,2258
+62123,Netherlands,2021-10-18,Delta,2728,99.82,2733
+62147,Netherlands,2021-11-01,Delta,3173,99.97,3174
+62171,Netherlands,2021-11-15,Delta,3645,100.0,3645
+62195,Netherlands,2021-11-29,Delta,3669,98.79,3714
+62219,Netherlands,2021-12-13,Delta,2957,94.26,3137
+62243,Netherlands,2021-12-27,Delta,612,70.59,867
+62267,Netherlands,2022-01-05,Delta,12,48.0,25
+62291,New Zealand,2020-05-11,Delta,0,0.0,8
+62315,New Zealand,2020-05-25,Delta,0,0.0,1
+62339,New Zealand,2020-06-22,Delta,0,0.0,5
+62363,New Zealand,2020-07-06,Delta,0,0.0,3
+62387,New Zealand,2020-07-20,Delta,0,0.0,3
+62411,New Zealand,2020-08-03,Delta,0,0.0,2
+62435,New Zealand,2020-08-17,Delta,0,0.0,37
+62459,New Zealand,2020-08-31,Delta,0,0.0,74
+62483,New Zealand,2020-09-14,Delta,0,0.0,33
+62507,New Zealand,2020-09-28,Delta,0,0.0,16
+62531,New Zealand,2020-10-12,Delta,0,0.0,14
+62555,New Zealand,2020-10-26,Delta,0,0.0,36
+62579,New Zealand,2020-11-09,Delta,0,0.0,33
+62603,New Zealand,2020-11-23,Delta,0,0.0,20
+62627,New Zealand,2020-12-07,Delta,0,0.0,28
+62651,New Zealand,2020-12-21,Delta,0,0.0,20
+62675,New Zealand,2021-01-04,Delta,0,0.0,28
+62699,New Zealand,2021-01-11,Delta,0,0.0,11
+62723,New Zealand,2021-01-25,Delta,0,0.0,22
+62747,New Zealand,2021-02-08,Delta,0,0.0,17
+62771,New Zealand,2021-02-22,Delta,0,0.0,19
+62795,New Zealand,2021-03-08,Delta,0,0.0,26
+62819,New Zealand,2021-03-22,Delta,1,3.57,28
+62843,New Zealand,2021-04-05,Delta,3,10.34,29
+62867,New Zealand,2021-04-19,Delta,6,23.08,26
+62891,New Zealand,2021-05-03,Delta,0,0.0,19
+62915,New Zealand,2021-05-17,Delta,2,28.57,7
+62939,New Zealand,2021-05-31,Delta,4,50.0,8
+62963,New Zealand,2021-06-14,Delta,9,64.29,14
+62987,New Zealand,2021-06-28,Delta,11,68.75,16
+63011,New Zealand,2021-07-12,Delta,9,75.0,12
+63035,New Zealand,2021-07-26,Delta,49,100.0,49
+63059,New Zealand,2021-08-09,Delta,31,100.0,31
+63083,New Zealand,2021-08-23,Delta,173,100.0,173
+63107,New Zealand,2021-09-06,Delta,615,100.0,615
+63131,New Zealand,2021-09-20,Delta,238,100.0,238
+63155,New Zealand,2021-10-04,Delta,276,100.0,276
+63179,New Zealand,2021-10-18,Delta,583,100.0,583
+63203,New Zealand,2021-11-01,Delta,605,100.0,605
+63227,New Zealand,2021-11-15,Delta,567,100.0,567
+63251,New Zealand,2021-11-29,Delta,460,100.0,460
+63275,New Zealand,2021-12-13,Delta,310,99.04,313
+63299,New Zealand,2021-12-27,Delta,160,71.75,223
+63323,New Zealand,2022-01-05,Delta,1,9.09,11
+63347,Nigeria,2020-05-11,Delta,0,0.0,26
+63371,Nigeria,2020-05-25,Delta,0,0.0,31
+63395,Nigeria,2020-06-08,Delta,0,0.0,16
+63419,Nigeria,2020-06-22,Delta,0,0.0,27
+63443,Nigeria,2020-07-06,Delta,0,0.0,28
+63467,Nigeria,2020-07-20,Delta,0,0.0,48
+63491,Nigeria,2020-08-03,Delta,0,0.0,5
+63515,Nigeria,2020-08-17,Delta,0,0.0,11
+63539,Nigeria,2020-08-31,Delta,0,0.0,5
+63563,Nigeria,2020-09-14,Delta,0,0.0,5
+63587,Nigeria,2020-10-12,Delta,0,0.0,5
+63611,Nigeria,2020-10-26,Delta,0,0.0,7
+63635,Nigeria,2020-11-09,Delta,0,0.0,1
+63659,Nigeria,2020-11-23,Delta,0,0.0,4
+63683,Nigeria,2020-12-07,Delta,0,0.0,31
+63707,Nigeria,2020-12-21,Delta,0,0.0,34
+63731,Nigeria,2021-01-04,Delta,0,0.0,73
+63755,Nigeria,2021-01-11,Delta,0,0.0,131
+63779,Nigeria,2021-01-25,Delta,0,0.0,127
+63803,Nigeria,2021-02-08,Delta,23,9.96,231
+63827,Nigeria,2021-02-22,Delta,0,0.0,164
+63851,Nigeria,2021-03-08,Delta,22,19.82,111
+63875,Nigeria,2021-03-22,Delta,1,2.22,45
+63899,Nigeria,2021-04-05,Delta,2,11.11,18
+63923,Nigeria,2021-04-19,Delta,0,0.0,7
+63947,Nigeria,2021-05-03,Delta,7,30.43,23
+63971,Nigeria,2021-05-17,Delta,1,12.5,8
+63995,Nigeria,2021-05-31,Delta,1,16.67,6
+64019,Nigeria,2021-06-14,Delta,7,100.0,7
+64043,Nigeria,2021-06-28,Delta,12,85.71,14
+64067,Nigeria,2021-07-12,Delta,35,81.4,43
+64091,Nigeria,2021-07-26,Delta,91,96.81,94
+64115,Nigeria,2021-08-09,Delta,455,91.37,498
+64139,Nigeria,2021-08-23,Delta,521,97.38,535
+64163,Nigeria,2021-09-06,Delta,569,98.78,576
+64187,Nigeria,2021-09-20,Delta,321,96.98,331
+64211,Nigeria,2021-10-04,Delta,93,100.0,93
+64235,Nigeria,2021-10-18,Delta,59,98.33,60
+64259,Nigeria,2021-11-01,Delta,34,100.0,34
+64283,Nigeria,2021-11-15,Delta,21,95.45,22
+64307,Nigeria,2021-11-29,Delta,46,82.14,56
+64331,Nigeria,2021-12-13,Delta,10,13.7,73
+64355,Nigeria,2021-12-27,Delta,0,0.0,10
+64379,North Macedonia,2020-05-25,Delta,0,0.0,1
+64403,North Macedonia,2020-06-08,Delta,0,0.0,17
+64427,North Macedonia,2020-06-22,Delta,0,0.0,18
+64451,North Macedonia,2020-07-06,Delta,0,0.0,20
+64475,North Macedonia,2020-07-20,Delta,0,0.0,5
+64499,North Macedonia,2020-08-03,Delta,0,0.0,6
+64523,North Macedonia,2020-08-17,Delta,0,0.0,8
+64547,North Macedonia,2020-08-31,Delta,0,0.0,2
+64571,North Macedonia,2020-09-14,Delta,0,0.0,9
+64595,North Macedonia,2020-10-12,Delta,0,0.0,7
+64619,North Macedonia,2020-10-26,Delta,0,0.0,13
+64643,North Macedonia,2020-11-09,Delta,0,0.0,20
+64667,North Macedonia,2020-11-23,Delta,0,0.0,8
+64691,North Macedonia,2020-12-07,Delta,0,0.0,4
+64715,North Macedonia,2020-12-21,Delta,0,0.0,16
+64739,North Macedonia,2021-01-04,Delta,0,0.0,27
+64763,North Macedonia,2021-01-11,Delta,0,0.0,23
+64787,North Macedonia,2021-01-25,Delta,0,0.0,68
+64811,North Macedonia,2021-02-08,Delta,0,0.0,61
+64835,North Macedonia,2021-02-22,Delta,0,0.0,58
+64859,North Macedonia,2021-03-08,Delta,0,0.0,15
+64883,North Macedonia,2021-03-22,Delta,0,0.0,26
+64907,North Macedonia,2021-04-05,Delta,0,0.0,36
+64931,North Macedonia,2021-04-19,Delta,0,0.0,103
+64955,North Macedonia,2021-05-03,Delta,0,0.0,15
+64979,North Macedonia,2021-05-17,Delta,0,0.0,30
+65003,North Macedonia,2021-05-31,Delta,0,0.0,17
+65027,North Macedonia,2021-06-14,Delta,0,0.0,12
+65051,North Macedonia,2021-06-28,Delta,1,25.0,4
+65075,North Macedonia,2021-07-12,Delta,6,85.71,7
+65099,North Macedonia,2021-07-26,Delta,18,81.82,22
+65123,North Macedonia,2021-08-09,Delta,12,100.0,12
+65147,North Macedonia,2021-11-01,Delta,11,100.0,11
+65171,North Macedonia,2021-11-15,Delta,37,100.0,37
+65195,Norway,2020-05-11,Delta,0,0.0,28
+65219,Norway,2020-05-25,Delta,0,0.0,18
+65243,Norway,2020-06-08,Delta,0,0.0,8
+65267,Norway,2020-06-22,Delta,0,0.0,31
+65291,Norway,2020-07-06,Delta,0,0.0,61
+65315,Norway,2020-07-20,Delta,0,0.0,33
+65339,Norway,2020-08-03,Delta,0,0.0,84
+65363,Norway,2020-08-17,Delta,0,0.0,164
+65387,Norway,2020-08-31,Delta,0,0.0,47
+65411,Norway,2020-09-14,Delta,0,0.0,109
+65435,Norway,2020-09-28,Delta,0,0.0,117
+65459,Norway,2020-10-12,Delta,0,0.0,156
+65483,Norway,2020-10-26,Delta,0,0.0,204
+65507,Norway,2020-11-09,Delta,0,0.0,265
+65531,Norway,2020-11-23,Delta,0,0.0,163
+65555,Norway,2020-12-07,Delta,0,0.0,187
+65579,Norway,2020-12-21,Delta,0,0.0,274
+65603,Norway,2021-01-04,Delta,0,0.0,272
+65627,Norway,2021-01-11,Delta,0,0.0,266
+65651,Norway,2021-01-25,Delta,0,0.0,740
+65675,Norway,2021-02-08,Delta,0,0.0,1400
+65699,Norway,2021-02-22,Delta,0,0.0,1404
+65723,Norway,2021-03-08,Delta,0,0.0,1547
+65747,Norway,2021-03-22,Delta,0,0.0,1671
+65771,Norway,2021-04-05,Delta,0,0.0,1328
+65795,Norway,2021-04-19,Delta,1,0.05,1847
+65819,Norway,2021-05-03,Delta,5,0.3,1654
+65843,Norway,2021-05-17,Delta,41,2.23,1837
+65867,Norway,2021-05-31,Delta,50,3.53,1417
+65891,Norway,2021-06-14,Delta,92,8.11,1134
+65915,Norway,2021-06-28,Delta,169,20.44,827
+65939,Norway,2021-07-12,Delta,492,56.75,867
+65963,Norway,2021-07-26,Delta,760,85.2,892
+65987,Norway,2021-08-09,Delta,1247,94.47,1320
+66011,Norway,2021-08-23,Delta,1736,99.37,1747
+66035,Norway,2021-09-06,Delta,1916,99.95,1917
+66059,Norway,2021-09-20,Delta,2088,99.95,2089
+66083,Norway,2021-10-04,Delta,1632,100.0,1632
+66107,Norway,2021-10-18,Delta,1420,99.93,1421
+66131,Norway,2021-11-01,Delta,2045,100.0,2045
+66155,Norway,2021-11-15,Delta,1848,100.0,1848
+66179,Norway,2021-11-29,Delta,1527,99.67,1532
+66203,Norway,2021-12-13,Delta,702,71.05,988
+66227,Norway,2021-12-27,Delta,50,74.63,67
+66251,Oman,2020-05-11,Delta,0,0.0,22
+66275,Oman,2020-05-25,Delta,0,0.0,55
+66299,Oman,2020-06-08,Delta,0,0.0,25
+66323,Oman,2020-06-22,Delta,0,0.0,11
+66347,Oman,2020-07-06,Delta,0,0.0,8
+66371,Oman,2020-07-20,Delta,0,0.0,8
+66395,Oman,2020-08-03,Delta,0,0.0,1
+66419,Oman,2020-08-17,Delta,0,0.0,7
+66443,Oman,2020-08-31,Delta,0,0.0,1
+66467,Oman,2020-09-14,Delta,0,0.0,6
+66491,Oman,2020-09-28,Delta,0,0.0,6
+66515,Oman,2020-10-12,Delta,0,0.0,1
+66539,Oman,2020-10-26,Delta,0,0.0,1
+66563,Oman,2020-11-23,Delta,0,0.0,1
+66587,Oman,2021-01-04,Delta,0,0.0,3
+66611,Oman,2021-01-11,Delta,0,0.0,3
+66635,Oman,2021-01-25,Delta,0,0.0,3
+66659,Oman,2021-02-08,Delta,0,0.0,12
+66683,Oman,2021-02-22,Delta,0,0.0,9
+66707,Oman,2021-03-08,Delta,1,10.0,10
+66731,Oman,2021-03-22,Delta,0,0.0,7
+66755,Oman,2021-04-05,Delta,0,0.0,11
+66779,Oman,2021-04-19,Delta,4,22.22,18
+66803,Oman,2021-05-03,Delta,5,9.43,53
+66827,Oman,2021-05-17,Delta,7,33.33,21
+66851,Oman,2021-05-31,Delta,4,33.33,12
+66875,Oman,2021-06-14,Delta,31,72.09,43
+66899,Oman,2021-06-28,Delta,63,88.73,71
+66923,Oman,2021-07-12,Delta,1,14.29,7
+66947,Oman,2021-09-06,Delta,1,100.0,1
+66971,Oman,2021-12-13,Delta,0,0.0,8
+66995,Oman,2021-12-27,Delta,0,0.0,1
+67019,Pakistan,2020-05-11,Delta,0,0.0,3
+67043,Pakistan,2020-05-25,Delta,0,0.0,10
+67067,Pakistan,2020-06-08,Delta,0,0.0,24
+67091,Pakistan,2020-06-22,Delta,0,0.0,8
+67115,Pakistan,2020-07-06,Delta,0,0.0,5
+67139,Pakistan,2020-07-20,Delta,0,0.0,6
+67163,Pakistan,2020-08-17,Delta,0,0.0,10
+67187,Pakistan,2020-09-14,Delta,0,0.0,3
+67211,Pakistan,2020-10-12,Delta,0,0.0,8
+67235,Pakistan,2020-10-26,Delta,0,0.0,1
+67259,Pakistan,2020-11-09,Delta,0,0.0,1
+67283,Pakistan,2020-11-23,Delta,0,0.0,8
+67307,Pakistan,2020-12-07,Delta,0,0.0,20
+67331,Pakistan,2020-12-21,Delta,0,0.0,26
+67355,Pakistan,2021-01-04,Delta,0,0.0,14
+67379,Pakistan,2021-01-11,Delta,0,0.0,7
+67403,Pakistan,2021-01-25,Delta,0,0.0,3
+67427,Pakistan,2021-02-08,Delta,0,0.0,4
+67451,Pakistan,2021-02-22,Delta,1,33.33,3
+67475,Pakistan,2021-03-08,Delta,0,0.0,7
+67499,Pakistan,2021-03-22,Delta,0,0.0,31
+67523,Pakistan,2021-04-05,Delta,0,0.0,6
+67547,Pakistan,2021-04-19,Delta,1,0.72,138
+67571,Pakistan,2021-05-03,Delta,0,0.0,53
+67595,Pakistan,2021-05-17,Delta,1,3.33,30
+67619,Pakistan,2021-05-31,Delta,14,17.5,80
+67643,Pakistan,2021-06-14,Delta,42,21.54,195
+67667,Pakistan,2021-06-28,Delta,8,14.81,54
+67691,Pakistan,2021-07-12,Delta,35,59.32,59
+67715,Pakistan,2021-07-26,Delta,57,85.07,67
+67739,Pakistan,2021-08-09,Delta,120,99.17,121
+67763,Pakistan,2021-08-23,Delta,108,100.0,108
+67787,Pakistan,2021-09-06,Delta,173,98.3,176
+67811,Pakistan,2021-09-20,Delta,65,100.0,65
+67835,Pakistan,2021-10-04,Delta,26,100.0,26
+67859,Pakistan,2021-10-18,Delta,51,100.0,51
+67883,Pakistan,2021-11-01,Delta,40,100.0,40
+67907,Pakistan,2021-11-15,Delta,41,100.0,41
+67931,Pakistan,2021-11-29,Delta,8,80.0,10
+67955,Pakistan,2021-12-13,Delta,13,52.0,25
+67979,Pakistan,2021-12-27,Delta,7,36.84,19
+68003,Pakistan,2022-01-05,Delta,0,0.0,6
+68027,Papua New Guinea,2020-07-20,Delta,0,0.0,4
+68051,Papua New Guinea,2020-08-03,Delta,0,0.0,34
+68075,Papua New Guinea,2020-08-17,Delta,0,0.0,55
+68099,Papua New Guinea,2020-08-31,Delta,0,0.0,7
+68123,Papua New Guinea,2020-09-14,Delta,0,0.0,2
+68147,Papua New Guinea,2020-09-28,Delta,0,0.0,2
+68171,Papua New Guinea,2020-10-12,Delta,0,0.0,6
+68195,Papua New Guinea,2020-12-07,Delta,0,0.0,22
+68219,Papua New Guinea,2020-12-21,Delta,0,0.0,9
+68243,Papua New Guinea,2021-01-04,Delta,0,0.0,11
+68267,Papua New Guinea,2021-01-11,Delta,0,0.0,3
+68291,Papua New Guinea,2021-01-25,Delta,0,0.0,2
+68315,Papua New Guinea,2021-02-08,Delta,0,0.0,11
+68339,Papua New Guinea,2021-02-22,Delta,0,0.0,60
+68363,Papua New Guinea,2021-03-08,Delta,0,0.0,190
+68387,Papua New Guinea,2021-03-22,Delta,0,0.0,368
+68411,Papua New Guinea,2021-04-05,Delta,0,0.0,598
+68435,Papua New Guinea,2021-04-19,Delta,0,0.0,100
+68459,Papua New Guinea,2021-05-03,Delta,0,0.0,128
+68483,Papua New Guinea,2021-05-17,Delta,0,0.0,193
+68507,Papua New Guinea,2021-05-31,Delta,0,0.0,18
+68531,Papua New Guinea,2021-06-14,Delta,0,0.0,14
+68555,Papua New Guinea,2021-06-28,Delta,0,0.0,3
+68579,Papua New Guinea,2021-07-12,Delta,9,56.25,16
+68603,Papua New Guinea,2021-07-26,Delta,7,36.84,19
+68627,Papua New Guinea,2021-08-09,Delta,16,84.21,19
+68651,Papua New Guinea,2021-08-23,Delta,102,96.23,106
+68675,Papua New Guinea,2021-09-06,Delta,385,100.0,385
+68699,Papua New Guinea,2021-09-20,Delta,208,97.2,214
+68723,Papua New Guinea,2021-10-04,Delta,361,98.1,368
+68747,Papua New Guinea,2021-10-18,Delta,242,100.0,242
+68771,Papua New Guinea,2021-11-01,Delta,116,100.0,116
+68795,Papua New Guinea,2021-11-15,Delta,34,100.0,34
+68819,Papua New Guinea,2021-11-29,Delta,7,100.0,7
+68843,Paraguay,2020-05-11,Delta,0,0.0,5
+68867,Paraguay,2020-05-25,Delta,0,0.0,2
+68891,Paraguay,2020-06-08,Delta,0,0.0,3
+68915,Paraguay,2020-06-22,Delta,0,0.0,1
+68939,Paraguay,2020-07-06,Delta,0,0.0,5
+68963,Paraguay,2020-07-20,Delta,0,0.0,5
+68987,Paraguay,2020-08-03,Delta,0,0.0,2
+69011,Paraguay,2020-08-17,Delta,0,0.0,14
+69035,Paraguay,2020-08-31,Delta,0,0.0,2
+69059,Paraguay,2020-09-14,Delta,0,0.0,7
+69083,Paraguay,2020-09-28,Delta,0,0.0,1
+69107,Paraguay,2020-10-12,Delta,0,0.0,3
+69131,Paraguay,2020-11-09,Delta,0,0.0,1
+69155,Paraguay,2020-11-23,Delta,0,0.0,1
+69179,Paraguay,2020-12-07,Delta,0,0.0,2
+69203,Paraguay,2020-12-21,Delta,0,0.0,14
+69227,Paraguay,2021-01-04,Delta,0,0.0,3
+69251,Paraguay,2021-01-11,Delta,0,0.0,15
+69275,Paraguay,2021-01-25,Delta,0,0.0,9
+69299,Paraguay,2021-02-08,Delta,0,0.0,66
+69323,Paraguay,2021-02-22,Delta,0,0.0,61
+69347,Paraguay,2021-03-08,Delta,0,0.0,70
+69371,Paraguay,2021-03-22,Delta,0,0.0,55
+69395,Paraguay,2021-04-05,Delta,0,0.0,14
+69419,Paraguay,2021-04-19,Delta,1,3.23,31
+69443,Paraguay,2021-05-03,Delta,0,0.0,20
+69467,Paraguay,2021-05-17,Delta,0,0.0,26
+69491,Paraguay,2021-05-31,Delta,0,0.0,14
+69515,Paraguay,2021-06-14,Delta,0,0.0,41
+69539,Paraguay,2021-06-28,Delta,0,0.0,18
+69563,Paraguay,2021-07-12,Delta,11,18.64,59
+69587,Paraguay,2021-07-26,Delta,8,32.0,25
+69611,Paraguay,2021-08-09,Delta,46,71.88,64
+69635,Paraguay,2021-08-23,Delta,51,85.0,60
+69659,Paraguay,2021-09-06,Delta,75,96.15,78
+69683,Paraguay,2021-09-20,Delta,24,92.31,26
+69707,Paraguay,2021-10-04,Delta,29,87.88,33
+69731,Paraguay,2021-10-18,Delta,8,88.89,9
+69755,Paraguay,2021-11-01,Delta,13,92.86,14
+69779,Peru,2020-05-11,Delta,0,0.0,49
+69803,Peru,2020-05-25,Delta,0,0.0,50
+69827,Peru,2020-06-08,Delta,0,0.0,5
+69851,Peru,2020-06-22,Delta,0,0.0,92
+69875,Peru,2020-07-06,Delta,0,0.0,35
+69899,Peru,2020-07-20,Delta,0,0.0,10
+69923,Peru,2020-08-03,Delta,0,0.0,12
+69947,Peru,2020-08-17,Delta,0,0.0,49
+69971,Peru,2020-08-31,Delta,0,0.0,105
+69995,Peru,2020-09-14,Delta,0,0.0,44
+70019,Peru,2020-09-28,Delta,0,0.0,33
+70043,Peru,2020-10-12,Delta,0,0.0,8
+70067,Peru,2020-10-26,Delta,0,0.0,128
+70091,Peru,2020-11-09,Delta,0,0.0,3
+70115,Peru,2020-11-23,Delta,0,0.0,32
+70139,Peru,2020-12-07,Delta,0,0.0,33
+70163,Peru,2020-12-21,Delta,0,0.0,130
+70187,Peru,2021-01-04,Delta,0,0.0,109
+70211,Peru,2021-01-11,Delta,0,0.0,29
+70235,Peru,2021-01-25,Delta,0,0.0,123
+70259,Peru,2021-02-08,Delta,0,0.0,91
+70283,Peru,2021-02-22,Delta,0,0.0,120
+70307,Peru,2021-03-08,Delta,0,0.0,155
+70331,Peru,2021-03-22,Delta,0,0.0,238
+70355,Peru,2021-04-05,Delta,0,0.0,190
+70379,Peru,2021-04-19,Delta,0,0.0,523
+70403,Peru,2021-05-03,Delta,0,0.0,321
+70427,Peru,2021-05-17,Delta,3,0.92,325
+70451,Peru,2021-05-31,Delta,0,0.0,284
+70475,Peru,2021-06-14,Delta,3,0.37,803
+70499,Peru,2021-06-28,Delta,10,2.02,496
+70523,Peru,2021-07-12,Delta,9,1.93,467
+70547,Peru,2021-07-26,Delta,51,8.7,586
+70571,Peru,2021-08-09,Delta,100,19.72,507
+70595,Peru,2021-08-23,Delta,135,20.93,645
+70619,Peru,2021-09-06,Delta,253,41.96,603
+70643,Peru,2021-09-20,Delta,441,56.39,782
+70667,Peru,2021-10-04,Delta,607,74.11,819
+70691,Peru,2021-10-18,Delta,718,89.19,805
+70715,Peru,2021-11-01,Delta,671,93.07,721
+70739,Peru,2021-11-15,Delta,812,94.64,858
+70763,Peru,2021-11-29,Delta,700,97.63,717
+70787,Peru,2021-12-13,Delta,53,81.54,65
+70811,Peru,2021-12-27,Delta,0,0.0,10
+70835,Philippines,2020-06-08,Delta,0,0.0,1
+70859,Philippines,2020-06-22,Delta,0,0.0,5
+70883,Philippines,2020-07-06,Delta,0,0.0,9
+70907,Philippines,2020-07-20,Delta,0,0.0,4
+70931,Philippines,2020-09-14,Delta,0,0.0,2
+70955,Philippines,2020-09-28,Delta,0,0.0,3
+70979,Philippines,2020-10-12,Delta,0,0.0,1
+71003,Philippines,2020-10-26,Delta,0,0.0,3
+71027,Philippines,2020-11-09,Delta,0,0.0,141
+71051,Philippines,2020-11-23,Delta,0,0.0,178
+71075,Philippines,2020-12-07,Delta,0,0.0,233
+71099,Philippines,2020-12-21,Delta,0,0.0,298
+71123,Philippines,2021-01-04,Delta,0,0.0,238
+71147,Philippines,2021-01-11,Delta,0,0.0,340
+71171,Philippines,2021-01-25,Delta,0,0.0,530
+71195,Philippines,2021-02-08,Delta,0,0.0,556
+71219,Philippines,2021-02-22,Delta,0,0.0,451
+71243,Philippines,2021-03-08,Delta,0,0.0,303
+71267,Philippines,2021-03-22,Delta,0,0.0,780
+71291,Philippines,2021-04-05,Delta,0,0.0,1016
+71315,Philippines,2021-04-19,Delta,4,1.04,386
+71339,Philippines,2021-05-03,Delta,3,0.76,394
+71363,Philippines,2021-05-17,Delta,11,3.21,343
+71387,Philippines,2021-05-31,Delta,2,0.6,331
+71411,Philippines,2021-06-14,Delta,2,0.35,575
+71435,Philippines,2021-06-28,Delta,40,4.78,836
+71459,Philippines,2021-07-12,Delta,252,28.44,886
+71483,Philippines,2021-07-26,Delta,540,48.47,1114
+71507,Philippines,2021-08-09,Delta,1085,77.5,1400
+71531,Philippines,2021-08-23,Delta,1025,91.6,1119
+71555,Philippines,2021-09-06,Delta,259,98.85,262
+71579,Poland,2020-05-11,Delta,0,0.0,59
+71603,Poland,2020-05-25,Delta,0,0.0,26
+71627,Poland,2020-06-08,Delta,0,0.0,23
+71651,Poland,2020-06-22,Delta,0,0.0,4
+71675,Poland,2020-08-31,Delta,0,0.0,3
+71699,Poland,2020-09-14,Delta,0,0.0,6
+71723,Poland,2020-09-28,Delta,0,0.0,6
+71747,Poland,2020-10-12,Delta,0,0.0,2
+71771,Poland,2020-10-26,Delta,0,0.0,1
+71795,Poland,2020-11-09,Delta,0,0.0,6
+71819,Poland,2020-11-23,Delta,0,0.0,16
+71843,Poland,2020-12-07,Delta,0,0.0,27
+71867,Poland,2020-12-21,Delta,0,0.0,53
+71891,Poland,2021-01-04,Delta,0,0.0,120
+71915,Poland,2021-01-11,Delta,0,0.0,56
+71939,Poland,2021-01-25,Delta,0,0.0,259
+71963,Poland,2021-02-08,Delta,0,0.0,379
+71987,Poland,2021-02-22,Delta,0,0.0,729
+72011,Poland,2021-03-08,Delta,0,0.0,1485
+72035,Poland,2021-03-22,Delta,0,0.0,2146
+72059,Poland,2021-04-05,Delta,0,0.0,1803
+72083,Poland,2021-04-19,Delta,0,0.0,2782
+72107,Poland,2021-05-03,Delta,16,0.61,2636
+72131,Poland,2021-05-17,Delta,43,1.67,2568
+72155,Poland,2021-05-31,Delta,37,2.27,1627
+72179,Poland,2021-06-14,Delta,26,4.19,621
+72203,Poland,2021-06-28,Delta,31,20.67,150
+72227,Poland,2021-07-12,Delta,112,60.22,186
+72251,Poland,2021-07-26,Delta,212,87.24,243
+72275,Poland,2021-08-09,Delta,313,93.99,333
+72299,Poland,2021-08-23,Delta,748,99.6,751
+72323,Poland,2021-09-06,Delta,933,99.79,935
+72347,Poland,2021-09-20,Delta,1424,100.0,1424
+72371,Poland,2021-10-04,Delta,1720,99.77,1724
+72395,Poland,2021-10-18,Delta,2282,100.0,2282
+72419,Poland,2021-11-01,Delta,2782,99.89,2785
+72443,Poland,2021-11-15,Delta,4144,100.0,4144
+72467,Poland,2021-11-29,Delta,2239,100.0,2239
+72491,Poland,2021-12-13,Delta,3347,99.85,3352
+72515,Poland,2021-12-27,Delta,1241,97.79,1269
+72539,Poland,2022-01-05,Delta,110,88.71,124
+72563,Portugal,2020-05-11,Delta,0,0.0,26
+72587,Portugal,2020-05-25,Delta,0,0.0,28
+72611,Portugal,2020-06-08,Delta,0,0.0,92
+72635,Portugal,2020-06-22,Delta,0,0.0,37
+72659,Portugal,2020-07-06,Delta,0,0.0,53
+72683,Portugal,2020-07-20,Delta,0,0.0,27
+72707,Portugal,2020-08-31,Delta,0,0.0,36
+72731,Portugal,2020-09-14,Delta,0,0.0,3
+72755,Portugal,2020-10-26,Delta,0,0.0,1
+72779,Portugal,2020-11-09,Delta,0,0.0,27
+72803,Portugal,2020-11-23,Delta,0,0.0,372
+72827,Portugal,2020-12-07,Delta,0,0.0,32
+72851,Portugal,2020-12-21,Delta,0,0.0,44
+72875,Portugal,2021-01-04,Delta,0,0.0,294
+72899,Portugal,2021-01-11,Delta,0,0.0,238
+72923,Portugal,2021-01-25,Delta,0,0.0,737
+72947,Portugal,2021-02-08,Delta,0,0.0,201
+72971,Portugal,2021-02-22,Delta,0,0.0,901
+72995,Portugal,2021-03-08,Delta,0,0.0,735
+73019,Portugal,2021-03-22,Delta,0,0.0,443
+73043,Portugal,2021-04-05,Delta,0,0.0,70
+73067,Portugal,2021-04-19,Delta,1,0.06,1586
+73091,Portugal,2021-05-03,Delta,4,4.08,98
+73115,Portugal,2021-05-17,Delta,63,5.94,1061
+73139,Portugal,2021-05-31,Delta,77,70.0,110
+73163,Portugal,2021-06-14,Delta,671,53.81,1247
+73187,Portugal,2021-06-28,Delta,975,83.33,1170
+73211,Portugal,2021-07-12,Delta,1056,93.29,1132
+73235,Portugal,2021-07-26,Delta,1231,98.48,1250
+73259,Portugal,2021-08-09,Delta,947,99.16,955
+73283,Portugal,2021-08-23,Delta,1000,99.8,1002
+73307,Portugal,2021-09-06,Delta,1108,99.82,1110
+73331,Portugal,2021-09-20,Delta,1086,99.36,1093
+73355,Portugal,2021-10-04,Delta,1041,100.0,1041
+73379,Portugal,2021-10-18,Delta,891,100.0,891
+73403,Portugal,2021-11-01,Delta,1078,99.91,1079
+73427,Portugal,2021-11-15,Delta,957,99.9,958
+73451,Portugal,2021-11-29,Delta,1266,98.44,1286
+73475,Portugal,2021-12-13,Delta,860,93.89,916
+73499,Portugal,2021-12-27,Delta,392,76.86,510
+73523,Qatar,2020-05-11,Delta,0,0.0,172
+73547,Qatar,2020-05-25,Delta,0,0.0,175
+73571,Qatar,2020-06-08,Delta,0,0.0,179
+73595,Qatar,2020-06-22,Delta,0,0.0,154
+73619,Qatar,2020-07-06,Delta,0,0.0,97
+73643,Qatar,2020-07-20,Delta,0,0.0,61
+73667,Qatar,2020-08-03,Delta,0,0.0,8
+73691,Qatar,2020-08-17,Delta,0,0.0,90
+73715,Qatar,2020-08-31,Delta,0,0.0,47
+73739,Qatar,2020-09-14,Delta,0,0.0,57
+73763,Qatar,2020-09-28,Delta,0,0.0,12
+73787,Qatar,2020-10-12,Delta,0,0.0,34
+73811,Qatar,2020-10-26,Delta,0,0.0,21
+73835,Qatar,2020-11-09,Delta,0,0.0,14
+73859,Qatar,2020-11-23,Delta,0,0.0,20
+73883,Qatar,2020-12-07,Delta,0,0.0,23
+73907,Qatar,2020-12-21,Delta,0,0.0,2
+73931,Qatar,2021-01-04,Delta,0,0.0,146
+73955,Qatar,2021-01-11,Delta,0,0.0,13
+73979,Qatar,2021-01-25,Delta,0,0.0,26
+74003,Qatar,2021-02-08,Delta,0,0.0,68
+74027,Qatar,2021-02-22,Delta,0,0.0,94
+74051,Qatar,2021-03-08,Delta,0,0.0,90
+74075,Qatar,2021-03-22,Delta,0,0.0,121
+74099,Qatar,2021-04-05,Delta,0,0.0,71
+74123,Qatar,2021-04-19,Delta,4,3.36,119
+74147,Qatar,2021-05-03,Delta,61,17.43,350
+74171,Qatar,2021-05-17,Delta,53,27.18,195
+74195,Qatar,2021-05-31,Delta,31,39.74,78
+74219,Qatar,2021-06-14,Delta,43,74.14,58
+74243,Qatar,2021-08-09,Delta,1,100.0,1
+74267,Qatar,2021-08-23,Delta,520,100.0,520
+74291,Qatar,2021-09-06,Delta,444,100.0,444
+74315,Qatar,2021-09-20,Delta,183,100.0,183
+74339,Qatar,2021-10-04,Delta,84,100.0,84
+74363,Qatar,2021-10-18,Delta,13,100.0,13
+74387,Qatar,2021-11-01,Delta,49,98.0,50
+74411,Qatar,2021-11-15,Delta,75,100.0,75
+74435,Qatar,2021-11-29,Delta,82,100.0,82
+74459,Romania,2020-05-11,Delta,0,0.0,33
+74483,Romania,2020-05-25,Delta,0,0.0,18
+74507,Romania,2020-06-08,Delta,0,0.0,18
+74531,Romania,2020-06-22,Delta,0,0.0,17
+74555,Romania,2020-07-06,Delta,0,0.0,10
+74579,Romania,2020-07-20,Delta,0,0.0,23
+74603,Romania,2020-08-03,Delta,0,0.0,81
+74627,Romania,2020-08-17,Delta,0,0.0,15
+74651,Romania,2020-08-31,Delta,0,0.0,79
+74675,Romania,2020-09-14,Delta,0,0.0,49
+74699,Romania,2020-09-28,Delta,0,0.0,63
+74723,Romania,2020-10-12,Delta,0,0.0,20
+74747,Romania,2020-10-26,Delta,0,0.0,54
+74771,Romania,2020-11-09,Delta,0,0.0,84
+74795,Romania,2020-11-23,Delta,0,0.0,136
+74819,Romania,2020-12-07,Delta,0,0.0,171
+74843,Romania,2020-12-21,Delta,0,0.0,101
+74867,Romania,2021-01-04,Delta,0,0.0,96
+74891,Romania,2021-01-11,Delta,0,0.0,67
+74915,Romania,2021-01-25,Delta,0,0.0,92
+74939,Romania,2021-02-08,Delta,0,0.0,168
+74963,Romania,2021-02-22,Delta,0,0.0,166
+74987,Romania,2021-03-08,Delta,0,0.0,269
+75011,Romania,2021-03-22,Delta,0,0.0,260
+75035,Romania,2021-04-05,Delta,13,4.38,297
+75059,Romania,2021-04-19,Delta,0,0.0,186
+75083,Romania,2021-05-03,Delta,3,2.29,131
+75107,Romania,2021-05-17,Delta,10,5.99,167
+75131,Romania,2021-05-31,Delta,12,7.89,152
+75155,Romania,2021-06-14,Delta,23,19.33,119
+75179,Romania,2021-06-28,Delta,23,31.94,72
+75203,Romania,2021-07-12,Delta,35,60.34,58
+75227,Romania,2021-07-26,Delta,78,80.41,97
+75251,Romania,2021-08-09,Delta,253,96.56,262
+75275,Romania,2021-08-23,Delta,278,98.93,281
+75299,Romania,2021-09-06,Delta,585,99.66,587
+75323,Romania,2021-09-20,Delta,1055,99.91,1056
+75347,Romania,2021-10-04,Delta,984,99.9,985
+75371,Romania,2021-10-18,Delta,884,100.0,884
+75395,Romania,2021-11-01,Delta,612,100.0,612
+75419,Romania,2021-11-15,Delta,229,100.0,229
+75443,Romania,2021-11-29,Delta,132,100.0,132
+75467,Romania,2021-12-13,Delta,74,86.05,86
+75491,Romania,2021-12-27,Delta,80,96.39,83
+75515,Russia,2020-05-11,Delta,0,0.0,65
+75539,Russia,2020-05-25,Delta,0,0.0,122
+75563,Russia,2020-06-08,Delta,0,0.0,154
+75587,Russia,2020-06-22,Delta,0,0.0,63
+75611,Russia,2020-07-06,Delta,0,0.0,37
+75635,Russia,2020-07-20,Delta,0,0.0,77
+75659,Russia,2020-08-03,Delta,0,0.0,53
+75683,Russia,2020-08-17,Delta,0,0.0,59
+75707,Russia,2020-08-31,Delta,0,0.0,73
+75731,Russia,2020-09-14,Delta,0,0.0,134
+75755,Russia,2020-09-28,Delta,0,0.0,228
+75779,Russia,2020-10-12,Delta,0,0.0,228
+75803,Russia,2020-10-26,Delta,0,0.0,104
+75827,Russia,2020-11-09,Delta,0,0.0,91
+75851,Russia,2020-11-23,Delta,0,0.0,275
+75875,Russia,2020-12-07,Delta,0,0.0,145
+75899,Russia,2020-12-21,Delta,0,0.0,188
+75923,Russia,2021-01-04,Delta,0,0.0,247
+75947,Russia,2021-01-11,Delta,0,0.0,48
+75971,Russia,2021-01-25,Delta,0,0.0,74
+75995,Russia,2021-02-08,Delta,0,0.0,19
+76019,Russia,2021-02-22,Delta,0,0.0,304
+76043,Russia,2021-03-08,Delta,1,0.51,196
+76067,Russia,2021-03-22,Delta,0,0.0,263
+76091,Russia,2021-04-05,Delta,1,0.45,220
+76115,Russia,2021-04-19,Delta,4,1.28,313
+76139,Russia,2021-05-03,Delta,26,8.31,313
+76163,Russia,2021-05-17,Delta,91,31.27,291
+76187,Russia,2021-05-31,Delta,345,67.51,511
+76211,Russia,2021-06-14,Delta,809,89.49,904
+76235,Russia,2021-06-28,Delta,519,95.58,543
+76259,Russia,2021-07-12,Delta,661,99.4,665
+76283,Russia,2021-07-26,Delta,204,95.33,214
+76307,Russia,2021-08-09,Delta,241,94.14,256
+76331,Russia,2021-08-23,Delta,214,94.27,227
+76355,Russia,2021-09-06,Delta,277,100.0,277
+76379,Russia,2021-09-20,Delta,379,99.74,380
+76403,Russia,2021-10-04,Delta,423,99.53,425
+76427,Russia,2021-10-18,Delta,707,100.0,707
+76451,Russia,2021-11-01,Delta,913,100.0,913
+76475,Russia,2021-11-15,Delta,511,100.0,511
+76499,Russia,2021-11-29,Delta,315,99.68,316
+76523,Russia,2021-12-13,Delta,148,98.01,151
+76547,Russia,2021-12-27,Delta,109,70.32,155
+76571,Rwanda,2020-06-08,Delta,0,0.0,1
+76595,Rwanda,2020-06-22,Delta,0,0.0,8
+76619,Rwanda,2020-07-20,Delta,0,0.0,4
+76643,Rwanda,2020-08-03,Delta,0,0.0,4
+76667,Rwanda,2020-08-17,Delta,0,0.0,11
+76691,Rwanda,2020-08-31,Delta,0,0.0,59
+76715,Rwanda,2020-09-14,Delta,0,0.0,5
+76739,Rwanda,2020-10-26,Delta,0,0.0,10
+76763,Rwanda,2020-11-09,Delta,0,0.0,8
+76787,Rwanda,2020-12-07,Delta,0,0.0,2
+76811,Rwanda,2020-12-21,Delta,0,0.0,47
+76835,Rwanda,2021-01-04,Delta,0,0.0,25
+76859,Rwanda,2021-01-11,Delta,0,0.0,19
+76883,Rwanda,2021-01-25,Delta,0,0.0,56
+76907,Rwanda,2021-02-08,Delta,0,0.0,21
+76931,Rwanda,2021-02-22,Delta,0,0.0,21
+76955,Rwanda,2021-03-08,Delta,1,10.0,10
+76979,Rwanda,2021-03-22,Delta,0,0.0,4
+77003,Rwanda,2021-04-05,Delta,1,4.76,21
+77027,Rwanda,2021-04-19,Delta,1,16.67,6
+77051,Rwanda,2021-05-03,Delta,0,0.0,5
+77075,Rwanda,2021-05-17,Delta,1,12.5,8
+77099,Rwanda,2021-05-31,Delta,0,0.0,4
+77123,Rwanda,2021-06-14,Delta,4,66.67,6
+77147,Rwanda,2021-06-28,Delta,97,81.51,119
+77171,Rwanda,2021-07-12,Delta,50,84.75,59
+77195,Rwanda,2021-07-26,Delta,19,90.48,21
+77219,Rwanda,2021-08-09,Delta,54,96.43,56
+77243,Rwanda,2021-08-23,Delta,11,91.67,12
+77267,Rwanda,2021-09-06,Delta,38,95.0,40
+77291,Rwanda,2021-09-20,Delta,5,100.0,5
+77315,Rwanda,2021-10-04,Delta,5,100.0,5
+77339,Rwanda,2021-11-01,Delta,7,100.0,7
+77363,Senegal,2020-06-08,Delta,0,0.0,13
+77387,Senegal,2020-06-22,Delta,0,0.0,62
+77411,Senegal,2020-07-06,Delta,0,0.0,8
+77435,Senegal,2020-07-20,Delta,0,0.0,12
+77459,Senegal,2020-08-03,Delta,0,0.0,19
+77483,Senegal,2020-08-17,Delta,0,0.0,20
+77507,Senegal,2020-08-31,Delta,0,0.0,5
+77531,Senegal,2020-09-14,Delta,0,0.0,4
+77555,Senegal,2020-09-28,Delta,0,0.0,3
+77579,Senegal,2020-10-26,Delta,0,0.0,1
+77603,Senegal,2020-12-21,Delta,0,0.0,12
+77627,Senegal,2021-01-04,Delta,0,0.0,83
+77651,Senegal,2021-01-11,Delta,0,0.0,50
+77675,Senegal,2021-01-25,Delta,0,0.0,43
+77699,Senegal,2021-02-08,Delta,0,0.0,37
+77723,Senegal,2021-02-22,Delta,1,14.29,7
+77747,Senegal,2021-03-08,Delta,0,0.0,10
+77771,Senegal,2021-03-22,Delta,1,20.0,5
+77795,Senegal,2021-04-05,Delta,4,23.53,17
+77819,Senegal,2021-04-19,Delta,2,40.0,5
+77843,Senegal,2021-05-03,Delta,0,0.0,2
+77867,Senegal,2021-05-17,Delta,2,33.33,6
+77891,Senegal,2021-05-31,Delta,2,66.67,3
+77915,Senegal,2021-06-14,Delta,25,50.0,50
+77939,Senegal,2021-06-28,Delta,1,100.0,1
+77963,Senegal,2021-07-12,Delta,3,100.0,3
+77987,Senegal,2021-07-26,Delta,44,93.62,47
+78011,Senegal,2021-08-09,Delta,33,76.74,43
+78035,Senegal,2021-08-23,Delta,16,100.0,16
+78059,Senegal,2021-09-06,Delta,21,91.3,23
+78083,Senegal,2021-09-20,Delta,1,100.0,1
+78107,Senegal,2021-10-04,Delta,5,100.0,5
+78131,Senegal,2021-10-18,Delta,5,100.0,5
+78155,Senegal,2021-11-01,Delta,17,100.0,17
+78179,Senegal,2021-11-15,Delta,8,88.89,9
+78203,Senegal,2021-11-29,Delta,5,83.33,6
+78227,Senegal,2021-12-13,Delta,7,31.82,22
+78251,Senegal,2021-12-27,Delta,4,20.0,20
+78275,Serbia,2020-05-11,Delta,0,0.0,30
+78299,Serbia,2020-05-25,Delta,0,0.0,8
+78323,Serbia,2020-06-08,Delta,0,0.0,3
+78347,Serbia,2020-06-22,Delta,0,0.0,11
+78371,Serbia,2020-07-06,Delta,0,0.0,13
+78395,Serbia,2020-07-20,Delta,0,0.0,27
+78419,Serbia,2020-08-03,Delta,0,0.0,32
+78443,Serbia,2020-08-17,Delta,0,0.0,21
+78467,Serbia,2020-08-31,Delta,0,0.0,3
+78491,Serbia,2020-09-14,Delta,0,0.0,1
+78515,Serbia,2020-09-28,Delta,0,0.0,14
+78539,Serbia,2020-10-12,Delta,0,0.0,30
+78563,Serbia,2020-10-26,Delta,0,0.0,18
+78587,Serbia,2020-11-09,Delta,0,0.0,7
+78611,Serbia,2020-11-23,Delta,0,0.0,14
+78635,Serbia,2020-12-07,Delta,0,0.0,6
+78659,Serbia,2020-12-21,Delta,0,0.0,9
+78683,Serbia,2021-01-04,Delta,0,0.0,16
+78707,Serbia,2021-01-11,Delta,0,0.0,14
+78731,Serbia,2021-01-25,Delta,0,0.0,6
+78755,Serbia,2021-02-08,Delta,0,0.0,14
+78779,Serbia,2021-02-22,Delta,0,0.0,12
+78803,Serbia,2021-03-08,Delta,0,0.0,17
+78827,Serbia,2021-03-22,Delta,0,0.0,11
+78851,Serbia,2021-04-05,Delta,0,0.0,1
+78875,Serbia,2021-04-19,Delta,0,0.0,8
+78899,Serbia,2021-05-03,Delta,0,0.0,14
+78923,Serbia,2021-05-17,Delta,0,0.0,29
+78947,Serbia,2021-05-31,Delta,0,0.0,18
+78971,Serbia,2021-06-14,Delta,0,0.0,5
+78995,Serbia,2021-06-28,Delta,1,100.0,1
+79019,Serbia,2021-07-12,Delta,13,86.67,15
+79043,Serbia,2021-07-26,Delta,14,93.33,15
+79067,Serbia,2021-08-09,Delta,5,100.0,5
+79091,Serbia,2021-08-23,Delta,2,100.0,2
+79115,Serbia,2021-09-06,Delta,12,100.0,12
+79139,Serbia,2021-09-20,Delta,1,100.0,1
+79163,Serbia,2021-10-18,Delta,14,100.0,14
+79187,Seychelles,2020-07-06,Delta,0,0.0,2
+79211,Seychelles,2020-09-28,Delta,0,0.0,1
+79235,Seychelles,2020-10-12,Delta,0,0.0,1
+79259,Seychelles,2021-01-04,Delta,0,0.0,1
+79283,Seychelles,2021-01-11,Delta,0,0.0,4
+79307,Seychelles,2021-02-08,Delta,0,0.0,2
+79331,Seychelles,2021-02-22,Delta,0,0.0,1
+79355,Seychelles,2021-04-19,Delta,0,0.0,1
+79379,Seychelles,2021-05-03,Delta,0,0.0,3
+79403,Seychelles,2021-05-17,Delta,1,50.0,2
+79427,Seychelles,2021-05-31,Delta,17,38.64,44
+79451,Seychelles,2021-06-14,Delta,52,96.3,54
+79475,Seychelles,2021-06-28,Delta,15,100.0,15
+79499,Seychelles,2021-07-12,Delta,4,100.0,4
+79523,Seychelles,2021-07-26,Delta,10,100.0,10
+79547,Seychelles,2021-08-09,Delta,23,100.0,23
+79571,Seychelles,2021-08-23,Delta,97,100.0,97
+79595,Seychelles,2021-09-06,Delta,57,100.0,57
+79619,Seychelles,2021-09-20,Delta,83,100.0,83
+79643,Seychelles,2021-10-04,Delta,59,100.0,59
+79667,Seychelles,2021-10-18,Delta,57,98.28,58
+79691,Seychelles,2021-11-01,Delta,21,100.0,21
+79715,Singapore,2020-05-11,Delta,0,0.0,112
+79739,Singapore,2020-05-25,Delta,0,0.0,72
+79763,Singapore,2020-06-08,Delta,0,0.0,61
+79787,Singapore,2020-06-22,Delta,0,0.0,48
+79811,Singapore,2020-07-06,Delta,0,0.0,74
+79835,Singapore,2020-07-20,Delta,0,0.0,73
+79859,Singapore,2020-08-03,Delta,0,0.0,22
+79883,Singapore,2020-08-17,Delta,0,0.0,18
+79907,Singapore,2020-08-31,Delta,0,0.0,28
+79931,Singapore,2020-09-14,Delta,0,0.0,24
+79955,Singapore,2020-09-28,Delta,0,0.0,11
+79979,Singapore,2020-10-12,Delta,0,0.0,27
+80003,Singapore,2020-10-26,Delta,0,0.0,24
+80027,Singapore,2020-11-09,Delta,0,0.0,23
+80051,Singapore,2020-11-23,Delta,0,0.0,26
+80075,Singapore,2020-12-07,Delta,0,0.0,24
+80099,Singapore,2020-12-21,Delta,0,0.0,36
+80123,Singapore,2021-01-04,Delta,0,0.0,61
+80147,Singapore,2021-01-11,Delta,0,0.0,37
+80171,Singapore,2021-01-25,Delta,0,0.0,67
+80195,Singapore,2021-02-08,Delta,0,0.0,74
+80219,Singapore,2021-02-22,Delta,0,0.0,42
+80243,Singapore,2021-03-08,Delta,0,0.0,31
+80267,Singapore,2021-03-22,Delta,0,0.0,45
+80291,Singapore,2021-04-05,Delta,2,1.22,164
+80315,Singapore,2021-04-19,Delta,31,16.49,188
+80339,Singapore,2021-05-03,Delta,124,64.92,191
+80363,Singapore,2021-05-17,Delta,185,84.09,220
+80387,Singapore,2021-05-31,Delta,298,90.3,330
+80411,Singapore,2021-06-14,Delta,169,94.94,178
+80435,Singapore,2021-06-28,Delta,209,96.31,217
+80459,Singapore,2021-07-12,Delta,70,93.33,75
+80483,Singapore,2021-07-26,Delta,835,99.88,836
+80507,Singapore,2021-08-09,Delta,864,100.0,864
+80531,Singapore,2021-08-23,Delta,642,99.84,643
+80555,Singapore,2021-09-06,Delta,1007,100.0,1007
+80579,Singapore,2021-09-20,Delta,700,100.0,700
+80603,Singapore,2021-10-04,Delta,611,100.0,611
+80627,Singapore,2021-10-18,Delta,571,100.0,571
+80651,Singapore,2021-11-01,Delta,537,100.0,537
+80675,Singapore,2021-11-15,Delta,542,100.0,542
+80699,Singapore,2021-11-29,Delta,466,100.0,466
+80723,Singapore,2021-12-13,Delta,394,92.92,424
+80747,Singapore,2021-12-27,Delta,247,49.5,499
+80771,Sint Maarten (Dutch part),2021-01-25,Delta,0,0.0,10
+80795,Sint Maarten (Dutch part),2021-02-22,Delta,0,0.0,40
+80819,Sint Maarten (Dutch part),2021-03-08,Delta,0,0.0,5
+80843,Sint Maarten (Dutch part),2021-03-22,Delta,0,0.0,7
+80867,Sint Maarten (Dutch part),2021-04-05,Delta,0,0.0,40
+80891,Sint Maarten (Dutch part),2021-04-19,Delta,0,0.0,20
+80915,Sint Maarten (Dutch part),2021-05-03,Delta,1,3.03,33
+80939,Sint Maarten (Dutch part),2021-05-17,Delta,1,3.57,28
+80963,Sint Maarten (Dutch part),2021-05-31,Delta,0,0.0,111
+80987,Sint Maarten (Dutch part),2021-06-14,Delta,0,0.0,51
+81011,Sint Maarten (Dutch part),2021-06-28,Delta,0,0.0,68
+81035,Sint Maarten (Dutch part),2021-07-12,Delta,5,12.82,39
+81059,Sint Maarten (Dutch part),2021-07-26,Delta,40,59.7,67
+81083,Sint Maarten (Dutch part),2021-08-09,Delta,139,94.56,147
+81107,Sint Maarten (Dutch part),2021-08-23,Delta,398,93.65,425
+81131,Sint Maarten (Dutch part),2021-09-06,Delta,276,97.18,284
+81155,Sint Maarten (Dutch part),2021-09-20,Delta,146,98.65,148
+81179,Sint Maarten (Dutch part),2021-10-04,Delta,153,100.0,153
+81203,Sint Maarten (Dutch part),2021-10-18,Delta,34,100.0,34
+81227,Sint Maarten (Dutch part),2021-11-01,Delta,39,100.0,39
+81251,Sint Maarten (Dutch part),2021-11-15,Delta,17,100.0,17
+81275,Sint Maarten (Dutch part),2021-11-29,Delta,20,100.0,20
+81299,Sint Maarten (Dutch part),2021-12-13,Delta,12,100.0,12
+81323,Slovakia,2020-05-11,Delta,0,0.0,3
+81347,Slovakia,2020-05-25,Delta,0,0.0,1
+81371,Slovakia,2020-07-06,Delta,0,0.0,2
+81395,Slovakia,2020-07-20,Delta,0,0.0,1
+81419,Slovakia,2020-08-03,Delta,0,0.0,1
+81443,Slovakia,2020-08-17,Delta,0,0.0,2
+81467,Slovakia,2020-08-31,Delta,0,0.0,1
+81491,Slovakia,2020-09-14,Delta,0,0.0,4
+81515,Slovakia,2020-09-28,Delta,0,0.0,6
+81539,Slovakia,2020-10-12,Delta,0,0.0,1
+81563,Slovakia,2020-10-26,Delta,0,0.0,1
+81587,Slovakia,2020-11-09,Delta,0,0.0,1
+81611,Slovakia,2020-11-23,Delta,0,0.0,15
+81635,Slovakia,2020-12-07,Delta,0,0.0,55
+81659,Slovakia,2020-12-21,Delta,0,0.0,1
+81683,Slovakia,2021-01-04,Delta,0,0.0,96
+81707,Slovakia,2021-01-11,Delta,0,0.0,52
+81731,Slovakia,2021-01-25,Delta,0,0.0,30
+81755,Slovakia,2021-02-08,Delta,0,0.0,117
+81779,Slovakia,2021-02-22,Delta,0,0.0,62
+81803,Slovakia,2021-03-08,Delta,0,0.0,437
+81827,Slovakia,2021-03-22,Delta,33,5.66,583
+81851,Slovakia,2021-04-05,Delta,1,0.15,660
+81875,Slovakia,2021-04-19,Delta,26,4.22,616
+81899,Slovakia,2021-05-03,Delta,0,0.0,337
+81923,Slovakia,2021-05-17,Delta,1,0.3,338
+81947,Slovakia,2021-05-31,Delta,0,0.0,691
+81971,Slovakia,2021-06-14,Delta,65,10.94,594
+81995,Slovakia,2021-06-28,Delta,29,11.65,249
+82019,Slovakia,2021-07-12,Delta,159,65.7,242
+82043,Slovakia,2021-07-26,Delta,249,91.88,271
+82067,Slovakia,2021-08-09,Delta,368,98.92,372
+82091,Slovakia,2021-08-23,Delta,617,99.68,619
+82115,Slovakia,2021-09-06,Delta,782,100.0,782
+82139,Slovakia,2021-09-20,Delta,1205,100.0,1205
+82163,Slovakia,2021-10-04,Delta,845,100.0,845
+82187,Slovakia,2021-10-18,Delta,1709,99.94,1710
+82211,Slovakia,2021-11-01,Delta,1733,100.0,1733
+82235,Slovakia,2021-11-15,Delta,2290,100.0,2290
+82259,Slovakia,2021-11-29,Delta,1254,100.0,1254
+82283,Slovakia,2021-12-13,Delta,1280,99.3,1289
+82307,Slovakia,2021-12-27,Delta,70,88.61,79
+82331,Slovenia,2020-05-11,Delta,0,0.0,4
+82355,Slovenia,2020-06-08,Delta,0,0.0,4
+82379,Slovenia,2020-06-22,Delta,0,0.0,11
+82403,Slovenia,2020-07-06,Delta,0,0.0,52
+82427,Slovenia,2020-07-20,Delta,0,0.0,58
+82451,Slovenia,2020-08-03,Delta,0,0.0,65
+82475,Slovenia,2020-08-17,Delta,0,0.0,76
+82499,Slovenia,2020-08-31,Delta,0,0.0,101
+82523,Slovenia,2020-09-14,Delta,0,0.0,176
+82547,Slovenia,2020-09-28,Delta,0,0.0,168
+82571,Slovenia,2020-10-12,Delta,0,0.0,341
+82595,Slovenia,2020-10-26,Delta,1,0.28,355
+82619,Slovenia,2020-11-09,Delta,0,0.0,889
+82643,Slovenia,2020-11-23,Delta,0,0.0,131
+82667,Slovenia,2020-12-07,Delta,0,0.0,968
+82691,Slovenia,2020-12-21,Delta,1,0.11,888
+82715,Slovenia,2021-01-04,Delta,0,0.0,442
+82739,Slovenia,2021-01-11,Delta,1,0.15,657
+82763,Slovenia,2021-01-25,Delta,0,0.0,362
+82787,Slovenia,2021-02-08,Delta,0,0.0,1577
+82811,Slovenia,2021-02-22,Delta,0,0.0,1288
+82835,Slovenia,2021-03-08,Delta,0,0.0,1458
+82859,Slovenia,2021-03-22,Delta,0,0.0,1303
+82883,Slovenia,2021-04-05,Delta,1,0.06,1656
+82907,Slovenia,2021-04-19,Delta,0,0.0,2046
+82931,Slovenia,2021-05-03,Delta,3,0.15,1979
+82955,Slovenia,2021-05-17,Delta,2,0.16,1267
+82979,Slovenia,2021-05-31,Delta,4,0.57,699
+83003,Slovenia,2021-06-14,Delta,14,2.13,658
+83027,Slovenia,2021-06-28,Delta,107,27.79,385
+83051,Slovenia,2021-07-12,Delta,331,69.83,474
+83075,Slovenia,2021-07-26,Delta,722,96.4,749
+83099,Slovenia,2021-08-09,Delta,1325,98.81,1341
+83123,Slovenia,2021-08-23,Delta,2017,99.75,2022
+83147,Slovenia,2021-09-06,Delta,2597,99.96,2598
+83171,Slovenia,2021-09-20,Delta,2161,99.95,2162
+83195,Slovenia,2021-10-04,Delta,2326,99.91,2328
+83219,Slovenia,2021-10-18,Delta,2736,100.0,2736
+83243,Slovenia,2021-11-01,Delta,2786,100.0,2786
+83267,Slovenia,2021-11-15,Delta,2276,100.0,2276
+83291,Slovenia,2021-11-29,Delta,2620,100.0,2620
+83315,Slovenia,2021-12-13,Delta,1513,99.54,1520
+83339,South Africa,2020-05-11,Delta,0,0.0,135
+83363,South Africa,2020-05-25,Delta,0,0.0,93
+83387,South Africa,2020-06-08,Delta,0,0.0,105
+83411,South Africa,2020-06-22,Delta,0,0.0,190
+83435,South Africa,2020-07-06,Delta,0,0.0,290
+83459,South Africa,2020-07-20,Delta,0,0.0,470
+83483,South Africa,2020-08-03,Delta,0,0.0,551
+83507,South Africa,2020-08-17,Delta,0,0.0,220
+83531,South Africa,2020-08-31,Delta,0,0.0,129
+83555,South Africa,2020-09-14,Delta,0,0.0,356
+83579,South Africa,2020-09-28,Delta,0,0.0,223
+83603,South Africa,2020-10-12,Delta,0,0.0,304
+83627,South Africa,2020-10-26,Delta,0,0.0,358
+83651,South Africa,2020-11-09,Delta,0,0.0,478
+83675,South Africa,2020-11-23,Delta,0,0.0,418
+83699,South Africa,2020-12-07,Delta,0,0.0,488
+83723,South Africa,2020-12-21,Delta,0,0.0,546
+83747,South Africa,2021-01-04,Delta,0,0.0,874
+83771,South Africa,2021-01-11,Delta,0,0.0,668
+83795,South Africa,2021-01-25,Delta,0,0.0,566
+83819,South Africa,2021-02-08,Delta,0,0.0,393
+83843,South Africa,2021-02-22,Delta,0,0.0,296
+83867,South Africa,2021-03-08,Delta,0,0.0,225
+83891,South Africa,2021-03-22,Delta,24,5.36,448
+83915,South Africa,2021-04-05,Delta,21,6.48,324
+83939,South Africa,2021-04-19,Delta,8,3.2,250
+83963,South Africa,2021-05-03,Delta,7,1.79,390
+83987,South Africa,2021-05-17,Delta,46,8.44,545
+84011,South Africa,2021-05-31,Delta,133,20.59,646
+84035,South Africa,2021-06-14,Delta,498,45.23,1101
+84059,South Africa,2021-06-28,Delta,1297,78.09,1661
+84083,South Africa,2021-07-12,Delta,1979,88.9,2226
+84107,South Africa,2021-07-26,Delta,1572,94.3,1667
+84131,South Africa,2021-08-09,Delta,1524,95.19,1601
+84155,South Africa,2021-08-23,Delta,1212,97.58,1242
+84179,South Africa,2021-09-06,Delta,1231,97.01,1269
+84203,South Africa,2021-09-20,Delta,886,95.78,925
+84227,South Africa,2021-10-04,Delta,487,93.3,522
+84251,South Africa,2021-10-18,Delta,424,93.6,453
+84275,South Africa,2021-11-01,Delta,200,95.69,209
+84299,South Africa,2021-11-15,Delta,79,68.1,116
+84323,South Africa,2021-11-29,Delta,103,12.42,829
+84347,South Africa,2021-12-13,Delta,14,1.25,1121
+84371,South Africa,2021-12-27,Delta,0,0.0,65
+84395,South Korea,2020-05-11,Delta,0,0.0,48
+84419,South Korea,2020-05-25,Delta,0,0.0,64
+84443,South Korea,2020-06-08,Delta,0,0.0,165
+84467,South Korea,2020-06-22,Delta,0,0.0,108
+84491,South Korea,2020-07-06,Delta,0,0.0,159
+84515,South Korea,2020-07-20,Delta,0,0.0,110
+84539,South Korea,2020-08-03,Delta,0,0.0,98
+84563,South Korea,2020-08-17,Delta,0,0.0,123
+84587,South Korea,2020-08-31,Delta,0,0.0,176
+84611,South Korea,2020-09-14,Delta,0,0.0,64
+84635,South Korea,2020-09-28,Delta,0,0.0,63
+84659,South Korea,2020-10-12,Delta,0,0.0,57
+84683,South Korea,2020-10-26,Delta,0,0.0,84
+84707,South Korea,2020-11-09,Delta,0,0.0,77
+84731,South Korea,2020-11-23,Delta,0,0.0,171
+84755,South Korea,2020-12-07,Delta,0,0.0,160
+84779,South Korea,2020-12-21,Delta,0,0.0,178
+84803,South Korea,2021-01-04,Delta,0,0.0,187
+84827,South Korea,2021-01-11,Delta,0,0.0,72
+84851,South Korea,2021-01-25,Delta,0,0.0,146
+84875,South Korea,2021-02-08,Delta,0,0.0,197
+84899,South Korea,2021-02-22,Delta,0,0.0,242
+84923,South Korea,2021-03-08,Delta,0,0.0,258
+84947,South Korea,2021-03-22,Delta,0,0.0,271
+84971,South Korea,2021-04-05,Delta,0,0.0,324
+84995,South Korea,2021-04-19,Delta,0,0.0,408
+85019,South Korea,2021-05-03,Delta,9,1.7,530
+85043,South Korea,2021-05-17,Delta,18,8.07,223
+85067,South Korea,2021-05-31,Delta,12,5.71,210
+85091,South Korea,2021-06-14,Delta,23,4.86,473
+85115,South Korea,2021-06-28,Delta,157,27.3,575
+85139,South Korea,2021-07-12,Delta,365,51.05,715
+85163,South Korea,2021-07-26,Delta,713,67.14,1062
+85187,South Korea,2021-08-09,Delta,821,85.52,960
+85211,South Korea,2021-08-23,Delta,880,96.81,909
+85235,South Korea,2021-09-06,Delta,1305,99.01,1318
+85259,South Korea,2021-09-20,Delta,1210,99.51,1216
+85283,South Korea,2021-10-04,Delta,941,99.79,943
+85307,South Korea,2021-10-18,Delta,1137,100.0,1137
+85331,South Korea,2021-11-01,Delta,1562,100.0,1562
+85355,South Korea,2021-11-15,Delta,1574,100.0,1574
+85379,South Korea,2021-11-29,Delta,1366,99.85,1368
+85403,South Korea,2021-12-13,Delta,1605,99.07,1620
+85427,South Korea,2021-12-27,Delta,393,100.0,393
+85451,Spain,2020-05-11,Delta,0,0.0,180
+85475,Spain,2020-05-25,Delta,0,0.0,95
+85499,Spain,2020-06-08,Delta,0,0.0,63
+85523,Spain,2020-06-22,Delta,0,0.0,73
+85547,Spain,2020-07-06,Delta,0,0.0,140
+85571,Spain,2020-07-20,Delta,0,0.0,149
+85595,Spain,2020-08-03,Delta,0,0.0,170
+85619,Spain,2020-08-17,Delta,0,0.0,251
+85643,Spain,2020-08-31,Delta,0,0.0,281
+85667,Spain,2020-09-14,Delta,0,0.0,444
+85691,Spain,2020-09-28,Delta,0,0.0,488
+85715,Spain,2020-10-12,Delta,0,0.0,513
+85739,Spain,2020-10-26,Delta,0,0.0,478
+85763,Spain,2020-11-09,Delta,0,0.0,360
+85787,Spain,2020-11-23,Delta,0,0.0,409
+85811,Spain,2020-12-07,Delta,0,0.0,471
+85835,Spain,2020-12-21,Delta,0,0.0,967
+85859,Spain,2021-01-04,Delta,0,0.0,1095
+85883,Spain,2021-01-11,Delta,0,0.0,632
+85907,Spain,2021-01-25,Delta,0,0.0,2620
+85931,Spain,2021-02-08,Delta,0,0.0,3043
+85955,Spain,2021-02-22,Delta,1,0.04,2628
+85979,Spain,2021-03-08,Delta,0,0.0,2674
+86003,Spain,2021-03-22,Delta,0,0.0,2431
+86027,Spain,2021-04-05,Delta,1,0.04,2788
+86051,Spain,2021-04-19,Delta,0,0.0,2957
+86075,Spain,2021-05-03,Delta,26,0.92,2815
+86099,Spain,2021-05-17,Delta,77,2.3,3341
+86123,Spain,2021-05-31,Delta,211,8.08,2613
+86147,Spain,2021-06-14,Delta,464,14.41,3221
+86171,Spain,2021-06-28,Delta,1142,38.07,3000
+86195,Spain,2021-07-12,Delta,3733,62.35,5987
+86219,Spain,2021-07-26,Delta,4386,83.1,5278
+86243,Spain,2021-08-09,Delta,5054,93.8,5388
+86267,Spain,2021-08-23,Delta,3537,96.98,3647
+86291,Spain,2021-09-06,Delta,3204,98.71,3246
+86315,Spain,2021-09-20,Delta,2166,99.09,2186
+86339,Spain,2021-10-04,Delta,1502,99.47,1510
+86363,Spain,2021-10-18,Delta,1210,99.75,1213
+86387,Spain,2021-11-01,Delta,1559,100.0,1559
+86411,Spain,2021-11-15,Delta,1710,99.82,1713
+86435,Spain,2021-11-29,Delta,2009,99.95,2010
+86459,Spain,2021-12-13,Delta,1879,88.59,2121
+86483,Spain,2021-12-27,Delta,529,53.38,991
+86507,Sri Lanka,2020-05-11,Delta,0,0.0,1
+86531,Sri Lanka,2020-06-22,Delta,0,0.0,1
+86555,Sri Lanka,2020-08-03,Delta,0,0.0,4
+86579,Sri Lanka,2020-10-12,Delta,0,0.0,3
+86603,Sri Lanka,2020-10-26,Delta,0,0.0,11
+86627,Sri Lanka,2020-11-09,Delta,0,0.0,8
+86651,Sri Lanka,2020-11-23,Delta,0,0.0,2
+86675,Sri Lanka,2020-12-07,Delta,0,0.0,6
+86699,Sri Lanka,2020-12-21,Delta,0,0.0,1
+86723,Sri Lanka,2021-01-04,Delta,0,0.0,10
+86747,Sri Lanka,2021-01-11,Delta,0,0.0,3
+86771,Sri Lanka,2021-01-25,Delta,0,0.0,54
+86795,Sri Lanka,2021-02-08,Delta,0,0.0,69
+86819,Sri Lanka,2021-02-22,Delta,2,3.85,52
+86843,Sri Lanka,2021-03-08,Delta,0,0.0,24
+86867,Sri Lanka,2021-03-22,Delta,1,2.08,48
+86891,Sri Lanka,2021-04-05,Delta,0,0.0,12
+86915,Sri Lanka,2021-04-19,Delta,1,12.5,8
+86939,Sri Lanka,2021-05-03,Delta,0,0.0,66
+86963,Sri Lanka,2021-05-17,Delta,0,0.0,44
+86987,Sri Lanka,2021-05-31,Delta,3,6.98,43
+87011,Sri Lanka,2021-06-14,Delta,6,9.84,61
+87035,Sri Lanka,2021-06-28,Delta,13,9.15,142
+87059,Sri Lanka,2021-07-12,Delta,28,39.44,71
+87083,Sri Lanka,2021-07-26,Delta,38,46.34,82
+87107,Sri Lanka,2021-08-09,Delta,104,88.14,118
+87131,Sri Lanka,2021-08-23,Delta,99,96.12,103
+87155,Sri Lanka,2021-09-06,Delta,218,97.76,223
+87179,Sri Lanka,2021-09-20,Delta,140,97.9,143
+87203,Sri Lanka,2021-10-04,Delta,83,100.0,83
+87227,Sri Lanka,2021-10-18,Delta,162,96.43,168
+87251,Sri Lanka,2021-11-01,Delta,106,100.0,106
+87275,Sri Lanka,2021-11-15,Delta,84,100.0,84
+87299,Sri Lanka,2021-11-29,Delta,100,99.01,101
+87323,Sri Lanka,2021-12-13,Delta,194,98.48,197
+87347,Sri Lanka,2021-12-27,Delta,150,78.53,191
+87371,Sri Lanka,2022-01-05,Delta,3,27.27,11
+87395,Suriname,2020-05-11,Delta,0,0.0,1
+87419,Suriname,2020-06-22,Delta,0,0.0,3
+87443,Suriname,2020-07-06,Delta,0,0.0,33
+87467,Suriname,2020-07-20,Delta,0,0.0,24
+87491,Suriname,2020-08-03,Delta,0,0.0,2
+87515,Suriname,2020-08-17,Delta,0,0.0,22
+87539,Suriname,2020-08-31,Delta,0,0.0,3
+87563,Suriname,2020-12-21,Delta,0,0.0,10
+87587,Suriname,2021-01-04,Delta,0,0.0,6
+87611,Suriname,2021-01-25,Delta,0,0.0,17
+87635,Suriname,2021-02-08,Delta,0,0.0,8
+87659,Suriname,2021-02-22,Delta,0,0.0,9
+87683,Suriname,2021-03-08,Delta,0,0.0,31
+87707,Suriname,2021-03-22,Delta,0,0.0,13
+87731,Suriname,2021-04-05,Delta,0,0.0,57
+87755,Suriname,2021-04-19,Delta,0,0.0,49
+87779,Suriname,2021-05-03,Delta,0,0.0,23
+87803,Suriname,2021-05-17,Delta,0,0.0,43
+87827,Suriname,2021-05-31,Delta,0,0.0,53
+87851,Suriname,2021-06-14,Delta,0,0.0,37
+87875,Suriname,2021-06-28,Delta,0,0.0,50
+87899,Suriname,2021-07-12,Delta,0,0.0,39
+87923,Suriname,2021-07-26,Delta,2,5.71,35
+87947,Suriname,2021-08-09,Delta,8,16.0,50
+87971,Suriname,2021-08-23,Delta,15,34.88,43
+87995,Suriname,2021-09-06,Delta,49,85.96,57
+88019,Suriname,2021-09-20,Delta,62,96.88,64
+88043,Suriname,2021-10-04,Delta,31,100.0,31
+88067,Suriname,2021-10-18,Delta,39,100.0,39
+88091,Suriname,2021-11-01,Delta,16,100.0,16
+88115,Suriname,2021-11-15,Delta,23,100.0,23
+88139,Suriname,2021-11-29,Delta,17,100.0,17
+88163,Suriname,2021-12-13,Delta,23,100.0,23
+88187,Sweden,2020-05-11,Delta,0,0.0,52
+88211,Sweden,2020-05-25,Delta,0,0.0,81
+88235,Sweden,2020-06-08,Delta,0,0.0,83
+88259,Sweden,2020-06-22,Delta,0,0.0,36
+88283,Sweden,2020-07-06,Delta,0,0.0,43
+88307,Sweden,2020-07-20,Delta,0,0.0,40
+88331,Sweden,2020-08-03,Delta,0,0.0,15
+88355,Sweden,2020-08-17,Delta,0,0.0,41
+88379,Sweden,2020-08-31,Delta,0,0.0,43
+88403,Sweden,2020-09-14,Delta,0,0.0,38
+88427,Sweden,2020-09-28,Delta,0,0.0,54
+88451,Sweden,2020-10-12,Delta,0,0.0,45
+88475,Sweden,2020-10-26,Delta,0,0.0,43
+88499,Sweden,2020-11-09,Delta,0,0.0,125
+88523,Sweden,2020-11-23,Delta,0,0.0,105
+88547,Sweden,2020-12-07,Delta,0,0.0,145
+88571,Sweden,2020-12-21,Delta,0,0.0,174
+88595,Sweden,2021-01-04,Delta,0,0.0,535
+88619,Sweden,2021-01-11,Delta,0,0.0,289
+88643,Sweden,2021-01-25,Delta,1,0.05,2203
+88667,Sweden,2021-02-08,Delta,0,0.0,5546
+88691,Sweden,2021-02-22,Delta,0,0.0,9307
+88715,Sweden,2021-03-08,Delta,0,0.0,11288
+88739,Sweden,2021-03-22,Delta,0,0.0,13397
+88763,Sweden,2021-04-05,Delta,2,0.02,10365
+88787,Sweden,2021-04-19,Delta,8,0.11,7416
+88811,Sweden,2021-05-03,Delta,15,0.22,6766
+88835,Sweden,2021-05-17,Delta,32,0.45,7046
+88859,Sweden,2021-05-31,Delta,107,2.03,5268
+88883,Sweden,2021-06-14,Delta,799,20.61,3876
+88907,Sweden,2021-06-28,Delta,1214,36.47,3329
+88931,Sweden,2021-07-12,Delta,1548,69.45,2229
+88955,Sweden,2021-07-26,Delta,3178,94.64,3358
+88979,Sweden,2021-08-09,Delta,4546,99.15,4585
+89003,Sweden,2021-08-23,Delta,6134,99.77,6148
+89027,Sweden,2021-09-06,Delta,5025,99.94,5028
+89051,Sweden,2021-09-20,Delta,4183,100.0,4183
+89075,Sweden,2021-10-04,Delta,3356,99.94,3358
+89099,Sweden,2021-10-18,Delta,2823,99.96,2824
+89123,Sweden,2021-11-01,Delta,4603,99.98,4604
+89147,Sweden,2021-11-15,Delta,4811,99.98,4812
+89171,Sweden,2021-11-29,Delta,4115,99.88,4120
+89195,Sweden,2021-12-13,Delta,3375,94.48,3572
+89219,Sweden,2021-12-27,Delta,777,62.71,1239
+89243,Switzerland,2020-05-11,Delta,0,0.0,106
+89267,Switzerland,2020-05-25,Delta,0,0.0,23
+89291,Switzerland,2020-06-08,Delta,0,0.0,27
+89315,Switzerland,2020-06-22,Delta,0,0.0,25
+89339,Switzerland,2020-07-06,Delta,0,0.0,89
+89363,Switzerland,2020-07-20,Delta,0,0.0,169
+89387,Switzerland,2020-08-03,Delta,0,0.0,145
+89411,Switzerland,2020-08-17,Delta,0,0.0,174
+89435,Switzerland,2020-08-31,Delta,0,0.0,306
+89459,Switzerland,2020-09-14,Delta,0,0.0,288
+89483,Switzerland,2020-09-28,Delta,0,0.0,52
+89507,Switzerland,2020-10-12,Delta,0,0.0,448
+89531,Switzerland,2020-10-26,Delta,0,0.0,998
+89555,Switzerland,2020-11-09,Delta,0,0.0,1607
+89579,Switzerland,2020-11-23,Delta,0,0.0,1685
+89603,Switzerland,2020-12-07,Delta,0,0.0,1421
+89627,Switzerland,2020-12-21,Delta,0,0.0,2426
+89651,Switzerland,2021-01-04,Delta,0,0.0,3229
+89675,Switzerland,2021-01-11,Delta,0,0.0,1785
+89699,Switzerland,2021-01-25,Delta,0,0.0,3563
+89723,Switzerland,2021-02-08,Delta,0,0.0,3053
+89747,Switzerland,2021-02-22,Delta,0,0.0,1819
+89771,Switzerland,2021-03-08,Delta,0,0.0,1936
+89795,Switzerland,2021-03-22,Delta,0,0.0,2524
+89819,Switzerland,2021-04-05,Delta,0,0.0,2521
+89843,Switzerland,2021-04-19,Delta,8,0.25,3200
+89867,Switzerland,2021-05-03,Delta,33,0.82,4034
+89891,Switzerland,2021-05-17,Delta,26,0.9,2882
+89915,Switzerland,2021-05-31,Delta,57,2.58,2210
+89939,Switzerland,2021-06-14,Delta,125,11.28,1108
+89963,Switzerland,2021-06-28,Delta,136,28.39,479
+89987,Switzerland,2021-07-12,Delta,761,79.02,963
+90011,Switzerland,2021-07-26,Delta,2814,95.98,2932
+90035,Switzerland,2021-08-09,Delta,4504,97.43,4623
+90059,Switzerland,2021-08-23,Delta,6606,99.59,6633
+90083,Switzerland,2021-09-06,Delta,4369,99.77,4379
+90107,Switzerland,2021-09-20,Delta,4395,99.98,4396
+90131,Switzerland,2021-10-04,Delta,3784,100.0,3784
+90155,Switzerland,2021-10-18,Delta,3229,99.97,3230
+90179,Switzerland,2021-11-01,Delta,5088,99.73,5102
+90203,Switzerland,2021-11-15,Delta,6563,99.68,6584
+90227,Switzerland,2021-11-29,Delta,6543,99.62,6568
+90251,Switzerland,2021-12-13,Delta,4566,94.91,4811
+90275,Switzerland,2021-12-27,Delta,816,61.35,1330
+90299,Thailand,2020-08-03,Delta,0,0.0,5
+90323,Thailand,2020-08-31,Delta,0,0.0,2
+90347,Thailand,2020-09-28,Delta,0,0.0,2
+90371,Thailand,2020-10-12,Delta,0,0.0,7
+90395,Thailand,2020-10-26,Delta,0,0.0,7
+90419,Thailand,2020-11-09,Delta,0,0.0,6
+90443,Thailand,2020-11-23,Delta,0,0.0,9
+90467,Thailand,2020-12-07,Delta,0,0.0,18
+90491,Thailand,2020-12-21,Delta,0,0.0,76
+90515,Thailand,2021-01-04,Delta,0,0.0,37
+90539,Thailand,2021-01-11,Delta,0,0.0,47
+90563,Thailand,2021-01-25,Delta,0,0.0,33
+90587,Thailand,2021-02-08,Delta,0,0.0,33
+90611,Thailand,2021-02-22,Delta,0,0.0,108
+90635,Thailand,2021-03-08,Delta,1,3.45,29
+90659,Thailand,2021-03-22,Delta,0,0.0,33
+90683,Thailand,2021-04-05,Delta,0,0.0,29
+90707,Thailand,2021-04-19,Delta,2,1.55,129
+90731,Thailand,2021-05-03,Delta,1,1.01,99
+90755,Thailand,2021-05-17,Delta,59,10.02,589
+90779,Thailand,2021-05-31,Delta,68,11.09,613
+90803,Thailand,2021-06-14,Delta,69,25.18,274
+90827,Thailand,2021-06-28,Delta,188,48.08,391
+90851,Thailand,2021-07-12,Delta,148,71.15,208
+90875,Thailand,2021-07-26,Delta,391,66.27,590
+90899,Thailand,2021-08-09,Delta,239,80.2,298
+90923,Thailand,2021-08-23,Delta,264,85.16,310
+90947,Thailand,2021-09-06,Delta,294,95.45,308
+90971,Thailand,2021-09-20,Delta,426,97.48,437
+90995,Thailand,2021-10-04,Delta,797,98.76,807
+91019,Thailand,2021-10-18,Delta,934,98.21,951
+91043,Thailand,2021-11-01,Delta,945,99.68,948
+91067,Thailand,2021-11-15,Delta,586,100.0,586
+91091,Thailand,2021-11-29,Delta,514,99.61,516
+91115,Thailand,2021-12-13,Delta,450,97.83,460
+91139,Thailand,2021-12-27,Delta,17,73.91,23
+91163,Togo,2020-05-25,Delta,0,0.0,3
+91187,Togo,2020-06-08,Delta,0,0.0,4
+91211,Togo,2020-07-20,Delta,0,0.0,2
+91235,Togo,2020-09-28,Delta,0,0.0,5
+91259,Togo,2020-10-12,Delta,0,0.0,1
+91283,Togo,2020-11-23,Delta,0,0.0,1
+91307,Togo,2020-12-07,Delta,0,0.0,1
+91331,Togo,2020-12-21,Delta,0,0.0,8
+91355,Togo,2021-01-04,Delta,0,0.0,5
+91379,Togo,2021-01-25,Delta,0,0.0,6
+91403,Togo,2021-02-08,Delta,0,0.0,40
+91427,Togo,2021-02-22,Delta,0,0.0,40
+91451,Togo,2021-03-08,Delta,0,0.0,36
+91475,Togo,2021-03-22,Delta,0,0.0,12
+91499,Togo,2021-04-05,Delta,0,0.0,8
+91523,Togo,2021-04-19,Delta,1,7.14,14
+91547,Togo,2021-05-03,Delta,1,12.5,8
+91571,Togo,2021-06-14,Delta,15,60.0,25
+91595,Togo,2021-06-28,Delta,20,74.07,27
+91619,Togo,2021-07-12,Delta,21,87.5,24
+91643,Togo,2021-07-26,Delta,23,95.83,24
+91667,Togo,2021-08-09,Delta,44,100.0,44
+91691,Trinidad and Tobago,2020-06-22,Delta,0,0.0,1
+91715,Trinidad and Tobago,2020-08-17,Delta,0,0.0,1
+91739,Trinidad and Tobago,2020-08-31,Delta,0,0.0,10
+91763,Trinidad and Tobago,2020-09-14,Delta,0,0.0,5
+91787,Trinidad and Tobago,2020-09-28,Delta,0,0.0,1
+91811,Trinidad and Tobago,2020-11-09,Delta,0,0.0,4
+91835,Trinidad and Tobago,2020-11-23,Delta,0,0.0,1
+91859,Trinidad and Tobago,2020-12-07,Delta,0,0.0,9
+91883,Trinidad and Tobago,2020-12-21,Delta,0,0.0,3
+91907,Trinidad and Tobago,2021-01-25,Delta,0,0.0,1
+91931,Trinidad and Tobago,2021-02-22,Delta,0,0.0,4
+91955,Trinidad and Tobago,2021-03-08,Delta,0,0.0,2
+91979,Trinidad and Tobago,2021-03-22,Delta,0,0.0,6
+92003,Trinidad and Tobago,2021-04-05,Delta,0,0.0,8
+92027,Trinidad and Tobago,2021-04-19,Delta,0,0.0,70
+92051,Trinidad and Tobago,2021-05-03,Delta,0,0.0,197
+92075,Trinidad and Tobago,2021-05-17,Delta,0,0.0,142
+92099,Trinidad and Tobago,2021-05-31,Delta,0,0.0,28
+92123,Trinidad and Tobago,2021-06-14,Delta,0,0.0,23
+92147,Trinidad and Tobago,2021-06-28,Delta,0,0.0,11
+92171,Trinidad and Tobago,2021-07-12,Delta,0,0.0,8
+92195,Trinidad and Tobago,2021-07-26,Delta,0,0.0,12
+92219,Trinidad and Tobago,2021-08-09,Delta,2,4.0,50
+92243,Trinidad and Tobago,2021-08-23,Delta,1,1.67,60
+92267,Trinidad and Tobago,2021-09-06,Delta,4,26.67,15
+92291,Trinidad and Tobago,2021-09-20,Delta,10,20.0,50
+92315,Trinidad and Tobago,2021-10-04,Delta,27,41.54,65
+92339,Trinidad and Tobago,2021-10-18,Delta,84,67.74,124
+92363,Trinidad and Tobago,2021-11-01,Delta,97,82.91,117
+92387,Trinidad and Tobago,2021-11-15,Delta,157,96.91,162
+92411,Trinidad and Tobago,2021-11-29,Delta,101,95.28,106
+92435,Trinidad and Tobago,2021-12-13,Delta,103,98.1,105
+92459,Trinidad and Tobago,2021-12-27,Delta,27,77.14,35
+92483,Turkey,2020-05-11,Delta,0,0.0,95
+92507,Turkey,2020-05-25,Delta,0,0.0,74
+92531,Turkey,2020-06-08,Delta,0,0.0,33
+92555,Turkey,2020-06-22,Delta,0,0.0,21
+92579,Turkey,2020-07-06,Delta,0,0.0,20
+92603,Turkey,2020-07-20,Delta,0,0.0,1
+92627,Turkey,2020-08-03,Delta,0,0.0,10
+92651,Turkey,2020-08-17,Delta,0,0.0,4
+92675,Turkey,2020-08-31,Delta,0,0.0,10
+92699,Turkey,2020-09-14,Delta,0,0.0,11
+92723,Turkey,2020-09-28,Delta,0,0.0,11
+92747,Turkey,2020-10-12,Delta,0,0.0,2
+92771,Turkey,2020-10-26,Delta,0,0.0,2
+92795,Turkey,2020-11-23,Delta,0,0.0,32
+92819,Turkey,2020-12-07,Delta,0,0.0,1
+92843,Turkey,2020-12-21,Delta,0,0.0,24
+92867,Turkey,2021-01-04,Delta,0,0.0,67
+92891,Turkey,2021-01-11,Delta,0,0.0,12
+92915,Turkey,2021-01-25,Delta,0,0.0,230
+92939,Turkey,2021-02-08,Delta,0,0.0,335
+92963,Turkey,2021-02-22,Delta,0,0.0,1104
+92987,Turkey,2021-03-08,Delta,0,0.0,1135
+93011,Turkey,2021-03-22,Delta,333,34.05,978
+93035,Turkey,2021-04-05,Delta,0,0.0,1375
+93059,Turkey,2021-04-19,Delta,0,0.0,21
+93083,Turkey,2021-05-03,Delta,0,0.0,144
+93107,Turkey,2021-05-17,Delta,1,0.34,292
+93131,Turkey,2021-05-31,Delta,6,2.07,290
+93155,Turkey,2021-06-14,Delta,50,18.52,270
+93179,Turkey,2021-06-28,Delta,576,50.39,1143
+93203,Turkey,2021-07-12,Delta,3905,96.35,4053
+93227,Turkey,2021-07-26,Delta,412,32.7,1260
+93251,Turkey,2021-08-09,Delta,5746,46.18,12442
+93275,Turkey,2021-08-23,Delta,27425,84.26,32547
+93299,Turkey,2021-09-06,Delta,1318,99.92,1319
+93323,Turkey,2021-09-20,Delta,2714,100.0,2714
+93347,Turkey,2021-10-04,Delta,3008,100.0,3008
+93371,Turkey,2021-10-18,Delta,1715,99.94,1716
+93395,Turkey,2021-11-01,Delta,361,100.0,361
+93419,Turkey,2021-11-15,Delta,2426,100.0,2426
+93443,Turkey,2021-11-29,Delta,2382,99.96,2383
+93467,Turkey,2021-12-13,Delta,2779,99.89,2782
+93491,Turkey,2021-12-27,Delta,1895,90.24,2100
+93515,Uganda,2020-05-11,Delta,0,0.0,27
+93539,Uganda,2020-05-25,Delta,0,0.0,1
+93563,Uganda,2020-07-06,Delta,0,0.0,4
+93587,Uganda,2020-07-20,Delta,0,0.0,2
+93611,Uganda,2020-08-03,Delta,0,0.0,9
+93635,Uganda,2020-08-17,Delta,0,0.0,31
+93659,Uganda,2020-08-31,Delta,0,0.0,27
+93683,Uganda,2020-09-14,Delta,0,0.0,37
+93707,Uganda,2020-09-28,Delta,0,0.0,10
+93731,Uganda,2020-10-12,Delta,0,0.0,8
+93755,Uganda,2020-10-26,Delta,0,0.0,2
+93779,Uganda,2020-11-09,Delta,0,0.0,26
+93803,Uganda,2020-11-23,Delta,0,0.0,29
+93827,Uganda,2020-12-07,Delta,0,0.0,2
+93851,Uganda,2020-12-21,Delta,0,0.0,39
+93875,Uganda,2021-01-04,Delta,0,0.0,59
+93899,Uganda,2021-01-25,Delta,0,0.0,25
+93923,Uganda,2021-02-08,Delta,0,0.0,2
+93947,Uganda,2021-02-22,Delta,0,0.0,8
+93971,Uganda,2021-03-08,Delta,0,0.0,9
+93995,Uganda,2021-03-22,Delta,0,0.0,10
+94019,Uganda,2021-04-05,Delta,0,0.0,26
+94043,Uganda,2021-04-19,Delta,0,0.0,17
+94067,Uganda,2021-05-03,Delta,4,36.36,11
+94091,Uganda,2021-05-17,Delta,0,0.0,17
+94115,Uganda,2021-05-31,Delta,21,100.0,21
+94139,Uganda,2021-06-14,Delta,164,95.35,172
+94163,Uganda,2021-06-28,Delta,106,92.98,114
+94187,Uganda,2021-07-12,Delta,12,100.0,12
+94211,Uganda,2021-07-26,Delta,14,93.33,15
+94235,Uganda,2021-08-09,Delta,16,94.12,17
+94259,Uganda,2021-08-23,Delta,5,100.0,5
+94283,Uganda,2021-12-13,Delta,0,0.0,1
+94307,Ukraine,2020-05-11,Delta,0,0.0,2
+94331,Ukraine,2020-05-25,Delta,0,0.0,9
+94355,Ukraine,2020-06-08,Delta,0,0.0,23
+94379,Ukraine,2020-07-06,Delta,0,0.0,14
+94403,Ukraine,2020-07-20,Delta,0,0.0,3
+94427,Ukraine,2020-08-03,Delta,0,0.0,3
+94451,Ukraine,2020-08-17,Delta,0,0.0,10
+94475,Ukraine,2020-09-28,Delta,0,0.0,2
+94499,Ukraine,2020-10-12,Delta,0,0.0,3
+94523,Ukraine,2020-10-26,Delta,0,0.0,2
+94547,Ukraine,2020-11-23,Delta,0,0.0,1
+94571,Ukraine,2020-12-07,Delta,0,0.0,1
+94595,Ukraine,2021-01-04,Delta,0,0.0,45
+94619,Ukraine,2021-01-11,Delta,0,0.0,27
+94643,Ukraine,2021-01-25,Delta,0,0.0,25
+94667,Ukraine,2021-02-22,Delta,0,0.0,6
+94691,Ukraine,2021-03-08,Delta,0,0.0,26
+94715,Ukraine,2021-03-22,Delta,0,0.0,36
+94739,Ukraine,2021-04-05,Delta,0,0.0,2
+94763,Ukraine,2021-05-17,Delta,0,0.0,4
+94787,Ukraine,2021-05-31,Delta,1,4.76,21
+94811,Ukraine,2021-06-14,Delta,0,0.0,3
+94835,Ukraine,2021-06-28,Delta,19,44.19,43
+94859,Ukraine,2021-07-12,Delta,32,96.97,33
+94883,Ukraine,2021-07-26,Delta,28,87.5,32
+94907,Ukraine,2021-09-06,Delta,10,100.0,10
+94931,Ukraine,2021-09-20,Delta,41,100.0,41
+94955,Ukraine,2021-10-04,Delta,12,100.0,12
+94979,Ukraine,2021-10-18,Delta,2,100.0,2
+95003,Ukraine,2021-11-01,Delta,106,100.0,106
+95027,Ukraine,2021-11-15,Delta,10,100.0,10
+95051,Ukraine,2021-11-29,Delta,48,100.0,48
+95075,Ukraine,2021-12-13,Delta,8,100.0,8
+95099,Ukraine,2021-12-27,Delta,0,0.0,1
+95123,United Arab Emirates,2020-05-11,Delta,0,0.0,133
+95147,United Arab Emirates,2020-05-25,Delta,0,0.0,891
+95171,United Arab Emirates,2020-06-08,Delta,0,0.0,18
+95195,United Arab Emirates,2020-06-22,Delta,0,0.0,106
+95219,United Arab Emirates,2020-07-06,Delta,0,0.0,151
+95243,United Arab Emirates,2020-07-20,Delta,0,0.0,4
+95267,United Arab Emirates,2020-08-17,Delta,0,0.0,6
+95291,United Arab Emirates,2020-08-31,Delta,0,0.0,65
+95315,United Arab Emirates,2020-09-14,Delta,0,0.0,24
+95339,United Arab Emirates,2020-09-28,Delta,0,0.0,39
+95363,United Arab Emirates,2020-10-12,Delta,0,0.0,69
+95387,United Arab Emirates,2020-10-26,Delta,0,0.0,56
+95411,United Arab Emirates,2020-11-09,Delta,0,0.0,21
+95435,United Arab Emirates,2020-11-23,Delta,0,0.0,67
+95459,United Arab Emirates,2020-12-07,Delta,0,0.0,57
+95483,United Arab Emirates,2020-12-21,Delta,0,0.0,40
+95507,United Arab Emirates,2021-01-04,Delta,0,0.0,155
+95531,United Arab Emirates,2021-01-11,Delta,0,0.0,80
+95555,United Arab Emirates,2021-01-25,Delta,0,0.0,143
+95579,United Arab Emirates,2021-02-08,Delta,0,0.0,324
+95603,United Arab Emirates,2021-02-22,Delta,0,0.0,14
+95627,United Arab Emirates,2021-05-03,Delta,0,0.0,5
+95651,United Arab Emirates,2021-06-14,Delta,2,100.0,2
+95675,United Arab Emirates,2021-06-28,Delta,20,100.0,20
+95699,United Kingdom,2020-05-11,Delta,0,0.0,4753
+95723,United Kingdom,2020-05-25,Delta,0,0.0,2767
+95747,United Kingdom,2020-06-08,Delta,0,0.0,1761
+95771,United Kingdom,2020-06-22,Delta,0,0.0,4716
+95795,United Kingdom,2020-07-06,Delta,0,0.0,2286
+95819,United Kingdom,2020-07-20,Delta,0,0.0,1088
+95843,United Kingdom,2020-08-03,Delta,0,0.0,1190
+95867,United Kingdom,2020-08-17,Delta,0,0.0,2357
+95891,United Kingdom,2020-08-31,Delta,0,0.0,4144
+95915,United Kingdom,2020-09-14,Delta,0,0.0,5667
+95939,United Kingdom,2020-09-28,Delta,0,0.0,9722
+95963,United Kingdom,2020-10-12,Delta,0,0.0,11598
+95987,United Kingdom,2020-10-26,Delta,0,0.0,16191
+96011,United Kingdom,2020-11-09,Delta,0,0.0,17930
+96035,United Kingdom,2020-11-23,Delta,1,0.01,18024
+96059,United Kingdom,2020-12-07,Delta,0,0.0,8465
+96083,United Kingdom,2020-12-21,Delta,0,0.0,21638
+96107,United Kingdom,2021-01-04,Delta,2,0.01,18777
+96131,United Kingdom,2021-01-11,Delta,1,0.01,12673
+96155,United Kingdom,2021-01-25,Delta,0,0.0,30847
+96179,United Kingdom,2021-02-08,Delta,0,0.0,33472
+96203,United Kingdom,2021-02-22,Delta,0,0.0,32917
+96227,United Kingdom,2021-03-08,Delta,2,0.01,30391
+96251,United Kingdom,2021-03-22,Delta,6,0.02,35371
+96275,United Kingdom,2021-04-05,Delta,30,0.1,29673
+96299,United Kingdom,2021-04-19,Delta,257,1.62,15908
+96323,United Kingdom,2021-05-03,Delta,1307,9.16,14275
+96347,United Kingdom,2021-05-17,Delta,4830,33.6,14374
+96371,United Kingdom,2021-05-31,Delta,17451,73.25,23824
+96395,United Kingdom,2021-06-14,Delta,33664,90.21,37317
+96419,United Kingdom,2021-06-28,Delta,42614,98.09,43442
+96443,United Kingdom,2021-07-12,Delta,55722,99.26,56140
+96467,United Kingdom,2021-07-26,Delta,57005,99.65,57203
+96491,United Kingdom,2021-08-09,Delta,64350,99.72,64528
+96515,United Kingdom,2021-08-23,Delta,63922,99.94,63959
+96539,United Kingdom,2021-09-06,Delta,77071,99.94,77119
+96563,United Kingdom,2021-09-20,Delta,77067,99.97,77089
+96587,United Kingdom,2021-10-04,Delta,75393,99.89,75474
+96611,United Kingdom,2021-10-18,Delta,76686,99.96,76720
+96635,United Kingdom,2021-11-01,Delta,86049,99.98,86068
+96659,United Kingdom,2021-11-15,Delta,96936,99.99,96946
+96683,United Kingdom,2021-11-29,Delta,112564,99.82,112772
+96707,United Kingdom,2021-12-13,Delta,115324,90.56,127342
+96731,United Kingdom,2021-12-27,Delta,27437,34.3,80002
+96755,United Kingdom,2022-01-05,Delta,23,4.09,562
+96779,United States,2020-05-11,Delta,0,0.0,5804
+96803,United States,2020-05-25,Delta,0,0.0,4736
+96827,United States,2020-06-08,Delta,0,0.0,4035
+96851,United States,2020-06-22,Delta,0,0.0,6070
+96875,United States,2020-07-06,Delta,0,0.0,8371
+96899,United States,2020-07-20,Delta,0,0.0,10122
+96923,United States,2020-08-03,Delta,0,0.0,7801
+96947,United States,2020-08-17,Delta,0,0.0,5992
+96971,United States,2020-08-31,Delta,0,0.0,4888
+96995,United States,2020-09-14,Delta,0,0.0,4362
+97019,United States,2020-09-28,Delta,0,0.0,5077
+97043,United States,2020-10-12,Delta,0,0.0,5764
+97067,United States,2020-10-26,Delta,0,0.0,7535
+97091,United States,2020-11-09,Delta,1,0.01,12540
+97115,United States,2020-11-23,Delta,1,0.01,13561
+97139,United States,2020-12-07,Delta,0,0.0,13266
+97163,United States,2020-12-21,Delta,0,0.0,19936
+97187,United States,2021-01-04,Delta,0,0.0,21204
+97211,United States,2021-01-11,Delta,4,0.02,18451
+97235,United States,2021-01-25,Delta,4,0.01,38293
+97259,United States,2021-02-08,Delta,0,0.0,34853
+97283,United States,2021-02-22,Delta,2,0.01,35919
+97307,United States,2021-03-08,Delta,3,0.01,39935
+97331,United States,2021-03-22,Delta,8,0.02,52615
+97355,United States,2021-04-05,Delta,42,0.06,68922
+97379,United States,2021-04-19,Delta,248,0.31,80542
+97403,United States,2021-05-03,Delta,834,1.22,68541
+97427,United States,2021-05-17,Delta,1248,2.43,51424
+97451,United States,2021-05-31,Delta,1893,6.55,28913
+97475,United States,2021-06-14,Delta,4709,23.22,20283
+97499,United States,2021-06-28,Delta,11308,50.73,22291
+97523,United States,2021-07-12,Delta,29589,79.43,37254
+97547,United States,2021-07-26,Delta,74073,92.92,79713
+97571,United States,2021-08-09,Delta,142280,97.34,146170
+97595,United States,2021-08-23,Delta,129262,98.86,130754
+97619,United States,2021-09-06,Delta,136047,99.19,137159
+97643,United States,2021-09-20,Delta,133718,99.26,134718
+97667,United States,2021-10-04,Delta,111191,99.58,111660
+97691,United States,2021-10-18,Delta,107452,99.57,107920
+97715,United States,2021-11-01,Delta,104449,99.59,104883
+97739,United States,2021-11-15,Delta,116690,99.38,117419
+97763,United States,2021-11-29,Delta,99539,99.26,100281
+97787,United States,2021-12-13,Delta,98446,96.11,102430
+97811,United States,2021-12-27,Delta,24395,49.55,49235
+97835,United States,2022-01-05,Delta,7,20.0,35
+97859,Uruguay,2020-05-11,Delta,0,0.0,3
+97883,Uruguay,2020-05-25,Delta,0,0.0,14
+97907,Uruguay,2020-06-08,Delta,0,0.0,11
+97931,Uruguay,2020-06-22,Delta,0,0.0,15
+97955,Uruguay,2020-07-06,Delta,0,0.0,13
+97979,Uruguay,2020-07-20,Delta,0,0.0,12
+98003,Uruguay,2020-08-03,Delta,0,0.0,7
+98027,Uruguay,2020-08-17,Delta,0,0.0,1
+98051,Uruguay,2020-09-28,Delta,0,0.0,6
+98075,Uruguay,2020-10-12,Delta,0,0.0,2
+98099,Uruguay,2020-11-09,Delta,0,0.0,3
+98123,Uruguay,2020-11-23,Delta,0,0.0,2
+98147,Uruguay,2020-12-07,Delta,0,0.0,8
+98171,Uruguay,2020-12-21,Delta,0,0.0,13
+98195,Uruguay,2021-01-04,Delta,0,0.0,11
+98219,Uruguay,2021-01-11,Delta,0,0.0,15
+98243,Uruguay,2021-01-25,Delta,0,0.0,50
+98267,Uruguay,2021-02-08,Delta,0,0.0,60
+98291,Uruguay,2021-02-22,Delta,0,0.0,53
+98315,Uruguay,2021-03-08,Delta,0,0.0,101
+98339,Uruguay,2021-03-22,Delta,0,0.0,57
+98363,Uruguay,2021-04-05,Delta,0,0.0,70
+98387,Uruguay,2021-04-19,Delta,0,0.0,134
+98411,Uruguay,2021-05-03,Delta,0,0.0,21
+98435,Vietnam,2021-01-04,Delta,0,0.0,1
+98459,Vietnam,2021-01-11,Delta,0,0.0,1
+98483,Vietnam,2021-02-08,Delta,0,0.0,2
+98507,Vietnam,2021-02-22,Delta,0,0.0,4
+98531,Vietnam,2021-05-03,Delta,9,60.0,15
+98555,Vietnam,2021-05-17,Delta,56,96.55,58
+98579,Vietnam,2021-05-31,Delta,25,96.15,26
+98603,Vietnam,2021-06-14,Delta,14,100.0,14
+98627,Vietnam,2021-06-28,Delta,6,100.0,6
+98651,Vietnam,2021-07-26,Delta,67,100.0,67
+98675,Vietnam,2021-08-09,Delta,106,100.0,106
+98699,Vietnam,2021-08-23,Delta,139,100.0,139
+98723,Vietnam,2021-09-06,Delta,862,100.0,862
+98747,Vietnam,2021-09-20,Delta,63,100.0,63
+98771,Vietnam,2021-10-04,Delta,88,100.0,88
+98795,Vietnam,2021-10-18,Delta,58,100.0,58
+98819,Vietnam,2021-11-01,Delta,82,100.0,82
+98843,Vietnam,2021-11-15,Delta,69,100.0,69
+98867,Vietnam,2021-11-29,Delta,59,100.0,59
+98891,Vietnam,2021-12-13,Delta,35,100.0,35
+98915,Vietnam,2021-12-27,Delta,49,98.0,50
+98939,Zambia,2020-05-11,Delta,0,0.0,4
+98963,Zambia,2020-06-08,Delta,0,0.0,21
+98987,Zambia,2020-06-22,Delta,0,0.0,25
+99011,Zambia,2020-07-06,Delta,0,0.0,29
+99035,Zambia,2020-07-20,Delta,0,0.0,62
+99059,Zambia,2020-08-03,Delta,0,0.0,184
+99083,Zambia,2020-08-17,Delta,0,0.0,63
+99107,Zambia,2020-08-31,Delta,0,0.0,35
+99131,Zambia,2020-09-14,Delta,0,0.0,2
+99155,Zambia,2020-10-12,Delta,0,0.0,4
+99179,Zambia,2020-10-26,Delta,0,0.0,1
+99203,Zambia,2020-12-07,Delta,0,0.0,4
+99227,Zambia,2020-12-21,Delta,0,0.0,10
+99251,Zambia,2021-01-04,Delta,0,0.0,20
+99275,Zambia,2021-01-11,Delta,0,0.0,26
+99299,Zambia,2021-01-25,Delta,0,0.0,38
+99323,Zambia,2021-02-08,Delta,0,0.0,49
+99347,Zambia,2021-02-22,Delta,0,0.0,76
+99371,Zambia,2021-03-08,Delta,0,0.0,8
+99395,Zambia,2021-03-22,Delta,0,0.0,5
+99419,Zambia,2021-04-05,Delta,1,11.11,9
+99443,Zambia,2021-04-19,Delta,0,0.0,2
+99467,Zambia,2021-05-03,Delta,0,0.0,18
+99491,Zambia,2021-05-31,Delta,87,100.0,87
+99515,Zambia,2021-06-14,Delta,92,97.87,94
+99539,Zambia,2021-06-28,Delta,22,100.0,22
+99563,Zambia,2021-07-12,Delta,70,100.0,70
+99587,Zambia,2021-07-26,Delta,41,100.0,41
+99611,Zambia,2021-08-09,Delta,17,100.0,17
+99635,Zambia,2021-08-23,Delta,7,100.0,7
+99659,Zambia,2021-09-06,Delta,36,97.3,37
+99683,Zambia,2021-09-20,Delta,1,100.0,1
+99707,Zambia,2021-12-13,Delta,0,0.0,39
+99731,Zambia,2021-12-27,Delta,0,0.0,7
+99755,Zimbabwe,2020-05-11,Delta,0,0.0,35
+99779,Zimbabwe,2020-06-08,Delta,0,0.0,41
+99803,Zimbabwe,2020-08-03,Delta,0,0.0,24
+99827,Zimbabwe,2020-08-17,Delta,0,0.0,5
+99851,Zimbabwe,2020-08-31,Delta,0,0.0,7
+99875,Zimbabwe,2020-09-14,Delta,0,0.0,8
+99899,Zimbabwe,2020-10-12,Delta,0,0.0,5
+99923,Zimbabwe,2020-10-26,Delta,0,0.0,4
+99947,Zimbabwe,2020-11-09,Delta,0,0.0,1
+99971,Zimbabwe,2020-11-23,Delta,0,0.0,1
+99995,Zimbabwe,2020-12-07,Delta,0,0.0,1
+100019,Zimbabwe,2020-12-21,Delta,0,0.0,28
+100043,Zimbabwe,2021-01-04,Delta,0,0.0,160
+100067,Zimbabwe,2021-01-11,Delta,0,0.0,114
+100091,Zimbabwe,2021-01-25,Delta,0,0.0,57
+100115,Zimbabwe,2021-02-08,Delta,0,0.0,37
+100139,Zimbabwe,2021-02-22,Delta,0,0.0,1
+100163,Zimbabwe,2021-03-08,Delta,0,0.0,8
+100187,Zimbabwe,2021-06-28,Delta,2,66.67,3
+100211,Zimbabwe,2021-07-12,Delta,42,100.0,42
+100235,Zimbabwe,2021-07-26,Delta,35,100.0,35
+100259,Zimbabwe,2021-08-09,Delta,17,94.44,18
+100283,Zimbabwe,2021-08-23,Delta,18,100.0,18
+100307,Zimbabwe,2021-09-06,Delta,14,100.0,14
+100331,Zimbabwe,2021-09-20,Delta,6,100.0,6
+100355,Zimbabwe,2021-10-04,Delta,2,100.0,2
+100379,Zimbabwe,2021-10-18,Delta,5,100.0,5
+100403,Zimbabwe,2021-11-01,Delta,6,100.0,6

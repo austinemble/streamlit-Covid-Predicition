@@ -1,0 +1,4185 @@
+,location,date,variant,num_sequences,perc_sequences,num_sequences_total
+16,Angola,2020-07-06,Kappa,0,0.0,3
+40,Angola,2020-08-31,Kappa,0,0.0,1
+64,Angola,2020-09-28,Kappa,0,0.0,10
+88,Angola,2020-10-12,Kappa,0,0.0,29
+112,Angola,2020-10-26,Kappa,0,0.0,7
+136,Angola,2020-12-07,Kappa,0,0.0,6
+160,Angola,2020-12-21,Kappa,0,0.0,93
+184,Angola,2021-01-04,Kappa,0,0.0,5
+208,Angola,2021-01-11,Kappa,0,0.0,16
+232,Angola,2021-01-25,Kappa,0,0.0,52
+256,Angola,2021-02-08,Kappa,0,0.0,42
+280,Angola,2021-02-22,Kappa,0,0.0,39
+304,Angola,2021-03-08,Kappa,0,0.0,113
+328,Angola,2021-03-22,Kappa,1,0.83,121
+352,Angola,2021-04-05,Kappa,4,2.92,137
+376,Angola,2021-04-19,Kappa,1,1.2,83
+400,Angola,2021-05-03,Kappa,0,0.0,34
+424,Angola,2021-05-17,Kappa,0,0.0,5
+448,Angola,2021-05-31,Kappa,0,0.0,7
+472,Angola,2021-06-14,Kappa,0,0.0,22
+496,Angola,2021-06-28,Kappa,0,0.0,59
+520,Angola,2021-07-12,Kappa,0,0.0,46
+544,Angola,2021-07-26,Kappa,0,0.0,10
+568,Angola,2021-08-09,Kappa,0,0.0,4
+592,Angola,2021-08-23,Kappa,0,0.0,1
+616,Angola,2021-09-06,Kappa,0,0.0,20
+640,Angola,2021-09-20,Kappa,0,0.0,57
+664,Angola,2021-10-04,Kappa,0,0.0,33
+688,Argentina,2020-05-11,Kappa,0,0.0,151
+712,Argentina,2020-05-25,Kappa,0,0.0,167
+736,Argentina,2020-06-08,Kappa,0,0.0,67
+760,Argentina,2020-06-22,Kappa,0,0.0,79
+784,Argentina,2020-07-06,Kappa,0,0.0,63
+808,Argentina,2020-07-20,Kappa,0,0.0,113
+832,Argentina,2020-08-03,Kappa,0,0.0,103
+856,Argentina,2020-08-17,Kappa,0,0.0,113
+880,Argentina,2020-08-31,Kappa,0,0.0,138
+904,Argentina,2020-09-14,Kappa,0,0.0,50
+928,Argentina,2020-09-28,Kappa,0,0.0,56
+952,Argentina,2020-10-12,Kappa,0,0.0,39
+976,Argentina,2020-10-26,Kappa,0,0.0,102
+1000,Argentina,2020-11-09,Kappa,0,0.0,58
+1024,Argentina,2020-11-23,Kappa,0,0.0,63
+1048,Argentina,2020-12-07,Kappa,0,0.0,49
+1072,Argentina,2020-12-21,Kappa,0,0.0,71
+1096,Argentina,2021-01-04,Kappa,0,0.0,49
+1120,Argentina,2021-01-11,Kappa,0,0.0,33
+1144,Argentina,2021-01-25,Kappa,0,0.0,62
+1168,Argentina,2021-02-08,Kappa,0,0.0,69
+1192,Argentina,2021-02-22,Kappa,0,0.0,57
+1216,Argentina,2021-03-08,Kappa,0,0.0,65
+1240,Argentina,2021-03-22,Kappa,0,0.0,177
+1264,Argentina,2021-04-05,Kappa,0,0.0,196
+1288,Argentina,2021-04-19,Kappa,0,0.0,298
+1312,Argentina,2021-05-03,Kappa,0,0.0,337
+1336,Argentina,2021-05-17,Kappa,0,0.0,338
+1360,Argentina,2021-05-31,Kappa,0,0.0,301
+1384,Argentina,2021-06-14,Kappa,0,0.0,407
+1408,Argentina,2021-06-28,Kappa,0,0.0,380
+1432,Argentina,2021-07-12,Kappa,0,0.0,356
+1456,Argentina,2021-07-26,Kappa,0,0.0,336
+1480,Argentina,2021-08-09,Kappa,0,0.0,480
+1504,Argentina,2021-08-23,Kappa,0,0.0,447
+1528,Argentina,2021-09-06,Kappa,0,0.0,447
+1552,Argentina,2021-09-20,Kappa,0,0.0,313
+1576,Argentina,2021-10-04,Kappa,0,0.0,237
+1600,Argentina,2021-10-18,Kappa,0,0.0,361
+1624,Argentina,2021-11-01,Kappa,0,0.0,553
+1648,Argentina,2021-11-15,Kappa,0,0.0,332
+1672,Argentina,2021-11-29,Kappa,0,0.0,117
+1696,Argentina,2021-12-13,Kappa,0,0.0,87
+1720,Argentina,2021-12-27,Kappa,0,0.0,94
+1744,Aruba,2020-08-17,Kappa,0,0.0,4
+1768,Aruba,2020-08-31,Kappa,0,0.0,1
+1792,Aruba,2021-01-25,Kappa,0,0.0,26
+1816,Aruba,2021-02-08,Kappa,0,0.0,114
+1840,Aruba,2021-02-22,Kappa,0,0.0,154
+1864,Aruba,2021-03-08,Kappa,0,0.0,125
+1888,Aruba,2021-03-22,Kappa,0,0.0,99
+1912,Aruba,2021-04-05,Kappa,0,0.0,92
+1936,Aruba,2021-04-19,Kappa,0,0.0,145
+1960,Aruba,2021-05-03,Kappa,0,0.0,140
+1984,Aruba,2021-05-17,Kappa,0,0.0,101
+2008,Aruba,2021-05-31,Kappa,0,0.0,107
+2032,Aruba,2021-06-14,Kappa,0,0.0,89
+2056,Aruba,2021-06-28,Kappa,0,0.0,24
+2080,Aruba,2021-07-12,Kappa,0,0.0,29
+2104,Aruba,2021-07-26,Kappa,0,0.0,97
+2128,Aruba,2021-08-09,Kappa,0,0.0,341
+2152,Aruba,2021-08-23,Kappa,0,0.0,525
+2176,Aruba,2021-09-06,Kappa,0,0.0,261
+2200,Aruba,2021-09-20,Kappa,0,0.0,140
+2224,Aruba,2021-10-04,Kappa,0,0.0,177
+2248,Aruba,2021-10-18,Kappa,0,0.0,37
+2272,Aruba,2021-11-15,Kappa,0,0.0,68
+2296,Aruba,2021-11-29,Kappa,0,0.0,43
+2320,Aruba,2021-12-13,Kappa,0,0.0,61
+2344,Australia,2020-05-11,Kappa,0,0.0,148
+2368,Australia,2020-05-25,Kappa,0,0.0,103
+2392,Australia,2020-06-08,Kappa,0,0.0,94
+2416,Australia,2020-06-22,Kappa,0,0.0,172
+2440,Australia,2020-07-06,Kappa,0,0.0,814
+2464,Australia,2020-07-20,Kappa,0,0.0,2733
+2488,Australia,2020-08-03,Kappa,0,0.0,4183
+2512,Australia,2020-08-17,Kappa,0,0.0,3020
+2536,Australia,2020-08-31,Kappa,0,0.0,1987
+2560,Australia,2020-09-14,Kappa,0,0.0,770
+2584,Australia,2020-09-28,Kappa,0,0.0,323
+2608,Australia,2020-10-12,Kappa,0,0.0,182
+2632,Australia,2020-10-26,Kappa,0,0.0,132
+2656,Australia,2020-11-09,Kappa,0,0.0,63
+2680,Australia,2020-11-23,Kappa,0,0.0,64
+2704,Australia,2020-12-07,Kappa,0,0.0,49
+2728,Australia,2020-12-21,Kappa,0,0.0,142
+2752,Australia,2021-01-04,Kappa,0,0.0,208
+2776,Australia,2021-01-11,Kappa,0,0.0,74
+2800,Australia,2021-01-25,Kappa,0,0.0,100
+2824,Australia,2021-02-08,Kappa,0,0.0,53
+2848,Australia,2021-02-22,Kappa,0,0.0,80
+2872,Australia,2021-03-08,Kappa,0,0.0,71
+2896,Australia,2021-03-22,Kappa,2,1.64,122
+2920,Australia,2021-04-05,Kappa,2,1.63,123
+2944,Australia,2021-04-19,Kappa,18,11.46,157
+2968,Australia,2021-05-03,Kappa,17,8.33,204
+2992,Australia,2021-05-17,Kappa,5,4.27,117
+3016,Australia,2021-05-31,Kappa,65,60.19,108
+3040,Australia,2021-06-14,Kappa,38,28.79,132
+3064,Australia,2021-06-28,Kappa,9,3.64,247
+3088,Australia,2021-07-12,Kappa,0,0.0,767
+3112,Australia,2021-07-26,Kappa,0,0.0,1742
+3136,Australia,2021-08-09,Kappa,0,0.0,2734
+3160,Australia,2021-08-23,Kappa,0,0.0,3198
+3184,Australia,2021-09-06,Kappa,0,0.0,3744
+3208,Australia,2021-09-20,Kappa,0,0.0,3526
+3232,Australia,2021-10-04,Kappa,0,0.0,1824
+3256,Australia,2021-10-18,Kappa,0,0.0,2410
+3280,Australia,2021-11-01,Kappa,0,0.0,1883
+3304,Australia,2021-11-15,Kappa,0,0.0,2078
+3328,Australia,2021-11-29,Kappa,0,0.0,1992
+3352,Australia,2021-12-13,Kappa,0,0.0,2800
+3376,Australia,2021-12-27,Kappa,0,0.0,1726
+3400,Austria,2020-05-11,Kappa,0,0.0,34
+3424,Austria,2020-05-25,Kappa,0,0.0,41
+3448,Austria,2020-06-08,Kappa,0,0.0,1
+3472,Austria,2020-06-22,Kappa,0,0.0,1
+3496,Austria,2020-07-06,Kappa,0,0.0,2
+3520,Austria,2020-07-20,Kappa,0,0.0,11
+3544,Austria,2020-08-03,Kappa,0,0.0,9
+3568,Austria,2020-08-17,Kappa,0,0.0,22
+3592,Austria,2020-08-31,Kappa,0,0.0,44
+3616,Austria,2020-09-14,Kappa,0,0.0,35
+3640,Austria,2020-09-28,Kappa,0,0.0,39
+3664,Austria,2020-10-12,Kappa,0,0.0,30
+3688,Austria,2020-10-26,Kappa,0,0.0,84
+3712,Austria,2020-11-09,Kappa,0,0.0,181
+3736,Austria,2020-11-23,Kappa,0,0.0,159
+3760,Austria,2020-12-07,Kappa,0,0.0,137
+3784,Austria,2020-12-21,Kappa,0,0.0,45
+3808,Austria,2021-01-04,Kappa,0,0.0,315
+3832,Austria,2021-01-11,Kappa,0,0.0,136
+3856,Austria,2021-01-25,Kappa,0,0.0,250
+3880,Austria,2021-02-08,Kappa,0,0.0,385
+3904,Austria,2021-02-22,Kappa,0,0.0,415
+3928,Austria,2021-03-08,Kappa,0,0.0,464
+3952,Austria,2021-03-22,Kappa,0,0.0,567
+3976,Austria,2021-04-05,Kappa,0,0.0,291
+4000,Austria,2021-04-19,Kappa,0,0.0,353
+4024,Austria,2021-05-03,Kappa,0,0.0,329
+4048,Austria,2021-05-17,Kappa,0,0.0,619
+4072,Austria,2021-05-31,Kappa,0,0.0,389
+4096,Austria,2021-06-14,Kappa,0,0.0,398
+4120,Austria,2021-06-28,Kappa,0,0.0,750
+4144,Austria,2021-07-12,Kappa,0,0.0,505
+4168,Austria,2021-07-26,Kappa,0,0.0,771
+4192,Austria,2021-08-09,Kappa,1,0.16,623
+4216,Austria,2021-08-23,Kappa,0,0.0,623
+4240,Austria,2021-09-06,Kappa,0,0.0,585
+4264,Austria,2021-09-20,Kappa,0,0.0,513
+4288,Austria,2021-10-04,Kappa,0,0.0,444
+4312,Austria,2021-10-18,Kappa,0,0.0,437
+4336,Austria,2021-11-01,Kappa,0,0.0,634
+4360,Austria,2021-11-15,Kappa,0,0.0,561
+4384,Austria,2021-11-29,Kappa,0,0.0,165
+4408,Austria,2021-12-13,Kappa,0,0.0,183
+4432,Bahrain,2020-06-08,Kappa,0,0.0,1
+4456,Bahrain,2020-06-22,Kappa,0,0.0,2
+4480,Bahrain,2020-07-06,Kappa,0,0.0,11
+4504,Bahrain,2020-08-03,Kappa,0,0.0,3
+4528,Bahrain,2020-08-31,Kappa,0,0.0,3
+4552,Bahrain,2020-09-14,Kappa,0,0.0,2
+4576,Bahrain,2020-09-28,Kappa,0,0.0,2
+4600,Bahrain,2020-10-12,Kappa,0,0.0,10
+4624,Bahrain,2020-10-26,Kappa,0,0.0,45
+4648,Bahrain,2020-11-09,Kappa,0,0.0,6
+4672,Bahrain,2020-11-23,Kappa,0,0.0,38
+4696,Bahrain,2021-02-08,Kappa,0,0.0,1
+4720,Bahrain,2021-02-22,Kappa,0,0.0,2
+4744,Bahrain,2021-03-22,Kappa,0,0.0,7
+4768,Bahrain,2021-04-05,Kappa,0,0.0,2
+4792,Bahrain,2021-04-19,Kappa,8,19.05,42
+4816,Bahrain,2021-05-03,Kappa,0,0.0,9
+4840,Bahrain,2021-05-17,Kappa,0,0.0,57
+4864,Bahrain,2021-05-31,Kappa,0,0.0,46
+4888,Bahrain,2021-06-14,Kappa,0,0.0,24
+4912,Bahrain,2021-06-28,Kappa,0,0.0,84
+4936,Bahrain,2021-07-12,Kappa,0,0.0,69
+4960,Bahrain,2021-07-26,Kappa,0,0.0,106
+4984,Bahrain,2021-08-09,Kappa,0,0.0,48
+5008,Bahrain,2021-09-06,Kappa,0,0.0,227
+5032,Bahrain,2021-10-04,Kappa,0,0.0,186
+5056,Bahrain,2021-10-18,Kappa,0,0.0,372
+5080,Bahrain,2021-11-01,Kappa,0,0.0,467
+5104,Bahrain,2021-11-15,Kappa,0,0.0,370
+5128,Bangladesh,2020-05-11,Kappa,0,0.0,124
+5152,Bangladesh,2020-05-25,Kappa,0,0.0,168
+5176,Bangladesh,2020-06-08,Kappa,0,0.0,69
+5200,Bangladesh,2020-06-22,Kappa,0,0.0,111
+5224,Bangladesh,2020-07-06,Kappa,0,0.0,175
+5248,Bangladesh,2020-07-20,Kappa,0,0.0,139
+5272,Bangladesh,2020-08-03,Kappa,0,0.0,66
+5296,Bangladesh,2020-08-17,Kappa,0,0.0,26
+5320,Bangladesh,2020-08-31,Kappa,0,0.0,25
+5344,Bangladesh,2020-09-14,Kappa,0,0.0,35
+5368,Bangladesh,2020-09-28,Kappa,0,0.0,8
+5392,Bangladesh,2020-10-12,Kappa,0,0.0,20
+5416,Bangladesh,2020-10-26,Kappa,0,0.0,15
+5440,Bangladesh,2020-11-09,Kappa,0,0.0,27
+5464,Bangladesh,2020-11-23,Kappa,0,0.0,30
+5488,Bangladesh,2020-12-07,Kappa,0,0.0,57
+5512,Bangladesh,2020-12-21,Kappa,0,0.0,25
+5536,Bangladesh,2021-01-04,Kappa,0,0.0,53
+5560,Bangladesh,2021-01-11,Kappa,0,0.0,15
+5584,Bangladesh,2021-01-25,Kappa,0,0.0,62
+5608,Bangladesh,2021-02-08,Kappa,0,0.0,42
+5632,Bangladesh,2021-02-22,Kappa,0,0.0,36
+5656,Bangladesh,2021-03-08,Kappa,0,0.0,14
+5680,Bangladesh,2021-03-22,Kappa,0,0.0,156
+5704,Bangladesh,2021-04-05,Kappa,0,0.0,87
+5728,Bangladesh,2021-04-19,Kappa,0,0.0,131
+5752,Bangladesh,2021-05-03,Kappa,0,0.0,56
+5776,Bangladesh,2021-05-17,Kappa,0,0.0,58
+5800,Bangladesh,2021-05-31,Kappa,0,0.0,99
+5824,Bangladesh,2021-06-14,Kappa,0,0.0,69
+5848,Bangladesh,2021-06-28,Kappa,0,0.0,112
+5872,Bangladesh,2021-07-12,Kappa,0,0.0,244
+5896,Bangladesh,2021-07-26,Kappa,0,0.0,174
+5920,Bangladesh,2021-08-09,Kappa,0,0.0,149
+5944,Bangladesh,2021-08-23,Kappa,0,0.0,140
+5968,Bangladesh,2021-09-06,Kappa,0,0.0,131
+5992,Bangladesh,2021-09-20,Kappa,0,0.0,126
+6016,Bangladesh,2021-10-04,Kappa,0,0.0,94
+6040,Bangladesh,2021-10-18,Kappa,0,0.0,136
+6064,Bangladesh,2021-11-01,Kappa,0,0.0,94
+6088,Bangladesh,2021-11-15,Kappa,0,0.0,118
+6112,Bangladesh,2021-11-29,Kappa,0,0.0,112
+6136,Bangladesh,2021-12-13,Kappa,0,0.0,45
+6160,Bangladesh,2021-12-27,Kappa,0,0.0,24
+6184,Bangladesh,2022-01-05,Kappa,0,0.0,3
+6208,Belgium,2020-05-11,Kappa,0,0.0,134
+6232,Belgium,2020-05-25,Kappa,0,0.0,67
+6256,Belgium,2020-06-08,Kappa,0,0.0,15
+6280,Belgium,2020-06-22,Kappa,0,0.0,38
+6304,Belgium,2020-07-06,Kappa,0,0.0,39
+6328,Belgium,2020-07-20,Kappa,0,0.0,39
+6352,Belgium,2020-08-03,Kappa,0,0.0,146
+6376,Belgium,2020-08-17,Kappa,0,0.0,130
+6400,Belgium,2020-08-31,Kappa,0,0.0,54
+6424,Belgium,2020-09-14,Kappa,0,0.0,87
+6448,Belgium,2020-09-28,Kappa,0,0.0,246
+6472,Belgium,2020-10-12,Kappa,0,0.0,130
+6496,Belgium,2020-10-26,Kappa,0,0.0,363
+6520,Belgium,2020-11-09,Kappa,0,0.0,204
+6544,Belgium,2020-11-23,Kappa,0,0.0,241
+6568,Belgium,2020-12-07,Kappa,0,0.0,148
+6592,Belgium,2020-12-21,Kappa,0,0.0,347
+6616,Belgium,2021-01-04,Kappa,0,0.0,242
+6640,Belgium,2021-01-11,Kappa,0,0.0,293
+6664,Belgium,2021-01-25,Kappa,0,0.0,1378
+6688,Belgium,2021-02-08,Kappa,0,0.0,1820
+6712,Belgium,2021-02-22,Kappa,0,0.0,1808
+6736,Belgium,2021-03-08,Kappa,0,0.0,2237
+6760,Belgium,2021-03-22,Kappa,0,0.0,2935
+6784,Belgium,2021-04-05,Kappa,5,0.15,3438
+6808,Belgium,2021-04-19,Kappa,2,0.07,2911
+6832,Belgium,2021-05-03,Kappa,7,0.21,3338
+6856,Belgium,2021-05-17,Kappa,3,0.1,3108
+6880,Belgium,2021-05-31,Kappa,0,0.0,2952
+6904,Belgium,2021-06-14,Kappa,0,0.0,1995
+6928,Belgium,2021-06-28,Kappa,0,0.0,1181
+6952,Belgium,2021-07-12,Kappa,0,0.0,2640
+6976,Belgium,2021-07-26,Kappa,0,0.0,3960
+7000,Belgium,2021-08-09,Kappa,0,0.0,4006
+7024,Belgium,2021-08-23,Kappa,0,0.0,4534
+7048,Belgium,2021-09-06,Kappa,0,0.0,4495
+7072,Belgium,2021-09-20,Kappa,0,0.0,3113
+7096,Belgium,2021-10-04,Kappa,0,0.0,2926
+7120,Belgium,2021-10-18,Kappa,0,0.0,3315
+7144,Belgium,2021-11-01,Kappa,0,0.0,3530
+7168,Belgium,2021-11-15,Kappa,0,0.0,2729
+7192,Belgium,2021-11-29,Kappa,0,0.0,3076
+7216,Belgium,2021-12-13,Kappa,0,0.0,3087
+7240,Belgium,2021-12-27,Kappa,0,0.0,1493
+7264,Belgium,2022-01-05,Kappa,0,0.0,59
+7288,Belize,2020-08-17,Kappa,0,0.0,4
+7312,Belize,2020-08-31,Kappa,0,0.0,1
+7336,Belize,2020-09-28,Kappa,0,0.0,2
+7360,Belize,2020-10-12,Kappa,0,0.0,4
+7384,Belize,2020-10-26,Kappa,0,0.0,6
+7408,Belize,2020-11-09,Kappa,0,0.0,1
+7432,Belize,2020-12-21,Kappa,0,0.0,7
+7456,Belize,2021-01-04,Kappa,0,0.0,14
+7480,Belize,2021-01-11,Kappa,0,0.0,7
+7504,Belize,2021-01-25,Kappa,0,0.0,16
+7528,Belize,2021-02-08,Kappa,0,0.0,26
+7552,Belize,2021-02-22,Kappa,0,0.0,11
+7576,Belize,2021-03-08,Kappa,0,0.0,3
+7600,Belize,2021-03-22,Kappa,0,0.0,2
+7624,Belize,2021-04-19,Kappa,0,0.0,3
+7648,Belize,2021-05-03,Kappa,0,0.0,1
+7672,Belize,2021-05-17,Kappa,0,0.0,15
+7696,Belize,2021-05-31,Kappa,0,0.0,3
+7720,Belize,2021-06-14,Kappa,0,0.0,1
+7744,Belize,2021-06-28,Kappa,0,0.0,32
+7768,Belize,2021-07-12,Kappa,0,0.0,18
+7792,Belize,2021-07-26,Kappa,0,0.0,58
+7816,Belize,2021-08-09,Kappa,0,0.0,63
+7840,Belize,2021-08-23,Kappa,0,0.0,16
+7864,Benin,2021-02-08,Kappa,0,0.0,109
+7888,Benin,2021-03-08,Kappa,0,0.0,121
+7912,Benin,2021-04-05,Kappa,0,0.0,176
+7936,Benin,2021-04-19,Kappa,0,0.0,8
+7960,Benin,2021-05-03,Kappa,0,0.0,25
+7984,Benin,2021-05-17,Kappa,0,0.0,32
+8008,Benin,2021-05-31,Kappa,0,0.0,27
+8032,Benin,2021-06-14,Kappa,0,0.0,9
+8056,Benin,2021-06-28,Kappa,0,0.0,14
+8080,Benin,2021-07-12,Kappa,0,0.0,28
+8104,Benin,2021-07-26,Kappa,0,0.0,36
+8128,Benin,2021-08-09,Kappa,0,0.0,34
+8152,Benin,2021-08-23,Kappa,0,0.0,74
+8176,Benin,2021-09-06,Kappa,0,0.0,57
+8200,Bosnia and Herzegovina,2020-05-11,Kappa,0,0.0,1
+8224,Bosnia and Herzegovina,2020-06-08,Kappa,0,0.0,2
+8248,Bosnia and Herzegovina,2020-07-20,Kappa,0,0.0,1
+8272,Bosnia and Herzegovina,2020-08-31,Kappa,0,0.0,1
+8296,Bosnia and Herzegovina,2020-09-14,Kappa,0,0.0,1
+8320,Bosnia and Herzegovina,2020-09-28,Kappa,0,0.0,1
+8344,Bosnia and Herzegovina,2020-10-12,Kappa,0,0.0,1
+8368,Bosnia and Herzegovina,2020-11-09,Kappa,0,0.0,2
+8392,Bosnia and Herzegovina,2020-11-23,Kappa,0,0.0,2
+8416,Bosnia and Herzegovina,2020-12-07,Kappa,0,0.0,3
+8440,Bosnia and Herzegovina,2020-12-21,Kappa,0,0.0,1
+8464,Bosnia and Herzegovina,2021-01-04,Kappa,0,0.0,2
+8488,Bosnia and Herzegovina,2021-01-11,Kappa,0,0.0,5
+8512,Bosnia and Herzegovina,2021-01-25,Kappa,0,0.0,12
+8536,Bosnia and Herzegovina,2021-02-08,Kappa,0,0.0,5
+8560,Bosnia and Herzegovina,2021-02-22,Kappa,0,0.0,11
+8584,Bosnia and Herzegovina,2021-03-08,Kappa,0,0.0,16
+8608,Bosnia and Herzegovina,2021-03-22,Kappa,0,0.0,9
+8632,Bosnia and Herzegovina,2021-04-05,Kappa,0,0.0,3
+8656,Bosnia and Herzegovina,2021-04-19,Kappa,0,0.0,17
+8680,Bosnia and Herzegovina,2021-05-17,Kappa,0,0.0,2
+8704,Bosnia and Herzegovina,2021-05-31,Kappa,0,0.0,1
+8728,Bosnia and Herzegovina,2021-06-14,Kappa,0,0.0,23
+8752,Bosnia and Herzegovina,2021-06-28,Kappa,0,0.0,16
+8776,Bosnia and Herzegovina,2021-07-12,Kappa,0,0.0,21
+8800,Bosnia and Herzegovina,2021-07-26,Kappa,0,0.0,12
+8824,Bosnia and Herzegovina,2021-08-09,Kappa,0,0.0,9
+8848,Bosnia and Herzegovina,2021-08-23,Kappa,0,0.0,7
+8872,Bosnia and Herzegovina,2021-09-06,Kappa,0,0.0,1
+8896,Bosnia and Herzegovina,2021-09-20,Kappa,0,0.0,2
+8920,Bosnia and Herzegovina,2021-10-04,Kappa,0,0.0,42
+8944,Bosnia and Herzegovina,2021-10-18,Kappa,0,0.0,184
+8968,Bosnia and Herzegovina,2021-11-01,Kappa,0,0.0,124
+8992,Bosnia and Herzegovina,2021-11-15,Kappa,0,0.0,164
+9016,Bosnia and Herzegovina,2021-11-29,Kappa,0,0.0,123
+9040,Bosnia and Herzegovina,2021-12-13,Kappa,0,0.0,165
+9064,Botswana,2020-09-14,Kappa,0,0.0,1
+9088,Botswana,2020-09-28,Kappa,0,0.0,10
+9112,Botswana,2020-10-12,Kappa,0,0.0,6
+9136,Botswana,2020-10-26,Kappa,0,0.0,6
+9160,Botswana,2020-11-09,Kappa,0,0.0,6
+9184,Botswana,2020-11-23,Kappa,0,0.0,8
+9208,Botswana,2020-12-07,Kappa,0,0.0,10
+9232,Botswana,2020-12-21,Kappa,0,0.0,17
+9256,Botswana,2021-01-04,Kappa,0,0.0,13
+9280,Botswana,2021-01-11,Kappa,0,0.0,6
+9304,Botswana,2021-01-25,Kappa,0,0.0,66
+9328,Botswana,2021-02-08,Kappa,0,0.0,29
+9352,Botswana,2021-02-22,Kappa,0,0.0,10
+9376,Botswana,2021-03-08,Kappa,0,0.0,11
+9400,Botswana,2021-03-22,Kappa,0,0.0,64
+9424,Botswana,2021-04-05,Kappa,0,0.0,7
+9448,Botswana,2021-05-03,Kappa,0,0.0,7
+9472,Botswana,2021-05-17,Kappa,0,0.0,19
+9496,Botswana,2021-05-31,Kappa,0,0.0,48
+9520,Botswana,2021-06-14,Kappa,0,0.0,102
+9544,Botswana,2021-06-28,Kappa,0,0.0,196
+9568,Botswana,2021-07-12,Kappa,0,0.0,106
+9592,Botswana,2021-07-26,Kappa,0,0.0,68
+9616,Botswana,2021-08-09,Kappa,0,0.0,38
+9640,Botswana,2021-08-23,Kappa,0,0.0,82
+9664,Botswana,2021-09-06,Kappa,0,0.0,294
+9688,Botswana,2021-09-20,Kappa,0,0.0,112
+9712,Botswana,2021-10-04,Kappa,0,0.0,58
+9736,Botswana,2021-10-18,Kappa,0,0.0,92
+9760,Botswana,2021-11-01,Kappa,0,0.0,53
+9784,Botswana,2021-11-15,Kappa,0,0.0,116
+9808,Botswana,2021-11-29,Kappa,0,0.0,124
+9832,Botswana,2021-12-13,Kappa,0,0.0,272
+9856,Botswana,2021-12-27,Kappa,0,0.0,143
+9880,Brazil,2020-05-11,Kappa,0,0.0,311
+9904,Brazil,2020-05-25,Kappa,0,0.0,183
+9928,Brazil,2020-06-08,Kappa,0,0.0,194
+9952,Brazil,2020-06-22,Kappa,0,0.0,179
+9976,Brazil,2020-07-06,Kappa,0,0.0,296
+10000,Brazil,2020-07-20,Kappa,0,0.0,168
+10024,Brazil,2020-08-03,Kappa,0,0.0,224
+10048,Brazil,2020-08-17,Kappa,0,0.0,231
+10072,Brazil,2020-08-31,Kappa,0,0.0,157
+10096,Brazil,2020-09-14,Kappa,0,0.0,221
+10120,Brazil,2020-09-28,Kappa,0,0.0,195
+10144,Brazil,2020-10-12,Kappa,0,0.0,196
+10168,Brazil,2020-10-26,Kappa,0,0.0,202
+10192,Brazil,2020-11-09,Kappa,0,0.0,238
+10216,Brazil,2020-11-23,Kappa,0,0.0,361
+10240,Brazil,2020-12-07,Kappa,0,0.0,513
+10264,Brazil,2020-12-21,Kappa,0,0.0,469
+10288,Brazil,2021-01-04,Kappa,0,0.0,578
+10312,Brazil,2021-01-11,Kappa,0,0.0,510
+10336,Brazil,2021-01-25,Kappa,0,0.0,888
+10360,Brazil,2021-02-08,Kappa,0,0.0,991
+10384,Brazil,2021-02-22,Kappa,0,0.0,1270
+10408,Brazil,2021-03-08,Kappa,0,0.0,1817
+10432,Brazil,2021-03-22,Kappa,0,0.0,1929
+10456,Brazil,2021-04-05,Kappa,0,0.0,2797
+10480,Brazil,2021-04-19,Kappa,0,0.0,3791
+10504,Brazil,2021-05-03,Kappa,0,0.0,3804
+10528,Brazil,2021-05-17,Kappa,0,0.0,3247
+10552,Brazil,2021-05-31,Kappa,0,0.0,4137
+10576,Brazil,2021-06-14,Kappa,0,0.0,5088
+10600,Brazil,2021-06-28,Kappa,0,0.0,4466
+10624,Brazil,2021-07-12,Kappa,0,0.0,5548
+10648,Brazil,2021-07-26,Kappa,0,0.0,5381
+10672,Brazil,2021-08-09,Kappa,0,0.0,5217
+10696,Brazil,2021-08-23,Kappa,0,0.0,4130
+10720,Brazil,2021-09-06,Kappa,0,0.0,5469
+10744,Brazil,2021-09-20,Kappa,0,0.0,5701
+10768,Brazil,2021-10-04,Kappa,0,0.0,4572
+10792,Brazil,2021-10-18,Kappa,0,0.0,4449
+10816,Brazil,2021-11-01,Kappa,0,0.0,3014
+10840,Brazil,2021-11-15,Kappa,0,0.0,2757
+10864,Brazil,2021-11-29,Kappa,0,0.0,2547
+10888,Brazil,2021-12-13,Kappa,0,0.0,1332
+10912,Brazil,2021-12-27,Kappa,0,0.0,252
+10936,Brunei,2021-01-04,Kappa,0,0.0,2
+10960,Brunei,2021-01-25,Kappa,0,0.0,1
+10984,Brunei,2021-02-08,Kappa,0,0.0,2
+11008,Brunei,2021-07-26,Kappa,0,0.0,16
+11032,Brunei,2021-08-23,Kappa,0,0.0,12
+11056,Brunei,2021-11-01,Kappa,0,0.0,12
+11080,Brunei,2021-11-15,Kappa,0,0.0,118
+11104,Brunei,2021-11-29,Kappa,0,0.0,125
+11128,Brunei,2021-12-13,Kappa,0,0.0,32
+11152,Brunei,2021-12-27,Kappa,0,0.0,11
+11176,Bulgaria,2020-05-11,Kappa,0,0.0,3
+11200,Bulgaria,2020-05-25,Kappa,0,0.0,3
+11224,Bulgaria,2020-07-20,Kappa,0,0.0,1
+11248,Bulgaria,2020-08-03,Kappa,0,0.0,1
+11272,Bulgaria,2020-08-17,Kappa,0,0.0,6
+11296,Bulgaria,2020-08-31,Kappa,0,0.0,3
+11320,Bulgaria,2020-09-14,Kappa,0,0.0,5
+11344,Bulgaria,2020-09-28,Kappa,0,0.0,4
+11368,Bulgaria,2020-10-12,Kappa,0,0.0,2
+11392,Bulgaria,2020-10-26,Kappa,0,0.0,2
+11416,Bulgaria,2020-11-09,Kappa,0,0.0,5
+11440,Bulgaria,2020-11-23,Kappa,0,0.0,5
+11464,Bulgaria,2020-12-07,Kappa,0,0.0,7
+11488,Bulgaria,2020-12-21,Kappa,0,0.0,50
+11512,Bulgaria,2021-01-04,Kappa,0,0.0,39
+11536,Bulgaria,2021-01-11,Kappa,0,0.0,56
+11560,Bulgaria,2021-01-25,Kappa,0,0.0,92
+11584,Bulgaria,2021-02-08,Kappa,0,0.0,220
+11608,Bulgaria,2021-02-22,Kappa,0,0.0,251
+11632,Bulgaria,2021-03-08,Kappa,0,0.0,407
+11656,Bulgaria,2021-03-22,Kappa,0,0.0,630
+11680,Bulgaria,2021-04-05,Kappa,0,0.0,557
+11704,Bulgaria,2021-04-19,Kappa,0,0.0,371
+11728,Bulgaria,2021-05-03,Kappa,0,0.0,253
+11752,Bulgaria,2021-05-17,Kappa,0,0.0,118
+11776,Bulgaria,2021-05-31,Kappa,0,0.0,38
+11800,Bulgaria,2021-06-14,Kappa,0,0.0,103
+11824,Bulgaria,2021-06-28,Kappa,0,0.0,125
+11848,Bulgaria,2021-07-12,Kappa,0,0.0,176
+11872,Bulgaria,2021-07-26,Kappa,0,0.0,239
+11896,Bulgaria,2021-08-09,Kappa,0,0.0,494
+11920,Bulgaria,2021-08-23,Kappa,0,0.0,798
+11944,Bulgaria,2021-09-06,Kappa,0,0.0,863
+11968,Bulgaria,2021-09-20,Kappa,0,0.0,739
+11992,Bulgaria,2021-10-04,Kappa,0,0.0,881
+12016,Bulgaria,2021-10-18,Kappa,0,0.0,996
+12040,Bulgaria,2021-11-01,Kappa,0,0.0,1024
+12064,Bulgaria,2021-11-15,Kappa,0,0.0,547
+12088,Bulgaria,2021-11-29,Kappa,0,0.0,120
+12112,Cambodia,2020-11-09,Kappa,0,0.0,2
+12136,Cambodia,2020-11-23,Kappa,0,0.0,4
+12160,Cambodia,2020-12-07,Kappa,0,0.0,15
+12184,Cambodia,2020-12-21,Kappa,0,0.0,1
+12208,Cambodia,2021-01-04,Kappa,0,0.0,5
+12232,Cambodia,2021-01-25,Kappa,0,0.0,2
+12256,Cambodia,2021-02-08,Kappa,0,0.0,3
+12280,Cambodia,2021-02-22,Kappa,0,0.0,12
+12304,Cambodia,2021-03-08,Kappa,0,0.0,14
+12328,Cambodia,2021-03-22,Kappa,0,0.0,13
+12352,Cambodia,2021-04-05,Kappa,0,0.0,3
+12376,Cambodia,2021-04-19,Kappa,0,0.0,39
+12400,Cambodia,2021-05-03,Kappa,0,0.0,56
+12424,Cambodia,2021-05-17,Kappa,0,0.0,52
+12448,Cambodia,2021-05-31,Kappa,0,0.0,69
+12472,Cambodia,2021-06-14,Kappa,0,0.0,76
+12496,Cambodia,2021-06-28,Kappa,0,0.0,94
+12520,Cambodia,2021-07-12,Kappa,0,0.0,81
+12544,Cambodia,2021-07-26,Kappa,0,0.0,121
+12568,Cambodia,2021-08-09,Kappa,0,0.0,87
+12592,Cambodia,2021-08-23,Kappa,0,0.0,106
+12616,Cambodia,2021-09-06,Kappa,0,0.0,96
+12640,Cambodia,2021-09-20,Kappa,0,0.0,132
+12664,Cambodia,2021-10-04,Kappa,0,0.0,107
+12688,Cambodia,2021-10-18,Kappa,0,0.0,135
+12712,Cambodia,2021-11-01,Kappa,0,0.0,135
+12736,Cambodia,2021-11-15,Kappa,0,0.0,143
+12760,Cambodia,2021-11-29,Kappa,0,0.0,149
+12784,Cambodia,2021-12-13,Kappa,0,0.0,130
+12808,Cambodia,2021-12-27,Kappa,0,0.0,96
+12832,Cameroon,2020-05-11,Kappa,0,0.0,4
+12856,Cameroon,2020-05-25,Kappa,0,0.0,8
+12880,Cameroon,2020-06-22,Kappa,0,0.0,4
+12904,Cameroon,2020-08-17,Kappa,0,0.0,2
+12928,Cameroon,2020-10-26,Kappa,0,0.0,1
+12952,Cameroon,2020-11-09,Kappa,0,0.0,4
+12976,Cameroon,2020-11-23,Kappa,0,0.0,7
+13000,Cameroon,2020-12-07,Kappa,0,0.0,2
+13024,Cameroon,2020-12-21,Kappa,0,0.0,4
+13048,Cameroon,2021-01-04,Kappa,0,0.0,23
+13072,Cameroon,2021-01-11,Kappa,0,0.0,9
+13096,Cameroon,2021-01-25,Kappa,0,0.0,23
+13120,Cameroon,2021-02-08,Kappa,0,0.0,51
+13144,Cameroon,2021-02-22,Kappa,0,0.0,19
+13168,Cameroon,2021-03-08,Kappa,0,0.0,27
+13192,Cameroon,2021-03-22,Kappa,0,0.0,5
+13216,Cameroon,2021-04-19,Kappa,0,0.0,7
+13240,Cameroon,2021-08-09,Kappa,0,0.0,3
+13264,Cameroon,2021-08-23,Kappa,0,0.0,57
+13288,Cameroon,2021-09-06,Kappa,0,0.0,116
+13312,Cameroon,2021-09-20,Kappa,0,0.0,106
+13336,Cameroon,2021-10-04,Kappa,0,0.0,54
+13360,Canada,2020-05-11,Kappa,0,0.0,903
+13384,Canada,2020-05-25,Kappa,0,0.0,597
+13408,Canada,2020-06-08,Kappa,0,0.0,211
+13432,Canada,2020-06-22,Kappa,0,0.0,203
+13456,Canada,2020-07-06,Kappa,0,0.0,107
+13480,Canada,2020-07-20,Kappa,0,0.0,204
+13504,Canada,2020-08-03,Kappa,0,0.0,295
+13528,Canada,2020-08-17,Kappa,0,0.0,586
+13552,Canada,2020-08-31,Kappa,0,0.0,737
+13576,Canada,2020-09-14,Kappa,0,0.0,728
+13600,Canada,2020-09-28,Kappa,0,0.0,758
+13624,Canada,2020-10-12,Kappa,0,0.0,1061
+13648,Canada,2020-10-26,Kappa,0,0.0,1096
+13672,Canada,2020-11-09,Kappa,0,0.0,1442
+13696,Canada,2020-11-23,Kappa,0,0.0,1937
+13720,Canada,2020-12-07,Kappa,0,0.0,2316
+13744,Canada,2020-12-21,Kappa,0,0.0,2431
+13768,Canada,2021-01-04,Kappa,0,0.0,2565
+13792,Canada,2021-01-11,Kappa,0,0.0,2004
+13816,Canada,2021-01-25,Kappa,0,0.0,4574
+13840,Canada,2021-02-08,Kappa,0,0.0,3026
+13864,Canada,2021-02-22,Kappa,0,0.0,3951
+13888,Canada,2021-03-08,Kappa,4,0.09,4581
+13912,Canada,2021-03-22,Kappa,59,0.83,7112
+13936,Canada,2021-04-05,Kappa,193,1.97,9805
+13960,Canada,2021-04-19,Kappa,119,1.12,10654
+13984,Canada,2021-05-03,Kappa,24,0.22,11006
+14008,Canada,2021-05-17,Kappa,11,0.13,8584
+14032,Canada,2021-05-31,Kappa,6,0.1,5887
+14056,Canada,2021-06-14,Kappa,1,0.02,4215
+14080,Canada,2021-06-28,Kappa,0,0.0,3712
+14104,Canada,2021-07-12,Kappa,0,0.0,1536
+14128,Canada,2021-07-26,Kappa,0,0.0,2454
+14152,Canada,2021-08-09,Kappa,0,0.0,7056
+14176,Canada,2021-08-23,Kappa,0,0.0,13081
+14200,Canada,2021-09-06,Kappa,0,0.0,13793
+14224,Canada,2021-09-20,Kappa,0,0.0,8908
+14248,Canada,2021-10-04,Kappa,0,0.0,7154
+14272,Canada,2021-10-18,Kappa,0,0.0,8016
+14296,Canada,2021-11-01,Kappa,0,0.0,6544
+14320,Canada,2021-11-15,Kappa,0,0.0,5627
+14344,Canada,2021-11-29,Kappa,0,0.0,5146
+14368,Canada,2021-12-13,Kappa,0,0.0,5219
+14392,Canada,2021-12-27,Kappa,0,0.0,63
+14416,Chile,2020-05-11,Kappa,0,0.0,106
+14440,Chile,2020-05-25,Kappa,0,0.0,84
+14464,Chile,2020-06-08,Kappa,0,0.0,81
+14488,Chile,2020-06-22,Kappa,0,0.0,8
+14512,Chile,2020-07-06,Kappa,0,0.0,61
+14536,Chile,2020-07-20,Kappa,0,0.0,35
+14560,Chile,2020-08-03,Kappa,0,0.0,36
+14584,Chile,2020-08-17,Kappa,0,0.0,25
+14608,Chile,2020-08-31,Kappa,0,0.0,65
+14632,Chile,2020-09-14,Kappa,0,0.0,54
+14656,Chile,2020-09-28,Kappa,0,0.0,44
+14680,Chile,2020-10-12,Kappa,0,0.0,66
+14704,Chile,2020-10-26,Kappa,0,0.0,47
+14728,Chile,2020-11-09,Kappa,0,0.0,10
+14752,Chile,2020-11-23,Kappa,0,0.0,17
+14776,Chile,2020-12-07,Kappa,0,0.0,8
+14800,Chile,2020-12-21,Kappa,0,0.0,27
+14824,Chile,2021-01-04,Kappa,0,0.0,79
+14848,Chile,2021-01-11,Kappa,0,0.0,50
+14872,Chile,2021-01-25,Kappa,0,0.0,59
+14896,Chile,2021-02-08,Kappa,0,0.0,56
+14920,Chile,2021-02-22,Kappa,0,0.0,97
+14944,Chile,2021-03-08,Kappa,0,0.0,85
+14968,Chile,2021-03-22,Kappa,0,0.0,140
+14992,Chile,2021-04-05,Kappa,0,0.0,266
+15016,Chile,2021-04-19,Kappa,0,0.0,359
+15040,Chile,2021-05-03,Kappa,0,0.0,565
+15064,Chile,2021-05-17,Kappa,0,0.0,625
+15088,Chile,2021-05-31,Kappa,0,0.0,435
+15112,Chile,2021-06-14,Kappa,0,0.0,626
+15136,Chile,2021-06-28,Kappa,0,0.0,719
+15160,Chile,2021-07-12,Kappa,0,0.0,866
+15184,Chile,2021-07-26,Kappa,0,0.0,568
+15208,Chile,2021-08-09,Kappa,0,0.0,789
+15232,Chile,2021-08-23,Kappa,0,0.0,879
+15256,Chile,2021-09-06,Kappa,0,0.0,1101
+15280,Chile,2021-09-20,Kappa,0,0.0,1223
+15304,Chile,2021-10-04,Kappa,0,0.0,1879
+15328,Chile,2021-10-18,Kappa,0,0.0,1365
+15352,Chile,2021-11-01,Kappa,0,0.0,1295
+15376,Chile,2021-11-15,Kappa,0,0.0,999
+15400,Chile,2021-11-29,Kappa,0,0.0,573
+15424,Chile,2021-12-13,Kappa,0,0.0,459
+15448,Chile,2021-12-27,Kappa,0,0.0,504
+15472,Colombia,2020-05-11,Kappa,0,0.0,81
+15496,Colombia,2020-05-25,Kappa,0,0.0,2
+15520,Colombia,2020-06-08,Kappa,0,0.0,8
+15544,Colombia,2020-06-22,Kappa,0,0.0,14
+15568,Colombia,2020-07-06,Kappa,0,0.0,29
+15592,Colombia,2020-07-20,Kappa,0,0.0,28
+15616,Colombia,2020-08-03,Kappa,0,0.0,8
+15640,Colombia,2020-08-17,Kappa,0,0.0,20
+15664,Colombia,2020-08-31,Kappa,0,0.0,5
+15688,Colombia,2020-09-14,Kappa,0,0.0,14
+15712,Colombia,2020-09-28,Kappa,0,0.0,5
+15736,Colombia,2020-10-12,Kappa,0,0.0,20
+15760,Colombia,2020-10-26,Kappa,0,0.0,8
+15784,Colombia,2020-11-09,Kappa,0,0.0,6
+15808,Colombia,2020-11-23,Kappa,0,0.0,12
+15832,Colombia,2020-12-07,Kappa,0,0.0,18
+15856,Colombia,2020-12-21,Kappa,0,0.0,32
+15880,Colombia,2021-01-04,Kappa,0,0.0,87
+15904,Colombia,2021-01-11,Kappa,0,0.0,48
+15928,Colombia,2021-01-25,Kappa,0,0.0,83
+15952,Colombia,2021-02-08,Kappa,0,0.0,30
+15976,Colombia,2021-02-22,Kappa,0,0.0,24
+16000,Colombia,2021-03-08,Kappa,0,0.0,73
+16024,Colombia,2021-03-22,Kappa,0,0.0,79
+16048,Colombia,2021-04-05,Kappa,0,0.0,160
+16072,Colombia,2021-04-19,Kappa,0,0.0,803
+16096,Colombia,2021-05-03,Kappa,0,0.0,432
+16120,Colombia,2021-05-17,Kappa,0,0.0,375
+16144,Colombia,2021-05-31,Kappa,0,0.0,194
+16168,Colombia,2021-06-14,Kappa,0,0.0,283
+16192,Colombia,2021-06-28,Kappa,0,0.0,224
+16216,Colombia,2021-07-12,Kappa,0,0.0,462
+16240,Colombia,2021-07-26,Kappa,0,0.0,920
+16264,Colombia,2021-08-09,Kappa,0,0.0,775
+16288,Colombia,2021-08-23,Kappa,0,0.0,768
+16312,Colombia,2021-09-06,Kappa,0,0.0,542
+16336,Colombia,2021-09-20,Kappa,0,0.0,423
+16360,Colombia,2021-10-04,Kappa,0,0.0,800
+16384,Colombia,2021-10-18,Kappa,0,0.0,652
+16408,Colombia,2021-11-01,Kappa,0,0.0,585
+16432,Colombia,2021-11-15,Kappa,0,0.0,616
+16456,Colombia,2021-11-29,Kappa,0,0.0,318
+16480,Colombia,2021-12-13,Kappa,0,0.0,112
+16504,Colombia,2021-12-27,Kappa,0,0.0,107
+16528,Costa Rica,2020-06-08,Kappa,0,0.0,8
+16552,Costa Rica,2020-06-22,Kappa,0,0.0,15
+16576,Costa Rica,2020-07-06,Kappa,0,0.0,19
+16600,Costa Rica,2020-07-20,Kappa,0,0.0,22
+16624,Costa Rica,2020-08-03,Kappa,0,0.0,13
+16648,Costa Rica,2020-08-17,Kappa,0,0.0,13
+16672,Costa Rica,2020-08-31,Kappa,0,0.0,3
+16696,Costa Rica,2020-09-14,Kappa,0,0.0,7
+16720,Costa Rica,2020-09-28,Kappa,0,0.0,6
+16744,Costa Rica,2020-10-12,Kappa,0,0.0,9
+16768,Costa Rica,2020-10-26,Kappa,0,0.0,7
+16792,Costa Rica,2020-11-09,Kappa,0,0.0,8
+16816,Costa Rica,2020-11-23,Kappa,0,0.0,10
+16840,Costa Rica,2020-12-07,Kappa,0,0.0,9
+16864,Costa Rica,2020-12-21,Kappa,0,0.0,14
+16888,Costa Rica,2021-01-04,Kappa,0,0.0,37
+16912,Costa Rica,2021-01-11,Kappa,0,0.0,10
+16936,Costa Rica,2021-01-25,Kappa,0,0.0,41
+16960,Costa Rica,2021-02-08,Kappa,0,0.0,27
+16984,Costa Rica,2021-02-22,Kappa,0,0.0,35
+17008,Costa Rica,2021-03-08,Kappa,0,0.0,66
+17032,Costa Rica,2021-03-22,Kappa,0,0.0,80
+17056,Costa Rica,2021-04-05,Kappa,0,0.0,58
+17080,Costa Rica,2021-04-19,Kappa,0,0.0,71
+17104,Costa Rica,2021-05-03,Kappa,0,0.0,57
+17128,Costa Rica,2021-05-17,Kappa,0,0.0,33
+17152,Costa Rica,2021-05-31,Kappa,0,0.0,47
+17176,Costa Rica,2021-06-14,Kappa,0,0.0,33
+17200,Costa Rica,2021-06-28,Kappa,0,0.0,56
+17224,Costa Rica,2021-07-12,Kappa,0,0.0,84
+17248,Costa Rica,2021-07-26,Kappa,0,0.0,88
+17272,Costa Rica,2021-08-09,Kappa,0,0.0,138
+17296,Costa Rica,2021-08-23,Kappa,0,0.0,135
+17320,Costa Rica,2021-09-06,Kappa,0,0.0,69
+17344,Costa Rica,2021-09-20,Kappa,0,0.0,92
+17368,Costa Rica,2021-10-04,Kappa,0,0.0,71
+17392,Costa Rica,2021-10-18,Kappa,0,0.0,150
+17416,Costa Rica,2021-11-01,Kappa,0,0.0,147
+17440,Costa Rica,2021-11-15,Kappa,0,0.0,156
+17464,Costa Rica,2021-11-29,Kappa,0,0.0,108
+17488,Costa Rica,2021-12-13,Kappa,0,0.0,60
+17512,Costa Rica,2021-12-27,Kappa,0,0.0,41
+17536,Croatia,2020-08-17,Kappa,0,0.0,1
+17560,Croatia,2020-08-31,Kappa,0,0.0,3
+17584,Croatia,2020-09-14,Kappa,0,0.0,11
+17608,Croatia,2020-09-28,Kappa,0,0.0,1
+17632,Croatia,2020-10-12,Kappa,0,0.0,12
+17656,Croatia,2020-11-23,Kappa,0,0.0,29
+17680,Croatia,2020-12-21,Kappa,0,0.0,1
+17704,Croatia,2021-01-04,Kappa,0,0.0,8
+17728,Croatia,2021-01-11,Kappa,0,0.0,11
+17752,Croatia,2021-01-25,Kappa,0,0.0,45
+17776,Croatia,2021-02-08,Kappa,0,0.0,159
+17800,Croatia,2021-02-22,Kappa,0,0.0,394
+17824,Croatia,2021-03-08,Kappa,0,0.0,582
+17848,Croatia,2021-03-22,Kappa,0,0.0,626
+17872,Croatia,2021-04-05,Kappa,0,0.0,749
+17896,Croatia,2021-04-19,Kappa,0,0.0,375
+17920,Croatia,2021-05-03,Kappa,0,0.0,786
+17944,Croatia,2021-05-17,Kappa,0,0.0,639
+17968,Croatia,2021-05-31,Kappa,0,0.0,370
+17992,Croatia,2021-06-14,Kappa,0,0.0,311
+18016,Croatia,2021-06-28,Kappa,0,0.0,162
+18040,Croatia,2021-07-12,Kappa,0,0.0,369
+18064,Croatia,2021-07-26,Kappa,0,0.0,407
+18088,Croatia,2021-08-09,Kappa,0,0.0,511
+18112,Croatia,2021-08-23,Kappa,0,0.0,770
+18136,Croatia,2021-09-06,Kappa,0,0.0,993
+18160,Croatia,2021-09-20,Kappa,0,0.0,739
+18184,Croatia,2021-10-04,Kappa,0,0.0,692
+18208,Croatia,2021-10-18,Kappa,0,0.0,661
+18232,Croatia,2021-11-01,Kappa,0,0.0,640
+18256,Croatia,2021-11-15,Kappa,0,0.0,742
+18280,Croatia,2021-11-29,Kappa,0,0.0,835
+18304,Croatia,2021-12-13,Kappa,0,0.0,935
+18328,Curacao,2020-08-17,Kappa,0,0.0,3
+18352,Curacao,2020-10-12,Kappa,0,0.0,1
+18376,Curacao,2020-10-26,Kappa,0,0.0,3
+18400,Curacao,2020-11-09,Kappa,0,0.0,8
+18424,Curacao,2020-11-23,Kappa,0,0.0,4
+18448,Curacao,2020-12-07,Kappa,0,0.0,2
+18472,Curacao,2020-12-21,Kappa,0,0.0,8
+18496,Curacao,2021-01-04,Kappa,0,0.0,5
+18520,Curacao,2021-01-11,Kappa,0,0.0,6
+18544,Curacao,2021-01-25,Kappa,0,0.0,15
+18568,Curacao,2021-02-08,Kappa,0,0.0,15
+18592,Curacao,2021-02-22,Kappa,0,0.0,36
+18616,Curacao,2021-03-08,Kappa,0,0.0,50
+18640,Curacao,2021-03-22,Kappa,0,0.0,55
+18664,Curacao,2021-04-05,Kappa,0,0.0,57
+18688,Curacao,2021-04-19,Kappa,0,0.0,61
+18712,Curacao,2021-05-03,Kappa,1,2.22,45
+18736,Curacao,2021-05-17,Kappa,0,0.0,25
+18760,Curacao,2021-05-31,Kappa,0,0.0,10
+18784,Curacao,2021-06-14,Kappa,0,0.0,4
+18808,Curacao,2021-06-28,Kappa,0,0.0,16
+18832,Curacao,2021-07-12,Kappa,0,0.0,38
+18856,Curacao,2021-07-26,Kappa,0,0.0,67
+18880,Curacao,2021-08-09,Kappa,0,0.0,62
+18904,Curacao,2021-08-23,Kappa,0,0.0,49
+18928,Curacao,2021-09-06,Kappa,0,0.0,47
+18952,Curacao,2021-09-20,Kappa,0,0.0,58
+18976,Curacao,2021-10-04,Kappa,0,0.0,56
+19000,Curacao,2021-10-18,Kappa,0,0.0,53
+19024,Curacao,2021-11-01,Kappa,0,0.0,47
+19048,Curacao,2021-11-15,Kappa,0,0.0,28
+19072,Curacao,2021-11-29,Kappa,0,0.0,20
+19096,Curacao,2021-12-13,Kappa,0,0.0,24
+19120,Cyprus,2020-05-11,Kappa,0,0.0,23
+19144,Cyprus,2020-05-25,Kappa,0,0.0,20
+19168,Cyprus,2020-06-08,Kappa,0,0.0,12
+19192,Cyprus,2020-06-22,Kappa,0,0.0,11
+19216,Cyprus,2020-07-06,Kappa,0,0.0,2
+19240,Cyprus,2020-07-20,Kappa,0,0.0,3
+19264,Cyprus,2020-08-03,Kappa,0,0.0,11
+19288,Cyprus,2020-08-17,Kappa,0,0.0,24
+19312,Cyprus,2020-08-31,Kappa,0,0.0,12
+19336,Cyprus,2020-09-14,Kappa,0,0.0,4
+19360,Cyprus,2020-09-28,Kappa,0,0.0,39
+19384,Cyprus,2020-10-12,Kappa,0,0.0,24
+19408,Cyprus,2020-10-26,Kappa,0,0.0,11
+19432,Cyprus,2020-11-09,Kappa,0,0.0,159
+19456,Cyprus,2020-11-23,Kappa,0,0.0,9
+19480,Cyprus,2020-12-07,Kappa,0,0.0,63
+19504,Cyprus,2020-12-21,Kappa,0,0.0,3
+19528,Cyprus,2021-01-04,Kappa,0,0.0,80
+19552,Cyprus,2021-01-11,Kappa,0,0.0,28
+19576,Cyprus,2021-01-25,Kappa,0,0.0,35
+19600,Cyprus,2021-02-08,Kappa,0,0.0,17
+19624,Czechia,2020-05-11,Kappa,0,0.0,6
+19648,Czechia,2020-05-25,Kappa,0,0.0,9
+19672,Czechia,2020-06-08,Kappa,0,0.0,4
+19696,Czechia,2020-06-22,Kappa,0,0.0,9
+19720,Czechia,2020-07-20,Kappa,0,0.0,9
+19744,Czechia,2020-08-03,Kappa,0,0.0,24
+19768,Czechia,2020-08-17,Kappa,0,0.0,26
+19792,Czechia,2020-08-31,Kappa,0,0.0,11
+19816,Czechia,2020-09-14,Kappa,0,0.0,9
+19840,Czechia,2020-09-28,Kappa,0,0.0,23
+19864,Czechia,2020-10-12,Kappa,0,0.0,76
+19888,Czechia,2020-10-26,Kappa,0,0.0,60
+19912,Czechia,2020-11-09,Kappa,0,0.0,56
+19936,Czechia,2020-11-23,Kappa,0,0.0,19
+19960,Czechia,2020-12-07,Kappa,0,0.0,9
+19984,Czechia,2020-12-21,Kappa,0,0.0,16
+20008,Czechia,2021-01-04,Kappa,0,0.0,26
+20032,Czechia,2021-01-11,Kappa,0,0.0,201
+20056,Czechia,2021-01-25,Kappa,0,0.0,97
+20080,Czechia,2021-02-08,Kappa,0,0.0,378
+20104,Czechia,2021-02-22,Kappa,0,0.0,617
+20128,Czechia,2021-03-08,Kappa,0,0.0,501
+20152,Czechia,2021-03-22,Kappa,0,0.0,556
+20176,Czechia,2021-04-05,Kappa,0,0.0,374
+20200,Czechia,2021-04-19,Kappa,2,0.31,635
+20224,Czechia,2021-05-03,Kappa,1,0.13,780
+20248,Czechia,2021-05-17,Kappa,1,0.18,558
+20272,Czechia,2021-05-31,Kappa,0,0.0,275
+20296,Czechia,2021-06-14,Kappa,0,0.0,388
+20320,Czechia,2021-06-28,Kappa,0,0.0,218
+20344,Czechia,2021-07-12,Kappa,0,0.0,501
+20368,Czechia,2021-07-26,Kappa,0,0.0,527
+20392,Czechia,2021-08-09,Kappa,0,0.0,566
+20416,Czechia,2021-08-23,Kappa,0,0.0,875
+20440,Czechia,2021-09-06,Kappa,0,0.0,844
+20464,Czechia,2021-09-20,Kappa,0,0.0,1382
+20488,Czechia,2021-10-04,Kappa,0,0.0,1373
+20512,Czechia,2021-10-18,Kappa,0,0.0,1766
+20536,Czechia,2021-11-01,Kappa,0,0.0,2031
+20560,Czechia,2021-11-15,Kappa,0,0.0,1420
+20584,Czechia,2021-11-29,Kappa,0,0.0,1331
+20608,Czechia,2021-12-13,Kappa,0,0.0,1431
+20632,Czechia,2021-12-27,Kappa,0,0.0,330
+20656,Czechia,2022-01-05,Kappa,0,0.0,15
+20680,Denmark,2020-05-11,Kappa,0,0.0,155
+20704,Denmark,2020-05-25,Kappa,0,0.0,136
+20728,Denmark,2020-06-08,Kappa,0,0.0,122
+20752,Denmark,2020-06-22,Kappa,0,0.0,169
+20776,Denmark,2020-07-06,Kappa,0,0.0,60
+20800,Denmark,2020-07-20,Kappa,0,0.0,100
+20824,Denmark,2020-08-03,Kappa,0,0.0,152
+20848,Denmark,2020-08-17,Kappa,0,0.0,437
+20872,Denmark,2020-08-31,Kappa,0,0.0,594
+20896,Denmark,2020-09-14,Kappa,0,0.0,979
+20920,Denmark,2020-09-28,Kappa,0,0.0,1644
+20944,Denmark,2020-10-12,Kappa,0,0.0,835
+20968,Denmark,2020-10-26,Kappa,0,0.0,1554
+20992,Denmark,2020-11-09,Kappa,0,0.0,3067
+21016,Denmark,2020-11-23,Kappa,0,0.0,3165
+21040,Denmark,2020-12-07,Kappa,0,0.0,5060
+21064,Denmark,2020-12-21,Kappa,0,0.0,9321
+21088,Denmark,2021-01-04,Kappa,0,0.0,7686
+21112,Denmark,2021-01-11,Kappa,0,0.0,4145
+21136,Denmark,2021-01-25,Kappa,0,0.0,8109
+21160,Denmark,2021-02-08,Kappa,0,0.0,4769
+21184,Denmark,2021-02-22,Kappa,0,0.0,4388
+21208,Denmark,2021-03-08,Kappa,0,0.0,5371
+21232,Denmark,2021-03-22,Kappa,10,0.16,6351
+21256,Denmark,2021-04-05,Kappa,0,0.0,7193
+21280,Denmark,2021-04-19,Kappa,9,0.13,7082
+21304,Denmark,2021-05-03,Kappa,6,0.08,7679
+21328,Denmark,2021-05-17,Kappa,2,0.02,9822
+21352,Denmark,2021-05-31,Kappa,0,0.0,9480
+21376,Denmark,2021-06-14,Kappa,1,0.02,5882
+21400,Denmark,2021-06-28,Kappa,0,0.0,2061
+21424,Denmark,2021-07-12,Kappa,0,0.0,5124
+21448,Denmark,2021-07-26,Kappa,0,0.0,10876
+21472,Denmark,2021-08-09,Kappa,0,0.0,10917
+21496,Denmark,2021-08-23,Kappa,0,0.0,11256
+21520,Denmark,2021-09-06,Kappa,0,0.0,8743
+21544,Denmark,2021-09-20,Kappa,0,0.0,4585
+21568,Denmark,2021-10-04,Kappa,0,0.0,4878
+21592,Denmark,2021-10-18,Kappa,0,0.0,7662
+21616,Denmark,2021-11-01,Kappa,0,0.0,15515
+21640,Denmark,2021-11-15,Kappa,0,0.0,22315
+21664,Denmark,2021-11-29,Kappa,0,0.0,23829
+21688,Denmark,2021-12-13,Kappa,0,0.0,30285
+21712,Denmark,2021-12-27,Kappa,0,0.0,6817
+21736,Djibouti,2020-05-11,Kappa,0,0.0,2
+21760,Djibouti,2020-05-25,Kappa,0,0.0,2
+21784,Djibouti,2020-06-08,Kappa,0,0.0,5
+21808,Djibouti,2020-06-22,Kappa,0,0.0,13
+21832,Djibouti,2020-07-06,Kappa,0,0.0,1
+21856,Djibouti,2020-07-20,Kappa,0,0.0,2
+21880,Djibouti,2020-08-03,Kappa,0,0.0,2
+21904,Djibouti,2020-10-26,Kappa,0,0.0,1
+21928,Djibouti,2020-11-09,Kappa,0,0.0,1
+21952,Djibouti,2020-11-23,Kappa,0,0.0,14
+21976,Djibouti,2020-12-07,Kappa,0,0.0,1
+22000,Djibouti,2020-12-21,Kappa,0,0.0,5
+22024,Djibouti,2021-01-04,Kappa,0,0.0,2
+22048,Djibouti,2021-01-25,Kappa,0,0.0,11
+22072,Djibouti,2021-02-08,Kappa,0,0.0,3
+22096,Djibouti,2021-02-22,Kappa,0,0.0,30
+22120,Djibouti,2021-03-08,Kappa,0,0.0,56
+22144,Djibouti,2021-03-22,Kappa,0,0.0,26
+22168,Djibouti,2021-04-05,Kappa,0,0.0,64
+22192,Djibouti,2021-04-19,Kappa,0,0.0,37
+22216,Djibouti,2021-05-03,Kappa,0,0.0,23
+22240,Djibouti,2021-05-17,Kappa,0,0.0,5
+22264,Djibouti,2021-05-31,Kappa,0,0.0,1
+22288,Djibouti,2021-07-12,Kappa,0,0.0,1
+22312,Djibouti,2021-08-09,Kappa,0,0.0,2
+22336,Djibouti,2021-09-06,Kappa,0,0.0,2
+22360,Djibouti,2021-09-20,Kappa,0,0.0,9
+22384,Djibouti,2021-10-04,Kappa,0,0.0,25
+22408,Djibouti,2021-10-18,Kappa,0,0.0,19
+22432,Djibouti,2021-11-01,Kappa,0,0.0,2
+22456,Dominican Republic,2020-05-11,Kappa,0,0.0,5
+22480,Dominican Republic,2020-11-23,Kappa,0,0.0,1
+22504,Dominican Republic,2021-01-04,Kappa,0,0.0,1
+22528,Dominican Republic,2021-01-25,Kappa,0,0.0,33
+22552,Dominican Republic,2021-02-08,Kappa,0,0.0,24
+22576,Dominican Republic,2021-02-22,Kappa,0,0.0,3
+22600,Dominican Republic,2021-03-08,Kappa,0,0.0,11
+22624,Dominican Republic,2021-03-22,Kappa,0,0.0,58
+22648,Dominican Republic,2021-04-05,Kappa,0,0.0,13
+22672,Dominican Republic,2021-04-19,Kappa,0,0.0,17
+22696,Dominican Republic,2021-05-03,Kappa,0,0.0,1
+22720,Dominican Republic,2021-05-17,Kappa,0,0.0,87
+22744,Dominican Republic,2021-05-31,Kappa,0,0.0,101
+22768,Dominican Republic,2021-06-14,Kappa,0,0.0,19
+22792,Dominican Republic,2021-06-28,Kappa,0,0.0,13
+22816,Dominican Republic,2021-07-12,Kappa,0,0.0,10
+22840,Dominican Republic,2021-07-26,Kappa,0,0.0,10
+22864,Dominican Republic,2021-08-09,Kappa,0,0.0,29
+22888,Dominican Republic,2021-08-23,Kappa,0,0.0,4
+22912,Dominican Republic,2021-09-06,Kappa,0,0.0,2
+22936,Dominican Republic,2021-09-20,Kappa,0,0.0,3
+22960,Dominican Republic,2021-10-04,Kappa,0,0.0,1
+22984,Dominican Republic,2021-10-18,Kappa,0,0.0,99
+23008,Dominican Republic,2021-11-01,Kappa,0,0.0,20
+23032,Ecuador,2020-05-11,Kappa,0,0.0,7
+23056,Ecuador,2020-05-25,Kappa,0,0.0,4
+23080,Ecuador,2020-06-08,Kappa,0,0.0,8
+23104,Ecuador,2020-06-22,Kappa,0,0.0,3
+23128,Ecuador,2020-07-06,Kappa,0,0.0,18
+23152,Ecuador,2020-07-20,Kappa,0,0.0,3
+23176,Ecuador,2020-08-03,Kappa,0,0.0,6
+23200,Ecuador,2020-08-17,Kappa,0,0.0,26
+23224,Ecuador,2020-08-31,Kappa,0,0.0,17
+23248,Ecuador,2020-09-14,Kappa,0,0.0,19
+23272,Ecuador,2020-09-28,Kappa,0,0.0,3
+23296,Ecuador,2020-10-12,Kappa,0,0.0,13
+23320,Ecuador,2020-10-26,Kappa,0,0.0,5
+23344,Ecuador,2020-11-09,Kappa,0,0.0,6
+23368,Ecuador,2020-11-23,Kappa,0,0.0,3
+23392,Ecuador,2020-12-07,Kappa,0,0.0,6
+23416,Ecuador,2020-12-21,Kappa,0,0.0,12
+23440,Ecuador,2021-01-04,Kappa,0,0.0,10
+23464,Ecuador,2021-01-11,Kappa,0,0.0,13
+23488,Ecuador,2021-01-25,Kappa,0,0.0,18
+23512,Ecuador,2021-02-08,Kappa,0,0.0,2
+23536,Ecuador,2021-02-22,Kappa,0,0.0,2
+23560,Ecuador,2021-03-08,Kappa,0,0.0,6
+23584,Ecuador,2021-03-22,Kappa,0,0.0,17
+23608,Ecuador,2021-04-05,Kappa,0,0.0,23
+23632,Ecuador,2021-04-19,Kappa,0,0.0,57
+23656,Ecuador,2021-05-03,Kappa,0,0.0,65
+23680,Ecuador,2021-05-17,Kappa,0,0.0,139
+23704,Ecuador,2021-05-31,Kappa,0,0.0,102
+23728,Ecuador,2021-06-14,Kappa,0,0.0,167
+23752,Ecuador,2021-06-28,Kappa,0,0.0,145
+23776,Ecuador,2021-07-12,Kappa,0,0.0,366
+23800,Ecuador,2021-07-26,Kappa,0,0.0,565
+23824,Ecuador,2021-08-09,Kappa,0,0.0,232
+23848,Ecuador,2021-08-23,Kappa,0,0.0,261
+23872,Ecuador,2021-09-06,Kappa,0,0.0,306
+23896,Ecuador,2021-09-20,Kappa,0,0.0,155
+23920,Ecuador,2021-10-04,Kappa,0,0.0,214
+23944,Ecuador,2021-10-18,Kappa,0,0.0,93
+23968,Ecuador,2021-11-01,Kappa,0,0.0,23
+23992,Ecuador,2021-11-15,Kappa,0,0.0,100
+24016,Ecuador,2021-11-29,Kappa,0,0.0,135
+24040,Ecuador,2021-12-13,Kappa,0,0.0,93
+24064,Ecuador,2021-12-27,Kappa,0,0.0,55
+24088,Egypt,2020-05-11,Kappa,0,0.0,38
+24112,Egypt,2020-05-25,Kappa,0,0.0,22
+24136,Egypt,2020-06-08,Kappa,0,0.0,141
+24160,Egypt,2020-06-22,Kappa,0,0.0,77
+24184,Egypt,2020-07-06,Kappa,0,0.0,128
+24208,Egypt,2020-07-20,Kappa,0,0.0,44
+24232,Egypt,2020-08-03,Kappa,0,0.0,41
+24256,Egypt,2020-08-17,Kappa,0,0.0,29
+24280,Egypt,2020-08-31,Kappa,0,0.0,43
+24304,Egypt,2020-09-14,Kappa,0,0.0,25
+24328,Egypt,2020-09-28,Kappa,0,0.0,17
+24352,Egypt,2020-10-12,Kappa,0,0.0,15
+24376,Egypt,2020-10-26,Kappa,0,0.0,11
+24400,Egypt,2020-11-09,Kappa,0,0.0,12
+24424,Egypt,2020-11-23,Kappa,0,0.0,12
+24448,Egypt,2020-12-07,Kappa,0,0.0,3
+24472,Egypt,2020-12-21,Kappa,0,0.0,14
+24496,Egypt,2021-01-04,Kappa,0,0.0,99
+24520,Egypt,2021-01-11,Kappa,0,0.0,40
+24544,Egypt,2021-01-25,Kappa,0,0.0,3
+24568,Egypt,2021-02-22,Kappa,0,0.0,79
+24592,Egypt,2021-03-08,Kappa,0,0.0,21
+24616,Egypt,2021-03-22,Kappa,0,0.0,12
+24640,Egypt,2021-04-05,Kappa,0,0.0,74
+24664,Egypt,2021-04-19,Kappa,0,0.0,10
+24688,Egypt,2021-05-03,Kappa,0,0.0,89
+24712,Egypt,2021-05-17,Kappa,0,0.0,42
+24736,Egypt,2021-05-31,Kappa,0,0.0,23
+24760,Egypt,2021-06-14,Kappa,0,0.0,10
+24784,Egypt,2021-06-28,Kappa,0,0.0,4
+24808,Egypt,2021-07-12,Kappa,0,0.0,3
+24832,Egypt,2021-07-26,Kappa,0,0.0,1
+24856,Egypt,2021-08-09,Kappa,0,0.0,9
+24880,Egypt,2021-09-06,Kappa,0,0.0,23
+24904,Egypt,2021-09-20,Kappa,0,0.0,5
+24928,Egypt,2021-10-04,Kappa,0,0.0,9
+24952,Egypt,2021-10-18,Kappa,0,0.0,21
+24976,Egypt,2021-11-01,Kappa,0,0.0,66
+25000,Egypt,2021-11-15,Kappa,0,0.0,13
+25024,Egypt,2021-11-29,Kappa,0,0.0,6
+25048,Egypt,2021-12-13,Kappa,0,0.0,1
+25072,Estonia,2020-09-14,Kappa,0,0.0,9
+25096,Estonia,2020-09-28,Kappa,0,0.0,120
+25120,Estonia,2020-10-12,Kappa,0,0.0,55
+25144,Estonia,2020-10-26,Kappa,0,0.0,21
+25168,Estonia,2020-11-09,Kappa,0,0.0,53
+25192,Estonia,2020-11-23,Kappa,0,0.0,18
+25216,Estonia,2020-12-21,Kappa,0,0.0,2
+25240,Estonia,2021-01-04,Kappa,0,0.0,46
+25264,Estonia,2021-01-11,Kappa,0,0.0,5
+25288,Estonia,2021-01-25,Kappa,0,0.0,10
+25312,Estonia,2021-02-08,Kappa,0,0.0,47
+25336,Estonia,2021-02-22,Kappa,0,0.0,564
+25360,Estonia,2021-03-08,Kappa,0,0.0,163
+25384,Estonia,2021-03-22,Kappa,0,0.0,1018
+25408,Estonia,2021-04-05,Kappa,0,0.0,1121
+25432,Estonia,2021-04-19,Kappa,0,0.0,368
+25456,Estonia,2021-05-03,Kappa,0,0.0,351
+25480,Estonia,2021-05-17,Kappa,0,0.0,326
+25504,Estonia,2021-06-14,Kappa,0,0.0,137
+25528,Estonia,2021-06-28,Kappa,0,0.0,45
+25552,Estonia,2021-07-12,Kappa,0,0.0,138
+25576,Estonia,2021-07-26,Kappa,0,0.0,252
+25600,Estonia,2021-08-09,Kappa,0,0.0,360
+25624,Estonia,2021-08-23,Kappa,0,0.0,371
+25648,Estonia,2021-09-06,Kappa,0,0.0,369
+25672,Estonia,2021-09-20,Kappa,0,0.0,346
+25696,Estonia,2021-10-04,Kappa,0,0.0,348
+25720,Estonia,2021-10-18,Kappa,0,0.0,319
+25744,Estonia,2021-11-01,Kappa,0,0.0,344
+25768,Estonia,2021-11-15,Kappa,0,0.0,294
+25792,Estonia,2021-11-29,Kappa,0,0.0,340
+25816,Estonia,2021-12-13,Kappa,0,0.0,82
+25840,Ethiopia,2020-11-23,Kappa,0,0.0,4
+25864,Ethiopia,2020-12-21,Kappa,0,0.0,4
+25888,Ethiopia,2021-01-25,Kappa,0,0.0,6
+25912,Ethiopia,2021-02-08,Kappa,0,0.0,10
+25936,Ethiopia,2021-02-22,Kappa,0,0.0,4
+25960,Ethiopia,2021-03-08,Kappa,0,0.0,13
+25984,Ethiopia,2021-03-22,Kappa,0,0.0,4
+26008,Ethiopia,2021-04-05,Kappa,0,0.0,6
+26032,Ethiopia,2021-04-19,Kappa,0,0.0,1
+26056,Ethiopia,2021-05-03,Kappa,0,0.0,2
+26080,Ethiopia,2021-05-31,Kappa,0,0.0,26
+26104,Ethiopia,2021-06-14,Kappa,0,0.0,5
+26128,Ethiopia,2021-07-12,Kappa,0,0.0,6
+26152,Ethiopia,2021-07-26,Kappa,0,0.0,59
+26176,Ethiopia,2021-08-09,Kappa,0,0.0,253
+26200,Ethiopia,2021-08-23,Kappa,0,0.0,119
+26224,Fiji,2020-08-31,Kappa,0,0.0,1
+26248,Fiji,2020-11-23,Kappa,0,0.0,2
+26272,Fiji,2020-12-07,Kappa,0,0.0,2
+26296,Fiji,2021-01-04,Kappa,0,0.0,2
+26320,Fiji,2021-02-08,Kappa,0,0.0,1
+26344,Fiji,2021-03-08,Kappa,0,0.0,1
+26368,Fiji,2021-03-22,Kappa,0,0.0,1
+26392,Fiji,2021-04-19,Kappa,0,0.0,7
+26416,Fiji,2021-05-03,Kappa,0,0.0,18
+26440,Fiji,2021-05-17,Kappa,0,0.0,22
+26464,Fiji,2021-05-31,Kappa,0,0.0,24
+26488,Fiji,2021-06-14,Kappa,0,0.0,52
+26512,Fiji,2021-06-28,Kappa,0,0.0,252
+26536,Fiji,2021-07-12,Kappa,0,0.0,140
+26560,Finland,2020-05-11,Kappa,0,0.0,102
+26584,Finland,2020-05-25,Kappa,0,0.0,51
+26608,Finland,2020-06-08,Kappa,0,0.0,37
+26632,Finland,2020-06-22,Kappa,0,0.0,4
+26656,Finland,2020-08-17,Kappa,0,0.0,10
+26680,Finland,2020-08-31,Kappa,0,0.0,14
+26704,Finland,2020-09-14,Kappa,0,0.0,23
+26728,Finland,2020-09-28,Kappa,0,0.0,96
+26752,Finland,2020-10-12,Kappa,0,0.0,283
+26776,Finland,2020-10-26,Kappa,0,0.0,98
+26800,Finland,2020-11-09,Kappa,0,0.0,51
+26824,Finland,2020-11-23,Kappa,0,0.0,54
+26848,Finland,2020-12-07,Kappa,0,0.0,156
+26872,Finland,2020-12-21,Kappa,0,0.0,114
+26896,Finland,2021-01-04,Kappa,0,0.0,148
+26920,Finland,2021-01-11,Kappa,0,0.0,124
+26944,Finland,2021-01-25,Kappa,0,0.0,765
+26968,Finland,2021-02-08,Kappa,0,0.0,1240
+26992,Finland,2021-02-22,Kappa,0,0.0,1587
+27016,Finland,2021-03-08,Kappa,0,0.0,1653
+27040,Finland,2021-03-22,Kappa,2,0.12,1715
+27064,Finland,2021-04-05,Kappa,1,0.1,987
+27088,Finland,2021-04-19,Kappa,0,0.0,702
+27112,Finland,2021-05-03,Kappa,2,0.37,542
+27136,Finland,2021-05-17,Kappa,5,0.83,601
+27160,Finland,2021-05-31,Kappa,1,0.19,529
+27184,Finland,2021-06-14,Kappa,0,0.0,294
+27208,Finland,2021-06-28,Kappa,0,0.0,734
+27232,Finland,2021-07-12,Kappa,0,0.0,822
+27256,Finland,2021-07-26,Kappa,0,0.0,1484
+27280,Finland,2021-08-09,Kappa,0,0.0,1655
+27304,Finland,2021-08-23,Kappa,0,0.0,1027
+27328,Finland,2021-09-06,Kappa,0,0.0,930
+27352,Finland,2021-09-20,Kappa,0,0.0,749
+27376,Finland,2021-10-04,Kappa,0,0.0,967
+27400,Finland,2021-10-18,Kappa,0,0.0,864
+27424,Finland,2021-11-01,Kappa,0,0.0,670
+27448,Finland,2021-11-15,Kappa,0,0.0,417
+27472,Finland,2021-11-29,Kappa,0,0.0,61
+27496,France,2020-05-11,Kappa,0,0.0,201
+27520,France,2020-05-25,Kappa,0,0.0,64
+27544,France,2020-06-08,Kappa,0,0.0,33
+27568,France,2020-06-22,Kappa,0,0.0,45
+27592,France,2020-07-06,Kappa,0,0.0,30
+27616,France,2020-07-20,Kappa,0,0.0,71
+27640,France,2020-08-03,Kappa,0,0.0,140
+27664,France,2020-08-17,Kappa,0,0.0,239
+27688,France,2020-08-31,Kappa,0,0.0,251
+27712,France,2020-09-14,Kappa,0,0.0,822
+27736,France,2020-09-28,Kappa,0,0.0,488
+27760,France,2020-10-12,Kappa,0,0.0,427
+27784,France,2020-10-26,Kappa,0,0.0,870
+27808,France,2020-11-09,Kappa,0,0.0,1020
+27832,France,2020-11-23,Kappa,0,0.0,619
+27856,France,2020-12-07,Kappa,0,0.0,347
+27880,France,2020-12-21,Kappa,0,0.0,404
+27904,France,2021-01-04,Kappa,0,0.0,518
+27928,France,2021-01-11,Kappa,0,0.0,738
+27952,France,2021-01-25,Kappa,0,0.0,2173
+27976,France,2021-02-08,Kappa,0,0.0,3995
+28000,France,2021-02-22,Kappa,1,0.03,2991
+28024,France,2021-03-08,Kappa,0,0.0,4276
+28048,France,2021-03-22,Kappa,0,0.0,6421
+28072,France,2021-04-05,Kappa,0,0.0,6026
+28096,France,2021-04-19,Kappa,2,0.04,5009
+28120,France,2021-05-03,Kappa,7,0.16,4393
+28144,France,2021-05-17,Kappa,2,0.06,3260
+28168,France,2021-05-31,Kappa,2,0.06,3135
+28192,France,2021-06-14,Kappa,1,0.05,2215
+28216,France,2021-06-28,Kappa,0,0.0,1950
+28240,France,2021-07-12,Kappa,0,0.0,4263
+28264,France,2021-07-26,Kappa,0,0.0,13457
+28288,France,2021-08-09,Kappa,0,0.0,9502
+28312,France,2021-08-23,Kappa,0,0.0,8879
+28336,France,2021-09-06,Kappa,0,0.0,8082
+28360,France,2021-09-20,Kappa,0,0.0,4638
+28384,France,2021-10-04,Kappa,0,0.0,3410
+28408,France,2021-10-18,Kappa,0,0.0,3568
+28432,France,2021-11-01,Kappa,0,0.0,10296
+28456,France,2021-11-15,Kappa,0,0.0,10101
+28480,France,2021-11-29,Kappa,0,0.0,8030
+28504,France,2021-12-13,Kappa,0,0.0,10382
+28528,France,2021-12-27,Kappa,0,0.0,2220
+28552,France,2022-01-05,Kappa,0,0.0,117
+28576,Gambia,2020-05-11,Kappa,0,0.0,13
+28600,Gambia,2020-05-25,Kappa,0,0.0,14
+28624,Gambia,2020-06-08,Kappa,0,0.0,11
+28648,Gambia,2020-06-22,Kappa,0,0.0,5
+28672,Gambia,2020-07-06,Kappa,0,0.0,23
+28696,Gambia,2020-07-20,Kappa,0,0.0,4
+28720,Gambia,2020-08-03,Kappa,0,0.0,241
+28744,Gambia,2020-08-17,Kappa,0,0.0,30
+28768,Gambia,2020-08-31,Kappa,0,0.0,37
+28792,Gambia,2020-09-14,Kappa,0,0.0,21
+28816,Gambia,2020-09-28,Kappa,0,0.0,4
+28840,Gambia,2020-10-12,Kappa,0,0.0,5
+28864,Gambia,2020-10-26,Kappa,0,0.0,1
+28888,Gambia,2021-01-04,Kappa,0,0.0,1
+28912,Gambia,2021-01-11,Kappa,0,0.0,2
+28936,Gambia,2021-01-25,Kappa,0,0.0,8
+28960,Gambia,2021-02-08,Kappa,0,0.0,11
+28984,Gambia,2021-02-22,Kappa,0,0.0,8
+29008,Gambia,2021-03-08,Kappa,0,0.0,21
+29032,Gambia,2021-03-22,Kappa,0,0.0,43
+29056,Gambia,2021-04-05,Kappa,0,0.0,14
+29080,Gambia,2021-04-19,Kappa,0,0.0,5
+29104,Gambia,2021-05-03,Kappa,0,0.0,11
+29128,Gambia,2021-05-17,Kappa,0,0.0,2
+29152,Gambia,2021-05-31,Kappa,0,0.0,12
+29176,Gambia,2021-06-14,Kappa,0,0.0,2
+29200,Gambia,2021-06-28,Kappa,0,0.0,5
+29224,Gambia,2021-07-12,Kappa,0,0.0,69
+29248,Gambia,2021-07-26,Kappa,0,0.0,40
+29272,Gambia,2021-08-09,Kappa,0,0.0,127
+29296,Gambia,2021-08-23,Kappa,0,0.0,73
+29320,Georgia,2020-05-11,Kappa,0,0.0,4
+29344,Georgia,2020-06-08,Kappa,0,0.0,1
+29368,Georgia,2020-06-22,Kappa,0,0.0,1
+29392,Georgia,2020-09-28,Kappa,0,0.0,2
+29416,Georgia,2020-10-12,Kappa,0,0.0,1
+29440,Georgia,2020-11-09,Kappa,0,0.0,2
+29464,Georgia,2020-11-23,Kappa,0,0.0,4
+29488,Georgia,2020-12-07,Kappa,0,0.0,1
+29512,Georgia,2020-12-21,Kappa,0,0.0,3
+29536,Georgia,2021-01-04,Kappa,0,0.0,1
+29560,Georgia,2021-01-11,Kappa,0,0.0,1
+29584,Georgia,2021-01-25,Kappa,0,0.0,4
+29608,Georgia,2021-02-08,Kappa,0,0.0,4
+29632,Georgia,2021-02-22,Kappa,0,0.0,9
+29656,Georgia,2021-03-08,Kappa,0,0.0,10
+29680,Georgia,2021-03-22,Kappa,0,0.0,6
+29704,Georgia,2021-04-05,Kappa,0,0.0,4
+29728,Georgia,2021-04-19,Kappa,0,0.0,1
+29752,Georgia,2021-05-03,Kappa,0,0.0,3
+29776,Georgia,2021-05-17,Kappa,0,0.0,23
+29800,Georgia,2021-05-31,Kappa,0,0.0,28
+29824,Georgia,2021-06-14,Kappa,0,0.0,17
+29848,Georgia,2021-06-28,Kappa,0,0.0,17
+29872,Georgia,2021-07-12,Kappa,0,0.0,27
+29896,Georgia,2021-07-26,Kappa,0,0.0,8
+29920,Georgia,2021-08-09,Kappa,0,0.0,16
+29944,Georgia,2021-08-23,Kappa,0,0.0,12
+29968,Georgia,2021-09-06,Kappa,0,0.0,30
+29992,Georgia,2021-09-20,Kappa,0,0.0,5
+30016,Georgia,2021-10-04,Kappa,0,0.0,70
+30040,Georgia,2021-10-18,Kappa,0,0.0,94
+30064,Georgia,2021-11-01,Kappa,0,0.0,33
+30088,Georgia,2021-11-15,Kappa,0,0.0,81
+30112,Georgia,2021-11-29,Kappa,0,0.0,78
+30136,Georgia,2021-12-13,Kappa,0,0.0,129
+30160,Georgia,2021-12-27,Kappa,0,0.0,110
+30184,Germany,2020-05-11,Kappa,0,0.0,105
+30208,Germany,2020-05-25,Kappa,0,0.0,94
+30232,Germany,2020-06-08,Kappa,0,0.0,82
+30256,Germany,2020-06-22,Kappa,0,0.0,1528
+30280,Germany,2020-07-06,Kappa,0,0.0,390
+30304,Germany,2020-07-20,Kappa,0,0.0,103
+30328,Germany,2020-08-03,Kappa,0,0.0,53
+30352,Germany,2020-08-17,Kappa,0,0.0,144
+30376,Germany,2020-08-31,Kappa,0,0.0,174
+30400,Germany,2020-09-14,Kappa,0,0.0,115
+30424,Germany,2020-09-28,Kappa,0,0.0,324
+30448,Germany,2020-10-12,Kappa,0,0.0,349
+30472,Germany,2020-10-26,Kappa,0,0.0,387
+30496,Germany,2020-11-09,Kappa,0,0.0,494
+30520,Germany,2020-11-23,Kappa,0,0.0,589
+30544,Germany,2020-12-07,Kappa,0,0.0,770
+30568,Germany,2020-12-21,Kappa,0,0.0,999
+30592,Germany,2021-01-04,Kappa,0,0.0,666
+30616,Germany,2021-01-11,Kappa,0,0.0,524
+30640,Germany,2021-01-25,Kappa,0,0.0,3161
+30664,Germany,2021-02-08,Kappa,0,0.0,6330
+30688,Germany,2021-02-22,Kappa,0,0.0,9085
+30712,Germany,2021-03-08,Kappa,1,0.01,11511
+30736,Germany,2021-03-22,Kappa,1,0.01,14479
+30760,Germany,2021-04-05,Kappa,5,0.03,16353
+30784,Germany,2021-04-19,Kappa,16,0.08,19363
+30808,Germany,2021-05-03,Kappa,45,0.23,19306
+30832,Germany,2021-05-17,Kappa,22,0.14,15645
+30856,Germany,2021-05-31,Kappa,10,0.1,9815
+30880,Germany,2021-06-14,Kappa,3,0.06,5401
+30904,Germany,2021-06-28,Kappa,1,0.04,2632
+30928,Germany,2021-07-12,Kappa,1,0.04,2651
+30952,Germany,2021-07-26,Kappa,0,0.0,4588
+30976,Germany,2021-08-09,Kappa,0,0.0,6197
+31000,Germany,2021-08-23,Kappa,0,0.0,13221
+31024,Germany,2021-09-06,Kappa,0,0.0,19285
+31048,Germany,2021-09-20,Kappa,0,0.0,19996
+31072,Germany,2021-10-04,Kappa,0,0.0,15758
+31096,Germany,2021-10-18,Kappa,0,0.0,12393
+31120,Germany,2021-11-01,Kappa,0,0.0,15674
+31144,Germany,2021-11-15,Kappa,0,0.0,17801
+31168,Germany,2021-11-29,Kappa,0,0.0,23129
+31192,Germany,2021-12-13,Kappa,0,0.0,22895
+31216,Germany,2021-12-27,Kappa,0,0.0,12584
+31240,Ghana,2020-05-11,Kappa,0,0.0,1
+31264,Ghana,2020-05-25,Kappa,0,0.0,18
+31288,Ghana,2020-06-08,Kappa,0,0.0,8
+31312,Ghana,2020-06-22,Kappa,0,0.0,8
+31336,Ghana,2020-07-06,Kappa,0,0.0,1
+31360,Ghana,2020-07-20,Kappa,0,0.0,10
+31384,Ghana,2020-08-03,Kappa,0,0.0,43
+31408,Ghana,2020-08-17,Kappa,0,0.0,5
+31432,Ghana,2020-08-31,Kappa,0,0.0,20
+31456,Ghana,2020-09-14,Kappa,0,0.0,19
+31480,Ghana,2020-09-28,Kappa,0,0.0,1
+31504,Ghana,2020-10-12,Kappa,0,0.0,3
+31528,Ghana,2020-11-09,Kappa,0,0.0,20
+31552,Ghana,2020-11-23,Kappa,0,0.0,17
+31576,Ghana,2020-12-07,Kappa,0,0.0,32
+31600,Ghana,2020-12-21,Kappa,0,0.0,23
+31624,Ghana,2021-01-04,Kappa,0,0.0,22
+31648,Ghana,2021-01-11,Kappa,0,0.0,115
+31672,Ghana,2021-01-25,Kappa,0,0.0,91
+31696,Ghana,2021-02-08,Kappa,0,0.0,76
+31720,Ghana,2021-02-22,Kappa,0,0.0,95
+31744,Ghana,2021-03-08,Kappa,0,0.0,55
+31768,Ghana,2021-03-22,Kappa,0,0.0,61
+31792,Ghana,2021-04-05,Kappa,1,2.17,46
+31816,Ghana,2021-04-19,Kappa,7,7.29,96
+31840,Ghana,2021-05-03,Kappa,2,2.38,84
+31864,Ghana,2021-05-17,Kappa,0,0.0,60
+31888,Ghana,2021-05-31,Kappa,1,1.28,78
+31912,Ghana,2021-06-14,Kappa,0,0.0,58
+31936,Ghana,2021-06-28,Kappa,0,0.0,104
+31960,Ghana,2021-07-12,Kappa,0,0.0,156
+31984,Ghana,2021-07-26,Kappa,0,0.0,168
+32008,Ghana,2021-08-09,Kappa,0,0.0,110
+32032,Ghana,2021-08-23,Kappa,0,0.0,112
+32056,Ghana,2021-09-06,Kappa,0,0.0,17
+32080,Ghana,2021-09-20,Kappa,0,0.0,151
+32104,Ghana,2021-10-04,Kappa,0,0.0,64
+32128,Ghana,2021-10-18,Kappa,0,0.0,90
+32152,Ghana,2021-11-01,Kappa,0,0.0,64
+32176,Ghana,2021-11-15,Kappa,0,0.0,29
+32200,Ghana,2021-11-29,Kappa,0,0.0,76
+32224,Ghana,2021-12-13,Kappa,0,0.0,36
+32248,Greece,2020-05-11,Kappa,0,0.0,8
+32272,Greece,2020-05-25,Kappa,0,0.0,8
+32296,Greece,2020-08-03,Kappa,0,0.0,2
+32320,Greece,2020-08-17,Kappa,0,0.0,15
+32344,Greece,2020-08-31,Kappa,0,0.0,2
+32368,Greece,2020-09-14,Kappa,0,0.0,24
+32392,Greece,2020-09-28,Kappa,0,0.0,40
+32416,Greece,2020-10-12,Kappa,0,0.0,42
+32440,Greece,2020-10-26,Kappa,0,0.0,22
+32464,Greece,2020-11-09,Kappa,0,0.0,207
+32488,Greece,2020-11-23,Kappa,0,0.0,141
+32512,Greece,2020-12-07,Kappa,0,0.0,78
+32536,Greece,2020-12-21,Kappa,0,0.0,264
+32560,Greece,2021-01-04,Kappa,0,0.0,172
+32584,Greece,2021-01-11,Kappa,0,0.0,48
+32608,Greece,2021-01-25,Kappa,0,0.0,142
+32632,Greece,2021-02-08,Kappa,0,0.0,111
+32656,Greece,2021-02-22,Kappa,0,0.0,143
+32680,Greece,2021-03-08,Kappa,0,0.0,1114
+32704,Greece,2021-03-22,Kappa,0,0.0,1040
+32728,Greece,2021-04-05,Kappa,0,0.0,338
+32752,Greece,2021-04-19,Kappa,1,0.16,609
+32776,Greece,2021-05-03,Kappa,0,0.0,1269
+32800,Greece,2021-05-17,Kappa,0,0.0,1255
+32824,Greece,2021-05-31,Kappa,0,0.0,562
+32848,Greece,2021-06-14,Kappa,0,0.0,183
+32872,Greece,2021-06-28,Kappa,0,0.0,84
+32896,Greece,2021-07-12,Kappa,0,0.0,296
+32920,Greece,2021-07-26,Kappa,0,0.0,354
+32944,Greece,2021-08-09,Kappa,0,0.0,218
+32968,Greece,2021-08-23,Kappa,0,0.0,175
+32992,Greece,2021-09-06,Kappa,0,0.0,347
+33016,Greece,2021-09-20,Kappa,0,0.0,649
+33040,Greece,2021-10-04,Kappa,0,0.0,321
+33064,Greece,2021-10-18,Kappa,0,0.0,12
+33088,Greece,2021-11-01,Kappa,0,0.0,155
+33112,Greece,2021-11-15,Kappa,0,0.0,586
+33136,Greece,2021-11-29,Kappa,0,0.0,558
+33160,Greece,2021-12-13,Kappa,0,0.0,610
+33184,Guatemala,2020-05-25,Kappa,0,0.0,3
+33208,Guatemala,2020-06-08,Kappa,0,0.0,6
+33232,Guatemala,2020-06-22,Kappa,0,0.0,19
+33256,Guatemala,2020-07-06,Kappa,0,0.0,11
+33280,Guatemala,2020-07-20,Kappa,0,0.0,6
+33304,Guatemala,2020-08-03,Kappa,0,0.0,10
+33328,Guatemala,2020-08-17,Kappa,0,0.0,3
+33352,Guatemala,2020-08-31,Kappa,0,0.0,1
+33376,Guatemala,2020-09-14,Kappa,0,0.0,1
+33400,Guatemala,2020-09-28,Kappa,0,0.0,4
+33424,Guatemala,2020-10-12,Kappa,0,0.0,48
+33448,Guatemala,2020-10-26,Kappa,0,0.0,31
+33472,Guatemala,2020-11-09,Kappa,0,0.0,29
+33496,Guatemala,2020-11-23,Kappa,0,0.0,7
+33520,Guatemala,2020-12-07,Kappa,0,0.0,17
+33544,Guatemala,2020-12-21,Kappa,0,0.0,10
+33568,Guatemala,2021-01-04,Kappa,0,0.0,11
+33592,Guatemala,2021-01-11,Kappa,0,0.0,35
+33616,Guatemala,2021-01-25,Kappa,0,0.0,51
+33640,Guatemala,2021-02-08,Kappa,0,0.0,29
+33664,Guatemala,2021-02-22,Kappa,0,0.0,9
+33688,Guatemala,2021-03-08,Kappa,0,0.0,44
+33712,Guatemala,2021-03-22,Kappa,0,0.0,14
+33736,Guatemala,2021-04-05,Kappa,0,0.0,9
+33760,Guatemala,2021-04-19,Kappa,0,0.0,27
+33784,Guatemala,2021-05-03,Kappa,0,0.0,8
+33808,Guatemala,2021-05-17,Kappa,0,0.0,11
+33832,Guatemala,2021-05-31,Kappa,0,0.0,19
+33856,Guatemala,2021-06-14,Kappa,0,0.0,24
+33880,Guatemala,2021-06-28,Kappa,0,0.0,82
+33904,Guatemala,2021-07-12,Kappa,0,0.0,171
+33928,Guatemala,2021-07-26,Kappa,0,0.0,55
+33952,Guatemala,2021-08-09,Kappa,0,0.0,76
+33976,Guatemala,2021-08-23,Kappa,0,0.0,85
+34000,Guatemala,2021-09-06,Kappa,0,0.0,95
+34024,Guatemala,2021-09-20,Kappa,0,0.0,135
+34048,Guatemala,2021-10-04,Kappa,0,0.0,125
+34072,Guatemala,2021-10-18,Kappa,0,0.0,59
+34096,Guatemala,2021-11-01,Kappa,0,0.0,23
+34120,Guatemala,2021-11-15,Kappa,0,0.0,24
+34144,Guatemala,2021-11-29,Kappa,0,0.0,18
+34168,Guatemala,2021-12-13,Kappa,0,0.0,4
+34192,Hong Kong,2020-05-11,Kappa,0,0.0,3
+34216,Hong Kong,2020-05-25,Kappa,0,0.0,4
+34240,Hong Kong,2020-06-08,Kappa,0,0.0,8
+34264,Hong Kong,2020-06-22,Kappa,0,0.0,5
+34288,Hong Kong,2020-07-06,Kappa,0,0.0,34
+34312,Hong Kong,2020-07-20,Kappa,0,0.0,234
+34336,Hong Kong,2020-08-03,Kappa,0,0.0,248
+34360,Hong Kong,2020-08-17,Kappa,0,0.0,105
+34384,Hong Kong,2020-08-31,Kappa,0,0.0,55
+34408,Hong Kong,2020-09-14,Kappa,0,0.0,29
+34432,Hong Kong,2020-09-28,Kappa,0,0.0,40
+34456,Hong Kong,2020-10-12,Kappa,0,0.0,65
+34480,Hong Kong,2020-10-26,Kappa,0,0.0,13
+34504,Hong Kong,2020-11-09,Kappa,0,0.0,26
+34528,Hong Kong,2020-11-23,Kappa,0,0.0,114
+34552,Hong Kong,2020-12-07,Kappa,0,0.0,234
+34576,Hong Kong,2020-12-21,Kappa,0,0.0,141
+34600,Hong Kong,2021-01-04,Kappa,0,0.0,182
+34624,Hong Kong,2021-01-11,Kappa,0,0.0,19
+34648,Hong Kong,2021-01-25,Kappa,0,0.0,67
+34672,Hong Kong,2021-02-08,Kappa,0,0.0,45
+34696,Hong Kong,2021-02-22,Kappa,0,0.0,12
+34720,Hong Kong,2021-03-08,Kappa,0,0.0,28
+34744,Hong Kong,2021-03-22,Kappa,0,0.0,139
+34768,Hong Kong,2021-04-05,Kappa,0,0.0,43
+34792,Hong Kong,2021-04-19,Kappa,12,15.58,77
+34816,Hong Kong,2021-05-03,Kappa,0,0.0,40
+34840,Hong Kong,2021-05-17,Kappa,0,0.0,21
+34864,Hong Kong,2021-05-31,Kappa,0,0.0,8
+34888,Hong Kong,2021-06-14,Kappa,0,0.0,30
+34912,Hong Kong,2021-06-28,Kappa,0,0.0,52
+34936,Hong Kong,2021-07-12,Kappa,0,0.0,33
+34960,Hong Kong,2021-07-26,Kappa,0,0.0,15
+34984,Hong Kong,2021-08-09,Kappa,0,0.0,26
+35008,Hong Kong,2021-08-23,Kappa,0,0.0,27
+35032,Hong Kong,2021-09-06,Kappa,0,0.0,49
+35056,Hong Kong,2021-09-20,Kappa,0,0.0,29
+35080,Hong Kong,2021-10-04,Kappa,0,0.0,24
+35104,Hong Kong,2021-10-18,Kappa,0,0.0,28
+35128,Hong Kong,2021-11-01,Kappa,0,0.0,25
+35152,Hong Kong,2021-11-15,Kappa,0,0.0,31
+35176,Hong Kong,2021-11-29,Kappa,0,0.0,40
+35200,Hong Kong,2021-12-13,Kappa,0,0.0,25
+35224,Hong Kong,2021-12-27,Kappa,0,0.0,46
+35248,Hungary,2020-05-11,Kappa,0,0.0,7
+35272,Hungary,2020-05-25,Kappa,0,0.0,5
+35296,Hungary,2020-06-08,Kappa,0,0.0,10
+35320,Hungary,2020-06-22,Kappa,0,0.0,4
+35344,Hungary,2020-07-06,Kappa,0,0.0,3
+35368,Hungary,2020-07-20,Kappa,0,0.0,1
+35392,Hungary,2020-08-31,Kappa,0,0.0,7
+35416,Hungary,2020-09-14,Kappa,0,0.0,71
+35440,Hungary,2020-10-12,Kappa,0,0.0,106
+35464,Hungary,2020-10-26,Kappa,0,0.0,6
+35488,Hungary,2020-11-09,Kappa,0,0.0,37
+35512,Hungary,2020-12-21,Kappa,0,0.0,1
+35536,Hungary,2021-01-11,Kappa,0,0.0,8
+35560,Hungary,2021-01-25,Kappa,0,0.0,19
+35584,Hungary,2021-02-08,Kappa,0,0.0,27
+35608,Hungary,2021-02-22,Kappa,0,0.0,11
+35632,Hungary,2021-03-08,Kappa,0,0.0,3
+35656,Iceland,2020-08-03,Kappa,0,0.0,58
+35680,Iceland,2020-08-17,Kappa,0,0.0,86
+35704,Iceland,2020-08-31,Kappa,0,0.0,80
+35728,Iceland,2020-09-14,Kappa,0,0.0,47
+35752,Iceland,2020-09-28,Kappa,0,0.0,468
+35776,Iceland,2020-10-12,Kappa,0,0.0,867
+35800,Iceland,2020-10-26,Kappa,0,0.0,851
+35824,Iceland,2020-11-09,Kappa,0,0.0,538
+35848,Iceland,2020-11-23,Kappa,0,0.0,170
+35872,Iceland,2020-12-07,Kappa,0,0.0,193
+35896,Iceland,2020-12-21,Kappa,0,0.0,155
+35920,Iceland,2021-01-04,Kappa,0,0.0,140
+35944,Iceland,2021-01-11,Kappa,0,0.0,104
+35968,Iceland,2021-01-25,Kappa,0,0.0,84
+35992,Iceland,2021-02-08,Kappa,0,0.0,29
+36016,Iceland,2021-02-22,Kappa,0,0.0,21
+36040,Iceland,2021-03-08,Kappa,0,0.0,15
+36064,Iceland,2021-03-22,Kappa,0,0.0,54
+36088,Iceland,2021-04-05,Kappa,0,0.0,103
+36112,Iceland,2021-04-19,Kappa,0,0.0,88
+36136,Iceland,2021-05-03,Kappa,0,0.0,157
+36160,Iceland,2021-05-17,Kappa,0,0.0,63
+36184,Iceland,2021-05-31,Kappa,0,0.0,41
+36208,Iceland,2021-06-14,Kappa,0,0.0,45
+36232,Iceland,2021-06-28,Kappa,0,0.0,37
+36256,Iceland,2021-07-12,Kappa,0,0.0,40
+36280,Iceland,2021-07-26,Kappa,0,0.0,623
+36304,Iceland,2021-08-09,Kappa,0,0.0,1449
+36328,Iceland,2021-08-23,Kappa,0,0.0,1268
+36352,Iceland,2021-09-06,Kappa,0,0.0,400
+36376,India,2020-05-11,Kappa,0,0.0,471
+36400,India,2020-05-25,Kappa,0,0.0,649
+36424,India,2020-06-08,Kappa,0,0.0,617
+36448,India,2020-06-22,Kappa,0,0.0,766
+36472,India,2020-07-06,Kappa,0,0.0,276
+36496,India,2020-07-20,Kappa,0,0.0,317
+36520,India,2020-08-03,Kappa,0,0.0,393
+36544,India,2020-08-17,Kappa,0,0.0,418
+36568,India,2020-08-31,Kappa,0,0.0,235
+36592,India,2020-09-14,Kappa,0,0.0,423
+36616,India,2020-09-28,Kappa,0,0.0,397
+36640,India,2020-10-12,Kappa,0,0.0,409
+36664,India,2020-10-26,Kappa,0,0.0,329
+36688,India,2020-11-09,Kappa,0,0.0,354
+36712,India,2020-11-23,Kappa,0,0.0,286
+36736,India,2020-12-07,Kappa,3,0.27,1130
+36760,India,2020-12-21,Kappa,5,0.32,1546
+36784,India,2021-01-04,Kappa,13,1.01,1293
+36808,India,2021-01-11,Kappa,7,1.2,584
+36832,India,2021-01-25,Kappa,8,0.68,1170
+36856,India,2021-02-08,Kappa,44,3.29,1336
+36880,India,2021-02-22,Kappa,193,11.37,1697
+36904,India,2021-03-08,Kappa,519,20.94,2478
+36928,India,2021-03-22,Kappa,1060,28.18,3761
+36952,India,2021-04-05,Kappa,1397,29.51,4734
+36976,India,2021-04-19,Kappa,1344,18.01,7463
+37000,India,2021-05-03,Kappa,541,6.69,8086
+37024,India,2021-05-17,Kappa,185,2.88,6417
+37048,India,2021-05-31,Kappa,40,0.75,5348
+37072,India,2021-06-14,Kappa,22,0.52,4258
+37096,India,2021-06-28,Kappa,15,0.4,3779
+37120,India,2021-07-12,Kappa,13,0.38,3408
+37144,India,2021-07-26,Kappa,6,0.18,3285
+37168,India,2021-08-09,Kappa,1,0.03,2888
+37192,India,2021-08-23,Kappa,4,0.15,2645
+37216,India,2021-09-06,Kappa,4,0.11,3657
+37240,India,2021-09-20,Kappa,11,0.34,3224
+37264,India,2021-10-04,Kappa,0,0.0,2436
+37288,India,2021-10-18,Kappa,0,0.0,1978
+37312,India,2021-11-01,Kappa,0,0.0,1781
+37336,India,2021-11-15,Kappa,0,0.0,1362
+37360,India,2021-11-29,Kappa,0,0.0,1360
+37384,India,2021-12-13,Kappa,0,0.0,1085
+37408,India,2021-12-27,Kappa,0,0.0,499
+37432,Indonesia,2020-05-11,Kappa,0,0.0,11
+37456,Indonesia,2020-05-25,Kappa,0,0.0,13
+37480,Indonesia,2020-06-08,Kappa,0,0.0,18
+37504,Indonesia,2020-06-22,Kappa,0,0.0,20
+37528,Indonesia,2020-07-06,Kappa,0,0.0,16
+37552,Indonesia,2020-07-20,Kappa,0,0.0,18
+37576,Indonesia,2020-08-03,Kappa,0,0.0,28
+37600,Indonesia,2020-08-17,Kappa,0,0.0,26
+37624,Indonesia,2020-08-31,Kappa,0,0.0,24
+37648,Indonesia,2020-09-14,Kappa,0,0.0,41
+37672,Indonesia,2020-09-28,Kappa,0,0.0,22
+37696,Indonesia,2020-10-12,Kappa,0,0.0,29
+37720,Indonesia,2020-10-26,Kappa,0,0.0,55
+37744,Indonesia,2020-11-09,Kappa,0,0.0,43
+37768,Indonesia,2020-11-23,Kappa,0,0.0,82
+37792,Indonesia,2020-12-07,Kappa,0,0.0,79
+37816,Indonesia,2020-12-21,Kappa,0,0.0,98
+37840,Indonesia,2021-01-04,Kappa,0,0.0,156
+37864,Indonesia,2021-01-11,Kappa,0,0.0,227
+37888,Indonesia,2021-01-25,Kappa,1,0.26,386
+37912,Indonesia,2021-02-08,Kappa,0,0.0,240
+37936,Indonesia,2021-02-22,Kappa,0,0.0,192
+37960,Indonesia,2021-03-08,Kappa,0,0.0,301
+37984,Indonesia,2021-03-22,Kappa,0,0.0,252
+38008,Indonesia,2021-04-05,Kappa,0,0.0,175
+38032,Indonesia,2021-04-19,Kappa,0,0.0,183
+38056,Indonesia,2021-05-03,Kappa,1,0.4,248
+38080,Indonesia,2021-05-17,Kappa,0,0.0,353
+38104,Indonesia,2021-05-31,Kappa,0,0.0,590
+38128,Indonesia,2021-06-14,Kappa,0,0.0,650
+38152,Indonesia,2021-06-28,Kappa,0,0.0,1041
+38176,Indonesia,2021-07-12,Kappa,0,0.0,977
+38200,Indonesia,2021-07-26,Kappa,0,0.0,752
+38224,Indonesia,2021-08-09,Kappa,0,0.0,1015
+38248,Indonesia,2021-08-23,Kappa,0,0.0,555
+38272,Indonesia,2021-09-06,Kappa,0,0.0,651
+38296,Indonesia,2021-09-20,Kappa,0,0.0,393
+38320,Indonesia,2021-10-04,Kappa,0,0.0,276
+38344,Indonesia,2021-10-18,Kappa,0,0.0,243
+38368,Indonesia,2021-11-01,Kappa,0,0.0,145
+38392,Indonesia,2021-11-15,Kappa,0,0.0,136
+38416,Indonesia,2021-11-29,Kappa,0,0.0,143
+38440,Indonesia,2021-12-13,Kappa,0,0.0,200
+38464,Indonesia,2021-12-27,Kappa,0,0.0,308
+38488,Iran,2020-05-11,Kappa,0,0.0,12
+38512,Iran,2020-05-25,Kappa,0,0.0,8
+38536,Iran,2020-06-08,Kappa,0,0.0,5
+38560,Iran,2020-06-22,Kappa,0,0.0,11
+38584,Iran,2020-07-06,Kappa,0,0.0,6
+38608,Iran,2020-07-20,Kappa,0,0.0,4
+38632,Iran,2020-08-31,Kappa,0,0.0,6
+38656,Iran,2020-09-28,Kappa,0,0.0,3
+38680,Iran,2020-10-12,Kappa,0,0.0,2
+38704,Iran,2020-10-26,Kappa,0,0.0,3
+38728,Iran,2020-11-09,Kappa,0,0.0,19
+38752,Iran,2020-11-23,Kappa,0,0.0,13
+38776,Iran,2020-12-07,Kappa,0,0.0,15
+38800,Iran,2020-12-21,Kappa,0,0.0,13
+38824,Iran,2021-01-04,Kappa,0,0.0,7
+38848,Iran,2021-01-11,Kappa,0,0.0,15
+38872,Iran,2021-01-25,Kappa,0,0.0,10
+38896,Iran,2021-02-08,Kappa,0,0.0,54
+38920,Iran,2021-02-22,Kappa,0,0.0,33
+38944,Iran,2021-03-08,Kappa,0,0.0,13
+38968,Iran,2021-04-05,Kappa,0,0.0,17
+38992,Iran,2021-04-19,Kappa,0,0.0,22
+39016,Iran,2021-05-03,Kappa,1,2.08,48
+39040,Iran,2021-05-17,Kappa,0,0.0,17
+39064,Iran,2021-05-31,Kappa,0,0.0,4
+39088,Iran,2021-07-26,Kappa,0,0.0,1
+39112,Iran,2021-08-09,Kappa,0,0.0,3
+39136,Iran,2021-09-06,Kappa,0,0.0,2
+39160,Iran,2021-12-13,Kappa,0,0.0,2
+39184,Iran,2021-12-27,Kappa,0,0.0,1
+39208,Iraq,2020-06-08,Kappa,0,0.0,10
+39232,Iraq,2020-06-22,Kappa,0,0.0,18
+39256,Iraq,2020-07-06,Kappa,0,0.0,2
+39280,Iraq,2020-10-12,Kappa,0,0.0,2
+39304,Iraq,2020-12-21,Kappa,0,0.0,2
+39328,Iraq,2021-01-04,Kappa,0,0.0,2
+39352,Iraq,2021-01-11,Kappa,0,0.0,1
+39376,Iraq,2021-01-25,Kappa,0,0.0,4
+39400,Iraq,2021-02-08,Kappa,0,0.0,4
+39424,Iraq,2021-02-22,Kappa,0,0.0,63
+39448,Iraq,2021-03-08,Kappa,0,0.0,15
+39472,Iraq,2021-03-22,Kappa,0,0.0,5
+39496,Iraq,2021-04-05,Kappa,0,0.0,5
+39520,Iraq,2021-04-19,Kappa,0,0.0,2
+39544,Iraq,2021-05-03,Kappa,0,0.0,12
+39568,Iraq,2021-05-17,Kappa,0,0.0,3
+39592,Iraq,2021-05-31,Kappa,0,0.0,2
+39616,Iraq,2021-06-14,Kappa,0,0.0,2
+39640,Iraq,2021-07-12,Kappa,0,0.0,2
+39664,Iraq,2021-07-26,Kappa,0,0.0,8
+39688,Iraq,2021-08-09,Kappa,0,0.0,2
+39712,Iraq,2021-11-15,Kappa,0,0.0,1
+39736,Ireland,2020-05-11,Kappa,0,0.0,115
+39760,Ireland,2020-05-25,Kappa,0,0.0,43
+39784,Ireland,2020-06-08,Kappa,0,0.0,8
+39808,Ireland,2020-06-22,Kappa,0,0.0,5
+39832,Ireland,2020-07-06,Kappa,0,0.0,9
+39856,Ireland,2020-07-20,Kappa,0,0.0,32
+39880,Ireland,2020-08-03,Kappa,0,0.0,59
+39904,Ireland,2020-08-17,Kappa,0,0.0,87
+39928,Ireland,2020-08-31,Kappa,0,0.0,22
+39952,Ireland,2020-09-14,Kappa,0,0.0,79
+39976,Ireland,2020-09-28,Kappa,0,0.0,102
+40000,Ireland,2020-10-12,Kappa,0,0.0,85
+40024,Ireland,2020-10-26,Kappa,0,0.0,100
+40048,Ireland,2020-11-09,Kappa,0,0.0,70
+40072,Ireland,2020-11-23,Kappa,0,0.0,95
+40096,Ireland,2020-12-07,Kappa,0,0.0,91
+40120,Ireland,2020-12-21,Kappa,0,0.0,100
+40144,Ireland,2021-01-04,Kappa,0,0.0,208
+40168,Ireland,2021-01-11,Kappa,0,0.0,140
+40192,Ireland,2021-01-25,Kappa,0,0.0,505
+40216,Ireland,2021-02-08,Kappa,0,0.0,1177
+40240,Ireland,2021-02-22,Kappa,0,0.0,1474
+40264,Ireland,2021-03-08,Kappa,1,0.06,1630
+40288,Ireland,2021-03-22,Kappa,0,0.0,1718
+40312,Ireland,2021-04-05,Kappa,0,0.0,1383
+40336,Ireland,2021-04-19,Kappa,8,0.55,1464
+40360,Ireland,2021-05-03,Kappa,51,2.68,1901
+40384,Ireland,2021-05-17,Kappa,25,1.33,1873
+40408,Ireland,2021-05-31,Kappa,84,3.57,2353
+40432,Ireland,2021-06-14,Kappa,12,0.86,1402
+40456,Ireland,2021-06-28,Kappa,24,1.53,1570
+40480,Ireland,2021-07-12,Kappa,5,0.28,1759
+40504,Ireland,2021-07-26,Kappa,0,0.0,2900
+40528,Ireland,2021-08-09,Kappa,0,0.0,3011
+40552,Ireland,2021-08-23,Kappa,0,0.0,2888
+40576,Ireland,2021-09-06,Kappa,0,0.0,2161
+40600,Ireland,2021-09-20,Kappa,0,0.0,2429
+40624,Ireland,2021-10-04,Kappa,0,0.0,1681
+40648,Ireland,2021-10-18,Kappa,0,0.0,2961
+40672,Ireland,2021-11-01,Kappa,0,0.0,3373
+40696,Ireland,2021-11-15,Kappa,0,0.0,990
+40720,Ireland,2021-11-29,Kappa,0,0.0,487
+40744,Ireland,2021-12-13,Kappa,0,0.0,888
+40768,Israel,2020-05-11,Kappa,0,0.0,8
+40792,Israel,2020-05-25,Kappa,0,0.0,4
+40816,Israel,2020-06-08,Kappa,0,0.0,18
+40840,Israel,2020-06-22,Kappa,0,0.0,7
+40864,Israel,2020-07-06,Kappa,0,0.0,16
+40888,Israel,2020-07-20,Kappa,0,0.0,6
+40912,Israel,2020-08-03,Kappa,0,0.0,48
+40936,Israel,2020-08-17,Kappa,0,0.0,9
+40960,Israel,2020-08-31,Kappa,0,0.0,1
+40984,Israel,2020-09-14,Kappa,0,0.0,3
+41008,Israel,2020-09-28,Kappa,0,0.0,1
+41032,Israel,2020-10-26,Kappa,0,0.0,1
+41056,Israel,2020-11-23,Kappa,0,0.0,1
+41080,Israel,2020-12-07,Kappa,0,0.0,9
+41104,Israel,2020-12-21,Kappa,0,0.0,54
+41128,Israel,2021-01-04,Kappa,0,0.0,1402
+41152,Israel,2021-01-11,Kappa,0,0.0,696
+41176,Israel,2021-01-25,Kappa,0,0.0,1167
+41200,Israel,2021-02-08,Kappa,0,0.0,2335
+41224,Israel,2021-02-22,Kappa,0,0.0,885
+41248,Israel,2021-03-08,Kappa,0,0.0,2004
+41272,Israel,2021-03-22,Kappa,0,0.0,925
+41296,Israel,2021-04-05,Kappa,0,0.0,830
+41320,Israel,2021-04-19,Kappa,0,0.0,482
+41344,Israel,2021-05-03,Kappa,0,0.0,357
+41368,Israel,2021-05-17,Kappa,0,0.0,204
+41392,Israel,2021-05-31,Kappa,0,0.0,150
+41416,Israel,2021-06-14,Kappa,0,0.0,114
+41440,Israel,2021-06-28,Kappa,0,0.0,847
+41464,Israel,2021-07-12,Kappa,1,0.06,1627
+41488,Israel,2021-07-26,Kappa,0,0.0,512
+41512,Israel,2021-08-09,Kappa,0,0.0,1647
+41536,Israel,2021-08-23,Kappa,0,0.0,1562
+41560,Israel,2021-09-06,Kappa,0,0.0,2177
+41584,Israel,2021-09-20,Kappa,0,0.0,2418
+41608,Israel,2021-10-04,Kappa,0,0.0,779
+41632,Israel,2021-10-18,Kappa,0,0.0,1546
+41656,Israel,2021-11-01,Kappa,0,0.0,1041
+41680,Israel,2021-11-15,Kappa,0,0.0,1652
+41704,Israel,2021-11-29,Kappa,0,0.0,2632
+41728,Israel,2021-12-13,Kappa,0,0.0,2885
+41752,Israel,2021-12-27,Kappa,0,0.0,2935
+41776,Italy,2020-05-11,Kappa,0,0.0,128
+41800,Italy,2020-05-25,Kappa,0,0.0,51
+41824,Italy,2020-06-08,Kappa,0,0.0,35
+41848,Italy,2020-06-22,Kappa,0,0.0,51
+41872,Italy,2020-07-06,Kappa,0,0.0,109
+41896,Italy,2020-07-20,Kappa,0,0.0,33
+41920,Italy,2020-08-03,Kappa,0,0.0,28
+41944,Italy,2020-08-17,Kappa,0,0.0,30
+41968,Italy,2020-08-31,Kappa,0,0.0,133
+41992,Italy,2020-09-14,Kappa,0,0.0,155
+42016,Italy,2020-09-28,Kappa,0,0.0,164
+42040,Italy,2020-10-12,Kappa,0,0.0,153
+42064,Italy,2020-10-26,Kappa,0,0.0,221
+42088,Italy,2020-11-09,Kappa,0,0.0,489
+42112,Italy,2020-11-23,Kappa,0,0.0,261
+42136,Italy,2020-12-07,Kappa,0,0.0,264
+42160,Italy,2020-12-21,Kappa,0,0.0,723
+42184,Italy,2021-01-04,Kappa,0,0.0,764
+42208,Italy,2021-01-11,Kappa,0,0.0,430
+42232,Italy,2021-01-25,Kappa,0,0.0,1202
+42256,Italy,2021-02-08,Kappa,0,0.0,1037
+42280,Italy,2021-02-22,Kappa,0,0.0,3126
+42304,Italy,2021-03-08,Kappa,0,0.0,4193
+42328,Italy,2021-03-22,Kappa,0,0.0,5646
+42352,Italy,2021-04-05,Kappa,1,0.03,3420
+42376,Italy,2021-04-19,Kappa,1,0.03,3809
+42400,Italy,2021-05-03,Kappa,4,0.1,4066
+42424,Italy,2021-05-17,Kappa,2,0.08,2377
+42448,Italy,2021-05-31,Kappa,5,0.19,2678
+42472,Italy,2021-06-14,Kappa,6,0.39,1546
+42496,Italy,2021-06-28,Kappa,0,0.0,1968
+42520,Italy,2021-07-12,Kappa,0,0.0,3054
+42544,Italy,2021-07-26,Kappa,0,0.0,4771
+42568,Italy,2021-08-09,Kappa,0,0.0,4135
+42592,Italy,2021-08-23,Kappa,0,0.0,3261
+42616,Italy,2021-09-06,Kappa,0,0.0,3515
+42640,Italy,2021-09-20,Kappa,0,0.0,2256
+42664,Italy,2021-10-04,Kappa,0,0.0,2494
+42688,Italy,2021-10-18,Kappa,0,0.0,2186
+42712,Italy,2021-11-01,Kappa,0,0.0,2505
+42736,Italy,2021-11-15,Kappa,0,0.0,3024
+42760,Italy,2021-11-29,Kappa,0,0.0,3356
+42784,Italy,2021-12-13,Kappa,0,0.0,3415
+42808,Italy,2021-12-27,Kappa,0,0.0,2356
+42832,Jamaica,2021-01-04,Kappa,0,0.0,5
+42856,Jamaica,2021-01-25,Kappa,0,0.0,7
+42880,Jamaica,2021-02-08,Kappa,0,0.0,10
+42904,Jamaica,2021-02-22,Kappa,0,0.0,3
+42928,Jamaica,2021-03-08,Kappa,0,0.0,112
+42952,Jamaica,2021-03-22,Kappa,0,0.0,1
+42976,Jamaica,2021-04-05,Kappa,0,0.0,9
+43000,Jamaica,2021-04-19,Kappa,0,0.0,10
+43024,Jamaica,2021-05-03,Kappa,0,0.0,1
+43048,Jamaica,2021-05-17,Kappa,0,0.0,30
+43072,Jamaica,2021-05-31,Kappa,0,0.0,26
+43096,Jamaica,2021-07-26,Kappa,0,0.0,92
+43120,Jamaica,2021-08-09,Kappa,0,0.0,8
+43144,Jamaica,2021-08-23,Kappa,0,0.0,34
+43168,Jamaica,2021-09-06,Kappa,0,0.0,9
+43192,Jamaica,2021-10-04,Kappa,0,0.0,1
+43216,Jamaica,2021-10-18,Kappa,0,0.0,1
+43240,Jamaica,2021-11-01,Kappa,0,0.0,7
+43264,Japan,2020-05-11,Kappa,0,0.0,415
+43288,Japan,2020-05-25,Kappa,0,0.0,116
+43312,Japan,2020-06-08,Kappa,0,0.0,146
+43336,Japan,2020-06-22,Kappa,0,0.0,189
+43360,Japan,2020-07-06,Kappa,0,0.0,386
+43384,Japan,2020-07-20,Kappa,0,0.0,779
+43408,Japan,2020-08-03,Kappa,0,0.0,1843
+43432,Japan,2020-08-17,Kappa,0,0.0,2125
+43456,Japan,2020-08-31,Kappa,0,0.0,1450
+43480,Japan,2020-09-14,Kappa,0,0.0,764
+43504,Japan,2020-09-28,Kappa,0,0.0,523
+43528,Japan,2020-10-12,Kappa,0,0.0,546
+43552,Japan,2020-10-26,Kappa,0,0.0,685
+43576,Japan,2020-11-09,Kappa,0,0.0,818
+43600,Japan,2020-11-23,Kappa,0,0.0,1745
+43624,Japan,2020-12-07,Kappa,0,0.0,1976
+43648,Japan,2020-12-21,Kappa,0,0.0,2240
+43672,Japan,2021-01-04,Kappa,0,0.0,2441
+43696,Japan,2021-01-11,Kappa,0,0.0,2303
+43720,Japan,2021-01-25,Kappa,0,0.0,3637
+43744,Japan,2021-02-08,Kappa,0,0.0,2366
+43768,Japan,2021-02-22,Kappa,0,0.0,1316
+43792,Japan,2021-03-08,Kappa,0,0.0,1308
+43816,Japan,2021-03-22,Kappa,0,0.0,2208
+43840,Japan,2021-04-05,Kappa,2,0.05,4081
+43864,Japan,2021-04-19,Kappa,6,0.11,5582
+43888,Japan,2021-05-03,Kappa,11,0.11,10178
+43912,Japan,2021-05-17,Kappa,1,0.01,9411
+43936,Japan,2021-05-31,Kappa,0,0.0,5920
+43960,Japan,2021-06-14,Kappa,0,0.0,4207
+43984,Japan,2021-06-28,Kappa,0,0.0,4220
+44008,Japan,2021-07-12,Kappa,0,0.0,5720
+44032,Japan,2021-07-26,Kappa,0,0.0,10145
+44056,Japan,2021-08-09,Kappa,0,0.0,17302
+44080,Japan,2021-08-23,Kappa,0,0.0,28942
+44104,Japan,2021-09-06,Kappa,0,0.0,24621
+44128,Japan,2021-09-20,Kappa,0,0.0,9641
+44152,Japan,2021-10-04,Kappa,0,0.0,2773
+44176,Japan,2021-10-18,Kappa,0,0.0,1163
+44200,Japan,2021-11-01,Kappa,0,0.0,531
+44224,Japan,2021-11-15,Kappa,0,0.0,423
+44248,Japan,2021-11-29,Kappa,0,0.0,275
+44272,Japan,2021-12-13,Kappa,0,0.0,226
+44296,Japan,2021-12-27,Kappa,0,0.0,153
+44320,Jordan,2020-06-08,Kappa,0,0.0,2
+44344,Jordan,2020-06-22,Kappa,0,0.0,1
+44368,Jordan,2020-07-06,Kappa,0,0.0,3
+44392,Jordan,2020-08-17,Kappa,0,0.0,1
+44416,Jordan,2020-08-31,Kappa,0,0.0,13
+44440,Jordan,2020-09-14,Kappa,0,0.0,27
+44464,Jordan,2020-09-28,Kappa,0,0.0,15
+44488,Jordan,2020-10-12,Kappa,0,0.0,311
+44512,Jordan,2020-10-26,Kappa,0,0.0,90
+44536,Jordan,2020-11-09,Kappa,0,0.0,48
+44560,Jordan,2020-12-07,Kappa,0,0.0,2
+44584,Jordan,2020-12-21,Kappa,0,0.0,2
+44608,Jordan,2021-01-04,Kappa,0,0.0,9
+44632,Jordan,2021-01-11,Kappa,0,0.0,42
+44656,Jordan,2021-01-25,Kappa,0,0.0,6
+44680,Jordan,2021-02-08,Kappa,0,0.0,25
+44704,Jordan,2021-02-22,Kappa,0,0.0,17
+44728,Jordan,2021-03-08,Kappa,0,0.0,12
+44752,Jordan,2021-03-22,Kappa,0,0.0,29
+44776,Jordan,2021-04-05,Kappa,0,0.0,13
+44800,Jordan,2021-04-19,Kappa,1,5.26,19
+44824,Jordan,2021-05-03,Kappa,4,25.0,16
+44848,Jordan,2021-05-17,Kappa,0,0.0,17
+44872,Jordan,2021-05-31,Kappa,0,0.0,14
+44896,Jordan,2021-06-14,Kappa,0,0.0,27
+44920,Jordan,2021-06-28,Kappa,0,0.0,16
+44944,Jordan,2021-07-12,Kappa,0,0.0,12
+44968,Jordan,2021-07-26,Kappa,0,0.0,5
+44992,Jordan,2021-08-09,Kappa,0,0.0,13
+45016,Jordan,2021-08-23,Kappa,0,0.0,12
+45040,Jordan,2021-09-06,Kappa,0,0.0,22
+45064,Jordan,2021-09-20,Kappa,0,0.0,35
+45088,Jordan,2021-10-04,Kappa,0,0.0,71
+45112,Jordan,2021-10-18,Kappa,0,0.0,64
+45136,Jordan,2021-11-01,Kappa,0,0.0,43
+45160,Jordan,2021-11-15,Kappa,0,0.0,39
+45184,Jordan,2021-11-29,Kappa,0,0.0,38
+45208,Jordan,2021-12-13,Kappa,0,0.0,26
+45232,Jordan,2021-12-27,Kappa,0,0.0,32
+45256,Kazakhstan,2020-05-11,Kappa,0,0.0,2
+45280,Kazakhstan,2020-05-25,Kappa,0,0.0,1
+45304,Kazakhstan,2020-11-23,Kappa,0,0.0,9
+45328,Kazakhstan,2020-12-07,Kappa,0,0.0,2
+45352,Kazakhstan,2020-12-21,Kappa,0,0.0,13
+45376,Kazakhstan,2021-01-04,Kappa,0,0.0,9
+45400,Kazakhstan,2021-01-11,Kappa,0,0.0,7
+45424,Kazakhstan,2021-01-25,Kappa,0,0.0,1
+45448,Kazakhstan,2021-03-08,Kappa,0,0.0,16
+45472,Kazakhstan,2021-03-22,Kappa,0,0.0,39
+45496,Kazakhstan,2021-04-05,Kappa,0,0.0,59
+45520,Kazakhstan,2021-04-19,Kappa,0,0.0,35
+45544,Kazakhstan,2021-05-03,Kappa,0,0.0,47
+45568,Kazakhstan,2021-07-26,Kappa,0,0.0,1
+45592,Kazakhstan,2021-08-23,Kappa,0,0.0,93
+45616,Kazakhstan,2021-09-06,Kappa,0,0.0,3
+45640,Kazakhstan,2021-09-20,Kappa,0,0.0,19
+45664,Kazakhstan,2021-10-04,Kappa,0,0.0,20
+45688,Kazakhstan,2021-10-18,Kappa,0,0.0,53
+45712,Kenya,2020-05-11,Kappa,0,0.0,76
+45736,Kenya,2020-05-25,Kappa,0,0.0,125
+45760,Kenya,2020-06-08,Kappa,0,0.0,38
+45784,Kenya,2020-06-22,Kappa,0,0.0,57
+45808,Kenya,2020-07-06,Kappa,0,0.0,89
+45832,Kenya,2020-07-20,Kappa,0,0.0,67
+45856,Kenya,2020-08-03,Kappa,0,0.0,38
+45880,Kenya,2020-08-17,Kappa,0,0.0,56
+45904,Kenya,2020-08-31,Kappa,0,0.0,54
+45928,Kenya,2020-09-14,Kappa,0,0.0,54
+45952,Kenya,2020-09-28,Kappa,0,0.0,17
+45976,Kenya,2020-10-12,Kappa,0,0.0,68
+46000,Kenya,2020-10-26,Kappa,0,0.0,157
+46024,Kenya,2020-11-09,Kappa,0,0.0,344
+46048,Kenya,2020-11-23,Kappa,0,0.0,256
+46072,Kenya,2020-12-07,Kappa,0,0.0,157
+46096,Kenya,2020-12-21,Kappa,0,0.0,75
+46120,Kenya,2021-01-04,Kappa,0,0.0,29
+46144,Kenya,2021-01-11,Kappa,0,0.0,37
+46168,Kenya,2021-01-25,Kappa,0,0.0,52
+46192,Kenya,2021-02-08,Kappa,0,0.0,70
+46216,Kenya,2021-02-22,Kappa,0,0.0,64
+46240,Kenya,2021-03-08,Kappa,0,0.0,224
+46264,Kenya,2021-03-22,Kappa,0,0.0,261
+46288,Kenya,2021-04-05,Kappa,0,0.0,169
+46312,Kenya,2021-04-19,Kappa,1,0.75,133
+46336,Kenya,2021-05-03,Kappa,5,3.68,136
+46360,Kenya,2021-05-17,Kappa,2,1.71,117
+46384,Kenya,2021-05-31,Kappa,0,0.0,194
+46408,Kenya,2021-06-14,Kappa,0,0.0,132
+46432,Kenya,2021-06-28,Kappa,0,0.0,173
+46456,Kenya,2021-07-12,Kappa,0,0.0,278
+46480,Kenya,2021-07-26,Kappa,0,0.0,222
+46504,Kenya,2021-08-09,Kappa,0,0.0,296
+46528,Kenya,2021-08-23,Kappa,0,0.0,290
+46552,Kenya,2021-09-06,Kappa,0,0.0,230
+46576,Kenya,2021-09-20,Kappa,0,0.0,157
+46600,Kenya,2021-10-04,Kappa,0,0.0,99
+46624,Kenya,2021-10-18,Kappa,0,0.0,64
+46648,Kenya,2021-11-01,Kappa,0,0.0,33
+46672,Kenya,2021-11-15,Kappa,0,0.0,47
+46696,Kenya,2021-11-29,Kappa,0,0.0,18
+46720,Kenya,2021-12-13,Kappa,0,0.0,44
+46744,Kosovo,2020-05-11,Kappa,0,0.0,1
+46768,Kosovo,2020-07-20,Kappa,0,0.0,4
+46792,Kosovo,2020-08-03,Kappa,0,0.0,4
+46816,Kosovo,2020-11-23,Kappa,0,0.0,1
+46840,Kosovo,2020-12-21,Kappa,0,0.0,3
+46864,Kosovo,2021-01-04,Kappa,0,0.0,7
+46888,Kosovo,2021-01-11,Kappa,0,0.0,14
+46912,Kosovo,2021-05-03,Kappa,0,0.0,2
+46936,Kosovo,2021-05-17,Kappa,0,0.0,11
+46960,Kosovo,2021-05-31,Kappa,0,0.0,1
+46984,Kosovo,2021-06-14,Kappa,0,0.0,7
+47008,Kosovo,2021-07-12,Kappa,0,0.0,3
+47032,Kosovo,2021-07-26,Kappa,0,0.0,44
+47056,Kosovo,2021-08-09,Kappa,0,0.0,166
+47080,Kosovo,2021-08-23,Kappa,0,0.0,154
+47104,Kosovo,2021-09-06,Kappa,0,0.0,64
+47128,Kosovo,2021-09-20,Kappa,0,0.0,243
+47152,Kosovo,2021-10-04,Kappa,0,0.0,110
+47176,Kosovo,2021-10-18,Kappa,0,0.0,39
+47200,Kosovo,2021-11-01,Kappa,0,0.0,42
+47224,Kosovo,2021-11-15,Kappa,0,0.0,40
+47248,Kosovo,2021-11-29,Kappa,0,0.0,26
+47272,Kosovo,2021-12-13,Kappa,0,0.0,4
+47296,Kuwait,2021-01-04,Kappa,0,0.0,15
+47320,Kuwait,2021-01-25,Kappa,0,0.0,5
+47344,Kuwait,2021-02-08,Kappa,0,0.0,5
+47368,Kuwait,2021-04-19,Kappa,0,0.0,3
+47392,Kuwait,2021-05-31,Kappa,0,0.0,7
+47416,Kuwait,2021-06-14,Kappa,0,0.0,32
+47440,Kuwait,2021-06-28,Kappa,0,0.0,40
+47464,Kuwait,2021-07-12,Kappa,0,0.0,66
+47488,Kuwait,2021-08-09,Kappa,0,0.0,8
+47512,Kuwait,2021-08-23,Kappa,0,0.0,32
+47536,Kuwait,2021-09-06,Kappa,0,0.0,5
+47560,Kuwait,2021-09-20,Kappa,0,0.0,18
+47584,Kuwait,2021-10-04,Kappa,0,0.0,30
+47608,Kuwait,2021-10-18,Kappa,0,0.0,22
+47632,Kuwait,2021-11-01,Kappa,0,0.0,21
+47656,Kuwait,2021-11-15,Kappa,0,0.0,4
+47680,Kuwait,2021-11-29,Kappa,0,0.0,12
+47704,Kuwait,2021-12-13,Kappa,0,0.0,3
+47728,Latvia,2020-05-11,Kappa,0,0.0,19
+47752,Latvia,2020-06-08,Kappa,0,0.0,3
+47776,Latvia,2020-06-22,Kappa,0,0.0,5
+47800,Latvia,2020-07-06,Kappa,0,0.0,3
+47824,Latvia,2020-07-20,Kappa,0,0.0,29
+47848,Latvia,2020-08-03,Kappa,0,0.0,11
+47872,Latvia,2020-08-17,Kappa,0,0.0,18
+47896,Latvia,2020-08-31,Kappa,0,0.0,21
+47920,Latvia,2020-09-14,Kappa,0,0.0,23
+47944,Latvia,2020-09-28,Kappa,0,0.0,46
+47968,Latvia,2020-10-12,Kappa,0,0.0,297
+47992,Latvia,2020-10-26,Kappa,0,0.0,12
+48016,Latvia,2020-11-09,Kappa,0,0.0,1
+48040,Latvia,2020-11-23,Kappa,0,0.0,1
+48064,Latvia,2020-12-21,Kappa,0,0.0,5
+48088,Latvia,2021-01-04,Kappa,0,0.0,1
+48112,Latvia,2021-01-11,Kappa,0,0.0,3
+48136,Latvia,2021-01-25,Kappa,0,0.0,82
+48160,Latvia,2021-02-08,Kappa,0,0.0,249
+48184,Latvia,2021-02-22,Kappa,0,0.0,427
+48208,Latvia,2021-03-08,Kappa,0,0.0,468
+48232,Latvia,2021-03-22,Kappa,0,0.0,991
+48256,Latvia,2021-04-05,Kappa,0,0.0,458
+48280,Latvia,2021-04-19,Kappa,0,0.0,750
+48304,Latvia,2021-05-03,Kappa,0,0.0,725
+48328,Latvia,2021-05-17,Kappa,0,0.0,509
+48352,Latvia,2021-05-31,Kappa,0,0.0,517
+48376,Latvia,2021-06-14,Kappa,0,0.0,65
+48400,Latvia,2021-06-28,Kappa,0,0.0,71
+48424,Latvia,2021-07-12,Kappa,0,0.0,108
+48448,Latvia,2021-07-26,Kappa,0,0.0,137
+48472,Latvia,2021-08-09,Kappa,0,0.0,149
+48496,Latvia,2021-08-23,Kappa,0,0.0,86
+48520,Lebanon,2020-06-08,Kappa,0,0.0,3
+48544,Lebanon,2020-07-06,Kappa,0,0.0,2
+48568,Lebanon,2020-08-03,Kappa,0,0.0,4
+48592,Lebanon,2020-08-17,Kappa,0,0.0,3
+48616,Lebanon,2020-09-14,Kappa,0,0.0,10
+48640,Lebanon,2020-10-12,Kappa,0,0.0,3
+48664,Lebanon,2020-12-07,Kappa,0,0.0,2
+48688,Lebanon,2020-12-21,Kappa,0,0.0,1
+48712,Lebanon,2021-01-04,Kappa,0,0.0,18
+48736,Lebanon,2021-01-11,Kappa,0,0.0,31
+48760,Lebanon,2021-01-25,Kappa,0,0.0,63
+48784,Lebanon,2021-02-08,Kappa,0,0.0,62
+48808,Lebanon,2021-02-22,Kappa,0,0.0,139
+48832,Lebanon,2021-03-08,Kappa,0,0.0,157
+48856,Lebanon,2021-03-22,Kappa,0,0.0,130
+48880,Lebanon,2021-04-05,Kappa,0,0.0,117
+48904,Lebanon,2021-04-19,Kappa,0,0.0,77
+48928,Lebanon,2021-05-03,Kappa,0,0.0,91
+48952,Lebanon,2021-05-17,Kappa,0,0.0,11
+48976,Lebanon,2021-06-28,Kappa,0,0.0,4
+49000,Lebanon,2021-07-12,Kappa,0,0.0,52
+49024,Lebanon,2021-07-26,Kappa,0,0.0,25
+49048,Lebanon,2021-12-13,Kappa,0,0.0,4
+49072,Liechtenstein,2020-10-26,Kappa,0,0.0,3
+49096,Liechtenstein,2020-11-23,Kappa,0,0.0,1
+49120,Liechtenstein,2020-12-07,Kappa,0,0.0,2
+49144,Liechtenstein,2020-12-21,Kappa,0,0.0,12
+49168,Liechtenstein,2021-01-04,Kappa,0,0.0,15
+49192,Liechtenstein,2021-01-25,Kappa,0,0.0,3
+49216,Liechtenstein,2021-02-08,Kappa,0,0.0,9
+49240,Liechtenstein,2021-02-22,Kappa,0,0.0,1
+49264,Liechtenstein,2021-03-08,Kappa,0,0.0,3
+49288,Liechtenstein,2021-04-05,Kappa,0,0.0,1
+49312,Liechtenstein,2021-04-19,Kappa,0,0.0,16
+49336,Liechtenstein,2021-05-03,Kappa,0,0.0,12
+49360,Liechtenstein,2021-05-17,Kappa,0,0.0,7
+49384,Liechtenstein,2021-05-31,Kappa,0,0.0,2
+49408,Liechtenstein,2021-06-14,Kappa,0,0.0,2
+49432,Liechtenstein,2021-06-28,Kappa,0,0.0,2
+49456,Liechtenstein,2021-07-12,Kappa,0,0.0,2
+49480,Liechtenstein,2021-07-26,Kappa,0,0.0,4
+49504,Liechtenstein,2021-08-09,Kappa,0,0.0,2
+49528,Liechtenstein,2021-08-23,Kappa,0,0.0,11
+49552,Liechtenstein,2021-09-06,Kappa,0,0.0,7
+49576,Liechtenstein,2021-09-20,Kappa,0,0.0,5
+49600,Liechtenstein,2021-10-04,Kappa,0,0.0,4
+49624,Liechtenstein,2021-10-18,Kappa,0,0.0,4
+49648,Liechtenstein,2021-11-01,Kappa,0,0.0,11
+49672,Liechtenstein,2021-11-15,Kappa,0,0.0,63
+49696,Liechtenstein,2021-11-29,Kappa,0,0.0,131
+49720,Liechtenstein,2021-12-13,Kappa,0,0.0,126
+49744,Lithuania,2020-05-25,Kappa,0,0.0,13
+49768,Lithuania,2020-06-08,Kappa,0,0.0,2
+49792,Lithuania,2020-08-03,Kappa,0,0.0,9
+49816,Lithuania,2020-08-17,Kappa,0,0.0,16
+49840,Lithuania,2020-08-31,Kappa,0,0.0,14
+49864,Lithuania,2020-09-14,Kappa,0,0.0,30
+49888,Lithuania,2020-09-28,Kappa,0,0.0,4
+49912,Lithuania,2020-10-12,Kappa,0,0.0,4
+49936,Lithuania,2020-10-26,Kappa,0,0.0,2
+49960,Lithuania,2020-11-09,Kappa,0,0.0,3
+49984,Lithuania,2020-11-23,Kappa,0,0.0,17
+50008,Lithuania,2020-12-07,Kappa,0,0.0,199
+50032,Lithuania,2020-12-21,Kappa,0,0.0,206
+50056,Lithuania,2021-01-04,Kappa,0,0.0,112
+50080,Lithuania,2021-01-11,Kappa,0,0.0,122
+50104,Lithuania,2021-01-25,Kappa,0,0.0,191
+50128,Lithuania,2021-02-08,Kappa,0,0.0,181
+50152,Lithuania,2021-02-22,Kappa,0,0.0,881
+50176,Lithuania,2021-03-08,Kappa,0,0.0,1198
+50200,Lithuania,2021-03-22,Kappa,0,0.0,1395
+50224,Lithuania,2021-04-05,Kappa,0,0.0,1624
+50248,Lithuania,2021-04-19,Kappa,0,0.0,1710
+50272,Lithuania,2021-05-03,Kappa,0,0.0,1619
+50296,Lithuania,2021-05-17,Kappa,0,0.0,1422
+50320,Lithuania,2021-05-31,Kappa,0,0.0,1484
+50344,Lithuania,2021-06-14,Kappa,0,0.0,664
+50368,Lithuania,2021-06-28,Kappa,0,0.0,211
+50392,Lithuania,2021-07-12,Kappa,0,0.0,236
+50416,Lithuania,2021-07-26,Kappa,0,0.0,993
+50440,Lithuania,2021-08-09,Kappa,0,0.0,1516
+50464,Lithuania,2021-08-23,Kappa,0,0.0,1415
+50488,Lithuania,2021-09-06,Kappa,0,0.0,1200
+50512,Lithuania,2021-09-20,Kappa,0,0.0,871
+50536,Lithuania,2021-10-04,Kappa,0,0.0,731
+50560,Lithuania,2021-10-18,Kappa,0,0.0,944
+50584,Lithuania,2021-11-01,Kappa,0,0.0,1008
+50608,Lithuania,2021-11-15,Kappa,0,0.0,1167
+50632,Lithuania,2021-11-29,Kappa,0,0.0,858
+50656,Lithuania,2021-12-13,Kappa,0,0.0,899
+50680,Lithuania,2021-12-27,Kappa,0,0.0,212
+50704,Luxembourg,2020-05-11,Kappa,0,0.0,6
+50728,Luxembourg,2020-05-25,Kappa,0,0.0,12
+50752,Luxembourg,2020-06-22,Kappa,0,0.0,4
+50776,Luxembourg,2020-07-06,Kappa,0,0.0,20
+50800,Luxembourg,2020-07-20,Kappa,0,0.0,24
+50824,Luxembourg,2020-08-03,Kappa,0,0.0,20
+50848,Luxembourg,2020-08-17,Kappa,0,0.0,17
+50872,Luxembourg,2020-08-31,Kappa,0,0.0,4
+50896,Luxembourg,2020-09-14,Kappa,0,0.0,7
+50920,Luxembourg,2020-09-28,Kappa,0,0.0,18
+50944,Luxembourg,2020-10-12,Kappa,0,0.0,34
+50968,Luxembourg,2020-10-26,Kappa,0,0.0,394
+50992,Luxembourg,2020-11-09,Kappa,0,0.0,535
+51016,Luxembourg,2020-11-23,Kappa,0,0.0,444
+51040,Luxembourg,2020-12-07,Kappa,0,0.0,769
+51064,Luxembourg,2020-12-21,Kappa,0,0.0,676
+51088,Luxembourg,2021-01-04,Kappa,0,0.0,267
+51112,Luxembourg,2021-01-11,Kappa,0,0.0,114
+51136,Luxembourg,2021-01-25,Kappa,0,0.0,256
+51160,Luxembourg,2021-02-08,Kappa,0,0.0,593
+51184,Luxembourg,2021-02-22,Kappa,0,0.0,354
+51208,Luxembourg,2021-03-08,Kappa,0,0.0,754
+51232,Luxembourg,2021-03-22,Kappa,0,0.0,683
+51256,Luxembourg,2021-04-05,Kappa,0,0.0,948
+51280,Luxembourg,2021-04-19,Kappa,4,0.38,1043
+51304,Luxembourg,2021-05-03,Kappa,5,0.47,1073
+51328,Luxembourg,2021-05-17,Kappa,0,0.0,744
+51352,Luxembourg,2021-05-31,Kappa,0,0.0,392
+51376,Luxembourg,2021-06-14,Kappa,1,0.42,240
+51400,Luxembourg,2021-06-28,Kappa,0,0.0,130
+51424,Luxembourg,2021-07-12,Kappa,0,0.0,944
+51448,Luxembourg,2021-07-26,Kappa,0,0.0,699
+51472,Luxembourg,2021-08-09,Kappa,0,0.0,459
+51496,Luxembourg,2021-08-23,Kappa,0,0.0,413
+51520,Luxembourg,2021-09-06,Kappa,0,0.0,549
+51544,Luxembourg,2021-09-20,Kappa,0,0.0,600
+51568,Luxembourg,2021-10-04,Kappa,0,0.0,705
+51592,Luxembourg,2021-10-18,Kappa,0,0.0,764
+51616,Luxembourg,2021-11-01,Kappa,0,0.0,798
+51640,Luxembourg,2021-11-15,Kappa,0,0.0,766
+51664,Luxembourg,2021-11-29,Kappa,0,0.0,1044
+51688,Luxembourg,2021-12-13,Kappa,0,0.0,653
+51712,Madagascar,2020-05-11,Kappa,0,0.0,13
+51736,Madagascar,2020-05-25,Kappa,0,0.0,14
+51760,Madagascar,2020-06-08,Kappa,0,0.0,35
+51784,Madagascar,2020-06-22,Kappa,0,0.0,23
+51808,Madagascar,2020-07-06,Kappa,0,0.0,31
+51832,Madagascar,2020-07-20,Kappa,0,0.0,36
+51856,Madagascar,2020-08-03,Kappa,0,0.0,29
+51880,Madagascar,2020-08-17,Kappa,0,0.0,15
+51904,Madagascar,2020-08-31,Kappa,0,0.0,26
+51928,Madagascar,2020-09-14,Kappa,0,0.0,25
+51952,Madagascar,2020-09-28,Kappa,0,0.0,9
+51976,Madagascar,2020-10-12,Kappa,0,0.0,13
+52000,Madagascar,2020-10-26,Kappa,0,0.0,10
+52024,Madagascar,2020-11-09,Kappa,0,0.0,10
+52048,Madagascar,2020-11-23,Kappa,0,0.0,19
+52072,Madagascar,2020-12-07,Kappa,0,0.0,10
+52096,Madagascar,2020-12-21,Kappa,0,0.0,21
+52120,Madagascar,2021-01-04,Kappa,0,0.0,13
+52144,Madagascar,2021-01-11,Kappa,0,0.0,17
+52168,Madagascar,2021-01-25,Kappa,0,0.0,38
+52192,Madagascar,2021-02-08,Kappa,0,0.0,33
+52216,Madagascar,2021-02-22,Kappa,0,0.0,19
+52240,Madagascar,2021-03-08,Kappa,0,0.0,28
+52264,Madagascar,2021-03-22,Kappa,0,0.0,39
+52288,Madagascar,2021-04-05,Kappa,0,0.0,52
+52312,Madagascar,2021-04-19,Kappa,0,0.0,113
+52336,Madagascar,2021-05-03,Kappa,0,0.0,16
+52360,Madagascar,2021-05-17,Kappa,0,0.0,15
+52384,Madagascar,2021-05-31,Kappa,0,0.0,10
+52408,Madagascar,2021-07-12,Kappa,0,0.0,17
+52432,Madagascar,2021-07-26,Kappa,0,0.0,23
+52456,Malawi,2020-08-17,Kappa,0,0.0,1
+52480,Malawi,2020-09-28,Kappa,0,0.0,1
+52504,Malawi,2020-12-07,Kappa,0,0.0,2
+52528,Malawi,2020-12-21,Kappa,0,0.0,1
+52552,Malawi,2021-01-04,Kappa,0,0.0,18
+52576,Malawi,2021-01-11,Kappa,0,0.0,12
+52600,Malawi,2021-01-25,Kappa,0,0.0,154
+52624,Malawi,2021-02-08,Kappa,0,0.0,69
+52648,Malawi,2021-02-22,Kappa,0,0.0,21
+52672,Malawi,2021-03-08,Kappa,0,0.0,45
+52696,Malawi,2021-03-22,Kappa,0,0.0,23
+52720,Malawi,2021-04-05,Kappa,0,0.0,6
+52744,Malawi,2021-04-19,Kappa,0,0.0,40
+52768,Malawi,2021-05-03,Kappa,0,0.0,33
+52792,Malawi,2021-05-17,Kappa,0,0.0,4
+52816,Malawi,2021-05-31,Kappa,0,0.0,24
+52840,Malawi,2021-06-14,Kappa,0,0.0,50
+52864,Malawi,2021-06-28,Kappa,0,0.0,72
+52888,Malawi,2021-07-12,Kappa,0,0.0,76
+52912,Malawi,2021-07-26,Kappa,0,0.0,33
+52936,Malawi,2021-08-09,Kappa,0,0.0,38
+52960,Malawi,2021-08-23,Kappa,0,0.0,15
+52984,Malawi,2021-09-06,Kappa,0,0.0,12
+53008,Malawi,2021-09-20,Kappa,0,0.0,24
+53032,Malawi,2021-10-04,Kappa,0,0.0,2
+53056,Malawi,2021-11-01,Kappa,0,0.0,1
+53080,Malawi,2021-12-13,Kappa,0,0.0,13
+53104,Malawi,2021-12-27,Kappa,0,0.0,21
+53128,Malaysia,2020-05-11,Kappa,0,0.0,7
+53152,Malaysia,2020-05-25,Kappa,0,0.0,14
+53176,Malaysia,2020-06-08,Kappa,0,0.0,8
+53200,Malaysia,2020-06-22,Kappa,0,0.0,3
+53224,Malaysia,2020-07-20,Kappa,0,0.0,2
+53248,Malaysia,2020-08-03,Kappa,0,0.0,6
+53272,Malaysia,2020-08-17,Kappa,0,0.0,9
+53296,Malaysia,2020-08-31,Kappa,0,0.0,1
+53320,Malaysia,2020-09-14,Kappa,0,0.0,23
+53344,Malaysia,2020-10-12,Kappa,0,0.0,26
+53368,Malaysia,2020-10-26,Kappa,0,0.0,41
+53392,Malaysia,2020-11-09,Kappa,0,0.0,76
+53416,Malaysia,2020-11-23,Kappa,0,0.0,62
+53440,Malaysia,2020-12-07,Kappa,0,0.0,42
+53464,Malaysia,2020-12-21,Kappa,0,0.0,65
+53488,Malaysia,2021-01-04,Kappa,0,0.0,37
+53512,Malaysia,2021-01-11,Kappa,0,0.0,56
+53536,Malaysia,2021-01-25,Kappa,0,0.0,170
+53560,Malaysia,2021-02-08,Kappa,0,0.0,104
+53584,Malaysia,2021-02-22,Kappa,0,0.0,106
+53608,Malaysia,2021-03-08,Kappa,0,0.0,57
+53632,Malaysia,2021-03-22,Kappa,0,0.0,64
+53656,Malaysia,2021-04-05,Kappa,0,0.0,110
+53680,Malaysia,2021-04-19,Kappa,1,0.48,208
+53704,Malaysia,2021-05-03,Kappa,0,0.0,125
+53728,Malaysia,2021-05-17,Kappa,0,0.0,125
+53752,Malaysia,2021-05-31,Kappa,0,0.0,73
+53776,Malaysia,2021-06-14,Kappa,3,4.17,72
+53800,Malaysia,2021-06-28,Kappa,0,0.0,104
+53824,Malaysia,2021-07-12,Kappa,0,0.0,134
+53848,Malaysia,2021-07-26,Kappa,0,0.0,212
+53872,Malaysia,2021-08-09,Kappa,0,0.0,452
+53896,Malaysia,2021-08-23,Kappa,0,0.0,627
+53920,Malaysia,2021-09-06,Kappa,0,0.0,686
+53944,Malaysia,2021-09-20,Kappa,0,0.0,819
+53968,Malaysia,2021-10-04,Kappa,0,0.0,683
+53992,Malaysia,2021-10-18,Kappa,0,0.0,458
+54016,Malaysia,2021-11-01,Kappa,0,0.0,417
+54040,Malaysia,2021-11-15,Kappa,0,0.0,397
+54064,Malaysia,2021-11-29,Kappa,0,0.0,301
+54088,Malaysia,2021-12-13,Kappa,0,0.0,218
+54112,Malaysia,2021-12-27,Kappa,0,0.0,42
+54136,Maldives,2020-05-11,Kappa,0,0.0,1
+54160,Maldives,2020-05-25,Kappa,0,0.0,1
+54184,Maldives,2020-06-08,Kappa,0,0.0,1
+54208,Maldives,2020-06-22,Kappa,0,0.0,1
+54232,Maldives,2020-07-20,Kappa,0,0.0,2
+54256,Maldives,2020-08-03,Kappa,0,0.0,1
+54280,Maldives,2020-08-17,Kappa,0,0.0,3
+54304,Maldives,2020-09-28,Kappa,0,0.0,1
+54328,Maldives,2020-11-09,Kappa,0,0.0,1
+54352,Maldives,2020-11-23,Kappa,0,0.0,1
+54376,Maldives,2021-01-04,Kappa,0,0.0,4
+54400,Maldives,2021-01-11,Kappa,0,0.0,2
+54424,Maldives,2021-01-25,Kappa,0,0.0,1
+54448,Maldives,2021-02-08,Kappa,0,0.0,5
+54472,Maldives,2021-02-22,Kappa,0,0.0,1
+54496,Maldives,2021-03-08,Kappa,0,0.0,5
+54520,Maldives,2021-03-22,Kappa,0,0.0,2
+54544,Maldives,2021-04-05,Kappa,0,0.0,3
+54568,Maldives,2021-05-03,Kappa,0,0.0,5
+54592,Maldives,2021-05-17,Kappa,0,0.0,4
+54616,Maldives,2021-05-31,Kappa,0,0.0,5
+54640,Maldives,2021-06-14,Kappa,0,0.0,1
+54664,Maldives,2021-06-28,Kappa,0,0.0,7
+54688,Maldives,2021-07-12,Kappa,0,0.0,3
+54712,Maldives,2021-07-26,Kappa,0,0.0,17
+54736,Maldives,2021-08-09,Kappa,0,0.0,24
+54760,Maldives,2021-08-23,Kappa,0,0.0,51
+54784,Maldives,2021-09-06,Kappa,0,0.0,106
+54808,Maldives,2021-09-20,Kappa,0,0.0,61
+54832,Maldives,2021-10-04,Kappa,0,0.0,113
+54856,Maldives,2021-10-18,Kappa,0,0.0,97
+54880,Maldives,2021-11-01,Kappa,0,0.0,52
+54904,Maldives,2021-11-15,Kappa,0,0.0,85
+54928,Maldives,2021-11-29,Kappa,0,0.0,59
+54952,Maldives,2021-12-13,Kappa,0,0.0,107
+54976,Maldives,2021-12-27,Kappa,0,0.0,32
+55000,Malta,2020-08-17,Kappa,0,0.0,1
+55024,Malta,2020-08-31,Kappa,0,0.0,2
+55048,Malta,2020-09-14,Kappa,0,0.0,7
+55072,Malta,2021-04-05,Kappa,0,0.0,38
+55096,Malta,2021-04-19,Kappa,0,0.0,32
+55120,Malta,2021-05-03,Kappa,0,0.0,44
+55144,Malta,2021-05-17,Kappa,0,0.0,32
+55168,Malta,2021-05-31,Kappa,0,0.0,15
+55192,Malta,2021-06-14,Kappa,0,0.0,11
+55216,Malta,2021-06-28,Kappa,0,0.0,9
+55240,Malta,2021-07-12,Kappa,0,0.0,60
+55264,Malta,2021-07-26,Kappa,0,0.0,48
+55288,Malta,2021-08-09,Kappa,0,0.0,19
+55312,Malta,2021-10-18,Kappa,0,0.0,52
+55336,Malta,2021-11-01,Kappa,0,0.0,24
+55360,Malta,2021-11-15,Kappa,0,0.0,22
+55384,Malta,2021-11-29,Kappa,0,0.0,132
+55408,Malta,2021-12-13,Kappa,0,0.0,21
+55432,Malta,2021-12-27,Kappa,0,0.0,34
+55456,Mauritius,2020-10-26,Kappa,0,0.0,2
+55480,Mauritius,2020-11-09,Kappa,0,0.0,1
+55504,Mauritius,2020-11-23,Kappa,0,0.0,3
+55528,Mauritius,2020-12-07,Kappa,0,0.0,4
+55552,Mauritius,2020-12-21,Kappa,0,0.0,2
+55576,Mauritius,2021-01-04,Kappa,0,0.0,2
+55600,Mauritius,2021-01-11,Kappa,0,0.0,8
+55624,Mauritius,2021-01-25,Kappa,0,0.0,6
+55648,Mauritius,2021-02-08,Kappa,0,0.0,5
+55672,Mauritius,2021-02-22,Kappa,0,0.0,3
+55696,Mauritius,2021-03-08,Kappa,0,0.0,8
+55720,Mauritius,2021-03-22,Kappa,0,0.0,89
+55744,Mauritius,2021-04-05,Kappa,0,0.0,10
+55768,Mauritius,2021-04-19,Kappa,0,0.0,3
+55792,Mauritius,2021-05-03,Kappa,0,0.0,8
+55816,Mauritius,2021-05-17,Kappa,0,0.0,40
+55840,Mauritius,2021-05-31,Kappa,0,0.0,8
+55864,Mauritius,2021-06-14,Kappa,0,0.0,13
+55888,Mauritius,2021-06-28,Kappa,0,0.0,18
+55912,Mauritius,2021-07-12,Kappa,0,0.0,23
+55936,Mauritius,2021-07-26,Kappa,0,0.0,21
+55960,Mauritius,2021-08-09,Kappa,0,0.0,10
+55984,Mauritius,2021-08-23,Kappa,0,0.0,7
+56008,Mauritius,2021-09-06,Kappa,0,0.0,18
+56032,Mauritius,2021-09-20,Kappa,0,0.0,11
+56056,Mauritius,2021-10-04,Kappa,0,0.0,13
+56080,Mauritius,2021-10-18,Kappa,0,0.0,17
+56104,Mauritius,2021-11-01,Kappa,0,0.0,31
+56128,Mauritius,2021-11-15,Kappa,0,0.0,2
+56152,Mauritius,2021-11-29,Kappa,0,0.0,82
+56176,Mexico,2020-05-11,Kappa,0,0.0,208
+56200,Mexico,2020-05-25,Kappa,0,0.0,264
+56224,Mexico,2020-06-08,Kappa,0,0.0,290
+56248,Mexico,2020-06-22,Kappa,0,0.0,166
+56272,Mexico,2020-07-06,Kappa,0,0.0,219
+56296,Mexico,2020-07-20,Kappa,0,0.0,135
+56320,Mexico,2020-08-03,Kappa,0,0.0,155
+56344,Mexico,2020-08-17,Kappa,0,0.0,144
+56368,Mexico,2020-08-31,Kappa,0,0.0,178
+56392,Mexico,2020-09-14,Kappa,0,0.0,123
+56416,Mexico,2020-09-28,Kappa,0,0.0,62
+56440,Mexico,2020-10-12,Kappa,0,0.0,81
+56464,Mexico,2020-10-26,Kappa,0,0.0,90
+56488,Mexico,2020-11-09,Kappa,0,0.0,89
+56512,Mexico,2020-11-23,Kappa,0,0.0,170
+56536,Mexico,2020-12-07,Kappa,0,0.0,233
+56560,Mexico,2020-12-21,Kappa,0,0.0,310
+56584,Mexico,2021-01-04,Kappa,0,0.0,277
+56608,Mexico,2021-01-11,Kappa,0,0.0,128
+56632,Mexico,2021-01-25,Kappa,0,0.0,365
+56656,Mexico,2021-02-08,Kappa,0,0.0,362
+56680,Mexico,2021-02-22,Kappa,0,0.0,1128
+56704,Mexico,2021-03-08,Kappa,0,0.0,1327
+56728,Mexico,2021-03-22,Kappa,3,0.27,1130
+56752,Mexico,2021-04-05,Kappa,0,0.0,1011
+56776,Mexico,2021-04-19,Kappa,1,0.08,1263
+56800,Mexico,2021-05-03,Kappa,1,0.07,1390
+56824,Mexico,2021-05-17,Kappa,0,0.0,1589
+56848,Mexico,2021-05-31,Kappa,1,0.06,1724
+56872,Mexico,2021-06-14,Kappa,1,0.05,2222
+56896,Mexico,2021-06-28,Kappa,0,0.0,1889
+56920,Mexico,2021-07-12,Kappa,0,0.0,2121
+56944,Mexico,2021-07-26,Kappa,0,0.0,2443
+56968,Mexico,2021-08-09,Kappa,0,0.0,3024
+56992,Mexico,2021-08-23,Kappa,0,0.0,2528
+57016,Mexico,2021-09-06,Kappa,0,0.0,2069
+57040,Mexico,2021-09-20,Kappa,0,0.0,2057
+57064,Mexico,2021-10-04,Kappa,0,0.0,2511
+57088,Mexico,2021-10-18,Kappa,0,0.0,1868
+57112,Mexico,2021-11-01,Kappa,0,0.0,1724
+57136,Mexico,2021-11-15,Kappa,0,0.0,1384
+57160,Mexico,2021-11-29,Kappa,0,0.0,938
+57184,Mexico,2021-12-13,Kappa,0,0.0,998
+57208,Mexico,2021-12-27,Kappa,0,0.0,435
+57232,Mexico,2022-01-05,Kappa,0,0.0,11
+57256,Moldova,2020-06-22,Kappa,0,0.0,4
+57280,Moldova,2020-09-14,Kappa,0,0.0,8
+57304,Moldova,2021-02-08,Kappa,0,0.0,3
+57328,Moldova,2021-02-22,Kappa,0,0.0,1
+57352,Moldova,2021-03-08,Kappa,0,0.0,7
+57376,Moldova,2021-03-22,Kappa,0,0.0,2
+57400,Moldova,2021-04-05,Kappa,0,0.0,5
+57424,Moldova,2021-04-19,Kappa,0,0.0,2
+57448,Moldova,2021-05-03,Kappa,0,0.0,4
+57472,Moldova,2021-05-17,Kappa,0,0.0,12
+57496,Moldova,2021-05-31,Kappa,0,0.0,1
+57520,Moldova,2021-06-28,Kappa,0,0.0,6
+57544,Moldova,2021-07-12,Kappa,0,0.0,7
+57568,Moldova,2021-08-23,Kappa,0,0.0,4
+57592,Moldova,2021-09-06,Kappa,0,0.0,9
+57616,Moldova,2021-09-20,Kappa,0,0.0,26
+57640,Moldova,2021-11-01,Kappa,0,0.0,2
+57664,Moldova,2021-11-15,Kappa,0,0.0,10
+57688,Moldova,2021-11-29,Kappa,0,0.0,9
+57712,Moldova,2021-12-13,Kappa,0,0.0,15
+57736,Moldova,2021-12-27,Kappa,0,0.0,15
+57760,Monaco,2021-01-25,Kappa,0,0.0,1
+57784,Monaco,2021-02-08,Kappa,0,0.0,1
+57808,Monaco,2021-03-08,Kappa,0,0.0,4
+57832,Monaco,2021-04-19,Kappa,0,0.0,2
+57856,Monaco,2021-05-31,Kappa,0,0.0,1
+57880,Monaco,2021-06-14,Kappa,0,0.0,11
+57904,Monaco,2021-06-28,Kappa,0,0.0,20
+57928,Monaco,2021-07-12,Kappa,0,0.0,1
+57952,Monaco,2021-07-26,Kappa,0,0.0,14
+57976,Monaco,2021-08-09,Kappa,0,0.0,14
+58000,Monaco,2021-09-06,Kappa,0,0.0,6
+58024,Monaco,2021-09-20,Kappa,0,0.0,2
+58048,Monaco,2021-11-01,Kappa,0,0.0,3
+58072,Monaco,2021-11-15,Kappa,0,0.0,3
+58096,Monaco,2021-12-27,Kappa,0,0.0,1
+58120,Mongolia,2020-08-17,Kappa,0,0.0,1
+58144,Mongolia,2020-10-12,Kappa,0,0.0,1
+58168,Mongolia,2020-11-09,Kappa,0,0.0,2
+58192,Mongolia,2020-11-23,Kappa,0,0.0,1
+58216,Mongolia,2020-12-07,Kappa,0,0.0,1
+58240,Mongolia,2020-12-21,Kappa,0,0.0,1
+58264,Mongolia,2021-01-04,Kappa,0,0.0,2
+58288,Mongolia,2021-01-11,Kappa,0,0.0,2
+58312,Mongolia,2021-01-25,Kappa,0,0.0,2
+58336,Mongolia,2021-02-08,Kappa,0,0.0,1
+58360,Mongolia,2021-02-22,Kappa,0,0.0,3
+58384,Mongolia,2021-03-08,Kappa,0,0.0,2
+58408,Mongolia,2021-03-22,Kappa,0,0.0,7
+58432,Mongolia,2021-04-19,Kappa,0,0.0,2
+58456,Mongolia,2021-05-17,Kappa,0,0.0,3
+58480,Mongolia,2021-06-28,Kappa,0,0.0,16
+58504,Mongolia,2021-07-12,Kappa,0,0.0,34
+58528,Mongolia,2021-07-26,Kappa,0,0.0,17
+58552,Mongolia,2021-08-09,Kappa,0,0.0,52
+58576,Montenegro,2020-07-20,Kappa,0,0.0,9
+58600,Montenegro,2021-01-25,Kappa,0,0.0,19
+58624,Montenegro,2021-06-14,Kappa,0,0.0,17
+58648,Montenegro,2021-06-28,Kappa,0,0.0,18
+58672,Montenegro,2021-07-12,Kappa,0,0.0,20
+58696,Montenegro,2021-07-26,Kappa,0,0.0,30
+58720,Montenegro,2021-08-09,Kappa,0,0.0,72
+58744,Montenegro,2021-08-23,Kappa,0,0.0,41
+58768,Montenegro,2021-09-06,Kappa,0,0.0,34
+58792,Montenegro,2021-09-20,Kappa,0,0.0,5
+58816,Montenegro,2021-10-04,Kappa,0,0.0,1
+58840,Montenegro,2021-10-18,Kappa,0,0.0,15
+58864,Montenegro,2021-11-01,Kappa,0,0.0,34
+58888,Montenegro,2021-11-15,Kappa,0,0.0,38
+58912,Montenegro,2021-11-29,Kappa,0,0.0,25
+58936,Montenegro,2021-12-13,Kappa,0,0.0,69
+58960,Morocco,2020-05-11,Kappa,0,0.0,25
+58984,Morocco,2020-05-25,Kappa,0,0.0,3
+59008,Morocco,2020-06-08,Kappa,0,0.0,1
+59032,Morocco,2020-06-22,Kappa,0,0.0,1
+59056,Morocco,2020-07-06,Kappa,0,0.0,2
+59080,Morocco,2020-07-20,Kappa,0,0.0,19
+59104,Morocco,2020-08-17,Kappa,0,0.0,2
+59128,Morocco,2020-09-28,Kappa,0,0.0,2
+59152,Morocco,2020-11-09,Kappa,0,0.0,1
+59176,Morocco,2020-12-21,Kappa,0,0.0,26
+59200,Morocco,2021-01-04,Kappa,0,0.0,15
+59224,Morocco,2021-01-11,Kappa,0,0.0,22
+59248,Morocco,2021-01-25,Kappa,0,0.0,1
+59272,Morocco,2021-02-08,Kappa,0,0.0,4
+59296,Morocco,2021-03-08,Kappa,0,0.0,17
+59320,Morocco,2021-03-22,Kappa,0,0.0,24
+59344,Morocco,2021-04-05,Kappa,0,0.0,18
+59368,Morocco,2021-04-19,Kappa,0,0.0,20
+59392,Morocco,2021-05-03,Kappa,1,20.0,5
+59416,Morocco,2021-05-31,Kappa,0,0.0,1
+59440,Morocco,2021-06-14,Kappa,0,0.0,1
+59464,Morocco,2021-06-28,Kappa,0,0.0,7
+59488,Morocco,2021-07-12,Kappa,0,0.0,9
+59512,Morocco,2021-07-26,Kappa,0,0.0,31
+59536,Morocco,2021-09-06,Kappa,0,0.0,45
+59560,Morocco,2021-09-20,Kappa,0,0.0,15
+59584,Morocco,2021-10-04,Kappa,0,0.0,2
+59608,Morocco,2021-10-18,Kappa,0,0.0,26
+59632,Morocco,2021-11-01,Kappa,0,0.0,20
+59656,Morocco,2021-11-15,Kappa,0,0.0,8
+59680,Morocco,2021-11-29,Kappa,0,0.0,9
+59704,Morocco,2021-12-13,Kappa,0,0.0,2
+59728,Morocco,2021-12-27,Kappa,0,0.0,16
+59752,Mozambique,2020-07-20,Kappa,0,0.0,7
+59776,Mozambique,2020-08-17,Kappa,0,0.0,1
+59800,Mozambique,2020-08-31,Kappa,0,0.0,10
+59824,Mozambique,2020-09-14,Kappa,0,0.0,5
+59848,Mozambique,2020-09-28,Kappa,0,0.0,5
+59872,Mozambique,2020-10-12,Kappa,0,0.0,13
+59896,Mozambique,2020-10-26,Kappa,0,0.0,2
+59920,Mozambique,2020-11-09,Kappa,0,0.0,32
+59944,Mozambique,2020-11-23,Kappa,0,0.0,11
+59968,Mozambique,2020-12-07,Kappa,0,0.0,29
+59992,Mozambique,2020-12-21,Kappa,0,0.0,11
+60016,Mozambique,2021-01-04,Kappa,0,0.0,30
+60040,Mozambique,2021-01-11,Kappa,0,0.0,31
+60064,Mozambique,2021-01-25,Kappa,0,0.0,104
+60088,Mozambique,2021-02-08,Kappa,0,0.0,42
+60112,Mozambique,2021-02-22,Kappa,0,0.0,47
+60136,Mozambique,2021-03-08,Kappa,0,0.0,22
+60160,Mozambique,2021-03-22,Kappa,0,0.0,83
+60184,Mozambique,2021-04-05,Kappa,0,0.0,11
+60208,Mozambique,2021-04-19,Kappa,0,0.0,9
+60232,Mozambique,2021-05-03,Kappa,0,0.0,20
+60256,Mozambique,2021-05-17,Kappa,0,0.0,9
+60280,Mozambique,2021-05-31,Kappa,0,0.0,12
+60304,Mozambique,2021-06-14,Kappa,0,0.0,8
+60328,Mozambique,2021-06-28,Kappa,0,0.0,114
+60352,Mozambique,2021-07-12,Kappa,0,0.0,109
+60376,Mozambique,2021-07-26,Kappa,0,0.0,64
+60400,Mozambique,2021-08-09,Kappa,0,0.0,24
+60424,Mozambique,2021-08-23,Kappa,0,0.0,1
+60448,Mozambique,2021-09-06,Kappa,0,0.0,15
+60472,Mozambique,2021-09-20,Kappa,0,0.0,14
+60496,Mozambique,2021-10-04,Kappa,0,0.0,9
+60520,Mozambique,2021-10-18,Kappa,0,0.0,2
+60544,Mozambique,2021-11-01,Kappa,0,0.0,2
+60568,Mozambique,2021-11-15,Kappa,0,0.0,1
+60592,Mozambique,2021-11-29,Kappa,0,0.0,4
+60616,Mozambique,2021-12-13,Kappa,0,0.0,14
+60640,Nepal,2020-08-03,Kappa,0,0.0,2
+60664,Nepal,2020-08-17,Kappa,0,0.0,12
+60688,Nepal,2020-08-31,Kappa,0,0.0,1
+60712,Nepal,2020-10-12,Kappa,0,0.0,1
+60736,Nepal,2020-11-23,Kappa,0,0.0,1
+60760,Nepal,2020-12-07,Kappa,0,0.0,1
+60784,Nepal,2021-04-19,Kappa,0,0.0,4
+60808,Nepal,2021-05-03,Kappa,1,5.88,17
+60832,Nepal,2021-05-17,Kappa,1,3.33,30
+60856,Nepal,2021-05-31,Kappa,0,0.0,18
+60880,Nepal,2021-06-14,Kappa,0,0.0,39
+60904,Nepal,2021-06-28,Kappa,0,0.0,14
+60928,Nepal,2021-07-12,Kappa,0,0.0,25
+60952,Nepal,2021-07-26,Kappa,0,0.0,15
+60976,Nepal,2021-08-09,Kappa,0,0.0,22
+61000,Nepal,2021-08-23,Kappa,0,0.0,43
+61024,Nepal,2021-09-06,Kappa,0,0.0,11
+61048,Nepal,2021-09-20,Kappa,0,0.0,25
+61072,Nepal,2021-10-04,Kappa,0,0.0,22
+61096,Nepal,2021-11-01,Kappa,0,0.0,5
+61120,Nepal,2021-11-15,Kappa,0,0.0,6
+61144,Nepal,2021-11-29,Kappa,0,0.0,25
+61168,Nepal,2021-12-13,Kappa,0,0.0,25
+61192,Nepal,2021-12-27,Kappa,0,0.0,4
+61216,Netherlands,2020-05-11,Kappa,0,0.0,214
+61240,Netherlands,2020-05-25,Kappa,0,0.0,226
+61264,Netherlands,2020-06-08,Kappa,0,0.0,144
+61288,Netherlands,2020-06-22,Kappa,0,0.0,98
+61312,Netherlands,2020-07-06,Kappa,0,0.0,91
+61336,Netherlands,2020-07-20,Kappa,0,0.0,67
+61360,Netherlands,2020-08-03,Kappa,0,0.0,90
+61384,Netherlands,2020-08-17,Kappa,0,0.0,123
+61408,Netherlands,2020-08-31,Kappa,0,0.0,127
+61432,Netherlands,2020-09-14,Kappa,0,0.0,120
+61456,Netherlands,2020-09-28,Kappa,0,0.0,273
+61480,Netherlands,2020-10-12,Kappa,0,0.0,297
+61504,Netherlands,2020-10-26,Kappa,0,0.0,436
+61528,Netherlands,2020-11-09,Kappa,0,0.0,416
+61552,Netherlands,2020-11-23,Kappa,0,0.0,437
+61576,Netherlands,2020-12-07,Kappa,0,0.0,533
+61600,Netherlands,2020-12-21,Kappa,0,0.0,818
+61624,Netherlands,2021-01-04,Kappa,0,0.0,1142
+61648,Netherlands,2021-01-11,Kappa,0,0.0,790
+61672,Netherlands,2021-01-25,Kappa,0,0.0,1750
+61696,Netherlands,2021-02-08,Kappa,0,0.0,2269
+61720,Netherlands,2021-02-22,Kappa,0,0.0,2431
+61744,Netherlands,2021-03-08,Kappa,0,0.0,3167
+61768,Netherlands,2021-03-22,Kappa,0,0.0,4040
+61792,Netherlands,2021-04-05,Kappa,0,0.0,3860
+61816,Netherlands,2021-04-19,Kappa,6,0.17,3602
+61840,Netherlands,2021-05-03,Kappa,3,0.08,3934
+61864,Netherlands,2021-05-17,Kappa,0,0.0,3490
+61888,Netherlands,2021-05-31,Kappa,3,0.1,2969
+61912,Netherlands,2021-06-14,Kappa,7,0.27,2635
+61936,Netherlands,2021-06-28,Kappa,8,0.42,1888
+61960,Netherlands,2021-07-12,Kappa,1,0.03,3583
+61984,Netherlands,2021-07-26,Kappa,0,0.0,4845
+62008,Netherlands,2021-08-09,Kappa,0,0.0,3079
+62032,Netherlands,2021-08-23,Kappa,0,0.0,3129
+62056,Netherlands,2021-09-06,Kappa,0,0.0,3390
+62080,Netherlands,2021-09-20,Kappa,0,0.0,2691
+62104,Netherlands,2021-10-04,Kappa,0,0.0,2258
+62128,Netherlands,2021-10-18,Kappa,0,0.0,2733
+62152,Netherlands,2021-11-01,Kappa,0,0.0,3174
+62176,Netherlands,2021-11-15,Kappa,0,0.0,3645
+62200,Netherlands,2021-11-29,Kappa,0,0.0,3714
+62224,Netherlands,2021-12-13,Kappa,0,0.0,3137
+62248,Netherlands,2021-12-27,Kappa,0,0.0,867
+62272,Netherlands,2022-01-05,Kappa,0,0.0,25
+62296,New Zealand,2020-05-11,Kappa,0,0.0,8
+62320,New Zealand,2020-05-25,Kappa,0,0.0,1
+62344,New Zealand,2020-06-22,Kappa,0,0.0,5
+62368,New Zealand,2020-07-06,Kappa,0,0.0,3
+62392,New Zealand,2020-07-20,Kappa,0,0.0,3
+62416,New Zealand,2020-08-03,Kappa,0,0.0,2
+62440,New Zealand,2020-08-17,Kappa,0,0.0,37
+62464,New Zealand,2020-08-31,Kappa,0,0.0,74
+62488,New Zealand,2020-09-14,Kappa,0,0.0,33
+62512,New Zealand,2020-09-28,Kappa,0,0.0,16
+62536,New Zealand,2020-10-12,Kappa,0,0.0,14
+62560,New Zealand,2020-10-26,Kappa,0,0.0,36
+62584,New Zealand,2020-11-09,Kappa,0,0.0,33
+62608,New Zealand,2020-11-23,Kappa,0,0.0,20
+62632,New Zealand,2020-12-07,Kappa,0,0.0,28
+62656,New Zealand,2020-12-21,Kappa,0,0.0,20
+62680,New Zealand,2021-01-04,Kappa,0,0.0,28
+62704,New Zealand,2021-01-11,Kappa,0,0.0,11
+62728,New Zealand,2021-01-25,Kappa,0,0.0,22
+62752,New Zealand,2021-02-08,Kappa,0,0.0,17
+62776,New Zealand,2021-02-22,Kappa,0,0.0,19
+62800,New Zealand,2021-03-08,Kappa,0,0.0,26
+62824,New Zealand,2021-03-22,Kappa,1,3.57,28
+62848,New Zealand,2021-04-05,Kappa,1,3.45,29
+62872,New Zealand,2021-04-19,Kappa,2,7.69,26
+62896,New Zealand,2021-05-03,Kappa,0,0.0,19
+62920,New Zealand,2021-05-17,Kappa,0,0.0,7
+62944,New Zealand,2021-05-31,Kappa,0,0.0,8
+62968,New Zealand,2021-06-14,Kappa,0,0.0,14
+62992,New Zealand,2021-06-28,Kappa,0,0.0,16
+63016,New Zealand,2021-07-12,Kappa,0,0.0,12
+63040,New Zealand,2021-07-26,Kappa,0,0.0,49
+63064,New Zealand,2021-08-09,Kappa,0,0.0,31
+63088,New Zealand,2021-08-23,Kappa,0,0.0,173
+63112,New Zealand,2021-09-06,Kappa,0,0.0,615
+63136,New Zealand,2021-09-20,Kappa,0,0.0,238
+63160,New Zealand,2021-10-04,Kappa,0,0.0,276
+63184,New Zealand,2021-10-18,Kappa,0,0.0,583
+63208,New Zealand,2021-11-01,Kappa,0,0.0,605
+63232,New Zealand,2021-11-15,Kappa,0,0.0,567
+63256,New Zealand,2021-11-29,Kappa,0,0.0,460
+63280,New Zealand,2021-12-13,Kappa,0,0.0,313
+63304,New Zealand,2021-12-27,Kappa,0,0.0,223
+63328,New Zealand,2022-01-05,Kappa,0,0.0,11
+63352,Nigeria,2020-05-11,Kappa,0,0.0,26
+63376,Nigeria,2020-05-25,Kappa,0,0.0,31
+63400,Nigeria,2020-06-08,Kappa,0,0.0,16
+63424,Nigeria,2020-06-22,Kappa,0,0.0,27
+63448,Nigeria,2020-07-06,Kappa,0,0.0,28
+63472,Nigeria,2020-07-20,Kappa,0,0.0,48
+63496,Nigeria,2020-08-03,Kappa,0,0.0,5
+63520,Nigeria,2020-08-17,Kappa,0,0.0,11
+63544,Nigeria,2020-08-31,Kappa,0,0.0,5
+63568,Nigeria,2020-09-14,Kappa,0,0.0,5
+63592,Nigeria,2020-10-12,Kappa,0,0.0,5
+63616,Nigeria,2020-10-26,Kappa,0,0.0,7
+63640,Nigeria,2020-11-09,Kappa,0,0.0,1
+63664,Nigeria,2020-11-23,Kappa,0,0.0,4
+63688,Nigeria,2020-12-07,Kappa,0,0.0,31
+63712,Nigeria,2020-12-21,Kappa,0,0.0,34
+63736,Nigeria,2021-01-04,Kappa,0,0.0,73
+63760,Nigeria,2021-01-11,Kappa,0,0.0,131
+63784,Nigeria,2021-01-25,Kappa,0,0.0,127
+63808,Nigeria,2021-02-08,Kappa,0,0.0,231
+63832,Nigeria,2021-02-22,Kappa,0,0.0,164
+63856,Nigeria,2021-03-08,Kappa,0,0.0,111
+63880,Nigeria,2021-03-22,Kappa,0,0.0,45
+63904,Nigeria,2021-04-05,Kappa,0,0.0,18
+63928,Nigeria,2021-04-19,Kappa,0,0.0,7
+63952,Nigeria,2021-05-03,Kappa,1,4.35,23
+63976,Nigeria,2021-05-17,Kappa,0,0.0,8
+64000,Nigeria,2021-05-31,Kappa,0,0.0,6
+64024,Nigeria,2021-06-14,Kappa,0,0.0,7
+64048,Nigeria,2021-06-28,Kappa,0,0.0,14
+64072,Nigeria,2021-07-12,Kappa,0,0.0,43
+64096,Nigeria,2021-07-26,Kappa,0,0.0,94
+64120,Nigeria,2021-08-09,Kappa,0,0.0,498
+64144,Nigeria,2021-08-23,Kappa,0,0.0,535
+64168,Nigeria,2021-09-06,Kappa,0,0.0,576
+64192,Nigeria,2021-09-20,Kappa,0,0.0,331
+64216,Nigeria,2021-10-04,Kappa,0,0.0,93
+64240,Nigeria,2021-10-18,Kappa,0,0.0,60
+64264,Nigeria,2021-11-01,Kappa,0,0.0,34
+64288,Nigeria,2021-11-15,Kappa,0,0.0,22
+64312,Nigeria,2021-11-29,Kappa,0,0.0,56
+64336,Nigeria,2021-12-13,Kappa,0,0.0,73
+64360,Nigeria,2021-12-27,Kappa,0,0.0,10
+64384,North Macedonia,2020-05-25,Kappa,0,0.0,1
+64408,North Macedonia,2020-06-08,Kappa,0,0.0,17
+64432,North Macedonia,2020-06-22,Kappa,0,0.0,18
+64456,North Macedonia,2020-07-06,Kappa,0,0.0,20
+64480,North Macedonia,2020-07-20,Kappa,0,0.0,5
+64504,North Macedonia,2020-08-03,Kappa,0,0.0,6
+64528,North Macedonia,2020-08-17,Kappa,0,0.0,8
+64552,North Macedonia,2020-08-31,Kappa,0,0.0,2
+64576,North Macedonia,2020-09-14,Kappa,0,0.0,9
+64600,North Macedonia,2020-10-12,Kappa,0,0.0,7
+64624,North Macedonia,2020-10-26,Kappa,0,0.0,13
+64648,North Macedonia,2020-11-09,Kappa,0,0.0,20
+64672,North Macedonia,2020-11-23,Kappa,0,0.0,8
+64696,North Macedonia,2020-12-07,Kappa,0,0.0,4
+64720,North Macedonia,2020-12-21,Kappa,0,0.0,16
+64744,North Macedonia,2021-01-04,Kappa,0,0.0,27
+64768,North Macedonia,2021-01-11,Kappa,0,0.0,23
+64792,North Macedonia,2021-01-25,Kappa,0,0.0,68
+64816,North Macedonia,2021-02-08,Kappa,0,0.0,61
+64840,North Macedonia,2021-02-22,Kappa,0,0.0,58
+64864,North Macedonia,2021-03-08,Kappa,0,0.0,15
+64888,North Macedonia,2021-03-22,Kappa,0,0.0,26
+64912,North Macedonia,2021-04-05,Kappa,0,0.0,36
+64936,North Macedonia,2021-04-19,Kappa,0,0.0,103
+64960,North Macedonia,2021-05-03,Kappa,0,0.0,15
+64984,North Macedonia,2021-05-17,Kappa,0,0.0,30
+65008,North Macedonia,2021-05-31,Kappa,0,0.0,17
+65032,North Macedonia,2021-06-14,Kappa,0,0.0,12
+65056,North Macedonia,2021-06-28,Kappa,0,0.0,4
+65080,North Macedonia,2021-07-12,Kappa,0,0.0,7
+65104,North Macedonia,2021-07-26,Kappa,0,0.0,22
+65128,North Macedonia,2021-08-09,Kappa,0,0.0,12
+65152,North Macedonia,2021-11-01,Kappa,0,0.0,11
+65176,North Macedonia,2021-11-15,Kappa,0,0.0,37
+65200,Norway,2020-05-11,Kappa,0,0.0,28
+65224,Norway,2020-05-25,Kappa,0,0.0,18
+65248,Norway,2020-06-08,Kappa,0,0.0,8
+65272,Norway,2020-06-22,Kappa,0,0.0,31
+65296,Norway,2020-07-06,Kappa,0,0.0,61
+65320,Norway,2020-07-20,Kappa,0,0.0,33
+65344,Norway,2020-08-03,Kappa,0,0.0,84
+65368,Norway,2020-08-17,Kappa,0,0.0,164
+65392,Norway,2020-08-31,Kappa,0,0.0,47
+65416,Norway,2020-09-14,Kappa,0,0.0,109
+65440,Norway,2020-09-28,Kappa,0,0.0,117
+65464,Norway,2020-10-12,Kappa,0,0.0,156
+65488,Norway,2020-10-26,Kappa,0,0.0,204
+65512,Norway,2020-11-09,Kappa,0,0.0,265
+65536,Norway,2020-11-23,Kappa,0,0.0,163
+65560,Norway,2020-12-07,Kappa,0,0.0,187
+65584,Norway,2020-12-21,Kappa,0,0.0,274
+65608,Norway,2021-01-04,Kappa,0,0.0,272
+65632,Norway,2021-01-11,Kappa,0,0.0,266
+65656,Norway,2021-01-25,Kappa,0,0.0,740
+65680,Norway,2021-02-08,Kappa,0,0.0,1400
+65704,Norway,2021-02-22,Kappa,0,0.0,1404
+65728,Norway,2021-03-08,Kappa,0,0.0,1547
+65752,Norway,2021-03-22,Kappa,0,0.0,1671
+65776,Norway,2021-04-05,Kappa,0,0.0,1328
+65800,Norway,2021-04-19,Kappa,2,0.11,1847
+65824,Norway,2021-05-03,Kappa,1,0.06,1654
+65848,Norway,2021-05-17,Kappa,0,0.0,1837
+65872,Norway,2021-05-31,Kappa,0,0.0,1417
+65896,Norway,2021-06-14,Kappa,0,0.0,1134
+65920,Norway,2021-06-28,Kappa,0,0.0,827
+65944,Norway,2021-07-12,Kappa,0,0.0,867
+65968,Norway,2021-07-26,Kappa,0,0.0,892
+65992,Norway,2021-08-09,Kappa,0,0.0,1320
+66016,Norway,2021-08-23,Kappa,0,0.0,1747
+66040,Norway,2021-09-06,Kappa,0,0.0,1917
+66064,Norway,2021-09-20,Kappa,0,0.0,2089
+66088,Norway,2021-10-04,Kappa,0,0.0,1632
+66112,Norway,2021-10-18,Kappa,0,0.0,1421
+66136,Norway,2021-11-01,Kappa,0,0.0,2045
+66160,Norway,2021-11-15,Kappa,0,0.0,1848
+66184,Norway,2021-11-29,Kappa,0,0.0,1532
+66208,Norway,2021-12-13,Kappa,0,0.0,988
+66232,Norway,2021-12-27,Kappa,0,0.0,67
+66256,Oman,2020-05-11,Kappa,0,0.0,22
+66280,Oman,2020-05-25,Kappa,0,0.0,55
+66304,Oman,2020-06-08,Kappa,0,0.0,25
+66328,Oman,2020-06-22,Kappa,0,0.0,11
+66352,Oman,2020-07-06,Kappa,0,0.0,8
+66376,Oman,2020-07-20,Kappa,0,0.0,8
+66400,Oman,2020-08-03,Kappa,0,0.0,1
+66424,Oman,2020-08-17,Kappa,0,0.0,7
+66448,Oman,2020-08-31,Kappa,0,0.0,1
+66472,Oman,2020-09-14,Kappa,0,0.0,6
+66496,Oman,2020-09-28,Kappa,0,0.0,6
+66520,Oman,2020-10-12,Kappa,0,0.0,1
+66544,Oman,2020-10-26,Kappa,0,0.0,1
+66568,Oman,2020-11-23,Kappa,0,0.0,1
+66592,Oman,2021-01-04,Kappa,0,0.0,3
+66616,Oman,2021-01-11,Kappa,0,0.0,3
+66640,Oman,2021-01-25,Kappa,0,0.0,3
+66664,Oman,2021-02-08,Kappa,0,0.0,12
+66688,Oman,2021-02-22,Kappa,0,0.0,9
+66712,Oman,2021-03-08,Kappa,0,0.0,10
+66736,Oman,2021-03-22,Kappa,0,0.0,7
+66760,Oman,2021-04-05,Kappa,0,0.0,11
+66784,Oman,2021-04-19,Kappa,0,0.0,18
+66808,Oman,2021-05-03,Kappa,1,1.89,53
+66832,Oman,2021-05-17,Kappa,1,4.76,21
+66856,Oman,2021-05-31,Kappa,0,0.0,12
+66880,Oman,2021-06-14,Kappa,0,0.0,43
+66904,Oman,2021-06-28,Kappa,0,0.0,71
+66928,Oman,2021-07-12,Kappa,0,0.0,7
+66952,Oman,2021-09-06,Kappa,0,0.0,1
+66976,Oman,2021-12-13,Kappa,0,0.0,8
+67000,Oman,2021-12-27,Kappa,0,0.0,1
+67024,Pakistan,2020-05-11,Kappa,0,0.0,3
+67048,Pakistan,2020-05-25,Kappa,0,0.0,10
+67072,Pakistan,2020-06-08,Kappa,0,0.0,24
+67096,Pakistan,2020-06-22,Kappa,0,0.0,8
+67120,Pakistan,2020-07-06,Kappa,0,0.0,5
+67144,Pakistan,2020-07-20,Kappa,0,0.0,6
+67168,Pakistan,2020-08-17,Kappa,0,0.0,10
+67192,Pakistan,2020-09-14,Kappa,0,0.0,3
+67216,Pakistan,2020-10-12,Kappa,0,0.0,8
+67240,Pakistan,2020-10-26,Kappa,0,0.0,1
+67264,Pakistan,2020-11-09,Kappa,0,0.0,1
+67288,Pakistan,2020-11-23,Kappa,0,0.0,8
+67312,Pakistan,2020-12-07,Kappa,0,0.0,20
+67336,Pakistan,2020-12-21,Kappa,0,0.0,26
+67360,Pakistan,2021-01-04,Kappa,0,0.0,14
+67384,Pakistan,2021-01-11,Kappa,0,0.0,7
+67408,Pakistan,2021-01-25,Kappa,0,0.0,3
+67432,Pakistan,2021-02-08,Kappa,0,0.0,4
+67456,Pakistan,2021-02-22,Kappa,0,0.0,3
+67480,Pakistan,2021-03-08,Kappa,0,0.0,7
+67504,Pakistan,2021-03-22,Kappa,0,0.0,31
+67528,Pakistan,2021-04-05,Kappa,0,0.0,6
+67552,Pakistan,2021-04-19,Kappa,0,0.0,138
+67576,Pakistan,2021-05-03,Kappa,0,0.0,53
+67600,Pakistan,2021-05-17,Kappa,0,0.0,30
+67624,Pakistan,2021-05-31,Kappa,0,0.0,80
+67648,Pakistan,2021-06-14,Kappa,0,0.0,195
+67672,Pakistan,2021-06-28,Kappa,0,0.0,54
+67696,Pakistan,2021-07-12,Kappa,0,0.0,59
+67720,Pakistan,2021-07-26,Kappa,0,0.0,67
+67744,Pakistan,2021-08-09,Kappa,0,0.0,121
+67768,Pakistan,2021-08-23,Kappa,0,0.0,108
+67792,Pakistan,2021-09-06,Kappa,0,0.0,176
+67816,Pakistan,2021-09-20,Kappa,0,0.0,65
+67840,Pakistan,2021-10-04,Kappa,0,0.0,26
+67864,Pakistan,2021-10-18,Kappa,0,0.0,51
+67888,Pakistan,2021-11-01,Kappa,0,0.0,40
+67912,Pakistan,2021-11-15,Kappa,0,0.0,41
+67936,Pakistan,2021-11-29,Kappa,0,0.0,10
+67960,Pakistan,2021-12-13,Kappa,0,0.0,25
+67984,Pakistan,2021-12-27,Kappa,0,0.0,19
+68008,Pakistan,2022-01-05,Kappa,0,0.0,6
+68032,Papua New Guinea,2020-07-20,Kappa,0,0.0,4
+68056,Papua New Guinea,2020-08-03,Kappa,0,0.0,34
+68080,Papua New Guinea,2020-08-17,Kappa,0,0.0,55
+68104,Papua New Guinea,2020-08-31,Kappa,0,0.0,7
+68128,Papua New Guinea,2020-09-14,Kappa,0,0.0,2
+68152,Papua New Guinea,2020-09-28,Kappa,0,0.0,2
+68176,Papua New Guinea,2020-10-12,Kappa,0,0.0,6
+68200,Papua New Guinea,2020-12-07,Kappa,0,0.0,22
+68224,Papua New Guinea,2020-12-21,Kappa,0,0.0,9
+68248,Papua New Guinea,2021-01-04,Kappa,0,0.0,11
+68272,Papua New Guinea,2021-01-11,Kappa,0,0.0,3
+68296,Papua New Guinea,2021-01-25,Kappa,0,0.0,2
+68320,Papua New Guinea,2021-02-08,Kappa,0,0.0,11
+68344,Papua New Guinea,2021-02-22,Kappa,0,0.0,60
+68368,Papua New Guinea,2021-03-08,Kappa,0,0.0,190
+68392,Papua New Guinea,2021-03-22,Kappa,0,0.0,368
+68416,Papua New Guinea,2021-04-05,Kappa,0,0.0,598
+68440,Papua New Guinea,2021-04-19,Kappa,0,0.0,100
+68464,Papua New Guinea,2021-05-03,Kappa,0,0.0,128
+68488,Papua New Guinea,2021-05-17,Kappa,0,0.0,193
+68512,Papua New Guinea,2021-05-31,Kappa,0,0.0,18
+68536,Papua New Guinea,2021-06-14,Kappa,0,0.0,14
+68560,Papua New Guinea,2021-06-28,Kappa,0,0.0,3
+68584,Papua New Guinea,2021-07-12,Kappa,0,0.0,16
+68608,Papua New Guinea,2021-07-26,Kappa,0,0.0,19
+68632,Papua New Guinea,2021-08-09,Kappa,0,0.0,19
+68656,Papua New Guinea,2021-08-23,Kappa,0,0.0,106
+68680,Papua New Guinea,2021-09-06,Kappa,0,0.0,385
+68704,Papua New Guinea,2021-09-20,Kappa,0,0.0,214
+68728,Papua New Guinea,2021-10-04,Kappa,0,0.0,368
+68752,Papua New Guinea,2021-10-18,Kappa,0,0.0,242
+68776,Papua New Guinea,2021-11-01,Kappa,0,0.0,116
+68800,Papua New Guinea,2021-11-15,Kappa,0,0.0,34
+68824,Papua New Guinea,2021-11-29,Kappa,0,0.0,7
+68848,Paraguay,2020-05-11,Kappa,0,0.0,5
+68872,Paraguay,2020-05-25,Kappa,0,0.0,2
+68896,Paraguay,2020-06-08,Kappa,0,0.0,3
+68920,Paraguay,2020-06-22,Kappa,0,0.0,1
+68944,Paraguay,2020-07-06,Kappa,0,0.0,5
+68968,Paraguay,2020-07-20,Kappa,0,0.0,5
+68992,Paraguay,2020-08-03,Kappa,0,0.0,2
+69016,Paraguay,2020-08-17,Kappa,0,0.0,14
+69040,Paraguay,2020-08-31,Kappa,0,0.0,2
+69064,Paraguay,2020-09-14,Kappa,0,0.0,7
+69088,Paraguay,2020-09-28,Kappa,0,0.0,1
+69112,Paraguay,2020-10-12,Kappa,0,0.0,3
+69136,Paraguay,2020-11-09,Kappa,0,0.0,1
+69160,Paraguay,2020-11-23,Kappa,0,0.0,1
+69184,Paraguay,2020-12-07,Kappa,0,0.0,2
+69208,Paraguay,2020-12-21,Kappa,0,0.0,14
+69232,Paraguay,2021-01-04,Kappa,0,0.0,3
+69256,Paraguay,2021-01-11,Kappa,0,0.0,15
+69280,Paraguay,2021-01-25,Kappa,0,0.0,9
+69304,Paraguay,2021-02-08,Kappa,0,0.0,66
+69328,Paraguay,2021-02-22,Kappa,0,0.0,61
+69352,Paraguay,2021-03-08,Kappa,0,0.0,70
+69376,Paraguay,2021-03-22,Kappa,0,0.0,55
+69400,Paraguay,2021-04-05,Kappa,0,0.0,14
+69424,Paraguay,2021-04-19,Kappa,0,0.0,31
+69448,Paraguay,2021-05-03,Kappa,0,0.0,20
+69472,Paraguay,2021-05-17,Kappa,0,0.0,26
+69496,Paraguay,2021-05-31,Kappa,0,0.0,14
+69520,Paraguay,2021-06-14,Kappa,0,0.0,41
+69544,Paraguay,2021-06-28,Kappa,0,0.0,18
+69568,Paraguay,2021-07-12,Kappa,0,0.0,59
+69592,Paraguay,2021-07-26,Kappa,0,0.0,25
+69616,Paraguay,2021-08-09,Kappa,0,0.0,64
+69640,Paraguay,2021-08-23,Kappa,0,0.0,60
+69664,Paraguay,2021-09-06,Kappa,0,0.0,78
+69688,Paraguay,2021-09-20,Kappa,0,0.0,26
+69712,Paraguay,2021-10-04,Kappa,0,0.0,33
+69736,Paraguay,2021-10-18,Kappa,0,0.0,9
+69760,Paraguay,2021-11-01,Kappa,0,0.0,14
+69784,Peru,2020-05-11,Kappa,0,0.0,49
+69808,Peru,2020-05-25,Kappa,0,0.0,50
+69832,Peru,2020-06-08,Kappa,0,0.0,5
+69856,Peru,2020-06-22,Kappa,0,0.0,92
+69880,Peru,2020-07-06,Kappa,0,0.0,35
+69904,Peru,2020-07-20,Kappa,0,0.0,10
+69928,Peru,2020-08-03,Kappa,0,0.0,12
+69952,Peru,2020-08-17,Kappa,0,0.0,49
+69976,Peru,2020-08-31,Kappa,0,0.0,105
+70000,Peru,2020-09-14,Kappa,0,0.0,44
+70024,Peru,2020-09-28,Kappa,0,0.0,33
+70048,Peru,2020-10-12,Kappa,0,0.0,8
+70072,Peru,2020-10-26,Kappa,0,0.0,128
+70096,Peru,2020-11-09,Kappa,0,0.0,3
+70120,Peru,2020-11-23,Kappa,0,0.0,32
+70144,Peru,2020-12-07,Kappa,0,0.0,33
+70168,Peru,2020-12-21,Kappa,0,0.0,130
+70192,Peru,2021-01-04,Kappa,0,0.0,109
+70216,Peru,2021-01-11,Kappa,0,0.0,29
+70240,Peru,2021-01-25,Kappa,0,0.0,123
+70264,Peru,2021-02-08,Kappa,0,0.0,91
+70288,Peru,2021-02-22,Kappa,0,0.0,120
+70312,Peru,2021-03-08,Kappa,0,0.0,155
+70336,Peru,2021-03-22,Kappa,0,0.0,238
+70360,Peru,2021-04-05,Kappa,0,0.0,190
+70384,Peru,2021-04-19,Kappa,0,0.0,523
+70408,Peru,2021-05-03,Kappa,0,0.0,321
+70432,Peru,2021-05-17,Kappa,0,0.0,325
+70456,Peru,2021-05-31,Kappa,0,0.0,284
+70480,Peru,2021-06-14,Kappa,0,0.0,803
+70504,Peru,2021-06-28,Kappa,0,0.0,496
+70528,Peru,2021-07-12,Kappa,0,0.0,467
+70552,Peru,2021-07-26,Kappa,0,0.0,586
+70576,Peru,2021-08-09,Kappa,0,0.0,507
+70600,Peru,2021-08-23,Kappa,0,0.0,645
+70624,Peru,2021-09-06,Kappa,0,0.0,603
+70648,Peru,2021-09-20,Kappa,0,0.0,782
+70672,Peru,2021-10-04,Kappa,0,0.0,819
+70696,Peru,2021-10-18,Kappa,0,0.0,805
+70720,Peru,2021-11-01,Kappa,0,0.0,721
+70744,Peru,2021-11-15,Kappa,0,0.0,858
+70768,Peru,2021-11-29,Kappa,0,0.0,717
+70792,Peru,2021-12-13,Kappa,0,0.0,65
+70816,Peru,2021-12-27,Kappa,0,0.0,10
+70840,Philippines,2020-06-08,Kappa,0,0.0,1
+70864,Philippines,2020-06-22,Kappa,0,0.0,5
+70888,Philippines,2020-07-06,Kappa,0,0.0,9
+70912,Philippines,2020-07-20,Kappa,0,0.0,4
+70936,Philippines,2020-09-14,Kappa,0,0.0,2
+70960,Philippines,2020-09-28,Kappa,0,0.0,3
+70984,Philippines,2020-10-12,Kappa,0,0.0,1
+71008,Philippines,2020-10-26,Kappa,0,0.0,3
+71032,Philippines,2020-11-09,Kappa,0,0.0,141
+71056,Philippines,2020-11-23,Kappa,0,0.0,178
+71080,Philippines,2020-12-07,Kappa,0,0.0,233
+71104,Philippines,2020-12-21,Kappa,0,0.0,298
+71128,Philippines,2021-01-04,Kappa,0,0.0,238
+71152,Philippines,2021-01-11,Kappa,0,0.0,340
+71176,Philippines,2021-01-25,Kappa,0,0.0,530
+71200,Philippines,2021-02-08,Kappa,0,0.0,556
+71224,Philippines,2021-02-22,Kappa,0,0.0,451
+71248,Philippines,2021-03-08,Kappa,0,0.0,303
+71272,Philippines,2021-03-22,Kappa,0,0.0,780
+71296,Philippines,2021-04-05,Kappa,0,0.0,1016
+71320,Philippines,2021-04-19,Kappa,0,0.0,386
+71344,Philippines,2021-05-03,Kappa,0,0.0,394
+71368,Philippines,2021-05-17,Kappa,0,0.0,343
+71392,Philippines,2021-05-31,Kappa,0,0.0,331
+71416,Philippines,2021-06-14,Kappa,0,0.0,575
+71440,Philippines,2021-06-28,Kappa,0,0.0,836
+71464,Philippines,2021-07-12,Kappa,0,0.0,886
+71488,Philippines,2021-07-26,Kappa,0,0.0,1114
+71512,Philippines,2021-08-09,Kappa,0,0.0,1400
+71536,Philippines,2021-08-23,Kappa,0,0.0,1119
+71560,Philippines,2021-09-06,Kappa,0,0.0,262
+71584,Poland,2020-05-11,Kappa,0,0.0,59
+71608,Poland,2020-05-25,Kappa,0,0.0,26
+71632,Poland,2020-06-08,Kappa,0,0.0,23
+71656,Poland,2020-06-22,Kappa,0,0.0,4
+71680,Poland,2020-08-31,Kappa,0,0.0,3
+71704,Poland,2020-09-14,Kappa,0,0.0,6
+71728,Poland,2020-09-28,Kappa,0,0.0,6
+71752,Poland,2020-10-12,Kappa,0,0.0,2
+71776,Poland,2020-10-26,Kappa,0,0.0,1
+71800,Poland,2020-11-09,Kappa,0,0.0,6
+71824,Poland,2020-11-23,Kappa,0,0.0,16
+71848,Poland,2020-12-07,Kappa,0,0.0,27
+71872,Poland,2020-12-21,Kappa,0,0.0,53
+71896,Poland,2021-01-04,Kappa,0,0.0,120
+71920,Poland,2021-01-11,Kappa,0,0.0,56
+71944,Poland,2021-01-25,Kappa,0,0.0,259
+71968,Poland,2021-02-08,Kappa,0,0.0,379
+71992,Poland,2021-02-22,Kappa,0,0.0,729
+72016,Poland,2021-03-08,Kappa,0,0.0,1485
+72040,Poland,2021-03-22,Kappa,0,0.0,2146
+72064,Poland,2021-04-05,Kappa,0,0.0,1803
+72088,Poland,2021-04-19,Kappa,0,0.0,2782
+72112,Poland,2021-05-03,Kappa,0,0.0,2636
+72136,Poland,2021-05-17,Kappa,0,0.0,2568
+72160,Poland,2021-05-31,Kappa,0,0.0,1627
+72184,Poland,2021-06-14,Kappa,0,0.0,621
+72208,Poland,2021-06-28,Kappa,0,0.0,150
+72232,Poland,2021-07-12,Kappa,0,0.0,186
+72256,Poland,2021-07-26,Kappa,0,0.0,243
+72280,Poland,2021-08-09,Kappa,0,0.0,333
+72304,Poland,2021-08-23,Kappa,0,0.0,751
+72328,Poland,2021-09-06,Kappa,0,0.0,935
+72352,Poland,2021-09-20,Kappa,0,0.0,1424
+72376,Poland,2021-10-04,Kappa,0,0.0,1724
+72400,Poland,2021-10-18,Kappa,0,0.0,2282
+72424,Poland,2021-11-01,Kappa,0,0.0,2785
+72448,Poland,2021-11-15,Kappa,0,0.0,4144
+72472,Poland,2021-11-29,Kappa,0,0.0,2239
+72496,Poland,2021-12-13,Kappa,0,0.0,3352
+72520,Poland,2021-12-27,Kappa,0,0.0,1269
+72544,Poland,2022-01-05,Kappa,0,0.0,124
+72568,Portugal,2020-05-11,Kappa,0,0.0,26
+72592,Portugal,2020-05-25,Kappa,0,0.0,28
+72616,Portugal,2020-06-08,Kappa,0,0.0,92
+72640,Portugal,2020-06-22,Kappa,0,0.0,37
+72664,Portugal,2020-07-06,Kappa,0,0.0,53
+72688,Portugal,2020-07-20,Kappa,0,0.0,27
+72712,Portugal,2020-08-31,Kappa,0,0.0,36
+72736,Portugal,2020-09-14,Kappa,0,0.0,3
+72760,Portugal,2020-10-26,Kappa,0,0.0,1
+72784,Portugal,2020-11-09,Kappa,0,0.0,27
+72808,Portugal,2020-11-23,Kappa,0,0.0,372
+72832,Portugal,2020-12-07,Kappa,0,0.0,32
+72856,Portugal,2020-12-21,Kappa,0,0.0,44
+72880,Portugal,2021-01-04,Kappa,0,0.0,294
+72904,Portugal,2021-01-11,Kappa,0,0.0,238
+72928,Portugal,2021-01-25,Kappa,0,0.0,737
+72952,Portugal,2021-02-08,Kappa,0,0.0,201
+72976,Portugal,2021-02-22,Kappa,0,0.0,901
+73000,Portugal,2021-03-08,Kappa,0,0.0,735
+73024,Portugal,2021-03-22,Kappa,0,0.0,443
+73048,Portugal,2021-04-05,Kappa,0,0.0,70
+73072,Portugal,2021-04-19,Kappa,8,0.5,1586
+73096,Portugal,2021-05-03,Kappa,0,0.0,98
+73120,Portugal,2021-05-17,Kappa,1,0.09,1061
+73144,Portugal,2021-05-31,Kappa,0,0.0,110
+73168,Portugal,2021-06-14,Kappa,0,0.0,1247
+73192,Portugal,2021-06-28,Kappa,0,0.0,1170
+73216,Portugal,2021-07-12,Kappa,0,0.0,1132
+73240,Portugal,2021-07-26,Kappa,0,0.0,1250
+73264,Portugal,2021-08-09,Kappa,0,0.0,955
+73288,Portugal,2021-08-23,Kappa,0,0.0,1002
+73312,Portugal,2021-09-06,Kappa,0,0.0,1110
+73336,Portugal,2021-09-20,Kappa,0,0.0,1093
+73360,Portugal,2021-10-04,Kappa,0,0.0,1041
+73384,Portugal,2021-10-18,Kappa,0,0.0,891
+73408,Portugal,2021-11-01,Kappa,0,0.0,1079
+73432,Portugal,2021-11-15,Kappa,0,0.0,958
+73456,Portugal,2021-11-29,Kappa,0,0.0,1286
+73480,Portugal,2021-12-13,Kappa,0,0.0,916
+73504,Portugal,2021-12-27,Kappa,0,0.0,510
+73528,Qatar,2020-05-11,Kappa,0,0.0,172
+73552,Qatar,2020-05-25,Kappa,0,0.0,175
+73576,Qatar,2020-06-08,Kappa,0,0.0,179
+73600,Qatar,2020-06-22,Kappa,0,0.0,154
+73624,Qatar,2020-07-06,Kappa,0,0.0,97
+73648,Qatar,2020-07-20,Kappa,0,0.0,61
+73672,Qatar,2020-08-03,Kappa,0,0.0,8
+73696,Qatar,2020-08-17,Kappa,0,0.0,90
+73720,Qatar,2020-08-31,Kappa,0,0.0,47
+73744,Qatar,2020-09-14,Kappa,0,0.0,57
+73768,Qatar,2020-09-28,Kappa,0,0.0,12
+73792,Qatar,2020-10-12,Kappa,0,0.0,34
+73816,Qatar,2020-10-26,Kappa,0,0.0,21
+73840,Qatar,2020-11-09,Kappa,0,0.0,14
+73864,Qatar,2020-11-23,Kappa,0,0.0,20
+73888,Qatar,2020-12-07,Kappa,0,0.0,23
+73912,Qatar,2020-12-21,Kappa,0,0.0,2
+73936,Qatar,2021-01-04,Kappa,0,0.0,146
+73960,Qatar,2021-01-11,Kappa,0,0.0,13
+73984,Qatar,2021-01-25,Kappa,0,0.0,26
+74008,Qatar,2021-02-08,Kappa,0,0.0,68
+74032,Qatar,2021-02-22,Kappa,0,0.0,94
+74056,Qatar,2021-03-08,Kappa,0,0.0,90
+74080,Qatar,2021-03-22,Kappa,0,0.0,121
+74104,Qatar,2021-04-05,Kappa,0,0.0,71
+74128,Qatar,2021-04-19,Kappa,3,2.52,119
+74152,Qatar,2021-05-03,Kappa,3,0.86,350
+74176,Qatar,2021-05-17,Kappa,0,0.0,195
+74200,Qatar,2021-05-31,Kappa,0,0.0,78
+74224,Qatar,2021-06-14,Kappa,0,0.0,58
+74248,Qatar,2021-08-09,Kappa,0,0.0,1
+74272,Qatar,2021-08-23,Kappa,0,0.0,520
+74296,Qatar,2021-09-06,Kappa,0,0.0,444
+74320,Qatar,2021-09-20,Kappa,0,0.0,183
+74344,Qatar,2021-10-04,Kappa,0,0.0,84
+74368,Qatar,2021-10-18,Kappa,0,0.0,13
+74392,Qatar,2021-11-01,Kappa,0,0.0,50
+74416,Qatar,2021-11-15,Kappa,0,0.0,75
+74440,Qatar,2021-11-29,Kappa,0,0.0,82
+74464,Romania,2020-05-11,Kappa,0,0.0,33
+74488,Romania,2020-05-25,Kappa,0,0.0,18
+74512,Romania,2020-06-08,Kappa,0,0.0,18
+74536,Romania,2020-06-22,Kappa,0,0.0,17
+74560,Romania,2020-07-06,Kappa,0,0.0,10
+74584,Romania,2020-07-20,Kappa,0,0.0,23
+74608,Romania,2020-08-03,Kappa,0,0.0,81
+74632,Romania,2020-08-17,Kappa,0,0.0,15
+74656,Romania,2020-08-31,Kappa,0,0.0,79
+74680,Romania,2020-09-14,Kappa,0,0.0,49
+74704,Romania,2020-09-28,Kappa,0,0.0,63
+74728,Romania,2020-10-12,Kappa,0,0.0,20
+74752,Romania,2020-10-26,Kappa,0,0.0,54
+74776,Romania,2020-11-09,Kappa,0,0.0,84
+74800,Romania,2020-11-23,Kappa,0,0.0,136
+74824,Romania,2020-12-07,Kappa,0,0.0,171
+74848,Romania,2020-12-21,Kappa,0,0.0,101
+74872,Romania,2021-01-04,Kappa,0,0.0,96
+74896,Romania,2021-01-11,Kappa,0,0.0,67
+74920,Romania,2021-01-25,Kappa,0,0.0,92
+74944,Romania,2021-02-08,Kappa,0,0.0,168
+74968,Romania,2021-02-22,Kappa,0,0.0,166
+74992,Romania,2021-03-08,Kappa,0,0.0,269
+75016,Romania,2021-03-22,Kappa,0,0.0,260
+75040,Romania,2021-04-05,Kappa,0,0.0,297
+75064,Romania,2021-04-19,Kappa,0,0.0,186
+75088,Romania,2021-05-03,Kappa,0,0.0,131
+75112,Romania,2021-05-17,Kappa,1,0.6,167
+75136,Romania,2021-05-31,Kappa,0,0.0,152
+75160,Romania,2021-06-14,Kappa,0,0.0,119
+75184,Romania,2021-06-28,Kappa,0,0.0,72
+75208,Romania,2021-07-12,Kappa,0,0.0,58
+75232,Romania,2021-07-26,Kappa,0,0.0,97
+75256,Romania,2021-08-09,Kappa,0,0.0,262
+75280,Romania,2021-08-23,Kappa,0,0.0,281
+75304,Romania,2021-09-06,Kappa,0,0.0,587
+75328,Romania,2021-09-20,Kappa,0,0.0,1056
+75352,Romania,2021-10-04,Kappa,0,0.0,985
+75376,Romania,2021-10-18,Kappa,0,0.0,884
+75400,Romania,2021-11-01,Kappa,0,0.0,612
+75424,Romania,2021-11-15,Kappa,0,0.0,229
+75448,Romania,2021-11-29,Kappa,0,0.0,132
+75472,Romania,2021-12-13,Kappa,0,0.0,86
+75496,Romania,2021-12-27,Kappa,0,0.0,83
+75520,Russia,2020-05-11,Kappa,0,0.0,65
+75544,Russia,2020-05-25,Kappa,0,0.0,122
+75568,Russia,2020-06-08,Kappa,0,0.0,154
+75592,Russia,2020-06-22,Kappa,0,0.0,63
+75616,Russia,2020-07-06,Kappa,0,0.0,37
+75640,Russia,2020-07-20,Kappa,0,0.0,77
+75664,Russia,2020-08-03,Kappa,0,0.0,53
+75688,Russia,2020-08-17,Kappa,0,0.0,59
+75712,Russia,2020-08-31,Kappa,0,0.0,73
+75736,Russia,2020-09-14,Kappa,0,0.0,134
+75760,Russia,2020-09-28,Kappa,0,0.0,228
+75784,Russia,2020-10-12,Kappa,0,0.0,228
+75808,Russia,2020-10-26,Kappa,0,0.0,104
+75832,Russia,2020-11-09,Kappa,0,0.0,91
+75856,Russia,2020-11-23,Kappa,0,0.0,275
+75880,Russia,2020-12-07,Kappa,0,0.0,145
+75904,Russia,2020-12-21,Kappa,0,0.0,188
+75928,Russia,2021-01-04,Kappa,0,0.0,247
+75952,Russia,2021-01-11,Kappa,0,0.0,48
+75976,Russia,2021-01-25,Kappa,0,0.0,74
+76000,Russia,2021-02-08,Kappa,0,0.0,19
+76024,Russia,2021-02-22,Kappa,0,0.0,304
+76048,Russia,2021-03-08,Kappa,0,0.0,196
+76072,Russia,2021-03-22,Kappa,0,0.0,263
+76096,Russia,2021-04-05,Kappa,0,0.0,220
+76120,Russia,2021-04-19,Kappa,1,0.32,313
+76144,Russia,2021-05-03,Kappa,0,0.0,313
+76168,Russia,2021-05-17,Kappa,0,0.0,291
+76192,Russia,2021-05-31,Kappa,0,0.0,511
+76216,Russia,2021-06-14,Kappa,0,0.0,904
+76240,Russia,2021-06-28,Kappa,0,0.0,543
+76264,Russia,2021-07-12,Kappa,0,0.0,665
+76288,Russia,2021-07-26,Kappa,0,0.0,214
+76312,Russia,2021-08-09,Kappa,0,0.0,256
+76336,Russia,2021-08-23,Kappa,0,0.0,227
+76360,Russia,2021-09-06,Kappa,0,0.0,277
+76384,Russia,2021-09-20,Kappa,0,0.0,380
+76408,Russia,2021-10-04,Kappa,0,0.0,425
+76432,Russia,2021-10-18,Kappa,0,0.0,707
+76456,Russia,2021-11-01,Kappa,0,0.0,913
+76480,Russia,2021-11-15,Kappa,0,0.0,511
+76504,Russia,2021-11-29,Kappa,0,0.0,316
+76528,Russia,2021-12-13,Kappa,0,0.0,151
+76552,Russia,2021-12-27,Kappa,0,0.0,155
+76576,Rwanda,2020-06-08,Kappa,0,0.0,1
+76600,Rwanda,2020-06-22,Kappa,0,0.0,8
+76624,Rwanda,2020-07-20,Kappa,0,0.0,4
+76648,Rwanda,2020-08-03,Kappa,0,0.0,4
+76672,Rwanda,2020-08-17,Kappa,0,0.0,11
+76696,Rwanda,2020-08-31,Kappa,0,0.0,59
+76720,Rwanda,2020-09-14,Kappa,0,0.0,5
+76744,Rwanda,2020-10-26,Kappa,0,0.0,10
+76768,Rwanda,2020-11-09,Kappa,0,0.0,8
+76792,Rwanda,2020-12-07,Kappa,0,0.0,2
+76816,Rwanda,2020-12-21,Kappa,0,0.0,47
+76840,Rwanda,2021-01-04,Kappa,0,0.0,25
+76864,Rwanda,2021-01-11,Kappa,0,0.0,19
+76888,Rwanda,2021-01-25,Kappa,0,0.0,56
+76912,Rwanda,2021-02-08,Kappa,0,0.0,21
+76936,Rwanda,2021-02-22,Kappa,0,0.0,21
+76960,Rwanda,2021-03-08,Kappa,0,0.0,10
+76984,Rwanda,2021-03-22,Kappa,0,0.0,4
+77008,Rwanda,2021-04-05,Kappa,0,0.0,21
+77032,Rwanda,2021-04-19,Kappa,0,0.0,6
+77056,Rwanda,2021-05-03,Kappa,0,0.0,5
+77080,Rwanda,2021-05-17,Kappa,0,0.0,8
+77104,Rwanda,2021-05-31,Kappa,0,0.0,4
+77128,Rwanda,2021-06-14,Kappa,0,0.0,6
+77152,Rwanda,2021-06-28,Kappa,0,0.0,119
+77176,Rwanda,2021-07-12,Kappa,0,0.0,59
+77200,Rwanda,2021-07-26,Kappa,0,0.0,21
+77224,Rwanda,2021-08-09,Kappa,0,0.0,56
+77248,Rwanda,2021-08-23,Kappa,0,0.0,12
+77272,Rwanda,2021-09-06,Kappa,0,0.0,40
+77296,Rwanda,2021-09-20,Kappa,0,0.0,5
+77320,Rwanda,2021-10-04,Kappa,0,0.0,5
+77344,Rwanda,2021-11-01,Kappa,0,0.0,7
+77368,Senegal,2020-06-08,Kappa,0,0.0,13
+77392,Senegal,2020-06-22,Kappa,0,0.0,62
+77416,Senegal,2020-07-06,Kappa,0,0.0,8
+77440,Senegal,2020-07-20,Kappa,0,0.0,12
+77464,Senegal,2020-08-03,Kappa,0,0.0,19
+77488,Senegal,2020-08-17,Kappa,0,0.0,20
+77512,Senegal,2020-08-31,Kappa,0,0.0,5
+77536,Senegal,2020-09-14,Kappa,0,0.0,4
+77560,Senegal,2020-09-28,Kappa,0,0.0,3
+77584,Senegal,2020-10-26,Kappa,0,0.0,1
+77608,Senegal,2020-12-21,Kappa,0,0.0,12
+77632,Senegal,2021-01-04,Kappa,0,0.0,83
+77656,Senegal,2021-01-11,Kappa,0,0.0,50
+77680,Senegal,2021-01-25,Kappa,0,0.0,43
+77704,Senegal,2021-02-08,Kappa,0,0.0,37
+77728,Senegal,2021-02-22,Kappa,0,0.0,7
+77752,Senegal,2021-03-08,Kappa,0,0.0,10
+77776,Senegal,2021-03-22,Kappa,0,0.0,5
+77800,Senegal,2021-04-05,Kappa,0,0.0,17
+77824,Senegal,2021-04-19,Kappa,0,0.0,5
+77848,Senegal,2021-05-03,Kappa,0,0.0,2
+77872,Senegal,2021-05-17,Kappa,0,0.0,6
+77896,Senegal,2021-05-31,Kappa,0,0.0,3
+77920,Senegal,2021-06-14,Kappa,0,0.0,50
+77944,Senegal,2021-06-28,Kappa,0,0.0,1
+77968,Senegal,2021-07-12,Kappa,0,0.0,3
+77992,Senegal,2021-07-26,Kappa,0,0.0,47
+78016,Senegal,2021-08-09,Kappa,0,0.0,43
+78040,Senegal,2021-08-23,Kappa,0,0.0,16
+78064,Senegal,2021-09-06,Kappa,0,0.0,23
+78088,Senegal,2021-09-20,Kappa,0,0.0,1
+78112,Senegal,2021-10-04,Kappa,0,0.0,5
+78136,Senegal,2021-10-18,Kappa,0,0.0,5
+78160,Senegal,2021-11-01,Kappa,0,0.0,17
+78184,Senegal,2021-11-15,Kappa,0,0.0,9
+78208,Senegal,2021-11-29,Kappa,0,0.0,6
+78232,Senegal,2021-12-13,Kappa,0,0.0,22
+78256,Senegal,2021-12-27,Kappa,0,0.0,20
+78280,Serbia,2020-05-11,Kappa,0,0.0,30
+78304,Serbia,2020-05-25,Kappa,0,0.0,8
+78328,Serbia,2020-06-08,Kappa,0,0.0,3
+78352,Serbia,2020-06-22,Kappa,0,0.0,11
+78376,Serbia,2020-07-06,Kappa,0,0.0,13
+78400,Serbia,2020-07-20,Kappa,0,0.0,27
+78424,Serbia,2020-08-03,Kappa,0,0.0,32
+78448,Serbia,2020-08-17,Kappa,0,0.0,21
+78472,Serbia,2020-08-31,Kappa,0,0.0,3
+78496,Serbia,2020-09-14,Kappa,0,0.0,1
+78520,Serbia,2020-09-28,Kappa,0,0.0,14
+78544,Serbia,2020-10-12,Kappa,0,0.0,30
+78568,Serbia,2020-10-26,Kappa,0,0.0,18
+78592,Serbia,2020-11-09,Kappa,0,0.0,7
+78616,Serbia,2020-11-23,Kappa,0,0.0,14
+78640,Serbia,2020-12-07,Kappa,0,0.0,6
+78664,Serbia,2020-12-21,Kappa,0,0.0,9
+78688,Serbia,2021-01-04,Kappa,0,0.0,16
+78712,Serbia,2021-01-11,Kappa,0,0.0,14
+78736,Serbia,2021-01-25,Kappa,0,0.0,6
+78760,Serbia,2021-02-08,Kappa,0,0.0,14
+78784,Serbia,2021-02-22,Kappa,0,0.0,12
+78808,Serbia,2021-03-08,Kappa,0,0.0,17
+78832,Serbia,2021-03-22,Kappa,0,0.0,11
+78856,Serbia,2021-04-05,Kappa,0,0.0,1
+78880,Serbia,2021-04-19,Kappa,0,0.0,8
+78904,Serbia,2021-05-03,Kappa,0,0.0,14
+78928,Serbia,2021-05-17,Kappa,0,0.0,29
+78952,Serbia,2021-05-31,Kappa,0,0.0,18
+78976,Serbia,2021-06-14,Kappa,0,0.0,5
+79000,Serbia,2021-06-28,Kappa,0,0.0,1
+79024,Serbia,2021-07-12,Kappa,0,0.0,15
+79048,Serbia,2021-07-26,Kappa,0,0.0,15
+79072,Serbia,2021-08-09,Kappa,0,0.0,5
+79096,Serbia,2021-08-23,Kappa,0,0.0,2
+79120,Serbia,2021-09-06,Kappa,0,0.0,12
+79144,Serbia,2021-09-20,Kappa,0,0.0,1
+79168,Serbia,2021-10-18,Kappa,0,0.0,14
+79192,Seychelles,2020-07-06,Kappa,0,0.0,2
+79216,Seychelles,2020-09-28,Kappa,0,0.0,1
+79240,Seychelles,2020-10-12,Kappa,0,0.0,1
+79264,Seychelles,2021-01-04,Kappa,0,0.0,1
+79288,Seychelles,2021-01-11,Kappa,0,0.0,4
+79312,Seychelles,2021-02-08,Kappa,0,0.0,2
+79336,Seychelles,2021-02-22,Kappa,0,0.0,1
+79360,Seychelles,2021-04-19,Kappa,0,0.0,1
+79384,Seychelles,2021-05-03,Kappa,1,33.33,3
+79408,Seychelles,2021-05-17,Kappa,0,0.0,2
+79432,Seychelles,2021-05-31,Kappa,0,0.0,44
+79456,Seychelles,2021-06-14,Kappa,0,0.0,54
+79480,Seychelles,2021-06-28,Kappa,0,0.0,15
+79504,Seychelles,2021-07-12,Kappa,0,0.0,4
+79528,Seychelles,2021-07-26,Kappa,0,0.0,10
+79552,Seychelles,2021-08-09,Kappa,0,0.0,23
+79576,Seychelles,2021-08-23,Kappa,0,0.0,97
+79600,Seychelles,2021-09-06,Kappa,0,0.0,57
+79624,Seychelles,2021-09-20,Kappa,0,0.0,83
+79648,Seychelles,2021-10-04,Kappa,0,0.0,59
+79672,Seychelles,2021-10-18,Kappa,0,0.0,58
+79696,Seychelles,2021-11-01,Kappa,0,0.0,21
+79720,Singapore,2020-05-11,Kappa,0,0.0,112
+79744,Singapore,2020-05-25,Kappa,0,0.0,72
+79768,Singapore,2020-06-08,Kappa,0,0.0,61
+79792,Singapore,2020-06-22,Kappa,0,0.0,48
+79816,Singapore,2020-07-06,Kappa,0,0.0,74
+79840,Singapore,2020-07-20,Kappa,0,0.0,73
+79864,Singapore,2020-08-03,Kappa,0,0.0,22
+79888,Singapore,2020-08-17,Kappa,0,0.0,18
+79912,Singapore,2020-08-31,Kappa,0,0.0,28
+79936,Singapore,2020-09-14,Kappa,0,0.0,24
+79960,Singapore,2020-09-28,Kappa,0,0.0,11
+79984,Singapore,2020-10-12,Kappa,0,0.0,27
+80008,Singapore,2020-10-26,Kappa,0,0.0,24
+80032,Singapore,2020-11-09,Kappa,0,0.0,23
+80056,Singapore,2020-11-23,Kappa,0,0.0,26
+80080,Singapore,2020-12-07,Kappa,0,0.0,24
+80104,Singapore,2020-12-21,Kappa,0,0.0,36
+80128,Singapore,2021-01-04,Kappa,0,0.0,61
+80152,Singapore,2021-01-11,Kappa,0,0.0,37
+80176,Singapore,2021-01-25,Kappa,0,0.0,67
+80200,Singapore,2021-02-08,Kappa,0,0.0,74
+80224,Singapore,2021-02-22,Kappa,0,0.0,42
+80248,Singapore,2021-03-08,Kappa,1,3.23,31
+80272,Singapore,2021-03-22,Kappa,1,2.22,45
+80296,Singapore,2021-04-05,Kappa,15,9.15,164
+80320,Singapore,2021-04-19,Kappa,26,13.83,188
+80344,Singapore,2021-05-03,Kappa,13,6.81,191
+80368,Singapore,2021-05-17,Kappa,3,1.36,220
+80392,Singapore,2021-05-31,Kappa,0,0.0,330
+80416,Singapore,2021-06-14,Kappa,0,0.0,178
+80440,Singapore,2021-06-28,Kappa,0,0.0,217
+80464,Singapore,2021-07-12,Kappa,0,0.0,75
+80488,Singapore,2021-07-26,Kappa,0,0.0,836
+80512,Singapore,2021-08-09,Kappa,0,0.0,864
+80536,Singapore,2021-08-23,Kappa,0,0.0,643
+80560,Singapore,2021-09-06,Kappa,0,0.0,1007
+80584,Singapore,2021-09-20,Kappa,0,0.0,700
+80608,Singapore,2021-10-04,Kappa,0,0.0,611
+80632,Singapore,2021-10-18,Kappa,0,0.0,571
+80656,Singapore,2021-11-01,Kappa,0,0.0,537
+80680,Singapore,2021-11-15,Kappa,0,0.0,542
+80704,Singapore,2021-11-29,Kappa,0,0.0,466
+80728,Singapore,2021-12-13,Kappa,0,0.0,424
+80752,Singapore,2021-12-27,Kappa,0,0.0,499
+80776,Sint Maarten (Dutch part),2021-01-25,Kappa,0,0.0,10
+80800,Sint Maarten (Dutch part),2021-02-22,Kappa,0,0.0,40
+80824,Sint Maarten (Dutch part),2021-03-08,Kappa,0,0.0,5
+80848,Sint Maarten (Dutch part),2021-03-22,Kappa,1,14.29,7
+80872,Sint Maarten (Dutch part),2021-04-05,Kappa,1,2.5,40
+80896,Sint Maarten (Dutch part),2021-04-19,Kappa,0,0.0,20
+80920,Sint Maarten (Dutch part),2021-05-03,Kappa,0,0.0,33
+80944,Sint Maarten (Dutch part),2021-05-17,Kappa,0,0.0,28
+80968,Sint Maarten (Dutch part),2021-05-31,Kappa,0,0.0,111
+80992,Sint Maarten (Dutch part),2021-06-14,Kappa,0,0.0,51
+81016,Sint Maarten (Dutch part),2021-06-28,Kappa,0,0.0,68
+81040,Sint Maarten (Dutch part),2021-07-12,Kappa,0,0.0,39
+81064,Sint Maarten (Dutch part),2021-07-26,Kappa,0,0.0,67
+81088,Sint Maarten (Dutch part),2021-08-09,Kappa,0,0.0,147
+81112,Sint Maarten (Dutch part),2021-08-23,Kappa,0,0.0,425
+81136,Sint Maarten (Dutch part),2021-09-06,Kappa,0,0.0,284
+81160,Sint Maarten (Dutch part),2021-09-20,Kappa,0,0.0,148
+81184,Sint Maarten (Dutch part),2021-10-04,Kappa,0,0.0,153
+81208,Sint Maarten (Dutch part),2021-10-18,Kappa,0,0.0,34
+81232,Sint Maarten (Dutch part),2021-11-01,Kappa,0,0.0,39
+81256,Sint Maarten (Dutch part),2021-11-15,Kappa,0,0.0,17
+81280,Sint Maarten (Dutch part),2021-11-29,Kappa,0,0.0,20
+81304,Sint Maarten (Dutch part),2021-12-13,Kappa,0,0.0,12
+81328,Slovakia,2020-05-11,Kappa,0,0.0,3
+81352,Slovakia,2020-05-25,Kappa,0,0.0,1
+81376,Slovakia,2020-07-06,Kappa,0,0.0,2
+81400,Slovakia,2020-07-20,Kappa,0,0.0,1
+81424,Slovakia,2020-08-03,Kappa,0,0.0,1
+81448,Slovakia,2020-08-17,Kappa,0,0.0,2
+81472,Slovakia,2020-08-31,Kappa,0,0.0,1
+81496,Slovakia,2020-09-14,Kappa,0,0.0,4
+81520,Slovakia,2020-09-28,Kappa,0,0.0,6
+81544,Slovakia,2020-10-12,Kappa,0,0.0,1
+81568,Slovakia,2020-10-26,Kappa,0,0.0,1
+81592,Slovakia,2020-11-09,Kappa,0,0.0,1
+81616,Slovakia,2020-11-23,Kappa,0,0.0,15
+81640,Slovakia,2020-12-07,Kappa,0,0.0,55
+81664,Slovakia,2020-12-21,Kappa,0,0.0,1
+81688,Slovakia,2021-01-04,Kappa,0,0.0,96
+81712,Slovakia,2021-01-11,Kappa,0,0.0,52
+81736,Slovakia,2021-01-25,Kappa,0,0.0,30
+81760,Slovakia,2021-02-08,Kappa,0,0.0,117
+81784,Slovakia,2021-02-22,Kappa,0,0.0,62
+81808,Slovakia,2021-03-08,Kappa,0,0.0,437
+81832,Slovakia,2021-03-22,Kappa,0,0.0,583
+81856,Slovakia,2021-04-05,Kappa,0,0.0,660
+81880,Slovakia,2021-04-19,Kappa,0,0.0,616
+81904,Slovakia,2021-05-03,Kappa,1,0.3,337
+81928,Slovakia,2021-05-17,Kappa,0,0.0,338
+81952,Slovakia,2021-05-31,Kappa,0,0.0,691
+81976,Slovakia,2021-06-14,Kappa,0,0.0,594
+82000,Slovakia,2021-06-28,Kappa,0,0.0,249
+82024,Slovakia,2021-07-12,Kappa,0,0.0,242
+82048,Slovakia,2021-07-26,Kappa,0,0.0,271
+82072,Slovakia,2021-08-09,Kappa,0,0.0,372
+82096,Slovakia,2021-08-23,Kappa,0,0.0,619
+82120,Slovakia,2021-09-06,Kappa,0,0.0,782
+82144,Slovakia,2021-09-20,Kappa,0,0.0,1205
+82168,Slovakia,2021-10-04,Kappa,0,0.0,845
+82192,Slovakia,2021-10-18,Kappa,0,0.0,1710
+82216,Slovakia,2021-11-01,Kappa,0,0.0,1733
+82240,Slovakia,2021-11-15,Kappa,0,0.0,2290
+82264,Slovakia,2021-11-29,Kappa,0,0.0,1254
+82288,Slovakia,2021-12-13,Kappa,0,0.0,1289
+82312,Slovakia,2021-12-27,Kappa,0,0.0,79
+82336,Slovenia,2020-05-11,Kappa,0,0.0,4
+82360,Slovenia,2020-06-08,Kappa,0,0.0,4
+82384,Slovenia,2020-06-22,Kappa,0,0.0,11
+82408,Slovenia,2020-07-06,Kappa,0,0.0,52
+82432,Slovenia,2020-07-20,Kappa,0,0.0,58
+82456,Slovenia,2020-08-03,Kappa,0,0.0,65
+82480,Slovenia,2020-08-17,Kappa,0,0.0,76
+82504,Slovenia,2020-08-31,Kappa,0,0.0,101
+82528,Slovenia,2020-09-14,Kappa,0,0.0,176
+82552,Slovenia,2020-09-28,Kappa,0,0.0,168
+82576,Slovenia,2020-10-12,Kappa,0,0.0,341
+82600,Slovenia,2020-10-26,Kappa,0,0.0,355
+82624,Slovenia,2020-11-09,Kappa,0,0.0,889
+82648,Slovenia,2020-11-23,Kappa,0,0.0,131
+82672,Slovenia,2020-12-07,Kappa,0,0.0,968
+82696,Slovenia,2020-12-21,Kappa,0,0.0,888
+82720,Slovenia,2021-01-04,Kappa,0,0.0,442
+82744,Slovenia,2021-01-11,Kappa,0,0.0,657
+82768,Slovenia,2021-01-25,Kappa,0,0.0,362
+82792,Slovenia,2021-02-08,Kappa,0,0.0,1577
+82816,Slovenia,2021-02-22,Kappa,0,0.0,1288
+82840,Slovenia,2021-03-08,Kappa,0,0.0,1458
+82864,Slovenia,2021-03-22,Kappa,0,0.0,1303
+82888,Slovenia,2021-04-05,Kappa,0,0.0,1656
+82912,Slovenia,2021-04-19,Kappa,3,0.15,2046
+82936,Slovenia,2021-05-03,Kappa,0,0.0,1979
+82960,Slovenia,2021-05-17,Kappa,0,0.0,1267
+82984,Slovenia,2021-05-31,Kappa,0,0.0,699
+83008,Slovenia,2021-06-14,Kappa,0,0.0,658
+83032,Slovenia,2021-06-28,Kappa,0,0.0,385
+83056,Slovenia,2021-07-12,Kappa,0,0.0,474
+83080,Slovenia,2021-07-26,Kappa,0,0.0,749
+83104,Slovenia,2021-08-09,Kappa,0,0.0,1341
+83128,Slovenia,2021-08-23,Kappa,0,0.0,2022
+83152,Slovenia,2021-09-06,Kappa,0,0.0,2598
+83176,Slovenia,2021-09-20,Kappa,0,0.0,2162
+83200,Slovenia,2021-10-04,Kappa,0,0.0,2328
+83224,Slovenia,2021-10-18,Kappa,0,0.0,2736
+83248,Slovenia,2021-11-01,Kappa,0,0.0,2786
+83272,Slovenia,2021-11-15,Kappa,0,0.0,2276
+83296,Slovenia,2021-11-29,Kappa,0,0.0,2620
+83320,Slovenia,2021-12-13,Kappa,0,0.0,1520
+83344,South Africa,2020-05-11,Kappa,0,0.0,135
+83368,South Africa,2020-05-25,Kappa,0,0.0,93
+83392,South Africa,2020-06-08,Kappa,0,0.0,105
+83416,South Africa,2020-06-22,Kappa,0,0.0,190
+83440,South Africa,2020-07-06,Kappa,0,0.0,290
+83464,South Africa,2020-07-20,Kappa,0,0.0,470
+83488,South Africa,2020-08-03,Kappa,0,0.0,551
+83512,South Africa,2020-08-17,Kappa,0,0.0,220
+83536,South Africa,2020-08-31,Kappa,0,0.0,129
+83560,South Africa,2020-09-14,Kappa,0,0.0,356
+83584,South Africa,2020-09-28,Kappa,0,0.0,223
+83608,South Africa,2020-10-12,Kappa,0,0.0,304
+83632,South Africa,2020-10-26,Kappa,0,0.0,358
+83656,South Africa,2020-11-09,Kappa,0,0.0,478
+83680,South Africa,2020-11-23,Kappa,0,0.0,418
+83704,South Africa,2020-12-07,Kappa,0,0.0,488
+83728,South Africa,2020-12-21,Kappa,0,0.0,546
+83752,South Africa,2021-01-04,Kappa,0,0.0,874
+83776,South Africa,2021-01-11,Kappa,0,0.0,668
+83800,South Africa,2021-01-25,Kappa,0,0.0,566
+83824,South Africa,2021-02-08,Kappa,0,0.0,393
+83848,South Africa,2021-02-22,Kappa,0,0.0,296
+83872,South Africa,2021-03-08,Kappa,0,0.0,225
+83896,South Africa,2021-03-22,Kappa,0,0.0,448
+83920,South Africa,2021-04-05,Kappa,0,0.0,324
+83944,South Africa,2021-04-19,Kappa,0,0.0,250
+83968,South Africa,2021-05-03,Kappa,1,0.26,390
+83992,South Africa,2021-05-17,Kappa,0,0.0,545
+84016,South Africa,2021-05-31,Kappa,1,0.15,646
+84040,South Africa,2021-06-14,Kappa,10,0.91,1101
+84064,South Africa,2021-06-28,Kappa,1,0.06,1661
+84088,South Africa,2021-07-12,Kappa,1,0.04,2226
+84112,South Africa,2021-07-26,Kappa,1,0.06,1667
+84136,South Africa,2021-08-09,Kappa,1,0.06,1601
+84160,South Africa,2021-08-23,Kappa,0,0.0,1242
+84184,South Africa,2021-09-06,Kappa,0,0.0,1269
+84208,South Africa,2021-09-20,Kappa,0,0.0,925
+84232,South Africa,2021-10-04,Kappa,0,0.0,522
+84256,South Africa,2021-10-18,Kappa,0,0.0,453
+84280,South Africa,2021-11-01,Kappa,0,0.0,209
+84304,South Africa,2021-11-15,Kappa,0,0.0,116
+84328,South Africa,2021-11-29,Kappa,0,0.0,829
+84352,South Africa,2021-12-13,Kappa,0,0.0,1121
+84376,South Africa,2021-12-27,Kappa,0,0.0,65
+84400,South Korea,2020-05-11,Kappa,0,0.0,48
+84424,South Korea,2020-05-25,Kappa,0,0.0,64
+84448,South Korea,2020-06-08,Kappa,0,0.0,165
+84472,South Korea,2020-06-22,Kappa,0,0.0,108
+84496,South Korea,2020-07-06,Kappa,0,0.0,159
+84520,South Korea,2020-07-20,Kappa,0,0.0,110
+84544,South Korea,2020-08-03,Kappa,0,0.0,98
+84568,South Korea,2020-08-17,Kappa,0,0.0,123
+84592,South Korea,2020-08-31,Kappa,0,0.0,176
+84616,South Korea,2020-09-14,Kappa,0,0.0,64
+84640,South Korea,2020-09-28,Kappa,0,0.0,63
+84664,South Korea,2020-10-12,Kappa,0,0.0,57
+84688,South Korea,2020-10-26,Kappa,0,0.0,84
+84712,South Korea,2020-11-09,Kappa,0,0.0,77
+84736,South Korea,2020-11-23,Kappa,0,0.0,171
+84760,South Korea,2020-12-07,Kappa,0,0.0,160
+84784,South Korea,2020-12-21,Kappa,0,0.0,178
+84808,South Korea,2021-01-04,Kappa,0,0.0,187
+84832,South Korea,2021-01-11,Kappa,0,0.0,72
+84856,South Korea,2021-01-25,Kappa,0,0.0,146
+84880,South Korea,2021-02-08,Kappa,0,0.0,197
+84904,South Korea,2021-02-22,Kappa,0,0.0,242
+84928,South Korea,2021-03-08,Kappa,0,0.0,258
+84952,South Korea,2021-03-22,Kappa,0,0.0,271
+84976,South Korea,2021-04-05,Kappa,2,0.62,324
+85000,South Korea,2021-04-19,Kappa,7,1.72,408
+85024,South Korea,2021-05-03,Kappa,3,0.57,530
+85048,South Korea,2021-05-17,Kappa,0,0.0,223
+85072,South Korea,2021-05-31,Kappa,0,0.0,210
+85096,South Korea,2021-06-14,Kappa,0,0.0,473
+85120,South Korea,2021-06-28,Kappa,0,0.0,575
+85144,South Korea,2021-07-12,Kappa,0,0.0,715
+85168,South Korea,2021-07-26,Kappa,0,0.0,1062
+85192,South Korea,2021-08-09,Kappa,0,0.0,960
+85216,South Korea,2021-08-23,Kappa,0,0.0,909
+85240,South Korea,2021-09-06,Kappa,0,0.0,1318
+85264,South Korea,2021-09-20,Kappa,0,0.0,1216
+85288,South Korea,2021-10-04,Kappa,0,0.0,943
+85312,South Korea,2021-10-18,Kappa,0,0.0,1137
+85336,South Korea,2021-11-01,Kappa,0,0.0,1562
+85360,South Korea,2021-11-15,Kappa,0,0.0,1574
+85384,South Korea,2021-11-29,Kappa,0,0.0,1368
+85408,South Korea,2021-12-13,Kappa,0,0.0,1620
+85432,South Korea,2021-12-27,Kappa,0,0.0,393
+85456,Spain,2020-05-11,Kappa,0,0.0,180
+85480,Spain,2020-05-25,Kappa,0,0.0,95
+85504,Spain,2020-06-08,Kappa,0,0.0,63
+85528,Spain,2020-06-22,Kappa,0,0.0,73
+85552,Spain,2020-07-06,Kappa,0,0.0,140
+85576,Spain,2020-07-20,Kappa,0,0.0,149
+85600,Spain,2020-08-03,Kappa,0,0.0,170
+85624,Spain,2020-08-17,Kappa,0,0.0,251
+85648,Spain,2020-08-31,Kappa,0,0.0,281
+85672,Spain,2020-09-14,Kappa,0,0.0,444
+85696,Spain,2020-09-28,Kappa,0,0.0,488
+85720,Spain,2020-10-12,Kappa,0,0.0,513
+85744,Spain,2020-10-26,Kappa,0,0.0,478
+85768,Spain,2020-11-09,Kappa,0,0.0,360
+85792,Spain,2020-11-23,Kappa,0,0.0,409
+85816,Spain,2020-12-07,Kappa,0,0.0,471
+85840,Spain,2020-12-21,Kappa,0,0.0,967
+85864,Spain,2021-01-04,Kappa,0,0.0,1095
+85888,Spain,2021-01-11,Kappa,0,0.0,632
+85912,Spain,2021-01-25,Kappa,0,0.0,2620
+85936,Spain,2021-02-08,Kappa,0,0.0,3043
+85960,Spain,2021-02-22,Kappa,0,0.0,2628
+85984,Spain,2021-03-08,Kappa,0,0.0,2674
+86008,Spain,2021-03-22,Kappa,0,0.0,2431
+86032,Spain,2021-04-05,Kappa,0,0.0,2788
+86056,Spain,2021-04-19,Kappa,0,0.0,2957
+86080,Spain,2021-05-03,Kappa,1,0.04,2815
+86104,Spain,2021-05-17,Kappa,3,0.09,3341
+86128,Spain,2021-05-31,Kappa,1,0.04,2613
+86152,Spain,2021-06-14,Kappa,0,0.0,3221
+86176,Spain,2021-06-28,Kappa,0,0.0,3000
+86200,Spain,2021-07-12,Kappa,0,0.0,5987
+86224,Spain,2021-07-26,Kappa,0,0.0,5278
+86248,Spain,2021-08-09,Kappa,0,0.0,5388
+86272,Spain,2021-08-23,Kappa,0,0.0,3647
+86296,Spain,2021-09-06,Kappa,0,0.0,3246
+86320,Spain,2021-09-20,Kappa,0,0.0,2186
+86344,Spain,2021-10-04,Kappa,0,0.0,1510
+86368,Spain,2021-10-18,Kappa,0,0.0,1213
+86392,Spain,2021-11-01,Kappa,0,0.0,1559
+86416,Spain,2021-11-15,Kappa,0,0.0,1713
+86440,Spain,2021-11-29,Kappa,0,0.0,2010
+86464,Spain,2021-12-13,Kappa,0,0.0,2121
+86488,Spain,2021-12-27,Kappa,0,0.0,991
+86512,Sri Lanka,2020-05-11,Kappa,0,0.0,1
+86536,Sri Lanka,2020-06-22,Kappa,0,0.0,1
+86560,Sri Lanka,2020-08-03,Kappa,0,0.0,4
+86584,Sri Lanka,2020-10-12,Kappa,0,0.0,3
+86608,Sri Lanka,2020-10-26,Kappa,0,0.0,11
+86632,Sri Lanka,2020-11-09,Kappa,0,0.0,8
+86656,Sri Lanka,2020-11-23,Kappa,0,0.0,2
+86680,Sri Lanka,2020-12-07,Kappa,0,0.0,6
+86704,Sri Lanka,2020-12-21,Kappa,0,0.0,1
+86728,Sri Lanka,2021-01-04,Kappa,0,0.0,10
+86752,Sri Lanka,2021-01-11,Kappa,0,0.0,3
+86776,Sri Lanka,2021-01-25,Kappa,0,0.0,54
+86800,Sri Lanka,2021-02-08,Kappa,0,0.0,69
+86824,Sri Lanka,2021-02-22,Kappa,0,0.0,52
+86848,Sri Lanka,2021-03-08,Kappa,0,0.0,24
+86872,Sri Lanka,2021-03-22,Kappa,0,0.0,48
+86896,Sri Lanka,2021-04-05,Kappa,0,0.0,12
+86920,Sri Lanka,2021-04-19,Kappa,0,0.0,8
+86944,Sri Lanka,2021-05-03,Kappa,0,0.0,66
+86968,Sri Lanka,2021-05-17,Kappa,0,0.0,44
+86992,Sri Lanka,2021-05-31,Kappa,0,0.0,43
+87016,Sri Lanka,2021-06-14,Kappa,0,0.0,61
+87040,Sri Lanka,2021-06-28,Kappa,0,0.0,142
+87064,Sri Lanka,2021-07-12,Kappa,0,0.0,71
+87088,Sri Lanka,2021-07-26,Kappa,0,0.0,82
+87112,Sri Lanka,2021-08-09,Kappa,0,0.0,118
+87136,Sri Lanka,2021-08-23,Kappa,0,0.0,103
+87160,Sri Lanka,2021-09-06,Kappa,0,0.0,223
+87184,Sri Lanka,2021-09-20,Kappa,0,0.0,143
+87208,Sri Lanka,2021-10-04,Kappa,0,0.0,83
+87232,Sri Lanka,2021-10-18,Kappa,0,0.0,168
+87256,Sri Lanka,2021-11-01,Kappa,0,0.0,106
+87280,Sri Lanka,2021-11-15,Kappa,0,0.0,84
+87304,Sri Lanka,2021-11-29,Kappa,0,0.0,101
+87328,Sri Lanka,2021-12-13,Kappa,0,0.0,197
+87352,Sri Lanka,2021-12-27,Kappa,0,0.0,191
+87376,Sri Lanka,2022-01-05,Kappa,0,0.0,11
+87400,Suriname,2020-05-11,Kappa,0,0.0,1
+87424,Suriname,2020-06-22,Kappa,0,0.0,3
+87448,Suriname,2020-07-06,Kappa,0,0.0,33
+87472,Suriname,2020-07-20,Kappa,0,0.0,24
+87496,Suriname,2020-08-03,Kappa,0,0.0,2
+87520,Suriname,2020-08-17,Kappa,0,0.0,22
+87544,Suriname,2020-08-31,Kappa,0,0.0,3
+87568,Suriname,2020-12-21,Kappa,0,0.0,10
+87592,Suriname,2021-01-04,Kappa,0,0.0,6
+87616,Suriname,2021-01-25,Kappa,0,0.0,17
+87640,Suriname,2021-02-08,Kappa,0,0.0,8
+87664,Suriname,2021-02-22,Kappa,0,0.0,9
+87688,Suriname,2021-03-08,Kappa,0,0.0,31
+87712,Suriname,2021-03-22,Kappa,0,0.0,13
+87736,Suriname,2021-04-05,Kappa,0,0.0,57
+87760,Suriname,2021-04-19,Kappa,0,0.0,49
+87784,Suriname,2021-05-03,Kappa,0,0.0,23
+87808,Suriname,2021-05-17,Kappa,0,0.0,43
+87832,Suriname,2021-05-31,Kappa,0,0.0,53
+87856,Suriname,2021-06-14,Kappa,0,0.0,37
+87880,Suriname,2021-06-28,Kappa,0,0.0,50
+87904,Suriname,2021-07-12,Kappa,0,0.0,39
+87928,Suriname,2021-07-26,Kappa,0,0.0,35
+87952,Suriname,2021-08-09,Kappa,0,0.0,50
+87976,Suriname,2021-08-23,Kappa,0,0.0,43
+88000,Suriname,2021-09-06,Kappa,0,0.0,57
+88024,Suriname,2021-09-20,Kappa,0,0.0,64
+88048,Suriname,2021-10-04,Kappa,0,0.0,31
+88072,Suriname,2021-10-18,Kappa,0,0.0,39
+88096,Suriname,2021-11-01,Kappa,0,0.0,16
+88120,Suriname,2021-11-15,Kappa,0,0.0,23
+88144,Suriname,2021-11-29,Kappa,0,0.0,17
+88168,Suriname,2021-12-13,Kappa,0,0.0,23
+88192,Sweden,2020-05-11,Kappa,0,0.0,52
+88216,Sweden,2020-05-25,Kappa,0,0.0,81
+88240,Sweden,2020-06-08,Kappa,0,0.0,83
+88264,Sweden,2020-06-22,Kappa,0,0.0,36
+88288,Sweden,2020-07-06,Kappa,0,0.0,43
+88312,Sweden,2020-07-20,Kappa,0,0.0,40
+88336,Sweden,2020-08-03,Kappa,0,0.0,15
+88360,Sweden,2020-08-17,Kappa,0,0.0,41
+88384,Sweden,2020-08-31,Kappa,0,0.0,43
+88408,Sweden,2020-09-14,Kappa,0,0.0,38
+88432,Sweden,2020-09-28,Kappa,0,0.0,54
+88456,Sweden,2020-10-12,Kappa,0,0.0,45
+88480,Sweden,2020-10-26,Kappa,0,0.0,43
+88504,Sweden,2020-11-09,Kappa,0,0.0,125
+88528,Sweden,2020-11-23,Kappa,0,0.0,105
+88552,Sweden,2020-12-07,Kappa,0,0.0,145
+88576,Sweden,2020-12-21,Kappa,0,0.0,174
+88600,Sweden,2021-01-04,Kappa,0,0.0,535
+88624,Sweden,2021-01-11,Kappa,0,0.0,289
+88648,Sweden,2021-01-25,Kappa,0,0.0,2203
+88672,Sweden,2021-02-08,Kappa,0,0.0,5546
+88696,Sweden,2021-02-22,Kappa,0,0.0,9307
+88720,Sweden,2021-03-08,Kappa,0,0.0,11288
+88744,Sweden,2021-03-22,Kappa,0,0.0,13397
+88768,Sweden,2021-04-05,Kappa,3,0.03,10365
+88792,Sweden,2021-04-19,Kappa,2,0.03,7416
+88816,Sweden,2021-05-03,Kappa,0,0.0,6766
+88840,Sweden,2021-05-17,Kappa,0,0.0,7046
+88864,Sweden,2021-05-31,Kappa,0,0.0,5268
+88888,Sweden,2021-06-14,Kappa,0,0.0,3876
+88912,Sweden,2021-06-28,Kappa,0,0.0,3329
+88936,Sweden,2021-07-12,Kappa,0,0.0,2229
+88960,Sweden,2021-07-26,Kappa,0,0.0,3358
+88984,Sweden,2021-08-09,Kappa,0,0.0,4585
+89008,Sweden,2021-08-23,Kappa,0,0.0,6148
+89032,Sweden,2021-09-06,Kappa,0,0.0,5028
+89056,Sweden,2021-09-20,Kappa,0,0.0,4183
+89080,Sweden,2021-10-04,Kappa,0,0.0,3358
+89104,Sweden,2021-10-18,Kappa,0,0.0,2824
+89128,Sweden,2021-11-01,Kappa,0,0.0,4604
+89152,Sweden,2021-11-15,Kappa,0,0.0,4812
+89176,Sweden,2021-11-29,Kappa,0,0.0,4120
+89200,Sweden,2021-12-13,Kappa,0,0.0,3572
+89224,Sweden,2021-12-27,Kappa,0,0.0,1239
+89248,Switzerland,2020-05-11,Kappa,0,0.0,106
+89272,Switzerland,2020-05-25,Kappa,0,0.0,23
+89296,Switzerland,2020-06-08,Kappa,0,0.0,27
+89320,Switzerland,2020-06-22,Kappa,0,0.0,25
+89344,Switzerland,2020-07-06,Kappa,0,0.0,89
+89368,Switzerland,2020-07-20,Kappa,0,0.0,169
+89392,Switzerland,2020-08-03,Kappa,0,0.0,145
+89416,Switzerland,2020-08-17,Kappa,0,0.0,174
+89440,Switzerland,2020-08-31,Kappa,0,0.0,306
+89464,Switzerland,2020-09-14,Kappa,0,0.0,288
+89488,Switzerland,2020-09-28,Kappa,0,0.0,52
+89512,Switzerland,2020-10-12,Kappa,0,0.0,448
+89536,Switzerland,2020-10-26,Kappa,0,0.0,998
+89560,Switzerland,2020-11-09,Kappa,0,0.0,1607
+89584,Switzerland,2020-11-23,Kappa,0,0.0,1685
+89608,Switzerland,2020-12-07,Kappa,0,0.0,1421
+89632,Switzerland,2020-12-21,Kappa,0,0.0,2426
+89656,Switzerland,2021-01-04,Kappa,0,0.0,3229
+89680,Switzerland,2021-01-11,Kappa,0,0.0,1785
+89704,Switzerland,2021-01-25,Kappa,0,0.0,3563
+89728,Switzerland,2021-02-08,Kappa,0,0.0,3053
+89752,Switzerland,2021-02-22,Kappa,0,0.0,1819
+89776,Switzerland,2021-03-08,Kappa,0,0.0,1936
+89800,Switzerland,2021-03-22,Kappa,2,0.08,2524
+89824,Switzerland,2021-04-05,Kappa,2,0.08,2521
+89848,Switzerland,2021-04-19,Kappa,3,0.09,3200
+89872,Switzerland,2021-05-03,Kappa,2,0.05,4034
+89896,Switzerland,2021-05-17,Kappa,1,0.03,2882
+89920,Switzerland,2021-05-31,Kappa,0,0.0,2210
+89944,Switzerland,2021-06-14,Kappa,0,0.0,1108
+89968,Switzerland,2021-06-28,Kappa,0,0.0,479
+89992,Switzerland,2021-07-12,Kappa,0,0.0,963
+90016,Switzerland,2021-07-26,Kappa,0,0.0,2932
+90040,Switzerland,2021-08-09,Kappa,0,0.0,4623
+90064,Switzerland,2021-08-23,Kappa,0,0.0,6633
+90088,Switzerland,2021-09-06,Kappa,0,0.0,4379
+90112,Switzerland,2021-09-20,Kappa,0,0.0,4396
+90136,Switzerland,2021-10-04,Kappa,0,0.0,3784
+90160,Switzerland,2021-10-18,Kappa,0,0.0,3230
+90184,Switzerland,2021-11-01,Kappa,0,0.0,5102
+90208,Switzerland,2021-11-15,Kappa,0,0.0,6584
+90232,Switzerland,2021-11-29,Kappa,0,0.0,6568
+90256,Switzerland,2021-12-13,Kappa,0,0.0,4811
+90280,Switzerland,2021-12-27,Kappa,0,0.0,1330
+90304,Thailand,2020-08-03,Kappa,0,0.0,5
+90328,Thailand,2020-08-31,Kappa,0,0.0,2
+90352,Thailand,2020-09-28,Kappa,0,0.0,2
+90376,Thailand,2020-10-12,Kappa,0,0.0,7
+90400,Thailand,2020-10-26,Kappa,0,0.0,7
+90424,Thailand,2020-11-09,Kappa,0,0.0,6
+90448,Thailand,2020-11-23,Kappa,0,0.0,9
+90472,Thailand,2020-12-07,Kappa,0,0.0,18
+90496,Thailand,2020-12-21,Kappa,0,0.0,76
+90520,Thailand,2021-01-04,Kappa,0,0.0,37
+90544,Thailand,2021-01-11,Kappa,0,0.0,47
+90568,Thailand,2021-01-25,Kappa,0,0.0,33
+90592,Thailand,2021-02-08,Kappa,0,0.0,33
+90616,Thailand,2021-02-22,Kappa,0,0.0,108
+90640,Thailand,2021-03-08,Kappa,0,0.0,29
+90664,Thailand,2021-03-22,Kappa,0,0.0,33
+90688,Thailand,2021-04-05,Kappa,0,0.0,29
+90712,Thailand,2021-04-19,Kappa,0,0.0,129
+90736,Thailand,2021-05-03,Kappa,1,1.01,99
+90760,Thailand,2021-05-17,Kappa,0,0.0,589
+90784,Thailand,2021-05-31,Kappa,0,0.0,613
+90808,Thailand,2021-06-14,Kappa,0,0.0,274
+90832,Thailand,2021-06-28,Kappa,0,0.0,391
+90856,Thailand,2021-07-12,Kappa,0,0.0,208
+90880,Thailand,2021-07-26,Kappa,0,0.0,590
+90904,Thailand,2021-08-09,Kappa,0,0.0,298
+90928,Thailand,2021-08-23,Kappa,0,0.0,310
+90952,Thailand,2021-09-06,Kappa,0,0.0,308
+90976,Thailand,2021-09-20,Kappa,0,0.0,437
+91000,Thailand,2021-10-04,Kappa,0,0.0,807
+91024,Thailand,2021-10-18,Kappa,0,0.0,951
+91048,Thailand,2021-11-01,Kappa,0,0.0,948
+91072,Thailand,2021-11-15,Kappa,0,0.0,586
+91096,Thailand,2021-11-29,Kappa,0,0.0,516
+91120,Thailand,2021-12-13,Kappa,0,0.0,460
+91144,Thailand,2021-12-27,Kappa,0,0.0,23
+91168,Togo,2020-05-25,Kappa,0,0.0,3
+91192,Togo,2020-06-08,Kappa,0,0.0,4
+91216,Togo,2020-07-20,Kappa,0,0.0,2
+91240,Togo,2020-09-28,Kappa,0,0.0,5
+91264,Togo,2020-10-12,Kappa,0,0.0,1
+91288,Togo,2020-11-23,Kappa,0,0.0,1
+91312,Togo,2020-12-07,Kappa,0,0.0,1
+91336,Togo,2020-12-21,Kappa,0,0.0,8
+91360,Togo,2021-01-04,Kappa,0,0.0,5
+91384,Togo,2021-01-25,Kappa,0,0.0,6
+91408,Togo,2021-02-08,Kappa,0,0.0,40
+91432,Togo,2021-02-22,Kappa,0,0.0,40
+91456,Togo,2021-03-08,Kappa,0,0.0,36
+91480,Togo,2021-03-22,Kappa,0,0.0,12
+91504,Togo,2021-04-05,Kappa,0,0.0,8
+91528,Togo,2021-04-19,Kappa,0,0.0,14
+91552,Togo,2021-05-03,Kappa,0,0.0,8
+91576,Togo,2021-06-14,Kappa,0,0.0,25
+91600,Togo,2021-06-28,Kappa,0,0.0,27
+91624,Togo,2021-07-12,Kappa,0,0.0,24
+91648,Togo,2021-07-26,Kappa,0,0.0,24
+91672,Togo,2021-08-09,Kappa,0,0.0,44
+91696,Trinidad and Tobago,2020-06-22,Kappa,0,0.0,1
+91720,Trinidad and Tobago,2020-08-17,Kappa,0,0.0,1
+91744,Trinidad and Tobago,2020-08-31,Kappa,0,0.0,10
+91768,Trinidad and Tobago,2020-09-14,Kappa,0,0.0,5
+91792,Trinidad and Tobago,2020-09-28,Kappa,0,0.0,1
+91816,Trinidad and Tobago,2020-11-09,Kappa,0,0.0,4
+91840,Trinidad and Tobago,2020-11-23,Kappa,0,0.0,1
+91864,Trinidad and Tobago,2020-12-07,Kappa,0,0.0,9
+91888,Trinidad and Tobago,2020-12-21,Kappa,0,0.0,3
+91912,Trinidad and Tobago,2021-01-25,Kappa,0,0.0,1
+91936,Trinidad and Tobago,2021-02-22,Kappa,0,0.0,4
+91960,Trinidad and Tobago,2021-03-08,Kappa,0,0.0,2
+91984,Trinidad and Tobago,2021-03-22,Kappa,0,0.0,6
+92008,Trinidad and Tobago,2021-04-05,Kappa,0,0.0,8
+92032,Trinidad and Tobago,2021-04-19,Kappa,0,0.0,70
+92056,Trinidad and Tobago,2021-05-03,Kappa,0,0.0,197
+92080,Trinidad and Tobago,2021-05-17,Kappa,0,0.0,142
+92104,Trinidad and Tobago,2021-05-31,Kappa,0,0.0,28
+92128,Trinidad and Tobago,2021-06-14,Kappa,0,0.0,23
+92152,Trinidad and Tobago,2021-06-28,Kappa,0,0.0,11
+92176,Trinidad and Tobago,2021-07-12,Kappa,0,0.0,8
+92200,Trinidad and Tobago,2021-07-26,Kappa,0,0.0,12
+92224,Trinidad and Tobago,2021-08-09,Kappa,0,0.0,50
+92248,Trinidad and Tobago,2021-08-23,Kappa,0,0.0,60
+92272,Trinidad and Tobago,2021-09-06,Kappa,0,0.0,15
+92296,Trinidad and Tobago,2021-09-20,Kappa,0,0.0,50
+92320,Trinidad and Tobago,2021-10-04,Kappa,0,0.0,65
+92344,Trinidad and Tobago,2021-10-18,Kappa,0,0.0,124
+92368,Trinidad and Tobago,2021-11-01,Kappa,0,0.0,117
+92392,Trinidad and Tobago,2021-11-15,Kappa,0,0.0,162
+92416,Trinidad and Tobago,2021-11-29,Kappa,0,0.0,106
+92440,Trinidad and Tobago,2021-12-13,Kappa,0,0.0,105
+92464,Trinidad and Tobago,2021-12-27,Kappa,0,0.0,35
+92488,Turkey,2020-05-11,Kappa,0,0.0,95
+92512,Turkey,2020-05-25,Kappa,0,0.0,74
+92536,Turkey,2020-06-08,Kappa,0,0.0,33
+92560,Turkey,2020-06-22,Kappa,0,0.0,21
+92584,Turkey,2020-07-06,Kappa,0,0.0,20
+92608,Turkey,2020-07-20,Kappa,0,0.0,1
+92632,Turkey,2020-08-03,Kappa,0,0.0,10
+92656,Turkey,2020-08-17,Kappa,0,0.0,4
+92680,Turkey,2020-08-31,Kappa,0,0.0,10
+92704,Turkey,2020-09-14,Kappa,0,0.0,11
+92728,Turkey,2020-09-28,Kappa,0,0.0,11
+92752,Turkey,2020-10-12,Kappa,0,0.0,2
+92776,Turkey,2020-10-26,Kappa,0,0.0,2
+92800,Turkey,2020-11-23,Kappa,0,0.0,32
+92824,Turkey,2020-12-07,Kappa,0,0.0,1
+92848,Turkey,2020-12-21,Kappa,0,0.0,24
+92872,Turkey,2021-01-04,Kappa,0,0.0,67
+92896,Turkey,2021-01-11,Kappa,0,0.0,12
+92920,Turkey,2021-01-25,Kappa,0,0.0,230
+92944,Turkey,2021-02-08,Kappa,0,0.0,335
+92968,Turkey,2021-02-22,Kappa,0,0.0,1104
+92992,Turkey,2021-03-08,Kappa,0,0.0,1135
+93016,Turkey,2021-03-22,Kappa,0,0.0,978
+93040,Turkey,2021-04-05,Kappa,0,0.0,1375
+93064,Turkey,2021-04-19,Kappa,0,0.0,21
+93088,Turkey,2021-05-03,Kappa,0,0.0,144
+93112,Turkey,2021-05-17,Kappa,0,0.0,292
+93136,Turkey,2021-05-31,Kappa,0,0.0,290
+93160,Turkey,2021-06-14,Kappa,0,0.0,270
+93184,Turkey,2021-06-28,Kappa,0,0.0,1143
+93208,Turkey,2021-07-12,Kappa,0,0.0,4053
+93232,Turkey,2021-07-26,Kappa,0,0.0,1260
+93256,Turkey,2021-08-09,Kappa,0,0.0,12442
+93280,Turkey,2021-08-23,Kappa,0,0.0,32547
+93304,Turkey,2021-09-06,Kappa,0,0.0,1319
+93328,Turkey,2021-09-20,Kappa,0,0.0,2714
+93352,Turkey,2021-10-04,Kappa,0,0.0,3008
+93376,Turkey,2021-10-18,Kappa,0,0.0,1716
+93400,Turkey,2021-11-01,Kappa,0,0.0,361
+93424,Turkey,2021-11-15,Kappa,0,0.0,2426
+93448,Turkey,2021-11-29,Kappa,0,0.0,2383
+93472,Turkey,2021-12-13,Kappa,0,0.0,2782
+93496,Turkey,2021-12-27,Kappa,0,0.0,2100
+93520,Uganda,2020-05-11,Kappa,0,0.0,27
+93544,Uganda,2020-05-25,Kappa,0,0.0,1
+93568,Uganda,2020-07-06,Kappa,0,0.0,4
+93592,Uganda,2020-07-20,Kappa,0,0.0,2
+93616,Uganda,2020-08-03,Kappa,0,0.0,9
+93640,Uganda,2020-08-17,Kappa,0,0.0,31
+93664,Uganda,2020-08-31,Kappa,0,0.0,27
+93688,Uganda,2020-09-14,Kappa,0,0.0,37
+93712,Uganda,2020-09-28,Kappa,0,0.0,10
+93736,Uganda,2020-10-12,Kappa,0,0.0,8
+93760,Uganda,2020-10-26,Kappa,0,0.0,2
+93784,Uganda,2020-11-09,Kappa,0,0.0,26
+93808,Uganda,2020-11-23,Kappa,0,0.0,29
+93832,Uganda,2020-12-07,Kappa,0,0.0,2
+93856,Uganda,2020-12-21,Kappa,0,0.0,39
+93880,Uganda,2021-01-04,Kappa,0,0.0,59
+93904,Uganda,2021-01-25,Kappa,0,0.0,25
+93928,Uganda,2021-02-08,Kappa,0,0.0,2
+93952,Uganda,2021-02-22,Kappa,0,0.0,8
+93976,Uganda,2021-03-08,Kappa,0,0.0,9
+94000,Uganda,2021-03-22,Kappa,0,0.0,10
+94024,Uganda,2021-04-05,Kappa,1,3.85,26
+94048,Uganda,2021-04-19,Kappa,0,0.0,17
+94072,Uganda,2021-05-03,Kappa,0,0.0,11
+94096,Uganda,2021-05-17,Kappa,0,0.0,17
+94120,Uganda,2021-05-31,Kappa,0,0.0,21
+94144,Uganda,2021-06-14,Kappa,0,0.0,172
+94168,Uganda,2021-06-28,Kappa,0,0.0,114
+94192,Uganda,2021-07-12,Kappa,0,0.0,12
+94216,Uganda,2021-07-26,Kappa,0,0.0,15
+94240,Uganda,2021-08-09,Kappa,0,0.0,17
+94264,Uganda,2021-08-23,Kappa,0,0.0,5
+94288,Uganda,2021-12-13,Kappa,0,0.0,1
+94312,Ukraine,2020-05-11,Kappa,0,0.0,2
+94336,Ukraine,2020-05-25,Kappa,0,0.0,9
+94360,Ukraine,2020-06-08,Kappa,0,0.0,23
+94384,Ukraine,2020-07-06,Kappa,0,0.0,14
+94408,Ukraine,2020-07-20,Kappa,0,0.0,3
+94432,Ukraine,2020-08-03,Kappa,0,0.0,3
+94456,Ukraine,2020-08-17,Kappa,0,0.0,10
+94480,Ukraine,2020-09-28,Kappa,0,0.0,2
+94504,Ukraine,2020-10-12,Kappa,0,0.0,3
+94528,Ukraine,2020-10-26,Kappa,0,0.0,2
+94552,Ukraine,2020-11-23,Kappa,0,0.0,1
+94576,Ukraine,2020-12-07,Kappa,0,0.0,1
+94600,Ukraine,2021-01-04,Kappa,0,0.0,45
+94624,Ukraine,2021-01-11,Kappa,0,0.0,27
+94648,Ukraine,2021-01-25,Kappa,0,0.0,25
+94672,Ukraine,2021-02-22,Kappa,0,0.0,6
+94696,Ukraine,2021-03-08,Kappa,0,0.0,26
+94720,Ukraine,2021-03-22,Kappa,0,0.0,36
+94744,Ukraine,2021-04-05,Kappa,0,0.0,2
+94768,Ukraine,2021-05-17,Kappa,0,0.0,4
+94792,Ukraine,2021-05-31,Kappa,0,0.0,21
+94816,Ukraine,2021-06-14,Kappa,0,0.0,3
+94840,Ukraine,2021-06-28,Kappa,0,0.0,43
+94864,Ukraine,2021-07-12,Kappa,0,0.0,33
+94888,Ukraine,2021-07-26,Kappa,0,0.0,32
+94912,Ukraine,2021-09-06,Kappa,0,0.0,10
+94936,Ukraine,2021-09-20,Kappa,0,0.0,41
+94960,Ukraine,2021-10-04,Kappa,0,0.0,12
+94984,Ukraine,2021-10-18,Kappa,0,0.0,2
+95008,Ukraine,2021-11-01,Kappa,0,0.0,106
+95032,Ukraine,2021-11-15,Kappa,0,0.0,10
+95056,Ukraine,2021-11-29,Kappa,0,0.0,48
+95080,Ukraine,2021-12-13,Kappa,0,0.0,8
+95104,Ukraine,2021-12-27,Kappa,0,0.0,1
+95128,United Arab Emirates,2020-05-11,Kappa,0,0.0,133
+95152,United Arab Emirates,2020-05-25,Kappa,0,0.0,891
+95176,United Arab Emirates,2020-06-08,Kappa,0,0.0,18
+95200,United Arab Emirates,2020-06-22,Kappa,0,0.0,106
+95224,United Arab Emirates,2020-07-06,Kappa,0,0.0,151
+95248,United Arab Emirates,2020-07-20,Kappa,0,0.0,4
+95272,United Arab Emirates,2020-08-17,Kappa,0,0.0,6
+95296,United Arab Emirates,2020-08-31,Kappa,0,0.0,65
+95320,United Arab Emirates,2020-09-14,Kappa,0,0.0,24
+95344,United Arab Emirates,2020-09-28,Kappa,0,0.0,39
+95368,United Arab Emirates,2020-10-12,Kappa,0,0.0,69
+95392,United Arab Emirates,2020-10-26,Kappa,0,0.0,56
+95416,United Arab Emirates,2020-11-09,Kappa,0,0.0,21
+95440,United Arab Emirates,2020-11-23,Kappa,0,0.0,67
+95464,United Arab Emirates,2020-12-07,Kappa,0,0.0,57
+95488,United Arab Emirates,2020-12-21,Kappa,0,0.0,40
+95512,United Arab Emirates,2021-01-04,Kappa,0,0.0,155
+95536,United Arab Emirates,2021-01-11,Kappa,0,0.0,80
+95560,United Arab Emirates,2021-01-25,Kappa,0,0.0,143
+95584,United Arab Emirates,2021-02-08,Kappa,0,0.0,324
+95608,United Arab Emirates,2021-02-22,Kappa,0,0.0,14
+95632,United Arab Emirates,2021-05-03,Kappa,0,0.0,5
+95656,United Arab Emirates,2021-06-14,Kappa,0,0.0,2
+95680,United Arab Emirates,2021-06-28,Kappa,0,0.0,20
+95704,United Kingdom,2020-05-11,Kappa,0,0.0,4753
+95728,United Kingdom,2020-05-25,Kappa,0,0.0,2767
+95752,United Kingdom,2020-06-08,Kappa,0,0.0,1761
+95776,United Kingdom,2020-06-22,Kappa,0,0.0,4716
+95800,United Kingdom,2020-07-06,Kappa,0,0.0,2286
+95824,United Kingdom,2020-07-20,Kappa,0,0.0,1088
+95848,United Kingdom,2020-08-03,Kappa,0,0.0,1190
+95872,United Kingdom,2020-08-17,Kappa,0,0.0,2357
+95896,United Kingdom,2020-08-31,Kappa,0,0.0,4144
+95920,United Kingdom,2020-09-14,Kappa,0,0.0,5667
+95944,United Kingdom,2020-09-28,Kappa,0,0.0,9722
+95968,United Kingdom,2020-10-12,Kappa,0,0.0,11598
+95992,United Kingdom,2020-10-26,Kappa,0,0.0,16191
+96016,United Kingdom,2020-11-09,Kappa,0,0.0,17930
+96040,United Kingdom,2020-11-23,Kappa,0,0.0,18024
+96064,United Kingdom,2020-12-07,Kappa,0,0.0,8465
+96088,United Kingdom,2020-12-21,Kappa,0,0.0,21638
+96112,United Kingdom,2021-01-04,Kappa,0,0.0,18777
+96136,United Kingdom,2021-01-11,Kappa,0,0.0,12673
+96160,United Kingdom,2021-01-25,Kappa,0,0.0,30847
+96184,United Kingdom,2021-02-08,Kappa,0,0.0,33472
+96208,United Kingdom,2021-02-22,Kappa,0,0.0,32917
+96232,United Kingdom,2021-03-08,Kappa,12,0.04,30391
+96256,United Kingdom,2021-03-22,Kappa,33,0.09,35371
+96280,United Kingdom,2021-04-05,Kappa,65,0.22,29673
+96304,United Kingdom,2021-04-19,Kappa,126,0.79,15908
+96328,United Kingdom,2021-05-03,Kappa,146,1.02,14275
+96352,United Kingdom,2021-05-17,Kappa,33,0.23,14374
+96376,United Kingdom,2021-05-31,Kappa,30,0.13,23824
+96400,United Kingdom,2021-06-14,Kappa,3,0.01,37317
+96424,United Kingdom,2021-06-28,Kappa,0,0.0,43442
+96448,United Kingdom,2021-07-12,Kappa,1,0.0,56140
+96472,United Kingdom,2021-07-26,Kappa,0,0.0,57203
+96496,United Kingdom,2021-08-09,Kappa,0,0.0,64528
+96520,United Kingdom,2021-08-23,Kappa,1,0.0,63959
+96544,United Kingdom,2021-09-06,Kappa,1,0.0,77119
+96568,United Kingdom,2021-09-20,Kappa,1,0.0,77089
+96592,United Kingdom,2021-10-04,Kappa,0,0.0,75474
+96616,United Kingdom,2021-10-18,Kappa,0,0.0,76720
+96640,United Kingdom,2021-11-01,Kappa,0,0.0,86068
+96664,United Kingdom,2021-11-15,Kappa,0,0.0,96946
+96688,United Kingdom,2021-11-29,Kappa,0,0.0,112772
+96712,United Kingdom,2021-12-13,Kappa,0,0.0,127342
+96736,United Kingdom,2021-12-27,Kappa,0,0.0,80002
+96760,United Kingdom,2022-01-05,Kappa,0,0.0,562
+96784,United States,2020-05-11,Kappa,0,0.0,5804
+96808,United States,2020-05-25,Kappa,0,0.0,4736
+96832,United States,2020-06-08,Kappa,0,0.0,4035
+96856,United States,2020-06-22,Kappa,0,0.0,6070
+96880,United States,2020-07-06,Kappa,0,0.0,8371
+96904,United States,2020-07-20,Kappa,0,0.0,10122
+96928,United States,2020-08-03,Kappa,0,0.0,7801
+96952,United States,2020-08-17,Kappa,0,0.0,5992
+96976,United States,2020-08-31,Kappa,0,0.0,4888
+97000,United States,2020-09-14,Kappa,0,0.0,4362
+97024,United States,2020-09-28,Kappa,0,0.0,5077
+97048,United States,2020-10-12,Kappa,0,0.0,5764
+97072,United States,2020-10-26,Kappa,0,0.0,7535
+97096,United States,2020-11-09,Kappa,0,0.0,12540
+97120,United States,2020-11-23,Kappa,0,0.0,13561
+97144,United States,2020-12-07,Kappa,0,0.0,13266
+97168,United States,2020-12-21,Kappa,0,0.0,19936
+97192,United States,2021-01-04,Kappa,0,0.0,21204
+97216,United States,2021-01-11,Kappa,0,0.0,18451
+97240,United States,2021-01-25,Kappa,0,0.0,38293
+97264,United States,2021-02-08,Kappa,0,0.0,34853
+97288,United States,2021-02-22,Kappa,0,0.0,35919
+97312,United States,2021-03-08,Kappa,3,0.01,39935
+97336,United States,2021-03-22,Kappa,23,0.04,52615
+97360,United States,2021-04-05,Kappa,44,0.06,68922
+97384,United States,2021-04-19,Kappa,126,0.16,80542
+97408,United States,2021-05-03,Kappa,96,0.14,68541
+97432,United States,2021-05-17,Kappa,32,0.06,51424
+97456,United States,2021-05-31,Kappa,5,0.02,28913
+97480,United States,2021-06-14,Kappa,1,0.0,20283
+97504,United States,2021-06-28,Kappa,1,0.0,22291
+97528,United States,2021-07-12,Kappa,0,0.0,37254
+97552,United States,2021-07-26,Kappa,0,0.0,79713
+97576,United States,2021-08-09,Kappa,0,0.0,146170
+97600,United States,2021-08-23,Kappa,1,0.0,130754
+97624,United States,2021-09-06,Kappa,0,0.0,137159
+97648,United States,2021-09-20,Kappa,0,0.0,134718
+97672,United States,2021-10-04,Kappa,0,0.0,111660
+97696,United States,2021-10-18,Kappa,0,0.0,107920
+97720,United States,2021-11-01,Kappa,0,0.0,104883
+97744,United States,2021-11-15,Kappa,0,0.0,117419
+97768,United States,2021-11-29,Kappa,0,0.0,100281
+97792,United States,2021-12-13,Kappa,1,0.0,102430
+97816,United States,2021-12-27,Kappa,0,0.0,49235
+97840,United States,2022-01-05,Kappa,0,0.0,35
+97864,Uruguay,2020-05-11,Kappa,0,0.0,3
+97888,Uruguay,2020-05-25,Kappa,0,0.0,14
+97912,Uruguay,2020-06-08,Kappa,0,0.0,11
+97936,Uruguay,2020-06-22,Kappa,0,0.0,15
+97960,Uruguay,2020-07-06,Kappa,0,0.0,13
+97984,Uruguay,2020-07-20,Kappa,0,0.0,12
+98008,Uruguay,2020-08-03,Kappa,0,0.0,7
+98032,Uruguay,2020-08-17,Kappa,0,0.0,1
+98056,Uruguay,2020-09-28,Kappa,0,0.0,6
+98080,Uruguay,2020-10-12,Kappa,0,0.0,2
+98104,Uruguay,2020-11-09,Kappa,0,0.0,3
+98128,Uruguay,2020-11-23,Kappa,0,0.0,2
+98152,Uruguay,2020-12-07,Kappa,0,0.0,8
+98176,Uruguay,2020-12-21,Kappa,0,0.0,13
+98200,Uruguay,2021-01-04,Kappa,0,0.0,11
+98224,Uruguay,2021-01-11,Kappa,0,0.0,15
+98248,Uruguay,2021-01-25,Kappa,0,0.0,50
+98272,Uruguay,2021-02-08,Kappa,0,0.0,60
+98296,Uruguay,2021-02-22,Kappa,0,0.0,53
+98320,Uruguay,2021-03-08,Kappa,0,0.0,101
+98344,Uruguay,2021-03-22,Kappa,0,0.0,57
+98368,Uruguay,2021-04-05,Kappa,0,0.0,70
+98392,Uruguay,2021-04-19,Kappa,0,0.0,134
+98416,Uruguay,2021-05-03,Kappa,0,0.0,21
+98440,Vietnam,2021-01-04,Kappa,0,0.0,1
+98464,Vietnam,2021-01-11,Kappa,0,0.0,1
+98488,Vietnam,2021-02-08,Kappa,0,0.0,2
+98512,Vietnam,2021-02-22,Kappa,0,0.0,4
+98536,Vietnam,2021-05-03,Kappa,0,0.0,15
+98560,Vietnam,2021-05-17,Kappa,0,0.0,58
+98584,Vietnam,2021-05-31,Kappa,0,0.0,26
+98608,Vietnam,2021-06-14,Kappa,0,0.0,14
+98632,Vietnam,2021-06-28,Kappa,0,0.0,6
+98656,Vietnam,2021-07-26,Kappa,0,0.0,67
+98680,Vietnam,2021-08-09,Kappa,0,0.0,106
+98704,Vietnam,2021-08-23,Kappa,0,0.0,139
+98728,Vietnam,2021-09-06,Kappa,0,0.0,862
+98752,Vietnam,2021-09-20,Kappa,0,0.0,63
+98776,Vietnam,2021-10-04,Kappa,0,0.0,88
+98800,Vietnam,2021-10-18,Kappa,0,0.0,58
+98824,Vietnam,2021-11-01,Kappa,0,0.0,82
+98848,Vietnam,2021-11-15,Kappa,0,0.0,69
+98872,Vietnam,2021-11-29,Kappa,0,0.0,59
+98896,Vietnam,2021-12-13,Kappa,0,0.0,35
+98920,Vietnam,2021-12-27,Kappa,0,0.0,50
+98944,Zambia,2020-05-11,Kappa,0,0.0,4
+98968,Zambia,2020-06-08,Kappa,0,0.0,21
+98992,Zambia,2020-06-22,Kappa,0,0.0,25
+99016,Zambia,2020-07-06,Kappa,0,0.0,29
+99040,Zambia,2020-07-20,Kappa,0,0.0,62
+99064,Zambia,2020-08-03,Kappa,0,0.0,184
+99088,Zambia,2020-08-17,Kappa,0,0.0,63
+99112,Zambia,2020-08-31,Kappa,0,0.0,35
+99136,Zambia,2020-09-14,Kappa,0,0.0,2
+99160,Zambia,2020-10-12,Kappa,0,0.0,4
+99184,Zambia,2020-10-26,Kappa,0,0.0,1
+99208,Zambia,2020-12-07,Kappa,0,0.0,4
+99232,Zambia,2020-12-21,Kappa,0,0.0,10
+99256,Zambia,2021-01-04,Kappa,0,0.0,20
+99280,Zambia,2021-01-11,Kappa,0,0.0,26
+99304,Zambia,2021-01-25,Kappa,0,0.0,38
+99328,Zambia,2021-02-08,Kappa,0,0.0,49
+99352,Zambia,2021-02-22,Kappa,0,0.0,76
+99376,Zambia,2021-03-08,Kappa,0,0.0,8
+99400,Zambia,2021-03-22,Kappa,0,0.0,5
+99424,Zambia,2021-04-05,Kappa,0,0.0,9
+99448,Zambia,2021-04-19,Kappa,0,0.0,2
+99472,Zambia,2021-05-03,Kappa,3,16.67,18
+99496,Zambia,2021-05-31,Kappa,0,0.0,87
+99520,Zambia,2021-06-14,Kappa,0,0.0,94
+99544,Zambia,2021-06-28,Kappa,0,0.0,22
+99568,Zambia,2021-07-12,Kappa,0,0.0,70
+99592,Zambia,2021-07-26,Kappa,0,0.0,41
+99616,Zambia,2021-08-09,Kappa,0,0.0,17
+99640,Zambia,2021-08-23,Kappa,0,0.0,7
+99664,Zambia,2021-09-06,Kappa,0,0.0,37
+99688,Zambia,2021-09-20,Kappa,0,0.0,1
+99712,Zambia,2021-12-13,Kappa,0,0.0,39
+99736,Zambia,2021-12-27,Kappa,0,0.0,7
+99760,Zimbabwe,2020-05-11,Kappa,0,0.0,35
+99784,Zimbabwe,2020-06-08,Kappa,0,0.0,41
+99808,Zimbabwe,2020-08-03,Kappa,0,0.0,24
+99832,Zimbabwe,2020-08-17,Kappa,0,0.0,5
+99856,Zimbabwe,2020-08-31,Kappa,0,0.0,7
+99880,Zimbabwe,2020-09-14,Kappa,0,0.0,8
+99904,Zimbabwe,2020-10-12,Kappa,0,0.0,5
+99928,Zimbabwe,2020-10-26,Kappa,0,0.0,4
+99952,Zimbabwe,2020-11-09,Kappa,0,0.0,1
+99976,Zimbabwe,2020-11-23,Kappa,0,0.0,1
+100000,Zimbabwe,2020-12-07,Kappa,0,0.0,1
+100024,Zimbabwe,2020-12-21,Kappa,0,0.0,28
+100048,Zimbabwe,2021-01-04,Kappa,0,0.0,160
+100072,Zimbabwe,2021-01-11,Kappa,0,0.0,114
+100096,Zimbabwe,2021-01-25,Kappa,0,0.0,57
+100120,Zimbabwe,2021-02-08,Kappa,0,0.0,37
+100144,Zimbabwe,2021-02-22,Kappa,0,0.0,1
+100168,Zimbabwe,2021-03-08,Kappa,0,0.0,8
+100192,Zimbabwe,2021-06-28,Kappa,0,0.0,3
+100216,Zimbabwe,2021-07-12,Kappa,0,0.0,42
+100240,Zimbabwe,2021-07-26,Kappa,0,0.0,35
+100264,Zimbabwe,2021-08-09,Kappa,0,0.0,18
+100288,Zimbabwe,2021-08-23,Kappa,0,0.0,18
+100312,Zimbabwe,2021-09-06,Kappa,0,0.0,14
+100336,Zimbabwe,2021-09-20,Kappa,0,0.0,6
+100360,Zimbabwe,2021-10-04,Kappa,0,0.0,2
+100384,Zimbabwe,2021-10-18,Kappa,0,0.0,5
+100408,Zimbabwe,2021-11-01,Kappa,0,0.0,6

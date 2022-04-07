@@ -1,0 +1,4185 @@
+,location,date,variant,num_sequences,perc_sequences,num_sequences_total
+22,Angola,2020-07-06,others,3,100.0,3
+46,Angola,2020-08-31,others,0,0.0,1
+70,Angola,2020-09-28,others,1,10.0,10
+94,Angola,2020-10-12,others,5,17.24,29
+118,Angola,2020-10-26,others,0,0.0,7
+142,Angola,2020-12-07,others,0,0.0,6
+166,Angola,2020-12-21,others,23,24.73,93
+190,Angola,2021-01-04,others,5,100.0,5
+214,Angola,2021-01-11,others,15,93.75,16
+238,Angola,2021-01-25,others,43,82.69,52
+262,Angola,2021-02-08,others,25,59.53,42
+286,Angola,2021-02-22,others,20,51.29,39
+310,Angola,2021-03-08,others,36,31.87,113
+334,Angola,2021-03-22,others,20,16.52,121
+358,Angola,2021-04-05,others,28,20.43,137
+382,Angola,2021-04-19,others,26,31.33,83
+406,Angola,2021-05-03,others,5,14.71,34
+430,Angola,2021-05-17,others,1,20.0,5
+454,Angola,2021-05-31,others,0,0.0,7
+478,Angola,2021-06-14,others,0,0.0,22
+502,Angola,2021-06-28,others,1,1.69,59
+526,Angola,2021-07-12,others,2,4.34,46
+550,Angola,2021-07-26,others,1,10.0,10
+574,Angola,2021-08-09,others,0,0.0,4
+598,Angola,2021-08-23,others,0,0.0,1
+622,Angola,2021-09-06,others,0,0.0,20
+646,Angola,2021-09-20,others,0,0.0,57
+670,Angola,2021-10-04,others,0,0.0,33
+694,Argentina,2020-05-11,others,151,100.0,151
+718,Argentina,2020-05-25,others,167,100.0,167
+742,Argentina,2020-06-08,others,67,100.0,67
+766,Argentina,2020-06-22,others,79,100.0,79
+790,Argentina,2020-07-06,others,63,100.0,63
+814,Argentina,2020-07-20,others,113,100.0,113
+838,Argentina,2020-08-03,others,103,100.0,103
+862,Argentina,2020-08-17,others,113,100.0,113
+886,Argentina,2020-08-31,others,138,100.0,138
+910,Argentina,2020-09-14,others,50,100.0,50
+934,Argentina,2020-09-28,others,56,100.0,56
+958,Argentina,2020-10-12,others,39,100.0,39
+982,Argentina,2020-10-26,others,102,100.0,102
+1006,Argentina,2020-11-09,others,56,96.56,58
+1030,Argentina,2020-11-23,others,59,93.65,63
+1054,Argentina,2020-12-07,others,49,100.0,49
+1078,Argentina,2020-12-21,others,71,100.0,71
+1102,Argentina,2021-01-04,others,47,95.92,49
+1126,Argentina,2021-01-11,others,32,96.97,33
+1150,Argentina,2021-01-25,others,58,93.55,62
+1174,Argentina,2021-02-08,others,49,71.01,69
+1198,Argentina,2021-02-22,others,50,87.73,57
+1222,Argentina,2021-03-08,others,44,67.68,65
+1246,Argentina,2021-03-22,others,115,64.98,177
+1270,Argentina,2021-04-05,others,81,41.32,196
+1294,Argentina,2021-04-19,others,120,40.27,298
+1318,Argentina,2021-05-03,others,71,21.05,337
+1342,Argentina,2021-05-17,others,40,11.83,338
+1366,Argentina,2021-05-31,others,12,3.98,301
+1390,Argentina,2021-06-14,others,11,2.7,407
+1414,Argentina,2021-06-28,others,7,1.84,380
+1438,Argentina,2021-07-12,others,1,0.28,356
+1462,Argentina,2021-07-26,others,4,1.18,336
+1486,Argentina,2021-08-09,others,3,0.62,480
+1510,Argentina,2021-08-23,others,0,0.0,447
+1534,Argentina,2021-09-06,others,2,0.46,447
+1558,Argentina,2021-09-20,others,1,0.31,313
+1582,Argentina,2021-10-04,others,2,0.85,237
+1606,Argentina,2021-10-18,others,1,0.29,361
+1630,Argentina,2021-11-01,others,1,0.18,553
+1654,Argentina,2021-11-15,others,1,0.3,332
+1678,Argentina,2021-11-29,others,0,0.0,117
+1702,Argentina,2021-12-13,others,0,0.0,87
+1726,Argentina,2021-12-27,others,2,2.12,94
+1750,Aruba,2020-08-17,others,4,100.0,4
+1774,Aruba,2020-08-31,others,1,100.0,1
+1798,Aruba,2021-01-25,others,20,76.92,26
+1822,Aruba,2021-02-08,others,98,85.97,114
+1846,Aruba,2021-02-22,others,88,57.13,154
+1870,Aruba,2021-03-08,others,16,12.8,125
+1894,Aruba,2021-03-22,others,5,5.05,99
+1918,Aruba,2021-04-05,others,2,2.18,92
+1942,Aruba,2021-04-19,others,9,6.19,145
+1966,Aruba,2021-05-03,others,7,5.01,140
+1990,Aruba,2021-05-17,others,2,1.98,101
+2014,Aruba,2021-05-31,others,1,0.94,107
+2038,Aruba,2021-06-14,others,0,0.0,89
+2062,Aruba,2021-06-28,others,0,-0.01,24
+2086,Aruba,2021-07-12,others,0,0.0,29
+2110,Aruba,2021-07-26,others,0,0.0,97
+2134,Aruba,2021-08-09,others,0,0.0,341
+2158,Aruba,2021-08-23,others,0,0.0,525
+2182,Aruba,2021-09-06,others,0,0.0,261
+2206,Aruba,2021-09-20,others,0,0.0,140
+2230,Aruba,2021-10-04,others,0,0.0,177
+2254,Aruba,2021-10-18,others,0,0.0,37
+2278,Aruba,2021-11-15,others,0,0.0,68
+2302,Aruba,2021-11-29,others,0,0.0,43
+2326,Aruba,2021-12-13,others,0,0.0,61
+2350,Australia,2020-05-11,others,148,100.0,148
+2374,Australia,2020-05-25,others,103,100.0,103
+2398,Australia,2020-06-08,others,94,100.0,94
+2422,Australia,2020-06-22,others,172,100.0,172
+2446,Australia,2020-07-06,others,814,100.0,814
+2470,Australia,2020-07-20,others,2733,100.0,2733
+2494,Australia,2020-08-03,others,4183,100.0,4183
+2518,Australia,2020-08-17,others,3020,100.0,3020
+2542,Australia,2020-08-31,others,1985,99.9,1987
+2566,Australia,2020-09-14,others,768,99.74,770
+2590,Australia,2020-09-28,others,320,99.07,323
+2614,Australia,2020-10-12,others,178,97.8,182
+2638,Australia,2020-10-26,others,124,93.93,132
+2662,Australia,2020-11-09,others,42,66.66,63
+2686,Australia,2020-11-23,others,54,84.38,64
+2710,Australia,2020-12-07,others,39,79.6,49
+2734,Australia,2020-12-21,others,122,85.91,142
+2758,Australia,2021-01-04,others,169,81.25,208
+2782,Australia,2021-01-11,others,42,56.75,74
+2806,Australia,2021-01-25,others,42,42.0,100
+2830,Australia,2021-02-08,others,24,45.28,53
+2854,Australia,2021-02-22,others,10,12.5,80
+2878,Australia,2021-03-08,others,29,40.84,71
+2902,Australia,2021-03-22,others,47,38.52,122
+2926,Australia,2021-04-05,others,38,30.89,123
+2950,Australia,2021-04-19,others,7,4.45,157
+2974,Australia,2021-05-03,others,24,11.77,204
+2998,Australia,2021-05-17,others,14,11.98,117
+3022,Australia,2021-05-31,others,6,5.55,108
+3046,Australia,2021-06-14,others,9,6.81,132
+3070,Australia,2021-06-28,others,7,2.84,247
+3094,Australia,2021-07-12,others,4,0.52,767
+3118,Australia,2021-07-26,others,0,0.0,1742
+3142,Australia,2021-08-09,others,0,0.0,2734
+3166,Australia,2021-08-23,others,0,0.0,3198
+3190,Australia,2021-09-06,others,1,0.02,3744
+3214,Australia,2021-09-20,others,0,0.0,3526
+3238,Australia,2021-10-04,others,1,0.05,1824
+3262,Australia,2021-10-18,others,0,0.0,2410
+3286,Australia,2021-11-01,others,0,0.0,1883
+3310,Australia,2021-11-15,others,0,0.0,2078
+3334,Australia,2021-11-29,others,0,0.0,1992
+3358,Australia,2021-12-13,others,2,0.07,2800
+3382,Australia,2021-12-27,others,1,0.06,1726
+3406,Austria,2020-05-11,others,34,100.0,34
+3430,Austria,2020-05-25,others,41,100.0,41
+3454,Austria,2020-06-08,others,1,100.0,1
+3478,Austria,2020-06-22,others,1,100.0,1
+3502,Austria,2020-07-06,others,2,100.0,2
+3526,Austria,2020-07-20,others,11,100.0,11
+3550,Austria,2020-08-03,others,8,88.89,9
+3574,Austria,2020-08-17,others,20,90.91,22
+3598,Austria,2020-08-31,others,34,77.28,44
+3622,Austria,2020-09-14,others,24,68.57,35
+3646,Austria,2020-09-28,others,24,61.54,39
+3670,Austria,2020-10-12,others,21,69.99,30
+3694,Austria,2020-10-26,others,57,67.86,84
+3718,Austria,2020-11-09,others,67,37.02,181
+3742,Austria,2020-11-23,others,53,33.33,159
+3766,Austria,2020-12-07,others,60,43.79,137
+3790,Austria,2020-12-21,others,24,53.33,45
+3814,Austria,2021-01-04,others,72,22.87,315
+3838,Austria,2021-01-11,others,21,15.43,136
+3862,Austria,2021-01-25,others,31,12.4,250
+3886,Austria,2021-02-08,others,107,27.78,385
+3910,Austria,2021-02-22,others,84,20.24,415
+3934,Austria,2021-03-08,others,61,13.14,464
+3958,Austria,2021-03-22,others,41,7.23,567
+3982,Austria,2021-04-05,others,9,3.11,291
+4006,Austria,2021-04-19,others,16,4.53,353
+4030,Austria,2021-05-03,others,21,6.38,329
+4054,Austria,2021-05-17,others,34,5.5,619
+4078,Austria,2021-05-31,others,21,5.39,389
+4102,Austria,2021-06-14,others,21,5.28,398
+4126,Austria,2021-06-28,others,15,2.0,750
+4150,Austria,2021-07-12,others,1,0.19,505
+4174,Austria,2021-07-26,others,0,0.0,771
+4198,Austria,2021-08-09,others,0,0.0,623
+4222,Austria,2021-08-23,others,1,0.16,623
+4246,Austria,2021-09-06,others,0,0.0,585
+4270,Austria,2021-09-20,others,0,0.0,513
+4294,Austria,2021-10-04,others,0,0.0,444
+4318,Austria,2021-10-18,others,0,0.0,437
+4342,Austria,2021-11-01,others,0,0.0,634
+4366,Austria,2021-11-15,others,0,0.0,561
+4390,Austria,2021-11-29,others,0,0.0,165
+4414,Austria,2021-12-13,others,0,0.0,183
+4438,Bahrain,2020-06-08,others,1,100.0,1
+4462,Bahrain,2020-06-22,others,2,100.0,2
+4486,Bahrain,2020-07-06,others,11,100.0,11
+4510,Bahrain,2020-08-03,others,3,100.0,3
+4534,Bahrain,2020-08-31,others,3,100.0,3
+4558,Bahrain,2020-09-14,others,2,100.0,2
+4582,Bahrain,2020-09-28,others,2,100.0,2
+4606,Bahrain,2020-10-12,others,10,100.0,10
+4630,Bahrain,2020-10-26,others,45,100.0,45
+4654,Bahrain,2020-11-09,others,6,100.0,6
+4678,Bahrain,2020-11-23,others,38,100.0,38
+4702,Bahrain,2021-02-08,others,1,100.0,1
+4726,Bahrain,2021-02-22,others,1,50.0,2
+4750,Bahrain,2021-03-22,others,1,14.29,7
+4774,Bahrain,2021-04-05,others,0,0.0,2
+4798,Bahrain,2021-04-19,others,8,19.05,42
+4822,Bahrain,2021-05-03,others,0,0.0,9
+4846,Bahrain,2021-05-17,others,2,3.51,57
+4870,Bahrain,2021-05-31,others,2,4.35,46
+4894,Bahrain,2021-06-14,others,1,4.16,24
+4918,Bahrain,2021-06-28,others,0,0.0,84
+4942,Bahrain,2021-07-12,others,0,0.0,69
+4966,Bahrain,2021-07-26,others,1,0.95,106
+4990,Bahrain,2021-08-09,others,1,2.09,48
+5014,Bahrain,2021-09-06,others,0,0.0,227
+5038,Bahrain,2021-10-04,others,0,0.0,186
+5062,Bahrain,2021-10-18,others,0,0.0,372
+5086,Bahrain,2021-11-01,others,0,0.0,467
+5110,Bahrain,2021-11-15,others,0,0.0,370
+5134,Bangladesh,2020-05-11,others,124,100.0,124
+5158,Bangladesh,2020-05-25,others,168,100.0,168
+5182,Bangladesh,2020-06-08,others,69,100.0,69
+5206,Bangladesh,2020-06-22,others,111,100.0,111
+5230,Bangladesh,2020-07-06,others,175,100.0,175
+5254,Bangladesh,2020-07-20,others,139,100.0,139
+5278,Bangladesh,2020-08-03,others,66,100.0,66
+5302,Bangladesh,2020-08-17,others,26,100.0,26
+5326,Bangladesh,2020-08-31,others,25,100.0,25
+5350,Bangladesh,2020-09-14,others,35,100.0,35
+5374,Bangladesh,2020-09-28,others,8,100.0,8
+5398,Bangladesh,2020-10-12,others,20,100.0,20
+5422,Bangladesh,2020-10-26,others,15,100.0,15
+5446,Bangladesh,2020-11-09,others,25,92.59,27
+5470,Bangladesh,2020-11-23,others,30,100.0,30
+5494,Bangladesh,2020-12-07,others,57,100.0,57
+5518,Bangladesh,2020-12-21,others,25,100.0,25
+5542,Bangladesh,2021-01-04,others,50,94.34,53
+5566,Bangladesh,2021-01-11,others,8,53.33,15
+5590,Bangladesh,2021-01-25,others,53,85.48,62
+5614,Bangladesh,2021-02-08,others,34,80.95,42
+5638,Bangladesh,2021-02-22,others,20,55.55,36
+5662,Bangladesh,2021-03-08,others,3,21.43,14
+5686,Bangladesh,2021-03-22,others,24,15.38,156
+5710,Bangladesh,2021-04-05,others,9,10.34,87
+5734,Bangladesh,2021-04-19,others,7,5.34,131
+5758,Bangladesh,2021-05-03,others,4,7.15,56
+5782,Bangladesh,2021-05-17,others,5,8.62,58
+5806,Bangladesh,2021-05-31,others,9,9.1,99
+5830,Bangladesh,2021-06-14,others,5,7.24,69
+5854,Bangladesh,2021-06-28,others,4,3.57,112
+5878,Bangladesh,2021-07-12,others,2,0.82,244
+5902,Bangladesh,2021-07-26,others,0,0.0,174
+5926,Bangladesh,2021-08-09,others,0,0.0,149
+5950,Bangladesh,2021-08-23,others,0,0.0,140
+5974,Bangladesh,2021-09-06,others,0,0.0,131
+5998,Bangladesh,2021-09-20,others,0,0.0,126
+6022,Bangladesh,2021-10-04,others,0,0.0,94
+6046,Bangladesh,2021-10-18,others,0,0.0,136
+6070,Bangladesh,2021-11-01,others,0,0.0,94
+6094,Bangladesh,2021-11-15,others,0,0.0,118
+6118,Bangladesh,2021-11-29,others,0,0.0,112
+6142,Bangladesh,2021-12-13,others,0,0.0,45
+6166,Bangladesh,2021-12-27,others,0,0.0,24
+6190,Bangladesh,2022-01-05,others,0,0.0,3
+6214,Belgium,2020-05-11,others,134,100.0,134
+6238,Belgium,2020-05-25,others,67,100.0,67
+6262,Belgium,2020-06-08,others,15,100.0,15
+6286,Belgium,2020-06-22,others,38,100.0,38
+6310,Belgium,2020-07-06,others,38,97.44,39
+6334,Belgium,2020-07-20,others,35,89.75,39
+6358,Belgium,2020-08-03,others,95,65.08,146
+6382,Belgium,2020-08-17,others,76,58.46,130
+6406,Belgium,2020-08-31,others,18,33.34,54
+6430,Belgium,2020-09-14,others,37,42.53,87
+6454,Belgium,2020-09-28,others,96,39.02,246
+6478,Belgium,2020-10-12,others,23,17.69,130
+6502,Belgium,2020-10-26,others,51,14.05,363
+6526,Belgium,2020-11-09,others,28,13.74,204
+6550,Belgium,2020-11-23,others,21,8.71,241
+6574,Belgium,2020-12-07,others,17,11.49,148
+6598,Belgium,2020-12-21,others,168,48.41,347
+6622,Belgium,2021-01-04,others,35,14.47,242
+6646,Belgium,2021-01-11,others,50,17.07,293
+6670,Belgium,2021-01-25,others,134,9.72,1378
+6694,Belgium,2021-02-08,others,202,11.11,1820
+6718,Belgium,2021-02-22,others,211,11.67,1808
+6742,Belgium,2021-03-08,others,243,10.87,2237
+6766,Belgium,2021-03-22,others,243,8.29,2935
+6790,Belgium,2021-04-05,others,204,5.92,3438
+6814,Belgium,2021-04-19,others,138,4.74,2911
+6838,Belgium,2021-05-03,others,176,5.26,3338
+6862,Belgium,2021-05-17,others,106,3.43,3108
+6886,Belgium,2021-05-31,others,82,2.77,2952
+6910,Belgium,2021-06-14,others,24,1.21,1995
+6934,Belgium,2021-06-28,others,16,1.37,1181
+6958,Belgium,2021-07-12,others,26,0.99,2640
+6982,Belgium,2021-07-26,others,8,0.21,3960
+7006,Belgium,2021-08-09,others,2,0.07,4006
+7030,Belgium,2021-08-23,others,1,0.02,4534
+7054,Belgium,2021-09-06,others,5,0.11,4495
+7078,Belgium,2021-09-20,others,1,0.04,3113
+7102,Belgium,2021-10-04,others,0,0.01,2926
+7126,Belgium,2021-10-18,others,1,0.03,3315
+7150,Belgium,2021-11-01,others,5,0.14,3530
+7174,Belgium,2021-11-15,others,0,0.0,2729
+7198,Belgium,2021-11-29,others,2,0.07,3076
+7222,Belgium,2021-12-13,others,0,0.0,3087
+7246,Belgium,2021-12-27,others,4,0.27,1493
+7270,Belgium,2022-01-05,others,0,0.0,59
+7294,Belize,2020-08-17,others,4,100.0,4
+7318,Belize,2020-08-31,others,1,100.0,1
+7342,Belize,2020-09-28,others,2,100.0,2
+7366,Belize,2020-10-12,others,4,100.0,4
+7390,Belize,2020-10-26,others,6,100.0,6
+7414,Belize,2020-11-09,others,1,100.0,1
+7438,Belize,2020-12-21,others,7,100.0,7
+7462,Belize,2021-01-04,others,12,85.71,14
+7486,Belize,2021-01-11,others,7,100.0,7
+7510,Belize,2021-01-25,others,14,87.5,16
+7534,Belize,2021-02-08,others,24,92.3,26
+7558,Belize,2021-02-22,others,10,90.91,11
+7582,Belize,2021-03-08,others,1,33.34,3
+7606,Belize,2021-03-22,others,0,0.0,2
+7630,Belize,2021-04-19,others,0,0.0,3
+7654,Belize,2021-05-03,others,1,100.0,1
+7678,Belize,2021-05-17,others,4,26.66,15
+7702,Belize,2021-05-31,others,1,33.33,3
+7726,Belize,2021-06-14,others,0,0.0,1
+7750,Belize,2021-06-28,others,10,31.25,32
+7774,Belize,2021-07-12,others,3,16.67,18
+7798,Belize,2021-07-26,others,21,36.21,58
+7822,Belize,2021-08-09,others,23,36.51,63
+7846,Belize,2021-08-23,others,4,25.0,16
+7870,Benin,2021-02-08,others,33,30.27,109
+7894,Benin,2021-03-08,others,33,27.27,121
+7918,Benin,2021-04-05,others,78,44.33,176
+7942,Benin,2021-04-19,others,6,75.0,8
+7966,Benin,2021-05-03,others,19,76.0,25
+7990,Benin,2021-05-17,others,25,78.12,32
+8014,Benin,2021-05-31,others,20,74.09,27
+8038,Benin,2021-06-14,others,7,77.78,9
+8062,Benin,2021-06-28,others,9,64.29,14
+8086,Benin,2021-07-12,others,12,42.86,28
+8110,Benin,2021-07-26,others,10,27.78,36
+8134,Benin,2021-08-09,others,1,2.94,34
+8158,Benin,2021-08-23,others,5,6.76,74
+8182,Benin,2021-09-06,others,2,3.51,57
+8206,Bosnia and Herzegovina,2020-05-11,others,1,100.0,1
+8230,Bosnia and Herzegovina,2020-06-08,others,2,100.0,2
+8254,Bosnia and Herzegovina,2020-07-20,others,1,100.0,1
+8278,Bosnia and Herzegovina,2020-08-31,others,1,100.0,1
+8302,Bosnia and Herzegovina,2020-09-14,others,1,100.0,1
+8326,Bosnia and Herzegovina,2020-09-28,others,1,100.0,1
+8350,Bosnia and Herzegovina,2020-10-12,others,1,100.0,1
+8374,Bosnia and Herzegovina,2020-11-09,others,2,100.0,2
+8398,Bosnia and Herzegovina,2020-11-23,others,1,50.0,2
+8422,Bosnia and Herzegovina,2020-12-07,others,2,66.67,3
+8446,Bosnia and Herzegovina,2020-12-21,others,1,100.0,1
+8470,Bosnia and Herzegovina,2021-01-04,others,0,0.0,2
+8494,Bosnia and Herzegovina,2021-01-11,others,4,80.0,5
+8518,Bosnia and Herzegovina,2021-01-25,others,11,91.67,12
+8542,Bosnia and Herzegovina,2021-02-08,others,2,40.0,5
+8566,Bosnia and Herzegovina,2021-02-22,others,3,27.27,11
+8590,Bosnia and Herzegovina,2021-03-08,others,2,12.5,16
+8614,Bosnia and Herzegovina,2021-03-22,others,0,0.0,9
+8638,Bosnia and Herzegovina,2021-04-05,others,0,0.0,3
+8662,Bosnia and Herzegovina,2021-04-19,others,0,0.0,17
+8686,Bosnia and Herzegovina,2021-05-17,others,0,0.0,2
+8710,Bosnia and Herzegovina,2021-05-31,others,0,0.0,1
+8734,Bosnia and Herzegovina,2021-06-14,others,4,17.39,23
+8758,Bosnia and Herzegovina,2021-06-28,others,1,6.25,16
+8782,Bosnia and Herzegovina,2021-07-12,others,0,0.0,21
+8806,Bosnia and Herzegovina,2021-07-26,others,0,0.0,12
+8830,Bosnia and Herzegovina,2021-08-09,others,0,0.0,9
+8854,Bosnia and Herzegovina,2021-08-23,others,0,0.0,7
+8878,Bosnia and Herzegovina,2021-09-06,others,0,0.0,1
+8902,Bosnia and Herzegovina,2021-09-20,others,0,0.0,2
+8926,Bosnia and Herzegovina,2021-10-04,others,0,0.0,42
+8950,Bosnia and Herzegovina,2021-10-18,others,0,0.0,184
+8974,Bosnia and Herzegovina,2021-11-01,others,0,0.0,124
+8998,Bosnia and Herzegovina,2021-11-15,others,0,0.0,164
+9022,Bosnia and Herzegovina,2021-11-29,others,0,0.0,123
+9046,Bosnia and Herzegovina,2021-12-13,others,0,0.0,165
+9070,Botswana,2020-09-14,others,0,0.0,1
+9094,Botswana,2020-09-28,others,10,100.0,10
+9118,Botswana,2020-10-12,others,6,100.0,6
+9142,Botswana,2020-10-26,others,6,100.0,6
+9166,Botswana,2020-11-09,others,6,100.0,6
+9190,Botswana,2020-11-23,others,6,75.0,8
+9214,Botswana,2020-12-07,others,7,70.0,10
+9238,Botswana,2020-12-21,others,13,76.47,17
+9262,Botswana,2021-01-04,others,9,69.23,13
+9286,Botswana,2021-01-11,others,1,16.67,6
+9310,Botswana,2021-01-25,others,9,13.64,66
+9334,Botswana,2021-02-08,others,0,0.0,29
+9358,Botswana,2021-02-22,others,0,0.0,10
+9382,Botswana,2021-03-08,others,0,0.0,11
+9406,Botswana,2021-03-22,others,1,1.56,64
+9430,Botswana,2021-04-05,others,4,57.14,7
+9454,Botswana,2021-05-03,others,1,14.29,7
+9478,Botswana,2021-05-17,others,2,10.53,19
+9502,Botswana,2021-05-31,others,1,2.08,48
+9526,Botswana,2021-06-14,others,13,12.74,102
+9550,Botswana,2021-06-28,others,16,8.16,196
+9574,Botswana,2021-07-12,others,9,8.49,106
+9598,Botswana,2021-07-26,others,0,0.0,68
+9622,Botswana,2021-08-09,others,1,2.63,38
+9646,Botswana,2021-08-23,others,0,0.0,82
+9670,Botswana,2021-09-06,others,1,0.34,294
+9694,Botswana,2021-09-20,others,1,0.9,112
+9718,Botswana,2021-10-04,others,1,1.73,58
+9742,Botswana,2021-10-18,others,0,0.0,92
+9766,Botswana,2021-11-01,others,0,0.0,53
+9790,Botswana,2021-11-15,others,0,0.0,116
+9814,Botswana,2021-11-29,others,6,4.84,124
+9838,Botswana,2021-12-13,others,22,8.09,272
+9862,Botswana,2021-12-27,others,1,0.7,143
+9886,Brazil,2020-05-11,others,311,100.0,311
+9910,Brazil,2020-05-25,others,183,100.0,183
+9934,Brazil,2020-06-08,others,194,100.0,194
+9958,Brazil,2020-06-22,others,179,100.0,179
+9982,Brazil,2020-07-06,others,296,100.0,296
+10006,Brazil,2020-07-20,others,168,100.0,168
+10030,Brazil,2020-08-03,others,224,100.0,224
+10054,Brazil,2020-08-17,others,231,100.0,231
+10078,Brazil,2020-08-31,others,157,100.0,157
+10102,Brazil,2020-09-14,others,221,100.0,221
+10126,Brazil,2020-09-28,others,195,100.0,195
+10150,Brazil,2020-10-12,others,196,100.0,196
+10174,Brazil,2020-10-26,others,202,100.0,202
+10198,Brazil,2020-11-09,others,236,99.16,238
+10222,Brazil,2020-11-23,others,357,98.89,361
+10246,Brazil,2020-12-07,others,508,99.03,513
+10270,Brazil,2020-12-21,others,440,93.82,469
+10294,Brazil,2021-01-04,others,444,76.82,578
+10318,Brazil,2021-01-11,others,395,77.45,510
+10342,Brazil,2021-01-25,others,626,70.49,888
+10366,Brazil,2021-02-08,others,621,62.67,991
+10390,Brazil,2021-02-22,others,497,39.13,1270
+10414,Brazil,2021-03-08,others,375,20.63,1817
+10438,Brazil,2021-03-22,others,198,10.27,1929
+10462,Brazil,2021-04-05,others,197,7.04,2797
+10486,Brazil,2021-04-19,others,144,3.8,3791
+10510,Brazil,2021-05-03,others,78,2.05,3804
+10534,Brazil,2021-05-17,others,40,1.22,3247
+10558,Brazil,2021-05-31,others,60,1.45,4137
+10582,Brazil,2021-06-14,others,59,1.16,5088
+10606,Brazil,2021-06-28,others,29,0.66,4466
+10630,Brazil,2021-07-12,others,23,0.41,5548
+10654,Brazil,2021-07-26,others,22,0.42,5381
+10678,Brazil,2021-08-09,others,18,0.34,5217
+10702,Brazil,2021-08-23,others,12,0.3,4130
+10726,Brazil,2021-09-06,others,6,0.1,5469
+10750,Brazil,2021-09-20,others,22,0.38,5701
+10774,Brazil,2021-10-04,others,7,0.16,4572
+10798,Brazil,2021-10-18,others,1,0.02,4449
+10822,Brazil,2021-11-01,others,1,0.03,3014
+10846,Brazil,2021-11-15,others,0,0.0,2757
+10870,Brazil,2021-11-29,others,1,0.03,2547
+10894,Brazil,2021-12-13,others,0,-0.01,1332
+10918,Brazil,2021-12-27,others,0,0.0,252
+10942,Brunei,2021-01-04,others,2,100.0,2
+10966,Brunei,2021-01-25,others,0,0.0,1
+10990,Brunei,2021-02-08,others,2,100.0,2
+11014,Brunei,2021-07-26,others,0,0.0,16
+11038,Brunei,2021-08-23,others,0,0.0,12
+11062,Brunei,2021-11-01,others,0,0.0,12
+11086,Brunei,2021-11-15,others,0,0.0,118
+11110,Brunei,2021-11-29,others,0,0.0,125
+11134,Brunei,2021-12-13,others,0,0.0,32
+11158,Brunei,2021-12-27,others,0,0.0,11
+11182,Bulgaria,2020-05-11,others,3,100.0,3
+11206,Bulgaria,2020-05-25,others,3,100.0,3
+11230,Bulgaria,2020-07-20,others,1,100.0,1
+11254,Bulgaria,2020-08-03,others,1,100.0,1
+11278,Bulgaria,2020-08-17,others,6,100.0,6
+11302,Bulgaria,2020-08-31,others,3,100.0,3
+11326,Bulgaria,2020-09-14,others,5,100.0,5
+11350,Bulgaria,2020-09-28,others,4,100.0,4
+11374,Bulgaria,2020-10-12,others,1,50.0,2
+11398,Bulgaria,2020-10-26,others,1,50.0,2
+11422,Bulgaria,2020-11-09,others,3,60.0,5
+11446,Bulgaria,2020-11-23,others,2,40.0,5
+11470,Bulgaria,2020-12-07,others,5,71.42,7
+11494,Bulgaria,2020-12-21,others,33,66.0,50
+11518,Bulgaria,2021-01-04,others,19,48.73,39
+11542,Bulgaria,2021-01-11,others,24,42.86,56
+11566,Bulgaria,2021-01-25,others,17,18.48,92
+11590,Bulgaria,2021-02-08,others,11,5.01,220
+11614,Bulgaria,2021-02-22,others,4,1.59,251
+11638,Bulgaria,2021-03-08,others,13,3.19,407
+11662,Bulgaria,2021-03-22,others,4,0.63,630
+11686,Bulgaria,2021-04-05,others,3,0.54,557
+11710,Bulgaria,2021-04-19,others,0,0.0,371
+11734,Bulgaria,2021-05-03,others,0,0.0,253
+11758,Bulgaria,2021-05-17,others,0,0.0,118
+11782,Bulgaria,2021-05-31,others,0,0.0,38
+11806,Bulgaria,2021-06-14,others,1,0.97,103
+11830,Bulgaria,2021-06-28,others,3,2.4,125
+11854,Bulgaria,2021-07-12,others,2,1.14,176
+11878,Bulgaria,2021-07-26,others,1,0.42,239
+11902,Bulgaria,2021-08-09,others,2,0.4,494
+11926,Bulgaria,2021-08-23,others,5,0.63,798
+11950,Bulgaria,2021-09-06,others,3,0.34,863
+11974,Bulgaria,2021-09-20,others,0,0.0,739
+11998,Bulgaria,2021-10-04,others,0,0.0,881
+12022,Bulgaria,2021-10-18,others,0,0.0,996
+12046,Bulgaria,2021-11-01,others,0,0.0,1024
+12070,Bulgaria,2021-11-15,others,0,0.0,547
+12094,Bulgaria,2021-11-29,others,0,0.0,120
+12118,Cambodia,2020-11-09,others,1,50.0,2
+12142,Cambodia,2020-11-23,others,1,25.0,4
+12166,Cambodia,2020-12-07,others,15,100.0,15
+12190,Cambodia,2020-12-21,others,1,100.0,1
+12214,Cambodia,2021-01-04,others,5,100.0,5
+12238,Cambodia,2021-01-25,others,0,0.0,2
+12262,Cambodia,2021-02-08,others,0,0.0,3
+12286,Cambodia,2021-02-22,others,2,16.67,12
+12310,Cambodia,2021-03-08,others,0,0.0,14
+12334,Cambodia,2021-03-22,others,0,0.0,13
+12358,Cambodia,2021-04-05,others,2,66.67,3
+12382,Cambodia,2021-04-19,others,3,7.69,39
+12406,Cambodia,2021-05-03,others,0,0.0,56
+12430,Cambodia,2021-05-17,others,0,0.0,52
+12454,Cambodia,2021-05-31,others,4,5.79,69
+12478,Cambodia,2021-06-14,others,5,6.57,76
+12502,Cambodia,2021-06-28,others,0,0.0,94
+12526,Cambodia,2021-07-12,others,0,0.0,81
+12550,Cambodia,2021-07-26,others,0,0.0,121
+12574,Cambodia,2021-08-09,others,0,0.0,87
+12598,Cambodia,2021-08-23,others,0,0.0,106
+12622,Cambodia,2021-09-06,others,0,0.0,96
+12646,Cambodia,2021-09-20,others,0,0.0,132
+12670,Cambodia,2021-10-04,others,0,0.0,107
+12694,Cambodia,2021-10-18,others,0,0.0,135
+12718,Cambodia,2021-11-01,others,0,0.0,135
+12742,Cambodia,2021-11-15,others,0,0.0,143
+12766,Cambodia,2021-11-29,others,0,0.0,149
+12790,Cambodia,2021-12-13,others,0,0.0,130
+12814,Cambodia,2021-12-27,others,1,1.04,96
+12838,Cameroon,2020-05-11,others,4,100.0,4
+12862,Cameroon,2020-05-25,others,8,100.0,8
+12886,Cameroon,2020-06-22,others,4,100.0,4
+12910,Cameroon,2020-08-17,others,2,100.0,2
+12934,Cameroon,2020-10-26,others,1,100.0,1
+12958,Cameroon,2020-11-09,others,2,50.0,4
+12982,Cameroon,2020-11-23,others,6,85.71,7
+13006,Cameroon,2020-12-07,others,2,100.0,2
+13030,Cameroon,2020-12-21,others,4,100.0,4
+13054,Cameroon,2021-01-04,others,23,100.0,23
+13078,Cameroon,2021-01-11,others,8,88.89,9
+13102,Cameroon,2021-01-25,others,22,95.65,23
+13126,Cameroon,2021-02-08,others,33,64.71,51
+13150,Cameroon,2021-02-22,others,11,57.9,19
+13174,Cameroon,2021-03-08,others,12,44.44,27
+13198,Cameroon,2021-03-22,others,3,60.0,5
+13222,Cameroon,2021-04-19,others,4,57.14,7
+13246,Cameroon,2021-08-09,others,1,33.33,3
+13270,Cameroon,2021-08-23,others,10,17.55,57
+13294,Cameroon,2021-09-06,others,6,5.18,116
+13318,Cameroon,2021-09-20,others,3,2.84,106
+13342,Cameroon,2021-10-04,others,4,7.41,54
+13366,Canada,2020-05-11,others,903,100.0,903
+13390,Canada,2020-05-25,others,597,100.0,597
+13414,Canada,2020-06-08,others,211,100.0,211
+13438,Canada,2020-06-22,others,203,100.0,203
+13462,Canada,2020-07-06,others,107,100.0,107
+13486,Canada,2020-07-20,others,203,99.51,204
+13510,Canada,2020-08-03,others,295,100.0,295
+13534,Canada,2020-08-17,others,586,100.0,586
+13558,Canada,2020-08-31,others,736,99.86,737
+13582,Canada,2020-09-14,others,720,98.9,728
+13606,Canada,2020-09-28,others,750,98.95,758
+13630,Canada,2020-10-12,others,1037,97.74,1061
+13654,Canada,2020-10-26,others,1044,95.26,1096
+13678,Canada,2020-11-09,others,1372,95.14,1442
+13702,Canada,2020-11-23,others,1821,94.02,1937
+13726,Canada,2020-12-07,others,2172,93.79,2316
+13750,Canada,2020-12-21,others,2070,85.15,2431
+13774,Canada,2021-01-04,others,2037,79.41,2565
+13798,Canada,2021-01-11,others,1595,79.58,2004
+13822,Canada,2021-01-25,others,3746,81.89,4574
+13846,Canada,2021-02-08,others,2506,82.82,3026
+13870,Canada,2021-02-22,others,2836,71.77,3951
+13894,Canada,2021-03-08,others,2537,55.36,4581
+13918,Canada,2021-03-22,others,2779,39.09,7112
+13942,Canada,2021-04-05,others,2267,23.1,9805
+13966,Canada,2021-04-19,others,1994,18.72,10654
+13990,Canada,2021-05-03,others,1410,12.81,11006
+14014,Canada,2021-05-17,others,624,7.28,8584
+14038,Canada,2021-05-31,others,240,4.08,5887
+14062,Canada,2021-06-14,others,169,4.04,4215
+14086,Canada,2021-06-28,others,196,5.28,3712
+14110,Canada,2021-07-12,others,15,0.97,1536
+14134,Canada,2021-07-26,others,17,0.7,2454
+14158,Canada,2021-08-09,others,39,0.55,7056
+14182,Canada,2021-08-23,others,24,0.18,13081
+14206,Canada,2021-09-06,others,0,0.0,13793
+14230,Canada,2021-09-20,others,0,0.0,8908
+14254,Canada,2021-10-04,others,2,0.02,7154
+14278,Canada,2021-10-18,others,3,0.04,8016
+14302,Canada,2021-11-01,others,1,-0.0,6544
+14326,Canada,2021-11-15,others,2,0.03,5627
+14350,Canada,2021-11-29,others,0,0.0,5146
+14374,Canada,2021-12-13,others,10,0.19,5219
+14398,Canada,2021-12-27,others,0,0.0,63
+14422,Chile,2020-05-11,others,106,100.0,106
+14446,Chile,2020-05-25,others,84,100.0,84
+14470,Chile,2020-06-08,others,81,100.0,81
+14494,Chile,2020-06-22,others,8,100.0,8
+14518,Chile,2020-07-06,others,61,100.0,61
+14542,Chile,2020-07-20,others,35,100.0,35
+14566,Chile,2020-08-03,others,36,100.0,36
+14590,Chile,2020-08-17,others,25,100.0,25
+14614,Chile,2020-08-31,others,65,100.0,65
+14638,Chile,2020-09-14,others,54,100.0,54
+14662,Chile,2020-09-28,others,44,100.0,44
+14686,Chile,2020-10-12,others,66,100.0,66
+14710,Chile,2020-10-26,others,47,100.0,47
+14734,Chile,2020-11-09,others,10,100.0,10
+14758,Chile,2020-11-23,others,17,100.0,17
+14782,Chile,2020-12-07,others,8,100.0,8
+14806,Chile,2020-12-21,others,27,100.0,27
+14830,Chile,2021-01-04,others,68,86.06,79
+14854,Chile,2021-01-11,others,47,94.0,50
+14878,Chile,2021-01-25,others,53,89.85,59
+14902,Chile,2021-02-08,others,51,91.06,56
+14926,Chile,2021-02-22,others,74,76.3,97
+14950,Chile,2021-03-08,others,51,60.0,85
+14974,Chile,2021-03-22,others,56,39.99,140
+14998,Chile,2021-04-05,others,64,24.06,266
+15022,Chile,2021-04-19,others,52,14.48,359
+15046,Chile,2021-05-03,others,119,21.06,565
+15070,Chile,2021-05-17,others,49,7.84,625
+15094,Chile,2021-05-31,others,14,3.21,435
+15118,Chile,2021-06-14,others,35,5.59,626
+15142,Chile,2021-06-28,others,17,2.36,719
+15166,Chile,2021-07-12,others,20,2.3,866
+15190,Chile,2021-07-26,others,13,2.29,568
+15214,Chile,2021-08-09,others,16,2.03,789
+15238,Chile,2021-08-23,others,16,1.82,879
+15262,Chile,2021-09-06,others,61,5.55,1101
+15286,Chile,2021-09-20,others,7,0.57,1223
+15310,Chile,2021-10-04,others,2,0.11,1879
+15334,Chile,2021-10-18,others,2,0.14,1365
+15358,Chile,2021-11-01,others,4,0.31,1295
+15382,Chile,2021-11-15,others,0,0.0,999
+15406,Chile,2021-11-29,others,6,1.05,573
+15430,Chile,2021-12-13,others,0,0.0,459
+15454,Chile,2021-12-27,others,1,0.19,504
+15478,Colombia,2020-05-11,others,81,100.0,81
+15502,Colombia,2020-05-25,others,2,100.0,2
+15526,Colombia,2020-06-08,others,8,100.0,8
+15550,Colombia,2020-06-22,others,14,100.0,14
+15574,Colombia,2020-07-06,others,29,100.0,29
+15598,Colombia,2020-07-20,others,28,100.0,28
+15622,Colombia,2020-08-03,others,8,100.0,8
+15646,Colombia,2020-08-17,others,20,100.0,20
+15670,Colombia,2020-08-31,others,5,100.0,5
+15694,Colombia,2020-09-14,others,14,100.0,14
+15718,Colombia,2020-09-28,others,5,100.0,5
+15742,Colombia,2020-10-12,others,20,100.0,20
+15766,Colombia,2020-10-26,others,8,100.0,8
+15790,Colombia,2020-11-09,others,6,100.0,6
+15814,Colombia,2020-11-23,others,12,100.0,12
+15838,Colombia,2020-12-07,others,18,100.0,18
+15862,Colombia,2020-12-21,others,30,93.76,32
+15886,Colombia,2021-01-04,others,86,98.85,87
+15910,Colombia,2021-01-11,others,40,83.34,48
+15934,Colombia,2021-01-25,others,71,85.55,83
+15958,Colombia,2021-02-08,others,21,70.0,30
+15982,Colombia,2021-02-22,others,12,50.0,24
+16006,Colombia,2021-03-08,others,46,63.01,73
+16030,Colombia,2021-03-22,others,32,40.5,79
+16054,Colombia,2021-04-05,others,43,26.88,160
+16078,Colombia,2021-04-19,others,173,21.55,803
+16102,Colombia,2021-05-03,others,74,17.13,432
+16126,Colombia,2021-05-17,others,47,12.53,375
+16150,Colombia,2021-05-31,others,13,6.7,194
+16174,Colombia,2021-06-14,others,15,5.29,283
+16198,Colombia,2021-06-28,others,4,1.79,224
+16222,Colombia,2021-07-12,others,7,1.52,462
+16246,Colombia,2021-07-26,others,17,1.86,920
+16270,Colombia,2021-08-09,others,12,1.54,775
+16294,Colombia,2021-08-23,others,4,0.52,768
+16318,Colombia,2021-09-06,others,3,0.56,542
+16342,Colombia,2021-09-20,others,0,0.0,423
+16366,Colombia,2021-10-04,others,7,0.87,800
+16390,Colombia,2021-10-18,others,6,0.92,652
+16414,Colombia,2021-11-01,others,0,0.01,585
+16438,Colombia,2021-11-15,others,1,0.16,616
+16462,Colombia,2021-11-29,others,0,0.0,318
+16486,Colombia,2021-12-13,others,0,0.0,112
+16510,Colombia,2021-12-27,others,0,0.0,107
+16534,Costa Rica,2020-06-08,others,8,100.0,8
+16558,Costa Rica,2020-06-22,others,15,100.0,15
+16582,Costa Rica,2020-07-06,others,19,100.0,19
+16606,Costa Rica,2020-07-20,others,22,100.0,22
+16630,Costa Rica,2020-08-03,others,13,100.0,13
+16654,Costa Rica,2020-08-17,others,13,100.0,13
+16678,Costa Rica,2020-08-31,others,3,100.0,3
+16702,Costa Rica,2020-09-14,others,7,100.0,7
+16726,Costa Rica,2020-09-28,others,6,100.0,6
+16750,Costa Rica,2020-10-12,others,9,100.0,9
+16774,Costa Rica,2020-10-26,others,7,100.0,7
+16798,Costa Rica,2020-11-09,others,8,100.0,8
+16822,Costa Rica,2020-11-23,others,10,100.0,10
+16846,Costa Rica,2020-12-07,others,9,100.0,9
+16870,Costa Rica,2020-12-21,others,14,100.0,14
+16894,Costa Rica,2021-01-04,others,33,89.18,37
+16918,Costa Rica,2021-01-11,others,10,100.0,10
+16942,Costa Rica,2021-01-25,others,41,100.0,41
+16966,Costa Rica,2021-02-08,others,27,100.0,27
+16990,Costa Rica,2021-02-22,others,33,94.29,35
+17014,Costa Rica,2021-03-08,others,54,81.79,66
+17038,Costa Rica,2021-03-22,others,54,67.5,80
+17062,Costa Rica,2021-04-05,others,26,44.83,58
+17086,Costa Rica,2021-04-19,others,27,38.03,71
+17110,Costa Rica,2021-05-03,others,15,26.33,57
+17134,Costa Rica,2021-05-17,others,8,24.24,33
+17158,Costa Rica,2021-05-31,others,10,21.28,47
+17182,Costa Rica,2021-06-14,others,6,18.18,33
+17206,Costa Rica,2021-06-28,others,7,12.5,56
+17230,Costa Rica,2021-07-12,others,17,20.24,84
+17254,Costa Rica,2021-07-26,others,7,7.96,88
+17278,Costa Rica,2021-08-09,others,1,0.72,138
+17302,Costa Rica,2021-08-23,others,1,0.75,135
+17326,Costa Rica,2021-09-06,others,0,0.0,69
+17350,Costa Rica,2021-09-20,others,0,-0.01,92
+17374,Costa Rica,2021-10-04,others,0,0.0,71
+17398,Costa Rica,2021-10-18,others,0,0.0,150
+17422,Costa Rica,2021-11-01,others,0,0.0,147
+17446,Costa Rica,2021-11-15,others,0,0.0,156
+17470,Costa Rica,2021-11-29,others,0,0.0,108
+17494,Costa Rica,2021-12-13,others,0,0.0,60
+17518,Costa Rica,2021-12-27,others,0,0.0,41
+17542,Croatia,2020-08-17,others,1,100.0,1
+17566,Croatia,2020-08-31,others,2,66.67,3
+17590,Croatia,2020-09-14,others,9,81.82,11
+17614,Croatia,2020-09-28,others,1,100.0,1
+17638,Croatia,2020-10-12,others,11,91.67,12
+17662,Croatia,2020-11-23,others,13,44.84,29
+17686,Croatia,2020-12-21,others,1,100.0,1
+17710,Croatia,2021-01-04,others,5,62.5,8
+17734,Croatia,2021-01-11,others,7,63.64,11
+17758,Croatia,2021-01-25,others,9,20.01,45
+17782,Croatia,2021-02-08,others,25,15.73,159
+17806,Croatia,2021-02-22,others,38,9.64,394
+17830,Croatia,2021-03-08,others,23,3.93,582
+17854,Croatia,2021-03-22,others,9,1.43,626
+17878,Croatia,2021-04-05,others,6,0.81,749
+17902,Croatia,2021-04-19,others,5,1.32,375
+17926,Croatia,2021-05-03,others,20,2.54,786
+17950,Croatia,2021-05-17,others,2,0.31,639
+17974,Croatia,2021-05-31,others,5,1.35,370
+17998,Croatia,2021-06-14,others,1,0.32,311
+18022,Croatia,2021-06-28,others,1,0.61,162
+18046,Croatia,2021-07-12,others,3,0.82,369
+18070,Croatia,2021-07-26,others,0,0.0,407
+18094,Croatia,2021-08-09,others,0,-0.01,511
+18118,Croatia,2021-08-23,others,0,0.0,770
+18142,Croatia,2021-09-06,others,0,0.0,993
+18166,Croatia,2021-09-20,others,0,0.0,739
+18190,Croatia,2021-10-04,others,0,0.0,692
+18214,Croatia,2021-10-18,others,0,0.0,661
+18238,Croatia,2021-11-01,others,0,0.0,640
+18262,Croatia,2021-11-15,others,0,0.0,742
+18286,Croatia,2021-11-29,others,0,0.0,835
+18310,Croatia,2021-12-13,others,0,0.0,935
+18334,Curacao,2020-08-17,others,3,100.0,3
+18358,Curacao,2020-10-12,others,1,100.0,1
+18382,Curacao,2020-10-26,others,3,100.0,3
+18406,Curacao,2020-11-09,others,7,87.5,8
+18430,Curacao,2020-11-23,others,4,100.0,4
+18454,Curacao,2020-12-07,others,2,100.0,2
+18478,Curacao,2020-12-21,others,8,100.0,8
+18502,Curacao,2021-01-04,others,5,100.0,5
+18526,Curacao,2021-01-11,others,4,66.67,6
+18550,Curacao,2021-01-25,others,12,79.99,15
+18574,Curacao,2021-02-08,others,9,59.99,15
+18598,Curacao,2021-02-22,others,5,13.88,36
+18622,Curacao,2021-03-08,others,6,12.0,50
+18646,Curacao,2021-03-22,others,2,3.63,55
+18670,Curacao,2021-04-05,others,1,1.76,57
+18694,Curacao,2021-04-19,others,1,1.64,61
+18718,Curacao,2021-05-03,others,1,2.23,45
+18742,Curacao,2021-05-17,others,0,0.0,25
+18766,Curacao,2021-05-31,others,0,0.0,10
+18790,Curacao,2021-06-14,others,0,0.0,4
+18814,Curacao,2021-06-28,others,0,0.0,16
+18838,Curacao,2021-07-12,others,0,0.01,38
+18862,Curacao,2021-07-26,others,0,0.0,67
+18886,Curacao,2021-08-09,others,0,0.0,62
+18910,Curacao,2021-08-23,others,0,0.0,49
+18934,Curacao,2021-09-06,others,0,0.0,47
+18958,Curacao,2021-09-20,others,0,0.0,58
+18982,Curacao,2021-10-04,others,0,0.0,56
+19006,Curacao,2021-10-18,others,0,0.0,53
+19030,Curacao,2021-11-01,others,0,0.0,47
+19054,Curacao,2021-11-15,others,0,0.0,28
+19078,Curacao,2021-11-29,others,0,0.0,20
+19102,Curacao,2021-12-13,others,0,0.0,24
+19126,Cyprus,2020-05-11,others,23,100.0,23
+19150,Cyprus,2020-05-25,others,20,100.0,20
+19174,Cyprus,2020-06-08,others,12,100.0,12
+19198,Cyprus,2020-06-22,others,11,100.0,11
+19222,Cyprus,2020-07-06,others,2,100.0,2
+19246,Cyprus,2020-07-20,others,3,100.0,3
+19270,Cyprus,2020-08-03,others,11,100.0,11
+19294,Cyprus,2020-08-17,others,24,100.0,24
+19318,Cyprus,2020-08-31,others,11,91.67,12
+19342,Cyprus,2020-09-14,others,4,100.0,4
+19366,Cyprus,2020-09-28,others,16,41.03,39
+19390,Cyprus,2020-10-12,others,1,4.16,24
+19414,Cyprus,2020-10-26,others,1,9.09,11
+19438,Cyprus,2020-11-09,others,6,3.77,159
+19462,Cyprus,2020-11-23,others,1,11.11,9
+19486,Cyprus,2020-12-07,others,3,4.76,63
+19510,Cyprus,2020-12-21,others,2,66.67,3
+19534,Cyprus,2021-01-04,others,3,3.75,80
+19558,Cyprus,2021-01-11,others,0,0.01,28
+19582,Cyprus,2021-01-25,others,0,0.0,35
+19606,Cyprus,2021-02-08,others,0,0.0,17
+19630,Czechia,2020-05-11,others,6,100.0,6
+19654,Czechia,2020-05-25,others,9,100.0,9
+19678,Czechia,2020-06-08,others,4,100.0,4
+19702,Czechia,2020-06-22,others,9,100.0,9
+19726,Czechia,2020-07-20,others,9,100.0,9
+19750,Czechia,2020-08-03,others,19,79.17,24
+19774,Czechia,2020-08-17,others,21,80.77,26
+19798,Czechia,2020-08-31,others,5,45.46,11
+19822,Czechia,2020-09-14,others,5,55.56,9
+19846,Czechia,2020-09-28,others,8,34.78,23
+19870,Czechia,2020-10-12,others,28,36.84,76
+19894,Czechia,2020-10-26,others,9,14.99,60
+19918,Czechia,2020-11-09,others,13,23.21,56
+19942,Czechia,2020-11-23,others,4,21.05,19
+19966,Czechia,2020-12-07,others,1,11.11,9
+19990,Czechia,2020-12-21,others,5,31.25,16
+20014,Czechia,2021-01-04,others,7,26.93,26
+20038,Czechia,2021-01-11,others,30,14.93,201
+20062,Czechia,2021-01-25,others,8,8.26,97
+20086,Czechia,2021-02-08,others,12,3.19,378
+20110,Czechia,2021-02-22,others,16,2.59,617
+20134,Czechia,2021-03-08,others,13,2.59,501
+20158,Czechia,2021-03-22,others,6,1.08,556
+20182,Czechia,2021-04-05,others,3,0.8,374
+20206,Czechia,2021-04-19,others,11,1.74,635
+20230,Czechia,2021-05-03,others,12,1.53,780
+20254,Czechia,2021-05-17,others,14,2.51,558
+20278,Czechia,2021-05-31,others,9,3.28,275
+20302,Czechia,2021-06-14,others,7,1.79,388
+20326,Czechia,2021-06-28,others,8,3.66,218
+20350,Czechia,2021-07-12,others,18,3.59,501
+20374,Czechia,2021-07-26,others,3,0.57,527
+20398,Czechia,2021-08-09,others,2,0.35,566
+20422,Czechia,2021-08-23,others,1,0.12,875
+20446,Czechia,2021-09-06,others,0,0.0,844
+20470,Czechia,2021-09-20,others,0,0.0,1382
+20494,Czechia,2021-10-04,others,1,0.07,1373
+20518,Czechia,2021-10-18,others,0,0.0,1766
+20542,Czechia,2021-11-01,others,4,0.2,2031
+20566,Czechia,2021-11-15,others,0,0.0,1420
+20590,Czechia,2021-11-29,others,2,0.15,1331
+20614,Czechia,2021-12-13,others,0,0.0,1431
+20638,Czechia,2021-12-27,others,3,0.91,330
+20662,Czechia,2022-01-05,others,0,0.0,15
+20686,Denmark,2020-05-11,others,155,100.0,155
+20710,Denmark,2020-05-25,others,136,100.0,136
+20734,Denmark,2020-06-08,others,122,100.0,122
+20758,Denmark,2020-06-22,others,169,100.0,169
+20782,Denmark,2020-07-06,others,60,100.0,60
+20806,Denmark,2020-07-20,others,100,100.0,100
+20830,Denmark,2020-08-03,others,150,98.68,152
+20854,Denmark,2020-08-17,others,384,87.87,437
+20878,Denmark,2020-08-31,others,427,71.88,594
+20902,Denmark,2020-09-14,others,372,38.01,979
+20926,Denmark,2020-09-28,others,526,31.99,1644
+20950,Denmark,2020-10-12,others,278,33.29,835
+20974,Denmark,2020-10-26,others,599,38.55,1554
+20998,Denmark,2020-11-09,others,990,32.29,3067
+21022,Denmark,2020-11-23,others,1278,40.4,3165
+21046,Denmark,2020-12-07,others,1250,24.71,5060
+21070,Denmark,2020-12-21,others,1452,15.57,9321
+21094,Denmark,2021-01-04,others,928,12.08,7686
+21118,Denmark,2021-01-11,others,443,10.7,4145
+21142,Denmark,2021-01-25,others,836,10.3,8109
+21166,Denmark,2021-02-08,others,488,10.24,4769
+21190,Denmark,2021-02-22,others,465,10.6,4388
+21214,Denmark,2021-03-08,others,329,6.12,5371
+21238,Denmark,2021-03-22,others,252,3.97,6351
+21262,Denmark,2021-04-05,others,208,2.9,7193
+21286,Denmark,2021-04-19,others,50,0.71,7082
+21310,Denmark,2021-05-03,others,27,0.35,7679
+21334,Denmark,2021-05-17,others,15,0.16,9822
+21358,Denmark,2021-05-31,others,3,0.03,9480
+21382,Denmark,2021-06-14,others,6,0.1,5882
+21406,Denmark,2021-06-28,others,5,0.24,2061
+21430,Denmark,2021-07-12,others,4,0.07,5124
+21454,Denmark,2021-07-26,others,4,0.03,10876
+21478,Denmark,2021-08-09,others,8,0.07,10917
+21502,Denmark,2021-08-23,others,2,0.01,11256
+21526,Denmark,2021-09-06,others,2,0.03,8743
+21550,Denmark,2021-09-20,others,0,0.0,4585
+21574,Denmark,2021-10-04,others,0,0.0,4878
+21598,Denmark,2021-10-18,others,0,0.0,7662
+21622,Denmark,2021-11-01,others,2,0.01,15515
+21646,Denmark,2021-11-15,others,1,0.0,22315
+21670,Denmark,2021-11-29,others,1,0.0,23829
+21694,Denmark,2021-12-13,others,11,0.03,30285
+21718,Denmark,2021-12-27,others,204,3.0,6817
+21742,Djibouti,2020-05-11,others,2,100.0,2
+21766,Djibouti,2020-05-25,others,2,100.0,2
+21790,Djibouti,2020-06-08,others,5,100.0,5
+21814,Djibouti,2020-06-22,others,13,100.0,13
+21838,Djibouti,2020-07-06,others,1,100.0,1
+21862,Djibouti,2020-07-20,others,2,100.0,2
+21886,Djibouti,2020-08-03,others,2,100.0,2
+21910,Djibouti,2020-10-26,others,1,100.0,1
+21934,Djibouti,2020-11-09,others,1,100.0,1
+21958,Djibouti,2020-11-23,others,14,100.0,14
+21982,Djibouti,2020-12-07,others,1,100.0,1
+22006,Djibouti,2020-12-21,others,5,100.0,5
+22030,Djibouti,2021-01-04,others,2,100.0,2
+22054,Djibouti,2021-01-25,others,10,90.91,11
+22078,Djibouti,2021-02-08,others,3,100.0,3
+22102,Djibouti,2021-02-22,others,27,90.0,30
+22126,Djibouti,2021-03-08,others,0,0.0,56
+22150,Djibouti,2021-03-22,others,0,0.0,26
+22174,Djibouti,2021-04-05,others,2,3.12,64
+22198,Djibouti,2021-04-19,others,1,2.7,37
+22222,Djibouti,2021-05-03,others,0,0.0,23
+22246,Djibouti,2021-05-17,others,0,0.0,5
+22270,Djibouti,2021-05-31,others,0,0.0,1
+22294,Djibouti,2021-07-12,others,0,0.0,1
+22318,Djibouti,2021-08-09,others,0,0.0,2
+22342,Djibouti,2021-09-06,others,0,0.0,2
+22366,Djibouti,2021-09-20,others,0,0.0,9
+22390,Djibouti,2021-10-04,others,0,0.0,25
+22414,Djibouti,2021-10-18,others,0,0.0,19
+22438,Djibouti,2021-11-01,others,0,0.0,2
+22462,Dominican Republic,2020-05-11,others,5,100.0,5
+22486,Dominican Republic,2020-11-23,others,1,100.0,1
+22510,Dominican Republic,2021-01-04,others,0,0.0,1
+22534,Dominican Republic,2021-01-25,others,29,87.88,33
+22558,Dominican Republic,2021-02-08,others,21,87.5,24
+22582,Dominican Republic,2021-02-22,others,0,0.0,3
+22606,Dominican Republic,2021-03-08,others,9,81.82,11
+22630,Dominican Republic,2021-03-22,others,48,82.75,58
+22654,Dominican Republic,2021-04-05,others,3,23.08,13
+22678,Dominican Republic,2021-04-19,others,8,47.07,17
+22702,Dominican Republic,2021-05-03,others,0,0.0,1
+22726,Dominican Republic,2021-05-17,others,31,35.63,87
+22750,Dominican Republic,2021-05-31,others,19,18.82,101
+22774,Dominican Republic,2021-06-14,others,4,21.05,19
+22798,Dominican Republic,2021-06-28,others,2,15.38,13
+22822,Dominican Republic,2021-07-12,others,1,10.0,10
+22846,Dominican Republic,2021-07-26,others,2,20.0,10
+22870,Dominican Republic,2021-08-09,others,7,24.14,29
+22894,Dominican Republic,2021-08-23,others,1,25.0,4
+22918,Dominican Republic,2021-09-06,others,0,0.0,2
+22942,Dominican Republic,2021-09-20,others,0,0.0,3
+22966,Dominican Republic,2021-10-04,others,0,0.0,1
+22990,Dominican Republic,2021-10-18,others,0,0.0,99
+23014,Dominican Republic,2021-11-01,others,0,0.0,20
+23038,Ecuador,2020-05-11,others,7,100.0,7
+23062,Ecuador,2020-05-25,others,4,100.0,4
+23086,Ecuador,2020-06-08,others,8,100.0,8
+23110,Ecuador,2020-06-22,others,3,100.0,3
+23134,Ecuador,2020-07-06,others,18,100.0,18
+23158,Ecuador,2020-07-20,others,3,100.0,3
+23182,Ecuador,2020-08-03,others,6,100.0,6
+23206,Ecuador,2020-08-17,others,26,100.0,26
+23230,Ecuador,2020-08-31,others,17,100.0,17
+23254,Ecuador,2020-09-14,others,19,100.0,19
+23278,Ecuador,2020-09-28,others,3,100.0,3
+23302,Ecuador,2020-10-12,others,13,100.0,13
+23326,Ecuador,2020-10-26,others,5,100.0,5
+23350,Ecuador,2020-11-09,others,6,100.0,6
+23374,Ecuador,2020-11-23,others,3,100.0,3
+23398,Ecuador,2020-12-07,others,6,100.0,6
+23422,Ecuador,2020-12-21,others,12,100.0,12
+23446,Ecuador,2021-01-04,others,10,100.0,10
+23470,Ecuador,2021-01-11,others,7,53.85,13
+23494,Ecuador,2021-01-25,others,16,88.89,18
+23518,Ecuador,2021-02-08,others,2,100.0,2
+23542,Ecuador,2021-02-22,others,2,100.0,2
+23566,Ecuador,2021-03-08,others,5,83.33,6
+23590,Ecuador,2021-03-22,others,9,52.94,17
+23614,Ecuador,2021-04-05,others,7,30.43,23
+23638,Ecuador,2021-04-19,others,15,26.32,57
+23662,Ecuador,2021-05-03,others,18,27.7,65
+23686,Ecuador,2021-05-17,others,25,17.98,139
+23710,Ecuador,2021-05-31,others,25,24.51,102
+23734,Ecuador,2021-06-14,others,27,16.17,167
+23758,Ecuador,2021-06-28,others,12,8.28,145
+23782,Ecuador,2021-07-12,others,21,5.74,366
+23806,Ecuador,2021-07-26,others,28,4.96,565
+23830,Ecuador,2021-08-09,others,22,9.47,232
+23854,Ecuador,2021-08-23,others,11,4.22,261
+23878,Ecuador,2021-09-06,others,4,1.33,306
+23902,Ecuador,2021-09-20,others,1,0.64,155
+23926,Ecuador,2021-10-04,others,1,0.46,214
+23950,Ecuador,2021-10-18,others,6,6.45,93
+23974,Ecuador,2021-11-01,others,1,4.35,23
+23998,Ecuador,2021-11-15,others,2,2.0,100
+24022,Ecuador,2021-11-29,others,1,0.74,135
+24046,Ecuador,2021-12-13,others,0,0.0,93
+24070,Ecuador,2021-12-27,others,0,0.0,55
+24094,Egypt,2020-05-11,others,38,100.0,38
+24118,Egypt,2020-05-25,others,22,100.0,22
+24142,Egypt,2020-06-08,others,141,100.0,141
+24166,Egypt,2020-06-22,others,77,100.0,77
+24190,Egypt,2020-07-06,others,128,100.0,128
+24214,Egypt,2020-07-20,others,44,100.0,44
+24238,Egypt,2020-08-03,others,41,100.0,41
+24262,Egypt,2020-08-17,others,29,100.0,29
+24286,Egypt,2020-08-31,others,43,100.0,43
+24310,Egypt,2020-09-14,others,25,100.0,25
+24334,Egypt,2020-09-28,others,17,100.0,17
+24358,Egypt,2020-10-12,others,15,100.0,15
+24382,Egypt,2020-10-26,others,11,100.0,11
+24406,Egypt,2020-11-09,others,12,100.0,12
+24430,Egypt,2020-11-23,others,11,91.67,12
+24454,Egypt,2020-12-07,others,3,100.0,3
+24478,Egypt,2020-12-21,others,14,100.0,14
+24502,Egypt,2021-01-04,others,99,100.0,99
+24526,Egypt,2021-01-11,others,40,100.0,40
+24550,Egypt,2021-01-25,others,3,100.0,3
+24574,Egypt,2021-02-22,others,79,100.0,79
+24598,Egypt,2021-03-08,others,18,85.71,21
+24622,Egypt,2021-03-22,others,11,91.67,12
+24646,Egypt,2021-04-05,others,64,86.49,74
+24670,Egypt,2021-04-19,others,9,90.0,10
+24694,Egypt,2021-05-03,others,81,91.01,89
+24718,Egypt,2021-05-17,others,39,92.86,42
+24742,Egypt,2021-05-31,others,20,86.96,23
+24766,Egypt,2021-06-14,others,10,100.0,10
+24790,Egypt,2021-06-28,others,3,75.0,4
+24814,Egypt,2021-07-12,others,3,100.0,3
+24838,Egypt,2021-07-26,others,0,0.0,1
+24862,Egypt,2021-08-09,others,1,11.11,9
+24886,Egypt,2021-09-06,others,0,0.0,23
+24910,Egypt,2021-09-20,others,0,0.0,5
+24934,Egypt,2021-10-04,others,0,0.0,9
+24958,Egypt,2021-10-18,others,1,4.76,21
+24982,Egypt,2021-11-01,others,1,1.52,66
+25006,Egypt,2021-11-15,others,0,0.0,13
+25030,Egypt,2021-11-29,others,0,0.0,6
+25054,Egypt,2021-12-13,others,0,0.0,1
+25078,Estonia,2020-09-14,others,7,77.78,9
+25102,Estonia,2020-09-28,others,105,87.5,120
+25126,Estonia,2020-10-12,others,51,92.73,55
+25150,Estonia,2020-10-26,others,17,80.96,21
+25174,Estonia,2020-11-09,others,35,66.04,53
+25198,Estonia,2020-11-23,others,5,27.78,18
+25222,Estonia,2020-12-21,others,0,0.0,2
+25246,Estonia,2021-01-04,others,11,23.91,46
+25270,Estonia,2021-01-11,others,1,20.0,5
+25294,Estonia,2021-01-25,others,4,40.0,10
+25318,Estonia,2021-02-08,others,13,27.66,47
+25342,Estonia,2021-02-22,others,199,35.3,564
+25366,Estonia,2021-03-08,others,30,18.41,163
+25390,Estonia,2021-03-22,others,137,13.46,1018
+25414,Estonia,2021-04-05,others,80,7.15,1121
+25438,Estonia,2021-04-19,others,2,0.54,368
+25462,Estonia,2021-05-03,others,3,0.85,351
+25486,Estonia,2021-05-17,others,5,1.53,326
+25510,Estonia,2021-06-14,others,0,0.0,137
+25534,Estonia,2021-06-28,others,0,0.0,45
+25558,Estonia,2021-07-12,others,0,0.0,138
+25582,Estonia,2021-07-26,others,0,0.0,252
+25606,Estonia,2021-08-09,others,0,0.0,360
+25630,Estonia,2021-08-23,others,0,0.0,371
+25654,Estonia,2021-09-06,others,0,0.0,369
+25678,Estonia,2021-09-20,others,0,0.0,346
+25702,Estonia,2021-10-04,others,0,0.0,348
+25726,Estonia,2021-10-18,others,0,0.0,319
+25750,Estonia,2021-11-01,others,0,0.0,344
+25774,Estonia,2021-11-15,others,0,0.0,294
+25798,Estonia,2021-11-29,others,0,0.0,340
+25822,Estonia,2021-12-13,others,0,0.0,82
+25846,Ethiopia,2020-11-23,others,4,100.0,4
+25870,Ethiopia,2020-12-21,others,4,100.0,4
+25894,Ethiopia,2021-01-25,others,4,66.67,6
+25918,Ethiopia,2021-02-08,others,9,90.0,10
+25942,Ethiopia,2021-02-22,others,1,25.0,4
+25966,Ethiopia,2021-03-08,others,2,15.39,13
+25990,Ethiopia,2021-03-22,others,1,25.0,4
+26014,Ethiopia,2021-04-05,others,1,16.67,6
+26038,Ethiopia,2021-04-19,others,0,0.0,1
+26062,Ethiopia,2021-05-03,others,1,50.0,2
+26086,Ethiopia,2021-05-31,others,2,7.69,26
+26110,Ethiopia,2021-06-14,others,0,0.0,5
+26134,Ethiopia,2021-07-12,others,0,0.0,6
+26158,Ethiopia,2021-07-26,others,24,40.68,59
+26182,Ethiopia,2021-08-09,others,1,0.4,253
+26206,Ethiopia,2021-08-23,others,0,0.0,119
+26230,Fiji,2020-08-31,others,1,100.0,1
+26254,Fiji,2020-11-23,others,2,100.0,2
+26278,Fiji,2020-12-07,others,2,100.0,2
+26302,Fiji,2021-01-04,others,1,50.0,2
+26326,Fiji,2021-02-08,others,1,100.0,1
+26350,Fiji,2021-03-08,others,0,0.0,1
+26374,Fiji,2021-03-22,others,1,100.0,1
+26398,Fiji,2021-04-19,others,0,0.0,7
+26422,Fiji,2021-05-03,others,0,0.0,18
+26446,Fiji,2021-05-17,others,0,0.0,22
+26470,Fiji,2021-05-31,others,0,0.0,24
+26494,Fiji,2021-06-14,others,0,0.0,52
+26518,Fiji,2021-06-28,others,0,0.0,252
+26542,Fiji,2021-07-12,others,0,0.0,140
+26566,Finland,2020-05-11,others,102,100.0,102
+26590,Finland,2020-05-25,others,51,100.0,51
+26614,Finland,2020-06-08,others,37,100.0,37
+26638,Finland,2020-06-22,others,4,100.0,4
+26662,Finland,2020-08-17,others,10,100.0,10
+26686,Finland,2020-08-31,others,14,100.0,14
+26710,Finland,2020-09-14,others,15,65.22,23
+26734,Finland,2020-09-28,others,80,83.34,96
+26758,Finland,2020-10-12,others,251,88.7,283
+26782,Finland,2020-10-26,others,83,84.69,98
+26806,Finland,2020-11-09,others,43,84.32,51
+26830,Finland,2020-11-23,others,47,87.03,54
+26854,Finland,2020-12-07,others,126,80.77,156
+26878,Finland,2020-12-21,others,92,80.7,114
+26902,Finland,2021-01-04,others,38,25.67,148
+26926,Finland,2021-01-11,others,50,40.32,124
+26950,Finland,2021-01-25,others,266,34.77,765
+26974,Finland,2021-02-08,others,322,25.97,1240
+26998,Finland,2021-02-22,others,223,14.06,1587
+27022,Finland,2021-03-08,others,217,13.13,1653
+27046,Finland,2021-03-22,others,130,7.58,1715
+27070,Finland,2021-04-05,others,58,5.88,987
+27094,Finland,2021-04-19,others,28,4.0,702
+27118,Finland,2021-05-03,others,16,2.97,542
+27142,Finland,2021-05-17,others,21,3.49,601
+27166,Finland,2021-05-31,others,12,2.27,529
+27190,Finland,2021-06-14,others,13,4.43,294
+27214,Finland,2021-06-28,others,11,1.5,734
+27238,Finland,2021-07-12,others,4,0.49,822
+27262,Finland,2021-07-26,others,0,0.0,1484
+27286,Finland,2021-08-09,others,2,0.12,1655
+27310,Finland,2021-08-23,others,0,0.01,1027
+27334,Finland,2021-09-06,others,0,0.0,930
+27358,Finland,2021-09-20,others,0,0.0,749
+27382,Finland,2021-10-04,others,0,0.0,967
+27406,Finland,2021-10-18,others,0,0.0,864
+27430,Finland,2021-11-01,others,0,0.0,670
+27454,Finland,2021-11-15,others,0,0.0,417
+27478,Finland,2021-11-29,others,0,0.0,61
+27502,France,2020-05-11,others,199,99.0,201
+27526,France,2020-05-25,others,64,100.0,64
+27550,France,2020-06-08,others,33,100.0,33
+27574,France,2020-06-22,others,45,100.0,45
+27598,France,2020-07-06,others,30,100.0,30
+27622,France,2020-07-20,others,63,88.73,71
+27646,France,2020-08-03,others,110,78.57,140
+27670,France,2020-08-17,others,111,46.45,239
+27694,France,2020-08-31,others,116,46.21,251
+27718,France,2020-09-14,others,210,25.54,822
+27742,France,2020-09-28,others,116,23.77,488
+27766,France,2020-10-12,others,161,37.7,427
+27790,France,2020-10-26,others,252,28.97,870
+27814,France,2020-11-09,others,281,27.55,1020
+27838,France,2020-11-23,others,162,26.19,619
+27862,France,2020-12-07,others,87,25.06,347
+27886,France,2020-12-21,others,108,26.73,404
+27910,France,2021-01-04,others,97,18.74,518
+27934,France,2021-01-11,others,107,14.5,738
+27958,France,2021-01-25,others,330,15.19,2173
+27982,France,2021-02-08,others,444,11.1,3995
+28006,France,2021-02-22,others,419,14.01,2991
+28030,France,2021-03-08,others,391,9.14,4276
+28054,France,2021-03-22,others,315,4.92,6421
+28078,France,2021-04-05,others,271,4.49,6026
+28102,France,2021-04-19,others,174,3.48,5009
+28126,France,2021-05-03,others,95,2.16,4393
+28150,France,2021-05-17,others,42,1.3,3260
+28174,France,2021-05-31,others,83,2.66,3135
+28198,France,2021-06-14,others,84,3.78,2215
+28222,France,2021-06-28,others,42,2.17,1950
+28246,France,2021-07-12,others,40,0.93,4263
+28270,France,2021-07-26,others,33,0.25,13457
+28294,France,2021-08-09,others,11,0.13,9502
+28318,France,2021-08-23,others,7,0.09,8879
+28342,France,2021-09-06,others,8,0.1,8082
+28366,France,2021-09-20,others,2,0.04,4638
+28390,France,2021-10-04,others,4,0.11,3410
+28414,France,2021-10-18,others,14,0.38,3568
+28438,France,2021-11-01,others,28,0.27,10296
+28462,France,2021-11-15,others,39,0.39,10101
+28486,France,2021-11-29,others,70,0.88,8030
+28510,France,2021-12-13,others,142,1.36,10382
+28534,France,2021-12-27,others,20,0.9,2220
+28558,France,2022-01-05,others,0,0.0,117
+28582,Gambia,2020-05-11,others,13,100.0,13
+28606,Gambia,2020-05-25,others,14,100.0,14
+28630,Gambia,2020-06-08,others,11,100.0,11
+28654,Gambia,2020-06-22,others,5,100.0,5
+28678,Gambia,2020-07-06,others,23,100.0,23
+28702,Gambia,2020-07-20,others,4,100.0,4
+28726,Gambia,2020-08-03,others,241,100.0,241
+28750,Gambia,2020-08-17,others,30,100.0,30
+28774,Gambia,2020-08-31,others,37,100.0,37
+28798,Gambia,2020-09-14,others,21,100.0,21
+28822,Gambia,2020-09-28,others,4,100.0,4
+28846,Gambia,2020-10-12,others,5,100.0,5
+28870,Gambia,2020-10-26,others,1,100.0,1
+28894,Gambia,2021-01-04,others,1,100.0,1
+28918,Gambia,2021-01-11,others,0,0.0,2
+28942,Gambia,2021-01-25,others,6,75.0,8
+28966,Gambia,2021-02-08,others,11,100.0,11
+28990,Gambia,2021-02-22,others,8,100.0,8
+29014,Gambia,2021-03-08,others,7,33.33,21
+29038,Gambia,2021-03-22,others,9,20.93,43
+29062,Gambia,2021-04-05,others,3,21.43,14
+29086,Gambia,2021-04-19,others,1,20.0,5
+29110,Gambia,2021-05-03,others,9,81.82,11
+29134,Gambia,2021-05-17,others,0,0.0,2
+29158,Gambia,2021-05-31,others,5,41.67,12
+29182,Gambia,2021-06-14,others,0,0.0,2
+29206,Gambia,2021-06-28,others,0,0.0,5
+29230,Gambia,2021-07-12,others,1,1.45,69
+29254,Gambia,2021-07-26,others,0,0.0,40
+29278,Gambia,2021-08-09,others,2,1.57,127
+29302,Gambia,2021-08-23,others,1,1.37,73
+29326,Georgia,2020-05-11,others,4,100.0,4
+29350,Georgia,2020-06-08,others,1,100.0,1
+29374,Georgia,2020-06-22,others,1,100.0,1
+29398,Georgia,2020-09-28,others,2,100.0,2
+29422,Georgia,2020-10-12,others,1,100.0,1
+29446,Georgia,2020-11-09,others,2,100.0,2
+29470,Georgia,2020-11-23,others,3,75.0,4
+29494,Georgia,2020-12-07,others,1,100.0,1
+29518,Georgia,2020-12-21,others,3,100.0,3
+29542,Georgia,2021-01-04,others,1,100.0,1
+29566,Georgia,2021-01-11,others,1,100.0,1
+29590,Georgia,2021-01-25,others,3,75.0,4
+29614,Georgia,2021-02-08,others,3,75.0,4
+29638,Georgia,2021-02-22,others,2,22.22,9
+29662,Georgia,2021-03-08,others,3,30.0,10
+29686,Georgia,2021-03-22,others,1,16.67,6
+29710,Georgia,2021-04-05,others,1,25.0,4
+29734,Georgia,2021-04-19,others,0,0.0,1
+29758,Georgia,2021-05-03,others,2,66.67,3
+29782,Georgia,2021-05-17,others,13,56.52,23
+29806,Georgia,2021-05-31,others,5,17.86,28
+29830,Georgia,2021-06-14,others,1,5.88,17
+29854,Georgia,2021-06-28,others,0,0.0,17
+29878,Georgia,2021-07-12,others,0,0.0,27
+29902,Georgia,2021-07-26,others,0,0.0,8
+29926,Georgia,2021-08-09,others,1,6.25,16
+29950,Georgia,2021-08-23,others,0,0.0,12
+29974,Georgia,2021-09-06,others,1,3.33,30
+29998,Georgia,2021-09-20,others,0,0.0,5
+30022,Georgia,2021-10-04,others,0,0.0,70
+30046,Georgia,2021-10-18,others,0,0.0,94
+30070,Georgia,2021-11-01,others,0,0.0,33
+30094,Georgia,2021-11-15,others,0,0.0,81
+30118,Georgia,2021-11-29,others,0,0.0,78
+30142,Georgia,2021-12-13,others,0,0.0,129
+30166,Georgia,2021-12-27,others,0,0.0,110
+30190,Germany,2020-05-11,others,105,100.0,105
+30214,Germany,2020-05-25,others,93,98.94,94
+30238,Germany,2020-06-08,others,80,97.56,82
+30262,Germany,2020-06-22,others,1528,100.0,1528
+30286,Germany,2020-07-06,others,389,99.74,390
+30310,Germany,2020-07-20,others,103,100.0,103
+30334,Germany,2020-08-03,others,53,100.0,53
+30358,Germany,2020-08-17,others,122,84.73,144
+30382,Germany,2020-08-31,others,111,63.79,174
+30406,Germany,2020-09-14,others,89,77.38,115
+30430,Germany,2020-09-28,others,222,68.51,324
+30454,Germany,2020-10-12,others,244,69.91,349
+30478,Germany,2020-10-26,others,207,53.49,387
+30502,Germany,2020-11-09,others,286,57.9,494
+30526,Germany,2020-11-23,others,307,52.12,589
+30550,Germany,2020-12-07,others,388,50.4,770
+30574,Germany,2020-12-21,others,379,37.93,999
+30598,Germany,2021-01-04,others,213,31.99,666
+30622,Germany,2021-01-11,others,172,32.83,524
+30646,Germany,2021-01-25,others,794,25.13,3161
+30670,Germany,2021-02-08,others,1422,22.45,6330
+30694,Germany,2021-02-22,others,1404,15.46,9085
+30718,Germany,2021-03-08,others,1680,14.59,11511
+30742,Germany,2021-03-22,others,900,6.21,14479
+30766,Germany,2021-04-05,others,516,3.14,16353
+30790,Germany,2021-04-19,others,377,1.96,19363
+30814,Germany,2021-05-03,others,276,1.42,19306
+30838,Germany,2021-05-17,others,284,1.81,15645
+30862,Germany,2021-05-31,others,237,2.42,9815
+30886,Germany,2021-06-14,others,213,3.94,5401
+30910,Germany,2021-06-28,others,98,3.71,2632
+30934,Germany,2021-07-12,others,78,2.94,2651
+30958,Germany,2021-07-26,others,22,0.5,4588
+30982,Germany,2021-08-09,others,15,0.24,6197
+31006,Germany,2021-08-23,others,9,0.07,13221
+31030,Germany,2021-09-06,others,13,0.06,19285
+31054,Germany,2021-09-20,others,4,0.01,19996
+31078,Germany,2021-10-04,others,13,0.08,15758
+31102,Germany,2021-10-18,others,1,0.0,12393
+31126,Germany,2021-11-01,others,0,-0.01,15674
+31150,Germany,2021-11-15,others,4,0.02,17801
+31174,Germany,2021-11-29,others,5,0.02,23129
+31198,Germany,2021-12-13,others,28,0.14,22895
+31222,Germany,2021-12-27,others,24,0.19,12584
+31246,Ghana,2020-05-11,others,1,100.0,1
+31270,Ghana,2020-05-25,others,18,100.0,18
+31294,Ghana,2020-06-08,others,8,100.0,8
+31318,Ghana,2020-06-22,others,8,100.0,8
+31342,Ghana,2020-07-06,others,1,100.0,1
+31366,Ghana,2020-07-20,others,10,100.0,10
+31390,Ghana,2020-08-03,others,43,100.0,43
+31414,Ghana,2020-08-17,others,5,100.0,5
+31438,Ghana,2020-08-31,others,20,100.0,20
+31462,Ghana,2020-09-14,others,19,100.0,19
+31486,Ghana,2020-09-28,others,1,100.0,1
+31510,Ghana,2020-10-12,others,2,66.67,3
+31534,Ghana,2020-11-09,others,20,100.0,20
+31558,Ghana,2020-11-23,others,16,94.12,17
+31582,Ghana,2020-12-07,others,31,96.88,32
+31606,Ghana,2020-12-21,others,19,82.61,23
+31630,Ghana,2021-01-04,others,14,63.64,22
+31654,Ghana,2021-01-11,others,40,34.78,115
+31678,Ghana,2021-01-25,others,20,21.97,91
+31702,Ghana,2021-02-08,others,14,18.43,76
+31726,Ghana,2021-02-22,others,12,12.63,95
+31750,Ghana,2021-03-08,others,7,12.73,55
+31774,Ghana,2021-03-22,others,13,21.31,61
+31798,Ghana,2021-04-05,others,16,34.79,46
+31822,Ghana,2021-04-19,others,29,30.21,96
+31846,Ghana,2021-05-03,others,30,35.72,84
+31870,Ghana,2021-05-17,others,46,76.67,60
+31894,Ghana,2021-05-31,others,58,74.36,78
+31918,Ghana,2021-06-14,others,45,77.59,58
+31942,Ghana,2021-06-28,others,20,19.24,104
+31966,Ghana,2021-07-12,others,24,15.38,156
+31990,Ghana,2021-07-26,others,6,3.57,168
+32014,Ghana,2021-08-09,others,9,8.18,110
+32038,Ghana,2021-08-23,others,0,0.0,112
+32062,Ghana,2021-09-06,others,0,0.0,17
+32086,Ghana,2021-09-20,others,2,1.32,151
+32110,Ghana,2021-10-04,others,8,12.5,64
+32134,Ghana,2021-10-18,others,11,12.22,90
+32158,Ghana,2021-11-01,others,8,12.5,64
+32182,Ghana,2021-11-15,others,2,6.9,29
+32206,Ghana,2021-11-29,others,2,2.63,76
+32230,Ghana,2021-12-13,others,2,5.55,36
+32254,Greece,2020-05-11,others,8,100.0,8
+32278,Greece,2020-05-25,others,8,100.0,8
+32302,Greece,2020-08-03,others,2,100.0,2
+32326,Greece,2020-08-17,others,15,100.0,15
+32350,Greece,2020-08-31,others,1,50.0,2
+32374,Greece,2020-09-14,others,17,70.83,24
+32398,Greece,2020-09-28,others,34,85.0,40
+32422,Greece,2020-10-12,others,33,78.57,42
+32446,Greece,2020-10-26,others,20,90.9,22
+32470,Greece,2020-11-09,others,150,72.46,207
+32494,Greece,2020-11-23,others,49,34.74,141
+32518,Greece,2020-12-07,others,49,62.82,78
+32542,Greece,2020-12-21,others,146,55.3,264
+32566,Greece,2021-01-04,others,47,27.31,172
+32590,Greece,2021-01-11,others,13,27.08,48
+32614,Greece,2021-01-25,others,42,29.58,142
+32638,Greece,2021-02-08,others,14,12.61,111
+32662,Greece,2021-02-22,others,19,13.28,143
+32686,Greece,2021-03-08,others,28,2.51,1114
+32710,Greece,2021-03-22,others,21,2.01,1040
+32734,Greece,2021-04-05,others,24,7.08,338
+32758,Greece,2021-04-19,others,57,9.37,609
+32782,Greece,2021-05-03,others,238,18.75,1269
+32806,Greece,2021-05-17,others,236,18.8,1255
+32830,Greece,2021-05-31,others,140,24.91,562
+32854,Greece,2021-06-14,others,129,70.49,183
+32878,Greece,2021-06-28,others,40,47.62,84
+32902,Greece,2021-07-12,others,13,4.4,296
+32926,Greece,2021-07-26,others,3,0.85,354
+32950,Greece,2021-08-09,others,3,1.38,218
+32974,Greece,2021-08-23,others,0,0.0,175
+32998,Greece,2021-09-06,others,0,0.0,347
+33022,Greece,2021-09-20,others,0,0.0,649
+33046,Greece,2021-10-04,others,0,0.0,321
+33070,Greece,2021-10-18,others,0,0.0,12
+33094,Greece,2021-11-01,others,0,0.0,155
+33118,Greece,2021-11-15,others,0,0.0,586
+33142,Greece,2021-11-29,others,0,0.0,558
+33166,Greece,2021-12-13,others,0,0.0,610
+33190,Guatemala,2020-05-25,others,3,100.0,3
+33214,Guatemala,2020-06-08,others,6,100.0,6
+33238,Guatemala,2020-06-22,others,19,100.0,19
+33262,Guatemala,2020-07-06,others,11,100.0,11
+33286,Guatemala,2020-07-20,others,6,100.0,6
+33310,Guatemala,2020-08-03,others,10,100.0,10
+33334,Guatemala,2020-08-17,others,3,100.0,3
+33358,Guatemala,2020-08-31,others,1,100.0,1
+33382,Guatemala,2020-09-14,others,1,100.0,1
+33406,Guatemala,2020-09-28,others,4,100.0,4
+33430,Guatemala,2020-10-12,others,48,100.0,48
+33454,Guatemala,2020-10-26,others,31,100.0,31
+33478,Guatemala,2020-11-09,others,29,100.0,29
+33502,Guatemala,2020-11-23,others,7,100.0,7
+33526,Guatemala,2020-12-07,others,17,100.0,17
+33550,Guatemala,2020-12-21,others,10,100.0,10
+33574,Guatemala,2021-01-04,others,11,100.0,11
+33598,Guatemala,2021-01-11,others,32,91.43,35
+33622,Guatemala,2021-01-25,others,44,86.28,51
+33646,Guatemala,2021-02-08,others,26,89.65,29
+33670,Guatemala,2021-02-22,others,7,77.78,9
+33694,Guatemala,2021-03-08,others,43,97.73,44
+33718,Guatemala,2021-03-22,others,11,78.57,14
+33742,Guatemala,2021-04-05,others,5,55.56,9
+33766,Guatemala,2021-04-19,others,12,44.44,27
+33790,Guatemala,2021-05-03,others,5,62.5,8
+33814,Guatemala,2021-05-17,others,10,90.91,11
+33838,Guatemala,2021-05-31,others,16,84.21,19
+33862,Guatemala,2021-06-14,others,16,66.67,24
+33886,Guatemala,2021-06-28,others,52,63.41,82
+33910,Guatemala,2021-07-12,others,91,53.23,171
+33934,Guatemala,2021-07-26,others,23,41.82,55
+33958,Guatemala,2021-08-09,others,19,25.0,76
+33982,Guatemala,2021-08-23,others,15,17.64,85
+34006,Guatemala,2021-09-06,others,5,5.26,95
+34030,Guatemala,2021-09-20,others,4,2.96,135
+34054,Guatemala,2021-10-04,others,3,2.4,125
+34078,Guatemala,2021-10-18,others,0,0.0,59
+34102,Guatemala,2021-11-01,others,0,0.0,23
+34126,Guatemala,2021-11-15,others,0,0.0,24
+34150,Guatemala,2021-11-29,others,0,0.0,18
+34174,Guatemala,2021-12-13,others,0,0.0,4
+34198,Hong Kong,2020-05-11,others,3,100.0,3
+34222,Hong Kong,2020-05-25,others,4,100.0,4
+34246,Hong Kong,2020-06-08,others,8,100.0,8
+34270,Hong Kong,2020-06-22,others,5,100.0,5
+34294,Hong Kong,2020-07-06,others,33,97.06,34
+34318,Hong Kong,2020-07-20,others,234,100.0,234
+34342,Hong Kong,2020-08-03,others,248,100.0,248
+34366,Hong Kong,2020-08-17,others,104,99.05,105
+34390,Hong Kong,2020-08-31,others,54,98.18,55
+34414,Hong Kong,2020-09-14,others,28,96.55,29
+34438,Hong Kong,2020-09-28,others,38,95.0,40
+34462,Hong Kong,2020-10-12,others,61,93.84,65
+34486,Hong Kong,2020-10-26,others,7,53.85,13
+34510,Hong Kong,2020-11-09,others,24,92.31,26
+34534,Hong Kong,2020-11-23,others,105,92.1,114
+34558,Hong Kong,2020-12-07,others,229,97.86,234
+34582,Hong Kong,2020-12-21,others,134,95.03,141
+34606,Hong Kong,2021-01-04,others,171,93.95,182
+34630,Hong Kong,2021-01-11,others,17,89.47,19
+34654,Hong Kong,2021-01-25,others,66,98.51,67
+34678,Hong Kong,2021-02-08,others,45,100.0,45
+34702,Hong Kong,2021-02-22,others,9,75.0,12
+34726,Hong Kong,2021-03-08,others,21,75.0,28
+34750,Hong Kong,2021-03-22,others,117,84.17,139
+34774,Hong Kong,2021-04-05,others,15,34.89,43
+34798,Hong Kong,2021-04-19,others,22,28.58,77
+34822,Hong Kong,2021-05-03,others,3,7.5,40
+34846,Hong Kong,2021-05-17,others,2,9.52,21
+34870,Hong Kong,2021-05-31,others,2,25.0,8
+34894,Hong Kong,2021-06-14,others,1,3.33,30
+34918,Hong Kong,2021-06-28,others,0,0.0,52
+34942,Hong Kong,2021-07-12,others,1,3.03,33
+34966,Hong Kong,2021-07-26,others,0,0.0,15
+34990,Hong Kong,2021-08-09,others,0,0.0,26
+35014,Hong Kong,2021-08-23,others,0,0.0,27
+35038,Hong Kong,2021-09-06,others,0,0.0,49
+35062,Hong Kong,2021-09-20,others,0,0.0,29
+35086,Hong Kong,2021-10-04,others,0,0.0,24
+35110,Hong Kong,2021-10-18,others,0,0.0,28
+35134,Hong Kong,2021-11-01,others,0,0.0,25
+35158,Hong Kong,2021-11-15,others,0,0.0,31
+35182,Hong Kong,2021-11-29,others,0,0.0,40
+35206,Hong Kong,2021-12-13,others,0,0.0,25
+35230,Hong Kong,2021-12-27,others,0,0.0,46
+35254,Hungary,2020-05-11,others,7,100.0,7
+35278,Hungary,2020-05-25,others,5,100.0,5
+35302,Hungary,2020-06-08,others,10,100.0,10
+35326,Hungary,2020-06-22,others,4,100.0,4
+35350,Hungary,2020-07-06,others,3,100.0,3
+35374,Hungary,2020-07-20,others,1,100.0,1
+35398,Hungary,2020-08-31,others,5,71.43,7
+35422,Hungary,2020-09-14,others,33,46.47,71
+35446,Hungary,2020-10-12,others,2,1.89,106
+35470,Hungary,2020-10-26,others,0,0.0,6
+35494,Hungary,2020-11-09,others,2,5.41,37
+35518,Hungary,2020-12-21,others,0,0.0,1
+35542,Hungary,2021-01-11,others,0,0.0,8
+35566,Hungary,2021-01-25,others,1,5.27,19
+35590,Hungary,2021-02-08,others,0,0.0,27
+35614,Hungary,2021-02-22,others,0,0.01,11
+35638,Hungary,2021-03-08,others,0,0.0,3
+35662,Iceland,2020-08-03,others,57,98.28,58
+35686,Iceland,2020-08-17,others,76,88.36,86
+35710,Iceland,2020-08-31,others,66,82.5,80
+35734,Iceland,2020-09-14,others,30,63.84,47
+35758,Iceland,2020-09-28,others,66,14.1,468
+35782,Iceland,2020-10-12,others,37,4.25,867
+35806,Iceland,2020-10-26,others,63,7.4,851
+35830,Iceland,2020-11-09,others,48,8.91,538
+35854,Iceland,2020-11-23,others,84,49.41,170
+35878,Iceland,2020-12-07,others,27,13.99,193
+35902,Iceland,2020-12-21,others,30,19.34,155
+35926,Iceland,2021-01-04,others,28,19.99,140
+35950,Iceland,2021-01-11,others,36,34.62,104
+35974,Iceland,2021-01-25,others,35,41.68,84
+35998,Iceland,2021-02-08,others,9,31.03,29
+36022,Iceland,2021-02-22,others,4,19.05,21
+36046,Iceland,2021-03-08,others,1,6.66,15
+36070,Iceland,2021-03-22,others,1,1.85,54
+36094,Iceland,2021-04-05,others,0,0.0,103
+36118,Iceland,2021-04-19,others,2,2.27,88
+36142,Iceland,2021-05-03,others,0,0.0,157
+36166,Iceland,2021-05-17,others,3,4.76,63
+36190,Iceland,2021-05-31,others,0,0.0,41
+36214,Iceland,2021-06-14,others,3,6.67,45
+36238,Iceland,2021-06-28,others,2,5.4,37
+36262,Iceland,2021-07-12,others,0,0.0,40
+36286,Iceland,2021-07-26,others,0,0.0,623
+36310,Iceland,2021-08-09,others,1,0.07,1449
+36334,Iceland,2021-08-23,others,0,0.0,1268
+36358,Iceland,2021-09-06,others,0,0.0,400
+36382,India,2020-05-11,others,471,100.0,471
+36406,India,2020-05-25,others,649,100.0,649
+36430,India,2020-06-08,others,617,100.0,617
+36454,India,2020-06-22,others,766,100.0,766
+36478,India,2020-07-06,others,276,100.0,276
+36502,India,2020-07-20,others,317,100.0,317
+36526,India,2020-08-03,others,393,100.0,393
+36550,India,2020-08-17,others,418,100.0,418
+36574,India,2020-08-31,others,235,100.0,235
+36598,India,2020-09-14,others,423,100.0,423
+36622,India,2020-09-28,others,397,100.0,397
+36646,India,2020-10-12,others,409,100.0,409
+36670,India,2020-10-26,others,327,99.39,329
+36694,India,2020-11-09,others,341,96.33,354
+36718,India,2020-11-23,others,270,94.41,286
+36742,India,2020-12-07,others,1099,97.25,1130
+36766,India,2020-12-21,others,1520,98.32,1546
+36790,India,2021-01-04,others,1174,90.79,1293
+36814,India,2021-01-11,others,521,89.21,584
+36838,India,2021-01-25,others,1080,92.3,1170
+36862,India,2021-02-08,others,1169,87.51,1336
+36886,India,2021-02-22,others,1182,69.67,1697
+36910,India,2021-03-08,others,1376,55.54,2478
+36934,India,2021-03-22,others,1089,28.96,3761
+36958,India,2021-04-05,others,1018,21.5,4734
+36982,India,2021-04-19,others,986,13.21,7463
+37006,India,2021-05-03,others,798,9.87,8086
+37030,India,2021-05-17,others,300,4.67,6417
+37054,India,2021-05-31,others,289,5.4,5348
+37078,India,2021-06-14,others,156,3.66,4258
+37102,India,2021-06-28,others,101,2.66,3779
+37126,India,2021-07-12,others,149,4.37,3408
+37150,India,2021-07-26,others,70,2.13,3285
+37174,India,2021-08-09,others,68,2.36,2888
+37198,India,2021-08-23,others,40,1.51,2645
+37222,India,2021-09-06,others,44,1.2,3657
+37246,India,2021-09-20,others,28,0.87,3224
+37270,India,2021-10-04,others,33,1.36,2436
+37294,India,2021-10-18,others,28,1.42,1978
+37318,India,2021-11-01,others,47,2.64,1781
+37342,India,2021-11-15,others,103,7.57,1362
+37366,India,2021-11-29,others,62,4.55,1360
+37390,India,2021-12-13,others,18,1.65,1085
+37414,India,2021-12-27,others,21,4.21,499
+37438,Indonesia,2020-05-11,others,11,100.0,11
+37462,Indonesia,2020-05-25,others,13,100.0,13
+37486,Indonesia,2020-06-08,others,18,100.0,18
+37510,Indonesia,2020-06-22,others,20,100.0,20
+37534,Indonesia,2020-07-06,others,16,100.0,16
+37558,Indonesia,2020-07-20,others,18,100.0,18
+37582,Indonesia,2020-08-03,others,28,100.0,28
+37606,Indonesia,2020-08-17,others,26,100.0,26
+37630,Indonesia,2020-08-31,others,24,100.0,24
+37654,Indonesia,2020-09-14,others,41,100.0,41
+37678,Indonesia,2020-09-28,others,22,100.0,22
+37702,Indonesia,2020-10-12,others,29,100.0,29
+37726,Indonesia,2020-10-26,others,55,100.0,55
+37750,Indonesia,2020-11-09,others,43,100.0,43
+37774,Indonesia,2020-11-23,others,82,100.0,82
+37798,Indonesia,2020-12-07,others,79,100.0,79
+37822,Indonesia,2020-12-21,others,98,100.0,98
+37846,Indonesia,2021-01-04,others,156,100.0,156
+37870,Indonesia,2021-01-11,others,222,97.8,227
+37894,Indonesia,2021-01-25,others,384,99.48,386
+37918,Indonesia,2021-02-08,others,234,97.5,240
+37942,Indonesia,2021-02-22,others,187,97.4,192
+37966,Indonesia,2021-03-08,others,298,99.0,301
+37990,Indonesia,2021-03-22,others,242,96.03,252
+38014,Indonesia,2021-04-05,others,162,92.58,175
+38038,Indonesia,2021-04-19,others,165,90.16,183
+38062,Indonesia,2021-05-03,others,205,82.67,248
+38086,Indonesia,2021-05-17,others,301,85.26,353
+38110,Indonesia,2021-05-31,others,409,69.32,590
+38134,Indonesia,2021-06-14,others,202,31.08,650
+38158,Indonesia,2021-06-28,others,129,12.39,1041
+38182,Indonesia,2021-07-12,others,64,6.55,977
+38206,Indonesia,2021-07-26,others,24,3.19,752
+38230,Indonesia,2021-08-09,others,13,1.28,1015
+38254,Indonesia,2021-08-23,others,0,0.0,555
+38278,Indonesia,2021-09-06,others,4,0.61,651
+38302,Indonesia,2021-09-20,others,3,0.76,393
+38326,Indonesia,2021-10-04,others,6,2.17,276
+38350,Indonesia,2021-10-18,others,4,1.65,243
+38374,Indonesia,2021-11-01,others,0,0.0,145
+38398,Indonesia,2021-11-15,others,0,0.0,136
+38422,Indonesia,2021-11-29,others,0,0.0,143
+38446,Indonesia,2021-12-13,others,3,1.5,200
+38470,Indonesia,2021-12-27,others,2,0.65,308
+38494,Iran,2020-05-11,others,12,100.0,12
+38518,Iran,2020-05-25,others,8,100.0,8
+38542,Iran,2020-06-08,others,5,100.0,5
+38566,Iran,2020-06-22,others,11,100.0,11
+38590,Iran,2020-07-06,others,6,100.0,6
+38614,Iran,2020-07-20,others,4,100.0,4
+38638,Iran,2020-08-31,others,6,100.0,6
+38662,Iran,2020-09-28,others,3,100.0,3
+38686,Iran,2020-10-12,others,2,100.0,2
+38710,Iran,2020-10-26,others,3,100.0,3
+38734,Iran,2020-11-09,others,19,100.0,19
+38758,Iran,2020-11-23,others,13,100.0,13
+38782,Iran,2020-12-07,others,15,100.0,15
+38806,Iran,2020-12-21,others,13,100.0,13
+38830,Iran,2021-01-04,others,7,100.0,7
+38854,Iran,2021-01-11,others,14,93.33,15
+38878,Iran,2021-01-25,others,9,90.0,10
+38902,Iran,2021-02-08,others,34,62.96,54
+38926,Iran,2021-02-22,others,16,48.48,33
+38950,Iran,2021-03-08,others,2,15.38,13
+38974,Iran,2021-04-05,others,8,47.06,17
+38998,Iran,2021-04-19,others,2,9.09,22
+39022,Iran,2021-05-03,others,1,2.09,48
+39046,Iran,2021-05-17,others,0,0.0,17
+39070,Iran,2021-05-31,others,0,0.0,4
+39094,Iran,2021-07-26,others,0,0.0,1
+39118,Iran,2021-08-09,others,0,0.0,3
+39142,Iran,2021-09-06,others,0,0.0,2
+39166,Iran,2021-12-13,others,2,100.0,2
+39190,Iran,2021-12-27,others,0,0.0,1
+39214,Iraq,2020-06-08,others,10,100.0,10
+39238,Iraq,2020-06-22,others,18,100.0,18
+39262,Iraq,2020-07-06,others,2,100.0,2
+39286,Iraq,2020-10-12,others,2,100.0,2
+39310,Iraq,2020-12-21,others,0,0.0,2
+39334,Iraq,2021-01-04,others,0,0.0,2
+39358,Iraq,2021-01-11,others,0,0.0,1
+39382,Iraq,2021-01-25,others,2,50.0,4
+39406,Iraq,2021-02-08,others,2,50.0,4
+39430,Iraq,2021-02-22,others,7,11.11,63
+39454,Iraq,2021-03-08,others,4,26.66,15
+39478,Iraq,2021-03-22,others,0,0.0,5
+39502,Iraq,2021-04-05,others,0,0.0,5
+39526,Iraq,2021-04-19,others,0,0.0,2
+39550,Iraq,2021-05-03,others,5,41.66,12
+39574,Iraq,2021-05-17,others,0,0.0,3
+39598,Iraq,2021-05-31,others,0,0.0,2
+39622,Iraq,2021-06-14,others,0,0.0,2
+39646,Iraq,2021-07-12,others,0,0.0,2
+39670,Iraq,2021-07-26,others,0,0.0,8
+39694,Iraq,2021-08-09,others,0,0.0,2
+39718,Iraq,2021-11-15,others,0,0.0,1
+39742,Ireland,2020-05-11,others,115,100.0,115
+39766,Ireland,2020-05-25,others,43,100.0,43
+39790,Ireland,2020-06-08,others,8,100.0,8
+39814,Ireland,2020-06-22,others,5,100.0,5
+39838,Ireland,2020-07-06,others,9,100.0,9
+39862,Ireland,2020-07-20,others,31,96.88,32
+39886,Ireland,2020-08-03,others,14,23.73,59
+39910,Ireland,2020-08-17,others,24,27.58,87
+39934,Ireland,2020-08-31,others,13,59.09,22
+39958,Ireland,2020-09-14,others,17,21.51,79
+39982,Ireland,2020-09-28,others,22,21.57,102
+40006,Ireland,2020-10-12,others,10,11.76,85
+40030,Ireland,2020-10-26,others,12,12.0,100
+40054,Ireland,2020-11-09,others,5,7.13,70
+40078,Ireland,2020-11-23,others,5,5.26,95
+40102,Ireland,2020-12-07,others,8,8.79,91
+40126,Ireland,2020-12-21,others,13,13.0,100
+40150,Ireland,2021-01-04,others,6,2.88,208
+40174,Ireland,2021-01-11,others,17,12.15,140
+40198,Ireland,2021-01-25,others,40,7.91,505
+40222,Ireland,2021-02-08,others,40,3.43,1177
+40246,Ireland,2021-02-22,others,65,4.42,1474
+40270,Ireland,2021-03-08,others,44,2.7,1630
+40294,Ireland,2021-03-22,others,32,1.86,1718
+40318,Ireland,2021-04-05,others,40,2.89,1383
+40342,Ireland,2021-04-19,others,87,5.94,1464
+40366,Ireland,2021-05-03,others,84,4.42,1901
+40390,Ireland,2021-05-17,others,63,3.37,1873
+40414,Ireland,2021-05-31,others,41,1.74,2353
+40438,Ireland,2021-06-14,others,36,2.57,1402
+40462,Ireland,2021-06-28,others,11,0.71,1570
+40486,Ireland,2021-07-12,others,5,0.29,1759
+40510,Ireland,2021-07-26,others,6,0.21,2900
+40534,Ireland,2021-08-09,others,2,0.07,3011
+40558,Ireland,2021-08-23,others,2,0.07,2888
+40582,Ireland,2021-09-06,others,0,0.0,2161
+40606,Ireland,2021-09-20,others,0,0.0,2429
+40630,Ireland,2021-10-04,others,0,0.0,1681
+40654,Ireland,2021-10-18,others,0,0.0,2961
+40678,Ireland,2021-11-01,others,0,0.0,3373
+40702,Ireland,2021-11-15,others,0,0.0,990
+40726,Ireland,2021-11-29,others,0,0.0,487
+40750,Ireland,2021-12-13,others,0,0.0,888
+40774,Israel,2020-05-11,others,8,100.0,8
+40798,Israel,2020-05-25,others,4,100.0,4
+40822,Israel,2020-06-08,others,18,100.0,18
+40846,Israel,2020-06-22,others,7,100.0,7
+40870,Israel,2020-07-06,others,16,100.0,16
+40894,Israel,2020-07-20,others,6,100.0,6
+40918,Israel,2020-08-03,others,48,100.0,48
+40942,Israel,2020-08-17,others,9,100.0,9
+40966,Israel,2020-08-31,others,1,100.0,1
+40990,Israel,2020-09-14,others,3,100.0,3
+41014,Israel,2020-09-28,others,1,100.0,1
+41038,Israel,2020-10-26,others,1,100.0,1
+41062,Israel,2020-11-23,others,0,0.0,1
+41086,Israel,2020-12-07,others,8,88.89,9
+41110,Israel,2020-12-21,others,42,77.78,54
+41134,Israel,2021-01-04,others,975,69.55,1402
+41158,Israel,2021-01-11,others,248,35.65,696
+41182,Israel,2021-01-25,others,440,37.71,1167
+41206,Israel,2021-02-08,others,521,22.3,2335
+41230,Israel,2021-02-22,others,86,9.73,885
+41254,Israel,2021-03-08,others,122,6.08,2004
+41278,Israel,2021-03-22,others,9,0.97,925
+41302,Israel,2021-04-05,others,3,0.36,830
+41326,Israel,2021-04-19,others,22,4.56,482
+41350,Israel,2021-05-03,others,5,1.4,357
+41374,Israel,2021-05-17,others,6,2.94,204
+41398,Israel,2021-05-31,others,10,6.66,150
+41422,Israel,2021-06-14,others,4,3.51,114
+41446,Israel,2021-06-28,others,10,1.18,847
+41470,Israel,2021-07-12,others,51,3.14,1627
+41494,Israel,2021-07-26,others,2,0.39,512
+41518,Israel,2021-08-09,others,7,0.43,1647
+41542,Israel,2021-08-23,others,3,0.2,1562
+41566,Israel,2021-09-06,others,5,0.22,2177
+41590,Israel,2021-09-20,others,0,0.0,2418
+41614,Israel,2021-10-04,others,1,0.13,779
+41638,Israel,2021-10-18,others,12,0.78,1546
+41662,Israel,2021-11-01,others,31,2.98,1041
+41686,Israel,2021-11-15,others,18,1.09,1652
+41710,Israel,2021-11-29,others,30,1.14,2632
+41734,Israel,2021-12-13,others,68,2.36,2885
+41758,Israel,2021-12-27,others,13,0.45,2935
+41782,Italy,2020-05-11,others,128,100.0,128
+41806,Italy,2020-05-25,others,51,100.0,51
+41830,Italy,2020-06-08,others,35,100.0,35
+41854,Italy,2020-06-22,others,51,100.0,51
+41878,Italy,2020-07-06,others,109,100.0,109
+41902,Italy,2020-07-20,others,33,100.0,33
+41926,Italy,2020-08-03,others,26,92.86,28
+41950,Italy,2020-08-17,others,23,76.67,30
+41974,Italy,2020-08-31,others,86,64.66,133
+41998,Italy,2020-09-14,others,62,39.99,155
+42022,Italy,2020-09-28,others,38,23.17,164
+42046,Italy,2020-10-12,others,47,30.71,153
+42070,Italy,2020-10-26,others,42,19.01,221
+42094,Italy,2020-11-09,others,94,19.23,489
+42118,Italy,2020-11-23,others,34,13.01,261
+42142,Italy,2020-12-07,others,36,13.64,264
+42166,Italy,2020-12-21,others,107,14.79,723
+42190,Italy,2021-01-04,others,58,7.58,764
+42214,Italy,2021-01-11,others,19,4.42,430
+42238,Italy,2021-01-25,others,58,4.83,1202
+42262,Italy,2021-02-08,others,27,2.6,1037
+42286,Italy,2021-02-22,others,201,6.44,3126
+42310,Italy,2021-03-08,others,174,4.14,4193
+42334,Italy,2021-03-22,others,291,5.15,5646
+42358,Italy,2021-04-05,others,92,2.68,3420
+42382,Italy,2021-04-19,others,67,1.74,3809
+42406,Italy,2021-05-03,others,131,3.22,4066
+42430,Italy,2021-05-17,others,39,1.65,2377
+42454,Italy,2021-05-31,others,142,5.3,2678
+42478,Italy,2021-06-14,others,74,4.81,1546
+42502,Italy,2021-06-28,others,87,4.43,1968
+42526,Italy,2021-07-12,others,64,2.1,3054
+42550,Italy,2021-07-26,others,54,1.15,4771
+42574,Italy,2021-08-09,others,61,1.48,4135
+42598,Italy,2021-08-23,others,6,0.19,3261
+42622,Italy,2021-09-06,others,2,0.06,3515
+42646,Italy,2021-09-20,others,1,0.04,2256
+42670,Italy,2021-10-04,others,1,0.04,2494
+42694,Italy,2021-10-18,others,5,0.22,2186
+42718,Italy,2021-11-01,others,3,0.12,2505
+42742,Italy,2021-11-15,others,9,0.3,3024
+42766,Italy,2021-11-29,others,18,0.53,3356
+42790,Italy,2021-12-13,others,1,0.03,3415
+42814,Italy,2021-12-27,others,3,0.13,2356
+42838,Jamaica,2021-01-04,others,0,0.0,5
+42862,Jamaica,2021-01-25,others,1,14.29,7
+42886,Jamaica,2021-02-08,others,2,20.0,10
+42910,Jamaica,2021-02-22,others,0,0.0,3
+42934,Jamaica,2021-03-08,others,0,0.0,112
+42958,Jamaica,2021-03-22,others,0,0.0,1
+42982,Jamaica,2021-04-05,others,0,0.0,9
+43006,Jamaica,2021-04-19,others,0,0.0,10
+43030,Jamaica,2021-05-03,others,0,0.0,1
+43054,Jamaica,2021-05-17,others,2,6.67,30
+43078,Jamaica,2021-05-31,others,0,0.0,26
+43102,Jamaica,2021-07-26,others,2,2.17,92
+43126,Jamaica,2021-08-09,others,2,25.0,8
+43150,Jamaica,2021-08-23,others,11,32.35,34
+43174,Jamaica,2021-09-06,others,2,22.22,9
+43198,Jamaica,2021-10-04,others,0,0.0,1
+43222,Jamaica,2021-10-18,others,0,0.0,1
+43246,Jamaica,2021-11-01,others,2,28.57,7
+43270,Japan,2020-05-11,others,415,100.0,415
+43294,Japan,2020-05-25,others,116,100.0,116
+43318,Japan,2020-06-08,others,146,100.0,146
+43342,Japan,2020-06-22,others,189,100.0,189
+43366,Japan,2020-07-06,others,386,100.0,386
+43390,Japan,2020-07-20,others,779,100.0,779
+43414,Japan,2020-08-03,others,1843,100.0,1843
+43438,Japan,2020-08-17,others,2125,100.0,2125
+43462,Japan,2020-08-31,others,1450,100.0,1450
+43486,Japan,2020-09-14,others,762,99.74,764
+43510,Japan,2020-09-28,others,520,99.43,523
+43534,Japan,2020-10-12,others,541,99.08,546
+43558,Japan,2020-10-26,others,677,98.83,685
+43582,Japan,2020-11-09,others,811,99.15,818
+43606,Japan,2020-11-23,others,1739,99.66,1745
+43630,Japan,2020-12-07,others,1971,99.75,1976
+43654,Japan,2020-12-21,others,2226,99.39,2240
+43678,Japan,2021-01-04,others,2404,98.5,2441
+43702,Japan,2021-01-11,others,2276,98.83,2303
+43726,Japan,2021-01-25,others,3579,98.4,3637
+43750,Japan,2021-02-08,others,2255,95.33,2366
+43774,Japan,2021-02-22,others,1204,91.48,1316
+43798,Japan,2021-03-08,others,1106,84.56,1308
+43822,Japan,2021-03-22,others,1616,73.18,2208
+43846,Japan,2021-04-05,others,1780,43.62,4081
+43870,Japan,2021-04-19,others,1849,33.12,5582
+43894,Japan,2021-05-03,others,1377,13.52,10178
+43918,Japan,2021-05-17,others,773,8.21,9411
+43942,Japan,2021-05-31,others,342,5.78,5920
+43966,Japan,2021-06-14,others,110,2.61,4207
+43990,Japan,2021-06-28,others,28,0.67,4220
+44014,Japan,2021-07-12,others,8,0.14,5720
+44038,Japan,2021-07-26,others,8,0.08,10145
+44062,Japan,2021-08-09,others,4,0.02,17302
+44086,Japan,2021-08-23,others,3,0.01,28942
+44110,Japan,2021-09-06,others,7,0.04,24621
+44134,Japan,2021-09-20,others,1,0.01,9641
+44158,Japan,2021-10-04,others,0,0.0,2773
+44182,Japan,2021-10-18,others,0,0.0,1163
+44206,Japan,2021-11-01,others,0,0.0,531
+44230,Japan,2021-11-15,others,0,0.0,423
+44254,Japan,2021-11-29,others,0,0.0,275
+44278,Japan,2021-12-13,others,0,0.0,226
+44302,Japan,2021-12-27,others,0,0.0,153
+44326,Jordan,2020-06-08,others,2,100.0,2
+44350,Jordan,2020-06-22,others,1,100.0,1
+44374,Jordan,2020-07-06,others,3,100.0,3
+44398,Jordan,2020-08-17,others,1,100.0,1
+44422,Jordan,2020-08-31,others,13,100.0,13
+44446,Jordan,2020-09-14,others,27,100.0,27
+44470,Jordan,2020-09-28,others,15,100.0,15
+44494,Jordan,2020-10-12,others,311,100.0,311
+44518,Jordan,2020-10-26,others,90,100.0,90
+44542,Jordan,2020-11-09,others,48,100.0,48
+44566,Jordan,2020-12-07,others,2,100.0,2
+44590,Jordan,2020-12-21,others,0,0.0,2
+44614,Jordan,2021-01-04,others,2,22.22,9
+44638,Jordan,2021-01-11,others,9,21.43,42
+44662,Jordan,2021-01-25,others,5,83.33,6
+44686,Jordan,2021-02-08,others,9,36.0,25
+44710,Jordan,2021-02-22,others,7,41.18,17
+44734,Jordan,2021-03-08,others,0,0.0,12
+44758,Jordan,2021-03-22,others,7,24.14,29
+44782,Jordan,2021-04-05,others,3,23.08,13
+44806,Jordan,2021-04-19,others,8,42.1,19
+44830,Jordan,2021-05-03,others,1,6.25,16
+44854,Jordan,2021-05-17,others,5,29.41,17
+44878,Jordan,2021-05-31,others,3,21.43,14
+44902,Jordan,2021-06-14,others,1,3.71,27
+44926,Jordan,2021-06-28,others,0,0.0,16
+44950,Jordan,2021-07-12,others,1,8.33,12
+44974,Jordan,2021-07-26,others,0,0.0,5
+44998,Jordan,2021-08-09,others,0,0.0,13
+45022,Jordan,2021-08-23,others,0,0.0,12
+45046,Jordan,2021-09-06,others,0,0.0,22
+45070,Jordan,2021-09-20,others,0,0.0,35
+45094,Jordan,2021-10-04,others,0,0.0,71
+45118,Jordan,2021-10-18,others,0,0.0,64
+45142,Jordan,2021-11-01,others,0,0.0,43
+45166,Jordan,2021-11-15,others,0,0.0,39
+45190,Jordan,2021-11-29,others,0,0.0,38
+45214,Jordan,2021-12-13,others,0,0.0,26
+45238,Jordan,2021-12-27,others,0,0.0,32
+45262,Kazakhstan,2020-05-11,others,2,100.0,2
+45286,Kazakhstan,2020-05-25,others,1,100.0,1
+45310,Kazakhstan,2020-11-23,others,9,100.0,9
+45334,Kazakhstan,2020-12-07,others,2,100.0,2
+45358,Kazakhstan,2020-12-21,others,13,100.0,13
+45382,Kazakhstan,2021-01-04,others,9,100.0,9
+45406,Kazakhstan,2021-01-11,others,7,100.0,7
+45430,Kazakhstan,2021-01-25,others,1,100.0,1
+45454,Kazakhstan,2021-03-08,others,13,81.25,16
+45478,Kazakhstan,2021-03-22,others,1,2.56,39
+45502,Kazakhstan,2021-04-05,others,0,0.0,59
+45526,Kazakhstan,2021-04-19,others,0,0.0,35
+45550,Kazakhstan,2021-05-03,others,0,0.0,47
+45574,Kazakhstan,2021-07-26,others,0,0.0,1
+45598,Kazakhstan,2021-08-23,others,0,0.0,93
+45622,Kazakhstan,2021-09-06,others,0,0.0,3
+45646,Kazakhstan,2021-09-20,others,0,0.0,19
+45670,Kazakhstan,2021-10-04,others,0,0.0,20
+45694,Kazakhstan,2021-10-18,others,0,0.0,53
+45718,Kenya,2020-05-11,others,76,100.0,76
+45742,Kenya,2020-05-25,others,125,100.0,125
+45766,Kenya,2020-06-08,others,38,100.0,38
+45790,Kenya,2020-06-22,others,57,100.0,57
+45814,Kenya,2020-07-06,others,89,100.0,89
+45838,Kenya,2020-07-20,others,67,100.0,67
+45862,Kenya,2020-08-03,others,38,100.0,38
+45886,Kenya,2020-08-17,others,56,100.0,56
+45910,Kenya,2020-08-31,others,54,100.0,54
+45934,Kenya,2020-09-14,others,54,100.0,54
+45958,Kenya,2020-09-28,others,16,94.12,17
+45982,Kenya,2020-10-12,others,67,98.53,68
+46006,Kenya,2020-10-26,others,156,99.36,157
+46030,Kenya,2020-11-09,others,344,100.0,344
+46054,Kenya,2020-11-23,others,256,100.0,256
+46078,Kenya,2020-12-07,others,157,100.0,157
+46102,Kenya,2020-12-21,others,71,94.67,75
+46126,Kenya,2021-01-04,others,24,82.75,29
+46150,Kenya,2021-01-11,others,35,94.59,37
+46174,Kenya,2021-01-25,others,38,73.08,52
+46198,Kenya,2021-02-08,others,47,67.14,70
+46222,Kenya,2021-02-22,others,12,18.76,64
+46246,Kenya,2021-03-08,others,51,22.77,224
+46270,Kenya,2021-03-22,others,46,17.63,261
+46294,Kenya,2021-04-05,others,11,6.51,169
+46318,Kenya,2021-04-19,others,5,3.77,133
+46342,Kenya,2021-05-03,others,17,12.5,136
+46366,Kenya,2021-05-17,others,4,3.41,117
+46390,Kenya,2021-05-31,others,4,2.05,194
+46414,Kenya,2021-06-14,others,0,0.0,132
+46438,Kenya,2021-06-28,others,3,1.74,173
+46462,Kenya,2021-07-12,others,4,1.43,278
+46486,Kenya,2021-07-26,others,7,3.15,222
+46510,Kenya,2021-08-09,others,8,2.7,296
+46534,Kenya,2021-08-23,others,1,0.34,290
+46558,Kenya,2021-09-06,others,0,0.0,230
+46582,Kenya,2021-09-20,others,0,0.0,157
+46606,Kenya,2021-10-04,others,2,2.02,99
+46630,Kenya,2021-10-18,others,3,4.69,64
+46654,Kenya,2021-11-01,others,0,0.0,33
+46678,Kenya,2021-11-15,others,1,2.13,47
+46702,Kenya,2021-11-29,others,0,0.0,18
+46726,Kenya,2021-12-13,others,2,4.55,44
+46750,Kosovo,2020-05-11,others,1,100.0,1
+46774,Kosovo,2020-07-20,others,4,100.0,4
+46798,Kosovo,2020-08-03,others,4,100.0,4
+46822,Kosovo,2020-11-23,others,1,100.0,1
+46846,Kosovo,2020-12-21,others,1,33.34,3
+46870,Kosovo,2021-01-04,others,6,85.71,7
+46894,Kosovo,2021-01-11,others,6,42.85,14
+46918,Kosovo,2021-05-03,others,0,0.0,2
+46942,Kosovo,2021-05-17,others,0,0.0,11
+46966,Kosovo,2021-05-31,others,0,0.0,1
+46990,Kosovo,2021-06-14,others,0,0.0,7
+47014,Kosovo,2021-07-12,others,0,0.0,3
+47038,Kosovo,2021-07-26,others,0,0.0,44
+47062,Kosovo,2021-08-09,others,0,0.0,166
+47086,Kosovo,2021-08-23,others,0,0.0,154
+47110,Kosovo,2021-09-06,others,0,0.0,64
+47134,Kosovo,2021-09-20,others,0,0.0,243
+47158,Kosovo,2021-10-04,others,0,0.0,110
+47182,Kosovo,2021-10-18,others,0,0.0,39
+47206,Kosovo,2021-11-01,others,0,0.0,42
+47230,Kosovo,2021-11-15,others,0,0.0,40
+47254,Kosovo,2021-11-29,others,0,0.0,26
+47278,Kosovo,2021-12-13,others,0,0.0,4
+47302,Kuwait,2021-01-04,others,14,93.33,15
+47326,Kuwait,2021-01-25,others,0,0.0,5
+47350,Kuwait,2021-02-08,others,0,0.0,5
+47374,Kuwait,2021-04-19,others,0,0.0,3
+47398,Kuwait,2021-05-31,others,1,14.28,7
+47422,Kuwait,2021-06-14,others,4,12.51,32
+47446,Kuwait,2021-06-28,others,1,2.5,40
+47470,Kuwait,2021-07-12,others,0,0.0,66
+47494,Kuwait,2021-08-09,others,0,0.0,8
+47518,Kuwait,2021-08-23,others,0,0.0,32
+47542,Kuwait,2021-09-06,others,0,0.0,5
+47566,Kuwait,2021-09-20,others,0,0.0,18
+47590,Kuwait,2021-10-04,others,0,0.0,30
+47614,Kuwait,2021-10-18,others,1,4.55,22
+47638,Kuwait,2021-11-01,others,0,0.0,21
+47662,Kuwait,2021-11-15,others,0,0.0,4
+47686,Kuwait,2021-11-29,others,0,0.0,12
+47710,Kuwait,2021-12-13,others,0,0.0,3
+47734,Latvia,2020-05-11,others,19,100.0,19
+47758,Latvia,2020-06-08,others,3,100.0,3
+47782,Latvia,2020-06-22,others,5,100.0,5
+47806,Latvia,2020-07-06,others,3,100.0,3
+47830,Latvia,2020-07-20,others,29,100.0,29
+47854,Latvia,2020-08-03,others,11,100.0,11
+47878,Latvia,2020-08-17,others,18,100.0,18
+47902,Latvia,2020-08-31,others,9,42.86,21
+47926,Latvia,2020-09-14,others,18,78.26,23
+47950,Latvia,2020-09-28,others,37,80.43,46
+47974,Latvia,2020-10-12,others,239,80.47,297
+47998,Latvia,2020-10-26,others,9,75.0,12
+48022,Latvia,2020-11-09,others,1,100.0,1
+48046,Latvia,2020-11-23,others,1,100.0,1
+48070,Latvia,2020-12-21,others,1,20.0,5
+48094,Latvia,2021-01-04,others,0,0.0,1
+48118,Latvia,2021-01-11,others,2,66.67,3
+48142,Latvia,2021-01-25,others,27,32.92,82
+48166,Latvia,2021-02-08,others,99,39.76,249
+48190,Latvia,2021-02-22,others,133,31.15,427
+48214,Latvia,2021-03-08,others,121,25.86,468
+48238,Latvia,2021-03-22,others,195,19.68,991
+48262,Latvia,2021-04-05,others,49,10.7,458
+48286,Latvia,2021-04-19,others,43,5.74,750
+48310,Latvia,2021-05-03,others,31,4.27,725
+48334,Latvia,2021-05-17,others,16,3.14,509
+48358,Latvia,2021-05-31,others,11,2.12,517
+48382,Latvia,2021-06-14,others,0,0.0,65
+48406,Latvia,2021-06-28,others,0,-0.01,71
+48430,Latvia,2021-07-12,others,2,1.85,108
+48454,Latvia,2021-07-26,others,0,0.0,137
+48478,Latvia,2021-08-09,others,0,0.0,149
+48502,Latvia,2021-08-23,others,0,0.0,86
+48526,Lebanon,2020-06-08,others,3,100.0,3
+48550,Lebanon,2020-07-06,others,2,100.0,2
+48574,Lebanon,2020-08-03,others,4,100.0,4
+48598,Lebanon,2020-08-17,others,3,100.0,3
+48622,Lebanon,2020-09-14,others,10,100.0,10
+48646,Lebanon,2020-10-12,others,3,100.0,3
+48670,Lebanon,2020-12-07,others,2,100.0,2
+48694,Lebanon,2020-12-21,others,1,100.0,1
+48718,Lebanon,2021-01-04,others,14,77.77,18
+48742,Lebanon,2021-01-11,others,24,77.42,31
+48766,Lebanon,2021-01-25,others,34,53.97,63
+48790,Lebanon,2021-02-08,others,8,12.9,62
+48814,Lebanon,2021-02-22,others,6,4.32,139
+48838,Lebanon,2021-03-08,others,1,0.64,157
+48862,Lebanon,2021-03-22,others,0,0.0,130
+48886,Lebanon,2021-04-05,others,0,0.0,117
+48910,Lebanon,2021-04-19,others,0,0.0,77
+48934,Lebanon,2021-05-03,others,1,1.1,91
+48958,Lebanon,2021-05-17,others,0,0.0,11
+48982,Lebanon,2021-06-28,others,0,0.0,4
+49006,Lebanon,2021-07-12,others,0,0.0,52
+49030,Lebanon,2021-07-26,others,0,0.0,25
+49054,Lebanon,2021-12-13,others,0,0.0,4
+49078,Liechtenstein,2020-10-26,others,0,0.0,3
+49102,Liechtenstein,2020-11-23,others,0,0.0,1
+49126,Liechtenstein,2020-12-07,others,0,0.0,2
+49150,Liechtenstein,2020-12-21,others,2,16.67,12
+49174,Liechtenstein,2021-01-04,others,2,13.33,15
+49198,Liechtenstein,2021-01-25,others,2,66.67,3
+49222,Liechtenstein,2021-02-08,others,3,33.33,9
+49246,Liechtenstein,2021-02-22,others,1,100.0,1
+49270,Liechtenstein,2021-03-08,others,0,0.0,3
+49294,Liechtenstein,2021-04-05,others,1,100.0,1
+49318,Liechtenstein,2021-04-19,others,11,68.75,16
+49342,Liechtenstein,2021-05-03,others,9,75.0,12
+49366,Liechtenstein,2021-05-17,others,6,85.71,7
+49390,Liechtenstein,2021-05-31,others,1,50.0,2
+49414,Liechtenstein,2021-06-14,others,0,0.0,2
+49438,Liechtenstein,2021-06-28,others,0,0.0,2
+49462,Liechtenstein,2021-07-12,others,0,0.0,2
+49486,Liechtenstein,2021-07-26,others,0,0.0,4
+49510,Liechtenstein,2021-08-09,others,0,0.0,2
+49534,Liechtenstein,2021-08-23,others,0,0.0,11
+49558,Liechtenstein,2021-09-06,others,0,0.0,7
+49582,Liechtenstein,2021-09-20,others,0,0.0,5
+49606,Liechtenstein,2021-10-04,others,0,0.0,4
+49630,Liechtenstein,2021-10-18,others,0,0.0,4
+49654,Liechtenstein,2021-11-01,others,0,0.0,11
+49678,Liechtenstein,2021-11-15,others,0,0.0,63
+49702,Liechtenstein,2021-11-29,others,0,0.0,131
+49726,Liechtenstein,2021-12-13,others,0,0.0,126
+49750,Lithuania,2020-05-25,others,13,100.0,13
+49774,Lithuania,2020-06-08,others,2,100.0,2
+49798,Lithuania,2020-08-03,others,9,100.0,9
+49822,Lithuania,2020-08-17,others,16,100.0,16
+49846,Lithuania,2020-08-31,others,11,78.57,14
+49870,Lithuania,2020-09-14,others,18,60.0,30
+49894,Lithuania,2020-09-28,others,3,75.0,4
+49918,Lithuania,2020-10-12,others,3,75.0,4
+49942,Lithuania,2020-10-26,others,1,50.0,2
+49966,Lithuania,2020-11-09,others,0,0.0,3
+49990,Lithuania,2020-11-23,others,5,29.42,17
+50014,Lithuania,2020-12-07,others,93,46.73,199
+50038,Lithuania,2020-12-21,others,76,36.89,206
+50062,Lithuania,2021-01-04,others,18,16.08,112
+50086,Lithuania,2021-01-11,others,27,22.13,122
+50110,Lithuania,2021-01-25,others,35,18.33,191
+50134,Lithuania,2021-02-08,others,30,16.58,181
+50158,Lithuania,2021-02-22,others,103,11.7,881
+50182,Lithuania,2021-03-08,others,147,12.28,1198
+50206,Lithuania,2021-03-22,others,67,4.81,1395
+50230,Lithuania,2021-04-05,others,37,2.29,1624
+50254,Lithuania,2021-04-19,others,30,1.75,1710
+50278,Lithuania,2021-05-03,others,24,1.49,1619
+50302,Lithuania,2021-05-17,others,16,1.12,1422
+50326,Lithuania,2021-05-31,others,13,0.88,1484
+50350,Lithuania,2021-06-14,others,6,0.91,664
+50374,Lithuania,2021-06-28,others,1,0.47,211
+50398,Lithuania,2021-07-12,others,2,0.85,236
+50422,Lithuania,2021-07-26,others,2,0.21,993
+50446,Lithuania,2021-08-09,others,0,0.0,1516
+50470,Lithuania,2021-08-23,others,0,0.0,1415
+50494,Lithuania,2021-09-06,others,0,0.0,1200
+50518,Lithuania,2021-09-20,others,0,0.0,871
+50542,Lithuania,2021-10-04,others,0,0.0,731
+50566,Lithuania,2021-10-18,others,1,0.11,944
+50590,Lithuania,2021-11-01,others,0,0.0,1008
+50614,Lithuania,2021-11-15,others,0,0.0,1167
+50638,Lithuania,2021-11-29,others,0,0.0,858
+50662,Lithuania,2021-12-13,others,1,0.11,899
+50686,Lithuania,2021-12-27,others,0,0.0,212
+50710,Luxembourg,2020-05-11,others,6,100.0,6
+50734,Luxembourg,2020-05-25,others,12,100.0,12
+50758,Luxembourg,2020-06-22,others,4,100.0,4
+50782,Luxembourg,2020-07-06,others,20,100.0,20
+50806,Luxembourg,2020-07-20,others,24,100.0,24
+50830,Luxembourg,2020-08-03,others,20,100.0,20
+50854,Luxembourg,2020-08-17,others,16,94.12,17
+50878,Luxembourg,2020-08-31,others,4,100.0,4
+50902,Luxembourg,2020-09-14,others,4,57.14,7
+50926,Luxembourg,2020-09-28,others,8,44.45,18
+50950,Luxembourg,2020-10-12,others,9,26.47,34
+50974,Luxembourg,2020-10-26,others,59,14.98,394
+50998,Luxembourg,2020-11-09,others,76,14.2,535
+51022,Luxembourg,2020-11-23,others,55,12.38,444
+51046,Luxembourg,2020-12-07,others,94,12.22,769
+51070,Luxembourg,2020-12-21,others,81,11.98,676
+51094,Luxembourg,2021-01-04,others,38,14.22,267
+51118,Luxembourg,2021-01-11,others,17,14.9,114
+51142,Luxembourg,2021-01-25,others,39,15.22,256
+51166,Luxembourg,2021-02-08,others,66,11.13,593
+51190,Luxembourg,2021-02-22,others,34,9.62,354
+51214,Luxembourg,2021-03-08,others,118,15.64,754
+51238,Luxembourg,2021-03-22,others,55,8.04,683
+51262,Luxembourg,2021-04-05,others,25,2.64,948
+51286,Luxembourg,2021-04-19,others,13,1.26,1043
+51310,Luxembourg,2021-05-03,others,21,1.96,1073
+51334,Luxembourg,2021-05-17,others,38,5.11,744
+51358,Luxembourg,2021-05-31,others,27,6.87,392
+51382,Luxembourg,2021-06-14,others,6,2.51,240
+51406,Luxembourg,2021-06-28,others,1,0.77,130
+51430,Luxembourg,2021-07-12,others,2,0.21,944
+51454,Luxembourg,2021-07-26,others,1,0.14,699
+51478,Luxembourg,2021-08-09,others,0,-0.01,459
+51502,Luxembourg,2021-08-23,others,0,0.0,413
+51526,Luxembourg,2021-09-06,others,0,0.0,549
+51550,Luxembourg,2021-09-20,others,0,0.0,600
+51574,Luxembourg,2021-10-04,others,0,0.0,705
+51598,Luxembourg,2021-10-18,others,0,0.0,764
+51622,Luxembourg,2021-11-01,others,0,0.0,798
+51646,Luxembourg,2021-11-15,others,0,0.0,766
+51670,Luxembourg,2021-11-29,others,0,0.0,1044
+51694,Luxembourg,2021-12-13,others,0,0.0,653
+51718,Madagascar,2020-05-11,others,13,100.0,13
+51742,Madagascar,2020-05-25,others,14,100.0,14
+51766,Madagascar,2020-06-08,others,35,100.0,35
+51790,Madagascar,2020-06-22,others,23,100.0,23
+51814,Madagascar,2020-07-06,others,31,100.0,31
+51838,Madagascar,2020-07-20,others,36,100.0,36
+51862,Madagascar,2020-08-03,others,29,100.0,29
+51886,Madagascar,2020-08-17,others,15,100.0,15
+51910,Madagascar,2020-08-31,others,26,100.0,26
+51934,Madagascar,2020-09-14,others,25,100.0,25
+51958,Madagascar,2020-09-28,others,9,100.0,9
+51982,Madagascar,2020-10-12,others,13,100.0,13
+52006,Madagascar,2020-10-26,others,10,100.0,10
+52030,Madagascar,2020-11-09,others,8,80.0,10
+52054,Madagascar,2020-11-23,others,18,94.74,19
+52078,Madagascar,2020-12-07,others,10,100.0,10
+52102,Madagascar,2020-12-21,others,21,100.0,21
+52126,Madagascar,2021-01-04,others,13,100.0,13
+52150,Madagascar,2021-01-11,others,17,100.0,17
+52174,Madagascar,2021-01-25,others,37,97.37,38
+52198,Madagascar,2021-02-08,others,33,100.0,33
+52222,Madagascar,2021-02-22,others,10,52.63,19
+52246,Madagascar,2021-03-08,others,13,46.43,28
+52270,Madagascar,2021-03-22,others,5,12.82,39
+52294,Madagascar,2021-04-05,others,6,11.53,52
+52318,Madagascar,2021-04-19,others,1,0.89,113
+52342,Madagascar,2021-05-03,others,0,0.0,16
+52366,Madagascar,2021-05-17,others,0,0.0,15
+52390,Madagascar,2021-05-31,others,0,0.0,10
+52414,Madagascar,2021-07-12,others,0,0.0,17
+52438,Madagascar,2021-07-26,others,0,0.0,23
+52462,Malawi,2020-08-17,others,1,100.0,1
+52486,Malawi,2020-09-28,others,1,100.0,1
+52510,Malawi,2020-12-07,others,0,0.0,2
+52534,Malawi,2020-12-21,others,1,100.0,1
+52558,Malawi,2021-01-04,others,2,11.11,18
+52582,Malawi,2021-01-11,others,1,8.33,12
+52606,Malawi,2021-01-25,others,6,3.9,154
+52630,Malawi,2021-02-08,others,4,5.8,69
+52654,Malawi,2021-02-22,others,1,4.76,21
+52678,Malawi,2021-03-08,others,0,0.0,45
+52702,Malawi,2021-03-22,others,0,0.01,23
+52726,Malawi,2021-04-05,others,0,0.0,6
+52750,Malawi,2021-04-19,others,0,0.0,40
+52774,Malawi,2021-05-03,others,16,48.49,33
+52798,Malawi,2021-05-17,others,0,0.0,4
+52822,Malawi,2021-05-31,others,1,4.16,24
+52846,Malawi,2021-06-14,others,1,2.0,50
+52870,Malawi,2021-06-28,others,0,0.0,72
+52894,Malawi,2021-07-12,others,0,0.0,76
+52918,Malawi,2021-07-26,others,0,0.0,33
+52942,Malawi,2021-08-09,others,0,0.0,38
+52966,Malawi,2021-08-23,others,0,0.0,15
+52990,Malawi,2021-09-06,others,0,0.0,12
+53014,Malawi,2021-09-20,others,0,0.0,24
+53038,Malawi,2021-10-04,others,0,0.0,2
+53062,Malawi,2021-11-01,others,0,0.0,1
+53086,Malawi,2021-12-13,others,0,0.0,13
+53110,Malawi,2021-12-27,others,0,0.0,21
+53134,Malaysia,2020-05-11,others,7,100.0,7
+53158,Malaysia,2020-05-25,others,14,100.0,14
+53182,Malaysia,2020-06-08,others,8,100.0,8
+53206,Malaysia,2020-06-22,others,3,100.0,3
+53230,Malaysia,2020-07-20,others,2,100.0,2
+53254,Malaysia,2020-08-03,others,6,100.0,6
+53278,Malaysia,2020-08-17,others,9,100.0,9
+53302,Malaysia,2020-08-31,others,1,100.0,1
+53326,Malaysia,2020-09-14,others,23,100.0,23
+53350,Malaysia,2020-10-12,others,25,96.15,26
+53374,Malaysia,2020-10-26,others,41,100.0,41
+53398,Malaysia,2020-11-09,others,76,100.0,76
+53422,Malaysia,2020-11-23,others,62,100.0,62
+53446,Malaysia,2020-12-07,others,41,97.62,42
+53470,Malaysia,2020-12-21,others,65,100.0,65
+53494,Malaysia,2021-01-04,others,36,97.3,37
+53518,Malaysia,2021-01-11,others,55,98.21,56
+53542,Malaysia,2021-01-25,others,169,99.41,170
+53566,Malaysia,2021-02-08,others,101,97.12,104
+53590,Malaysia,2021-02-22,others,105,99.06,106
+53614,Malaysia,2021-03-08,others,48,84.21,57
+53638,Malaysia,2021-03-22,others,42,65.63,64
+53662,Malaysia,2021-04-05,others,95,86.36,110
+53686,Malaysia,2021-04-19,others,125,60.1,208
+53710,Malaysia,2021-05-03,others,53,42.4,125
+53734,Malaysia,2021-05-17,others,64,51.2,125
+53758,Malaysia,2021-05-31,others,33,45.2,73
+53782,Malaysia,2021-06-14,others,21,29.16,72
+53806,Malaysia,2021-06-28,others,32,30.78,104
+53830,Malaysia,2021-07-12,others,11,8.21,134
+53854,Malaysia,2021-07-26,others,13,6.13,212
+53878,Malaysia,2021-08-09,others,30,6.63,452
+53902,Malaysia,2021-08-23,others,7,1.12,627
+53926,Malaysia,2021-09-06,others,1,0.14,686
+53950,Malaysia,2021-09-20,others,1,0.13,819
+53974,Malaysia,2021-10-04,others,0,0.0,683
+53998,Malaysia,2021-10-18,others,0,0.0,458
+54022,Malaysia,2021-11-01,others,0,0.0,417
+54046,Malaysia,2021-11-15,others,2,0.51,397
+54070,Malaysia,2021-11-29,others,0,0.0,301
+54094,Malaysia,2021-12-13,others,0,0.0,218
+54118,Malaysia,2021-12-27,others,0,0.0,42
+54142,Maldives,2020-05-11,others,1,100.0,1
+54166,Maldives,2020-05-25,others,1,100.0,1
+54190,Maldives,2020-06-08,others,1,100.0,1
+54214,Maldives,2020-06-22,others,1,100.0,1
+54238,Maldives,2020-07-20,others,2,100.0,2
+54262,Maldives,2020-08-03,others,1,100.0,1
+54286,Maldives,2020-08-17,others,3,100.0,3
+54310,Maldives,2020-09-28,others,1,100.0,1
+54334,Maldives,2020-11-09,others,1,100.0,1
+54358,Maldives,2020-11-23,others,1,100.0,1
+54382,Maldives,2021-01-04,others,1,25.0,4
+54406,Maldives,2021-01-11,others,2,100.0,2
+54430,Maldives,2021-01-25,others,1,100.0,1
+54454,Maldives,2021-02-08,others,2,40.0,5
+54478,Maldives,2021-02-22,others,0,0.0,1
+54502,Maldives,2021-03-08,others,1,20.0,5
+54526,Maldives,2021-03-22,others,0,0.0,2
+54550,Maldives,2021-04-05,others,0,0.0,3
+54574,Maldives,2021-05-03,others,0,0.0,5
+54598,Maldives,2021-05-17,others,0,0.0,4
+54622,Maldives,2021-05-31,others,0,0.0,5
+54646,Maldives,2021-06-14,others,0,0.0,1
+54670,Maldives,2021-06-28,others,0,0.0,7
+54694,Maldives,2021-07-12,others,0,0.0,3
+54718,Maldives,2021-07-26,others,0,0.0,17
+54742,Maldives,2021-08-09,others,0,0.0,24
+54766,Maldives,2021-08-23,others,0,0.0,51
+54790,Maldives,2021-09-06,others,0,0.0,106
+54814,Maldives,2021-09-20,others,0,0.0,61
+54838,Maldives,2021-10-04,others,0,0.0,113
+54862,Maldives,2021-10-18,others,0,0.0,97
+54886,Maldives,2021-11-01,others,0,0.0,52
+54910,Maldives,2021-11-15,others,0,0.0,85
+54934,Maldives,2021-11-29,others,0,0.0,59
+54958,Maldives,2021-12-13,others,0,0.0,107
+54982,Maldives,2021-12-27,others,0,0.0,32
+55006,Malta,2020-08-17,others,1,100.0,1
+55030,Malta,2020-08-31,others,2,100.0,2
+55054,Malta,2020-09-14,others,7,100.0,7
+55078,Malta,2021-04-05,others,4,10.53,38
+55102,Malta,2021-04-19,others,3,9.38,32
+55126,Malta,2021-05-03,others,6,13.64,44
+55150,Malta,2021-05-17,others,1,3.12,32
+55174,Malta,2021-05-31,others,2,13.32,15
+55198,Malta,2021-06-14,others,0,0.0,11
+55222,Malta,2021-06-28,others,1,11.12,9
+55246,Malta,2021-07-12,others,0,0.0,60
+55270,Malta,2021-07-26,others,0,0.0,48
+55294,Malta,2021-08-09,others,0,0.0,19
+55318,Malta,2021-10-18,others,0,0.0,52
+55342,Malta,2021-11-01,others,0,0.0,24
+55366,Malta,2021-11-15,others,0,0.0,22
+55390,Malta,2021-11-29,others,0,0.0,132
+55414,Malta,2021-12-13,others,0,0.0,21
+55438,Malta,2021-12-27,others,0,0.0,34
+55462,Mauritius,2020-10-26,others,0,0.0,2
+55486,Mauritius,2020-11-09,others,0,0.0,1
+55510,Mauritius,2020-11-23,others,0,0.0,3
+55534,Mauritius,2020-12-07,others,2,50.0,4
+55558,Mauritius,2020-12-21,others,1,50.0,2
+55582,Mauritius,2021-01-04,others,2,100.0,2
+55606,Mauritius,2021-01-11,others,3,37.5,8
+55630,Mauritius,2021-01-25,others,4,66.66,6
+55654,Mauritius,2021-02-08,others,5,100.0,5
+55678,Mauritius,2021-02-22,others,2,66.67,3
+55702,Mauritius,2021-03-08,others,8,100.0,8
+55726,Mauritius,2021-03-22,others,89,100.0,89
+55750,Mauritius,2021-04-05,others,10,100.0,10
+55774,Mauritius,2021-04-19,others,3,100.0,3
+55798,Mauritius,2021-05-03,others,8,100.0,8
+55822,Mauritius,2021-05-17,others,38,95.0,40
+55846,Mauritius,2021-05-31,others,8,100.0,8
+55870,Mauritius,2021-06-14,others,11,84.62,13
+55894,Mauritius,2021-06-28,others,6,33.33,18
+55918,Mauritius,2021-07-12,others,21,91.3,23
+55942,Mauritius,2021-07-26,others,19,90.48,21
+55966,Mauritius,2021-08-09,others,10,100.0,10
+55990,Mauritius,2021-08-23,others,4,57.14,7
+56014,Mauritius,2021-09-06,others,18,100.0,18
+56038,Mauritius,2021-09-20,others,11,100.0,11
+56062,Mauritius,2021-10-04,others,2,15.38,13
+56086,Mauritius,2021-10-18,others,6,35.29,17
+56110,Mauritius,2021-11-01,others,8,25.81,31
+56134,Mauritius,2021-11-15,others,0,0.0,2
+56158,Mauritius,2021-11-29,others,2,2.44,82
+56182,Mexico,2020-05-11,others,208,100.0,208
+56206,Mexico,2020-05-25,others,264,100.0,264
+56230,Mexico,2020-06-08,others,290,100.0,290
+56254,Mexico,2020-06-22,others,166,100.0,166
+56278,Mexico,2020-07-06,others,219,100.0,219
+56302,Mexico,2020-07-20,others,135,100.0,135
+56326,Mexico,2020-08-03,others,155,100.0,155
+56350,Mexico,2020-08-17,others,144,100.0,144
+56374,Mexico,2020-08-31,others,178,100.0,178
+56398,Mexico,2020-09-14,others,123,100.0,123
+56422,Mexico,2020-09-28,others,61,98.39,62
+56446,Mexico,2020-10-12,others,81,100.0,81
+56470,Mexico,2020-10-26,others,89,98.89,90
+56494,Mexico,2020-11-09,others,88,98.88,89
+56518,Mexico,2020-11-23,others,156,91.77,170
+56542,Mexico,2020-12-07,others,198,84.98,233
+56566,Mexico,2020-12-21,others,243,78.38,310
+56590,Mexico,2021-01-04,others,212,76.54,277
+56614,Mexico,2021-01-11,others,64,50.0,128
+56638,Mexico,2021-01-25,others,179,49.03,365
+56662,Mexico,2021-02-08,others,165,45.57,362
+56686,Mexico,2021-02-22,others,308,27.3,1128
+56710,Mexico,2021-03-08,others,235,17.7,1327
+56734,Mexico,2021-03-22,others,279,24.67,1130
+56758,Mexico,2021-04-05,others,192,18.99,1011
+56782,Mexico,2021-04-19,others,118,9.34,1263
+56806,Mexico,2021-05-03,others,177,12.73,1390
+56830,Mexico,2021-05-17,others,256,16.11,1589
+56854,Mexico,2021-05-31,others,280,16.25,1724
+56878,Mexico,2021-06-14,others,280,12.59,2222
+56902,Mexico,2021-06-28,others,192,10.16,1889
+56926,Mexico,2021-07-12,others,141,6.65,2121
+56950,Mexico,2021-07-26,others,98,4.01,2443
+56974,Mexico,2021-08-09,others,376,12.43,3024
+56998,Mexico,2021-08-23,others,232,9.18,2528
+57022,Mexico,2021-09-06,others,7,0.33,2069
+57046,Mexico,2021-09-20,others,4,0.19,2057
+57070,Mexico,2021-10-04,others,5,0.2,2511
+57094,Mexico,2021-10-18,others,0,0.0,1868
+57118,Mexico,2021-11-01,others,3,0.17,1724
+57142,Mexico,2021-11-15,others,2,0.15,1384
+57166,Mexico,2021-11-29,others,2,0.21,938
+57190,Mexico,2021-12-13,others,0,0.0,998
+57214,Mexico,2021-12-27,others,0,0.0,435
+57238,Mexico,2022-01-05,others,0,0.0,11
+57262,Moldova,2020-06-22,others,4,100.0,4
+57286,Moldova,2020-09-14,others,8,100.0,8
+57310,Moldova,2021-02-08,others,0,0.0,3
+57334,Moldova,2021-02-22,others,0,0.0,1
+57358,Moldova,2021-03-08,others,0,0.0,7
+57382,Moldova,2021-03-22,others,0,0.0,2
+57406,Moldova,2021-04-05,others,0,0.0,5
+57430,Moldova,2021-04-19,others,0,0.0,2
+57454,Moldova,2021-05-03,others,0,0.0,4
+57478,Moldova,2021-05-17,others,1,8.34,12
+57502,Moldova,2021-05-31,others,0,0.0,1
+57526,Moldova,2021-06-28,others,0,0.0,6
+57550,Moldova,2021-07-12,others,0,0.0,7
+57574,Moldova,2021-08-23,others,0,0.0,4
+57598,Moldova,2021-09-06,others,0,0.0,9
+57622,Moldova,2021-09-20,others,0,0.0,26
+57646,Moldova,2021-11-01,others,0,0.0,2
+57670,Moldova,2021-11-15,others,0,0.0,10
+57694,Moldova,2021-11-29,others,0,0.0,9
+57718,Moldova,2021-12-13,others,0,0.0,15
+57742,Moldova,2021-12-27,others,0,0.0,15
+57766,Monaco,2021-01-25,others,0,0.0,1
+57790,Monaco,2021-02-08,others,0,0.0,1
+57814,Monaco,2021-03-08,others,1,25.0,4
+57838,Monaco,2021-04-19,others,0,0.0,2
+57862,Monaco,2021-05-31,others,0,0.0,1
+57886,Monaco,2021-06-14,others,0,0.0,11
+57910,Monaco,2021-06-28,others,0,0.0,20
+57934,Monaco,2021-07-12,others,0,0.0,1
+57958,Monaco,2021-07-26,others,0,0.0,14
+57982,Monaco,2021-08-09,others,0,0.0,14
+58006,Monaco,2021-09-06,others,0,0.0,6
+58030,Monaco,2021-09-20,others,0,0.0,2
+58054,Monaco,2021-11-01,others,0,0.0,3
+58078,Monaco,2021-11-15,others,0,0.0,3
+58102,Monaco,2021-12-27,others,0,0.0,1
+58126,Mongolia,2020-08-17,others,1,100.0,1
+58150,Mongolia,2020-10-12,others,1,100.0,1
+58174,Mongolia,2020-11-09,others,2,100.0,2
+58198,Mongolia,2020-11-23,others,1,100.0,1
+58222,Mongolia,2020-12-07,others,1,100.0,1
+58246,Mongolia,2020-12-21,others,1,100.0,1
+58270,Mongolia,2021-01-04,others,2,100.0,2
+58294,Mongolia,2021-01-11,others,2,100.0,2
+58318,Mongolia,2021-01-25,others,2,100.0,2
+58342,Mongolia,2021-02-08,others,1,100.0,1
+58366,Mongolia,2021-02-22,others,3,100.0,3
+58390,Mongolia,2021-03-08,others,2,100.0,2
+58414,Mongolia,2021-03-22,others,1,14.28,7
+58438,Mongolia,2021-04-19,others,0,0.0,2
+58462,Mongolia,2021-05-17,others,0,0.0,3
+58486,Mongolia,2021-06-28,others,1,6.25,16
+58510,Mongolia,2021-07-12,others,0,0.0,34
+58534,Mongolia,2021-07-26,others,0,0.0,17
+58558,Mongolia,2021-08-09,others,0,0.0,52
+58582,Montenegro,2020-07-20,others,9,100.0,9
+58606,Montenegro,2021-01-25,others,3,15.79,19
+58630,Montenegro,2021-06-14,others,0,0.0,17
+58654,Montenegro,2021-06-28,others,0,0.0,18
+58678,Montenegro,2021-07-12,others,0,0.0,20
+58702,Montenegro,2021-07-26,others,0,0.0,30
+58726,Montenegro,2021-08-09,others,0,-0.01,72
+58750,Montenegro,2021-08-23,others,0,0.0,41
+58774,Montenegro,2021-09-06,others,0,0.0,34
+58798,Montenegro,2021-09-20,others,0,0.0,5
+58822,Montenegro,2021-10-04,others,0,0.0,1
+58846,Montenegro,2021-10-18,others,0,0.0,15
+58870,Montenegro,2021-11-01,others,0,0.0,34
+58894,Montenegro,2021-11-15,others,0,0.0,38
+58918,Montenegro,2021-11-29,others,0,0.0,25
+58942,Montenegro,2021-12-13,others,0,0.0,69
+58966,Morocco,2020-05-11,others,25,100.0,25
+58990,Morocco,2020-05-25,others,3,100.0,3
+59014,Morocco,2020-06-08,others,1,100.0,1
+59038,Morocco,2020-06-22,others,1,100.0,1
+59062,Morocco,2020-07-06,others,2,100.0,2
+59086,Morocco,2020-07-20,others,19,100.0,19
+59110,Morocco,2020-08-17,others,2,100.0,2
+59134,Morocco,2020-09-28,others,2,100.0,2
+59158,Morocco,2020-11-09,others,1,100.0,1
+59182,Morocco,2020-12-21,others,24,92.3,26
+59206,Morocco,2021-01-04,others,13,86.67,15
+59230,Morocco,2021-01-11,others,17,77.27,22
+59254,Morocco,2021-01-25,others,1,100.0,1
+59278,Morocco,2021-02-08,others,3,75.0,4
+59302,Morocco,2021-03-08,others,0,0.0,17
+59326,Morocco,2021-03-22,others,0,0.0,24
+59350,Morocco,2021-04-05,others,4,22.22,18
+59374,Morocco,2021-04-19,others,1,5.0,20
+59398,Morocco,2021-05-03,others,0,0.0,5
+59422,Morocco,2021-05-31,others,0,0.0,1
+59446,Morocco,2021-06-14,others,0,0.0,1
+59470,Morocco,2021-06-28,others,1,14.28,7
+59494,Morocco,2021-07-12,others,1,11.11,9
+59518,Morocco,2021-07-26,others,0,0.0,31
+59542,Morocco,2021-09-06,others,0,0.0,45
+59566,Morocco,2021-09-20,others,0,0.0,15
+59590,Morocco,2021-10-04,others,0,0.0,2
+59614,Morocco,2021-10-18,others,0,0.0,26
+59638,Morocco,2021-11-01,others,0,0.0,20
+59662,Morocco,2021-11-15,others,0,0.0,8
+59686,Morocco,2021-11-29,others,0,0.0,9
+59710,Morocco,2021-12-13,others,0,0.0,2
+59734,Morocco,2021-12-27,others,0,0.0,16
+59758,Mozambique,2020-07-20,others,7,100.0,7
+59782,Mozambique,2020-08-17,others,1,100.0,1
+59806,Mozambique,2020-08-31,others,4,40.0,10
+59830,Mozambique,2020-09-14,others,5,100.0,5
+59854,Mozambique,2020-09-28,others,4,80.0,5
+59878,Mozambique,2020-10-12,others,8,61.54,13
+59902,Mozambique,2020-10-26,others,0,0.0,2
+59926,Mozambique,2020-11-09,others,5,15.62,32
+59950,Mozambique,2020-11-23,others,7,63.64,11
+59974,Mozambique,2020-12-07,others,29,100.0,29
+59998,Mozambique,2020-12-21,others,8,72.73,11
+60022,Mozambique,2021-01-04,others,20,66.67,30
+60046,Mozambique,2021-01-11,others,11,35.48,31
+60070,Mozambique,2021-01-25,others,12,11.54,104
+60094,Mozambique,2021-02-08,others,3,7.14,42
+60118,Mozambique,2021-02-22,others,2,4.26,47
+60142,Mozambique,2021-03-08,others,0,0.0,22
+60166,Mozambique,2021-03-22,others,27,32.53,83
+60190,Mozambique,2021-04-05,others,0,0.0,11
+60214,Mozambique,2021-04-19,others,1,11.11,9
+60238,Mozambique,2021-05-03,others,2,10.0,20
+60262,Mozambique,2021-05-17,others,2,22.23,9
+60286,Mozambique,2021-05-31,others,0,0.0,12
+60310,Mozambique,2021-06-14,others,0,0.0,8
+60334,Mozambique,2021-06-28,others,1,0.88,114
+60358,Mozambique,2021-07-12,others,0,0.0,109
+60382,Mozambique,2021-07-26,others,0,0.0,64
+60406,Mozambique,2021-08-09,others,0,0.0,24
+60430,Mozambique,2021-08-23,others,0,0.0,1
+60454,Mozambique,2021-09-06,others,0,0.0,15
+60478,Mozambique,2021-09-20,others,0,0.0,14
+60502,Mozambique,2021-10-04,others,0,0.0,9
+60526,Mozambique,2021-10-18,others,0,0.0,2
+60550,Mozambique,2021-11-01,others,0,0.0,2
+60574,Mozambique,2021-11-15,others,0,0.0,1
+60598,Mozambique,2021-11-29,others,0,0.0,4
+60622,Mozambique,2021-12-13,others,0,0.0,14
+60646,Nepal,2020-08-03,others,2,100.0,2
+60670,Nepal,2020-08-17,others,12,100.0,12
+60694,Nepal,2020-08-31,others,1,100.0,1
+60718,Nepal,2020-10-12,others,1,100.0,1
+60742,Nepal,2020-11-23,others,1,100.0,1
+60766,Nepal,2020-12-07,others,1,100.0,1
+60790,Nepal,2021-04-19,others,0,0.0,4
+60814,Nepal,2021-05-03,others,0,0.0,17
+60838,Nepal,2021-05-17,others,0,0.0,30
+60862,Nepal,2021-05-31,others,0,0.0,18
+60886,Nepal,2021-06-14,others,0,0.0,39
+60910,Nepal,2021-06-28,others,0,0.0,14
+60934,Nepal,2021-07-12,others,0,0.0,25
+60958,Nepal,2021-07-26,others,0,0.0,15
+60982,Nepal,2021-08-09,others,0,0.0,22
+61006,Nepal,2021-08-23,others,0,0.0,43
+61030,Nepal,2021-09-06,others,0,0.0,11
+61054,Nepal,2021-09-20,others,0,0.0,25
+61078,Nepal,2021-10-04,others,0,0.0,22
+61102,Nepal,2021-11-01,others,0,0.0,5
+61126,Nepal,2021-11-15,others,0,0.0,6
+61150,Nepal,2021-11-29,others,0,0.0,25
+61174,Nepal,2021-12-13,others,0,0.0,25
+61198,Nepal,2021-12-27,others,0,0.0,4
+61222,Netherlands,2020-05-11,others,214,100.0,214
+61246,Netherlands,2020-05-25,others,226,100.0,226
+61270,Netherlands,2020-06-08,others,144,100.0,144
+61294,Netherlands,2020-06-22,others,92,93.88,98
+61318,Netherlands,2020-07-06,others,91,100.0,91
+61342,Netherlands,2020-07-20,others,63,94.03,67
+61366,Netherlands,2020-08-03,others,86,95.56,90
+61390,Netherlands,2020-08-17,others,109,88.62,123
+61414,Netherlands,2020-08-31,others,79,62.2,127
+61438,Netherlands,2020-09-14,others,62,51.67,120
+61462,Netherlands,2020-09-28,others,71,26.0,273
+61486,Netherlands,2020-10-12,others,56,18.85,297
+61510,Netherlands,2020-10-26,others,83,19.04,436
+61534,Netherlands,2020-11-09,others,55,13.22,416
+61558,Netherlands,2020-11-23,others,35,8.01,437
+61582,Netherlands,2020-12-07,others,37,6.93,533
+61606,Netherlands,2020-12-21,others,28,3.44,818
+61630,Netherlands,2021-01-04,others,52,4.55,1142
+61654,Netherlands,2021-01-11,others,33,4.18,790
+61678,Netherlands,2021-01-25,others,68,3.88,1750
+61702,Netherlands,2021-02-08,others,119,5.24,2269
+61726,Netherlands,2021-02-22,others,99,4.07,2431
+61750,Netherlands,2021-03-08,others,46,1.45,3167
+61774,Netherlands,2021-03-22,others,42,1.05,4040
+61798,Netherlands,2021-04-05,others,22,0.57,3860
+61822,Netherlands,2021-04-19,others,8,0.21,3602
+61846,Netherlands,2021-05-03,others,14,0.36,3934
+61870,Netherlands,2021-05-17,others,7,0.2,3490
+61894,Netherlands,2021-05-31,others,15,0.51,2969
+61918,Netherlands,2021-06-14,others,28,1.06,2635
+61942,Netherlands,2021-06-28,others,19,1.01,1888
+61966,Netherlands,2021-07-12,others,24,0.65,3583
+61990,Netherlands,2021-07-26,others,2,0.04,4845
+62014,Netherlands,2021-08-09,others,2,0.06,3079
+62038,Netherlands,2021-08-23,others,0,-0.01,3129
+62062,Netherlands,2021-09-06,others,3,0.08,3390
+62086,Netherlands,2021-09-20,others,0,0.0,2691
+62110,Netherlands,2021-10-04,others,3,0.14,2258
+62134,Netherlands,2021-10-18,others,2,0.07,2733
+62158,Netherlands,2021-11-01,others,1,0.03,3174
+62182,Netherlands,2021-11-15,others,0,0.0,3645
+62206,Netherlands,2021-11-29,others,0,0.0,3714
+62230,Netherlands,2021-12-13,others,1,0.04,3137
+62254,Netherlands,2021-12-27,others,0,-0.01,867
+62278,Netherlands,2022-01-05,others,1,4.0,25
+62302,New Zealand,2020-05-11,others,8,100.0,8
+62326,New Zealand,2020-05-25,others,1,100.0,1
+62350,New Zealand,2020-06-22,others,5,100.0,5
+62374,New Zealand,2020-07-06,others,3,100.0,3
+62398,New Zealand,2020-07-20,others,3,100.0,3
+62422,New Zealand,2020-08-03,others,2,100.0,2
+62446,New Zealand,2020-08-17,others,37,100.0,37
+62470,New Zealand,2020-08-31,others,73,98.65,74
+62494,New Zealand,2020-09-14,others,33,100.0,33
+62518,New Zealand,2020-09-28,others,14,87.5,16
+62542,New Zealand,2020-10-12,others,6,42.86,14
+62566,New Zealand,2020-10-26,others,28,77.77,36
+62590,New Zealand,2020-11-09,others,24,72.73,33
+62614,New Zealand,2020-11-23,others,13,65.0,20
+62638,New Zealand,2020-12-07,others,24,85.72,28
+62662,New Zealand,2020-12-21,others,9,45.0,20
+62686,New Zealand,2021-01-04,others,11,39.29,28
+62710,New Zealand,2021-01-11,others,7,63.64,11
+62734,New Zealand,2021-01-25,others,6,27.27,22
+62758,New Zealand,2021-02-08,others,1,5.89,17
+62782,New Zealand,2021-02-22,others,7,36.84,19
+62806,New Zealand,2021-03-08,others,5,19.23,26
+62830,New Zealand,2021-03-22,others,7,25.01,28
+62854,New Zealand,2021-04-05,others,2,6.9,29
+62878,New Zealand,2021-04-19,others,0,0.0,26
+62902,New Zealand,2021-05-03,others,2,10.53,19
+62926,New Zealand,2021-05-17,others,2,28.57,7
+62950,New Zealand,2021-05-31,others,1,12.5,8
+62974,New Zealand,2021-06-14,others,1,7.14,14
+62998,New Zealand,2021-06-28,others,0,0.0,16
+63022,New Zealand,2021-07-12,others,1,8.33,12
+63046,New Zealand,2021-07-26,others,0,0.0,49
+63070,New Zealand,2021-08-09,others,0,0.0,31
+63094,New Zealand,2021-08-23,others,0,0.0,173
+63118,New Zealand,2021-09-06,others,0,0.0,615
+63142,New Zealand,2021-09-20,others,0,0.0,238
+63166,New Zealand,2021-10-04,others,0,0.0,276
+63190,New Zealand,2021-10-18,others,0,0.0,583
+63214,New Zealand,2021-11-01,others,0,0.0,605
+63238,New Zealand,2021-11-15,others,0,0.0,567
+63262,New Zealand,2021-11-29,others,0,0.0,460
+63286,New Zealand,2021-12-13,others,0,0.0,313
+63310,New Zealand,2021-12-27,others,0,0.0,223
+63334,New Zealand,2022-01-05,others,0,0.0,11
+63358,Nigeria,2020-05-11,others,26,100.0,26
+63382,Nigeria,2020-05-25,others,31,100.0,31
+63406,Nigeria,2020-06-08,others,16,100.0,16
+63430,Nigeria,2020-06-22,others,27,100.0,27
+63454,Nigeria,2020-07-06,others,28,100.0,28
+63478,Nigeria,2020-07-20,others,48,100.0,48
+63502,Nigeria,2020-08-03,others,5,100.0,5
+63526,Nigeria,2020-08-17,others,11,100.0,11
+63550,Nigeria,2020-08-31,others,5,100.0,5
+63574,Nigeria,2020-09-14,others,5,100.0,5
+63598,Nigeria,2020-10-12,others,5,100.0,5
+63622,Nigeria,2020-10-26,others,7,100.0,7
+63646,Nigeria,2020-11-09,others,1,100.0,1
+63670,Nigeria,2020-11-23,others,4,100.0,4
+63694,Nigeria,2020-12-07,others,30,96.77,31
+63718,Nigeria,2020-12-21,others,30,88.24,34
+63742,Nigeria,2021-01-04,others,41,56.16,73
+63766,Nigeria,2021-01-11,others,33,25.19,131
+63790,Nigeria,2021-01-25,others,20,15.75,127
+63814,Nigeria,2021-02-08,others,39,16.88,231
+63838,Nigeria,2021-02-22,others,28,17.07,164
+63862,Nigeria,2021-03-08,others,33,29.73,111
+63886,Nigeria,2021-03-22,others,14,31.11,45
+63910,Nigeria,2021-04-05,others,7,38.89,18
+63934,Nigeria,2021-04-19,others,3,42.86,7
+63958,Nigeria,2021-05-03,others,11,47.83,23
+63982,Nigeria,2021-05-17,others,5,62.5,8
+64006,Nigeria,2021-05-31,others,2,33.33,6
+64030,Nigeria,2021-06-14,others,0,0.0,7
+64054,Nigeria,2021-06-28,others,2,14.29,14
+64078,Nigeria,2021-07-12,others,7,16.27,43
+64102,Nigeria,2021-07-26,others,3,3.19,94
+64126,Nigeria,2021-08-09,others,30,6.03,498
+64150,Nigeria,2021-08-23,others,14,2.62,535
+64174,Nigeria,2021-09-06,others,7,1.22,576
+64198,Nigeria,2021-09-20,others,10,3.02,331
+64222,Nigeria,2021-10-04,others,0,0.0,93
+64246,Nigeria,2021-10-18,others,0,0.0,60
+64270,Nigeria,2021-11-01,others,0,0.0,34
+64294,Nigeria,2021-11-15,others,0,0.0,22
+64318,Nigeria,2021-11-29,others,0,0.0,56
+64342,Nigeria,2021-12-13,others,1,1.37,73
+64366,Nigeria,2021-12-27,others,0,0.0,10
+64390,North Macedonia,2020-05-25,others,1,100.0,1
+64414,North Macedonia,2020-06-08,others,17,100.0,17
+64438,North Macedonia,2020-06-22,others,18,100.0,18
+64462,North Macedonia,2020-07-06,others,20,100.0,20
+64486,North Macedonia,2020-07-20,others,5,100.0,5
+64510,North Macedonia,2020-08-03,others,6,100.0,6
+64534,North Macedonia,2020-08-17,others,8,100.0,8
+64558,North Macedonia,2020-08-31,others,2,100.0,2
+64582,North Macedonia,2020-09-14,others,9,100.0,9
+64606,North Macedonia,2020-10-12,others,7,100.0,7
+64630,North Macedonia,2020-10-26,others,13,100.0,13
+64654,North Macedonia,2020-11-09,others,20,100.0,20
+64678,North Macedonia,2020-11-23,others,7,87.5,8
+64702,North Macedonia,2020-12-07,others,4,100.0,4
+64726,North Macedonia,2020-12-21,others,15,93.75,16
+64750,North Macedonia,2021-01-04,others,24,88.89,27
+64774,North Macedonia,2021-01-11,others,15,65.22,23
+64798,North Macedonia,2021-01-25,others,41,60.3,68
+64822,North Macedonia,2021-02-08,others,27,44.26,61
+64846,North Macedonia,2021-02-22,others,11,18.97,58
+64870,North Macedonia,2021-03-08,others,0,0.0,15
+64894,North Macedonia,2021-03-22,others,0,-0.01,26
+64918,North Macedonia,2021-04-05,others,1,2.78,36
+64942,North Macedonia,2021-04-19,others,2,1.94,103
+64966,North Macedonia,2021-05-03,others,0,0.0,15
+64990,North Macedonia,2021-05-17,others,0,0.0,30
+65014,North Macedonia,2021-05-31,others,0,0.0,17
+65038,North Macedonia,2021-06-14,others,0,0.0,12
+65062,North Macedonia,2021-06-28,others,0,0.0,4
+65086,North Macedonia,2021-07-12,others,0,0.0,7
+65110,North Macedonia,2021-07-26,others,0,0.0,22
+65134,North Macedonia,2021-08-09,others,0,0.0,12
+65158,North Macedonia,2021-11-01,others,0,0.0,11
+65182,North Macedonia,2021-11-15,others,0,0.0,37
+65206,Norway,2020-05-11,others,28,100.0,28
+65230,Norway,2020-05-25,others,18,100.0,18
+65254,Norway,2020-06-08,others,8,100.0,8
+65278,Norway,2020-06-22,others,31,100.0,31
+65302,Norway,2020-07-06,others,58,95.08,61
+65326,Norway,2020-07-20,others,33,100.0,33
+65350,Norway,2020-08-03,others,69,82.15,84
+65374,Norway,2020-08-17,others,49,29.88,164
+65398,Norway,2020-08-31,others,38,80.84,47
+65422,Norway,2020-09-14,others,82,75.23,109
+65446,Norway,2020-09-28,others,33,28.21,117
+65470,Norway,2020-10-12,others,34,21.79,156
+65494,Norway,2020-10-26,others,50,24.52,204
+65518,Norway,2020-11-09,others,121,45.66,265
+65542,Norway,2020-11-23,others,84,51.54,163
+65566,Norway,2020-12-07,others,124,66.32,187
+65590,Norway,2020-12-21,others,209,76.3,274
+65614,Norway,2021-01-04,others,170,62.5,272
+65638,Norway,2021-01-11,others,116,43.61,266
+65662,Norway,2021-01-25,others,392,52.97,740
+65686,Norway,2021-02-08,others,695,49.65,1400
+65710,Norway,2021-02-22,others,478,34.03,1404
+65734,Norway,2021-03-08,others,169,10.95,1547
+65758,Norway,2021-03-22,others,52,3.1,1671
+65782,Norway,2021-04-05,others,22,1.64,1328
+65806,Norway,2021-04-19,others,21,1.15,1847
+65830,Norway,2021-05-03,others,15,0.92,1654
+65854,Norway,2021-05-17,others,13,0.71,1837
+65878,Norway,2021-05-31,others,9,0.63,1417
+65902,Norway,2021-06-14,others,6,0.53,1134
+65926,Norway,2021-06-28,others,8,0.96,827
+65950,Norway,2021-07-12,others,6,0.68,867
+65974,Norway,2021-07-26,others,2,0.24,892
+65998,Norway,2021-08-09,others,0,0.0,1320
+66022,Norway,2021-08-23,others,0,0.0,1747
+66046,Norway,2021-09-06,others,1,0.05,1917
+66070,Norway,2021-09-20,others,0,0.0,2089
+66094,Norway,2021-10-04,others,0,0.0,1632
+66118,Norway,2021-10-18,others,0,0.0,1421
+66142,Norway,2021-11-01,others,0,0.0,2045
+66166,Norway,2021-11-15,others,0,0.0,1848
+66190,Norway,2021-11-29,others,0,0.0,1532
+66214,Norway,2021-12-13,others,0,0.0,988
+66238,Norway,2021-12-27,others,0,0.0,67
+66262,Oman,2020-05-11,others,22,100.0,22
+66286,Oman,2020-05-25,others,55,100.0,55
+66310,Oman,2020-06-08,others,25,100.0,25
+66334,Oman,2020-06-22,others,11,100.0,11
+66358,Oman,2020-07-06,others,8,100.0,8
+66382,Oman,2020-07-20,others,8,100.0,8
+66406,Oman,2020-08-03,others,1,100.0,1
+66430,Oman,2020-08-17,others,7,100.0,7
+66454,Oman,2020-08-31,others,1,100.0,1
+66478,Oman,2020-09-14,others,6,100.0,6
+66502,Oman,2020-09-28,others,6,100.0,6
+66526,Oman,2020-10-12,others,1,100.0,1
+66550,Oman,2020-10-26,others,1,100.0,1
+66574,Oman,2020-11-23,others,1,100.0,1
+66598,Oman,2021-01-04,others,1,33.33,3
+66622,Oman,2021-01-11,others,1,33.33,3
+66646,Oman,2021-01-25,others,0,0.0,3
+66670,Oman,2021-02-08,others,6,50.0,12
+66694,Oman,2021-02-22,others,3,33.33,9
+66718,Oman,2021-03-08,others,1,10.0,10
+66742,Oman,2021-03-22,others,0,0.0,7
+66766,Oman,2021-04-05,others,2,18.18,11
+66790,Oman,2021-04-19,others,1,5.55,18
+66814,Oman,2021-05-03,others,0,0.0,53
+66838,Oman,2021-05-17,others,1,4.77,21
+66862,Oman,2021-05-31,others,2,16.67,12
+66886,Oman,2021-06-14,others,0,0.0,43
+66910,Oman,2021-06-28,others,0,0.0,71
+66934,Oman,2021-07-12,others,1,14.28,7
+66958,Oman,2021-09-06,others,0,0.0,1
+66982,Oman,2021-12-13,others,0,0.0,8
+67006,Oman,2021-12-27,others,0,0.0,1
+67030,Pakistan,2020-05-11,others,3,100.0,3
+67054,Pakistan,2020-05-25,others,10,100.0,10
+67078,Pakistan,2020-06-08,others,24,100.0,24
+67102,Pakistan,2020-06-22,others,8,100.0,8
+67126,Pakistan,2020-07-06,others,5,100.0,5
+67150,Pakistan,2020-07-20,others,6,100.0,6
+67174,Pakistan,2020-08-17,others,10,100.0,10
+67198,Pakistan,2020-09-14,others,3,100.0,3
+67222,Pakistan,2020-10-12,others,8,100.0,8
+67246,Pakistan,2020-10-26,others,1,100.0,1
+67270,Pakistan,2020-11-09,others,1,100.0,1
+67294,Pakistan,2020-11-23,others,8,100.0,8
+67318,Pakistan,2020-12-07,others,20,100.0,20
+67342,Pakistan,2020-12-21,others,26,100.0,26
+67366,Pakistan,2021-01-04,others,4,28.57,14
+67390,Pakistan,2021-01-11,others,5,71.43,7
+67414,Pakistan,2021-01-25,others,3,100.0,3
+67438,Pakistan,2021-02-08,others,4,100.0,4
+67462,Pakistan,2021-02-22,others,1,33.34,3
+67486,Pakistan,2021-03-08,others,2,28.57,7
+67510,Pakistan,2021-03-22,others,0,0.0,31
+67534,Pakistan,2021-04-05,others,0,0.0,6
+67558,Pakistan,2021-04-19,others,3,2.18,138
+67582,Pakistan,2021-05-03,others,2,3.77,53
+67606,Pakistan,2021-05-17,others,1,3.34,30
+67630,Pakistan,2021-05-31,others,4,5.0,80
+67654,Pakistan,2021-06-14,others,5,2.57,195
+67678,Pakistan,2021-06-28,others,0,0.0,54
+67702,Pakistan,2021-07-12,others,0,0.01,59
+67726,Pakistan,2021-07-26,others,0,0.0,67
+67750,Pakistan,2021-08-09,others,0,0.0,121
+67774,Pakistan,2021-08-23,others,0,0.0,108
+67798,Pakistan,2021-09-06,others,1,0.56,176
+67822,Pakistan,2021-09-20,others,0,0.0,65
+67846,Pakistan,2021-10-04,others,0,0.0,26
+67870,Pakistan,2021-10-18,others,0,0.0,51
+67894,Pakistan,2021-11-01,others,0,0.0,40
+67918,Pakistan,2021-11-15,others,0,0.0,41
+67942,Pakistan,2021-11-29,others,2,20.0,10
+67966,Pakistan,2021-12-13,others,7,28.0,25
+67990,Pakistan,2021-12-27,others,1,5.27,19
+68014,Pakistan,2022-01-05,others,0,0.0,6
+68038,Papua New Guinea,2020-07-20,others,4,100.0,4
+68062,Papua New Guinea,2020-08-03,others,34,100.0,34
+68086,Papua New Guinea,2020-08-17,others,55,100.0,55
+68110,Papua New Guinea,2020-08-31,others,7,100.0,7
+68134,Papua New Guinea,2020-09-14,others,2,100.0,2
+68158,Papua New Guinea,2020-09-28,others,2,100.0,2
+68182,Papua New Guinea,2020-10-12,others,6,100.0,6
+68206,Papua New Guinea,2020-12-07,others,22,100.0,22
+68230,Papua New Guinea,2020-12-21,others,9,100.0,9
+68254,Papua New Guinea,2021-01-04,others,11,100.0,11
+68278,Papua New Guinea,2021-01-11,others,3,100.0,3
+68302,Papua New Guinea,2021-01-25,others,2,100.0,2
+68326,Papua New Guinea,2021-02-08,others,11,100.0,11
+68350,Papua New Guinea,2021-02-22,others,60,100.0,60
+68374,Papua New Guinea,2021-03-08,others,190,100.0,190
+68398,Papua New Guinea,2021-03-22,others,368,100.0,368
+68422,Papua New Guinea,2021-04-05,others,597,99.83,598
+68446,Papua New Guinea,2021-04-19,others,100,100.0,100
+68470,Papua New Guinea,2021-05-03,others,128,100.0,128
+68494,Papua New Guinea,2021-05-17,others,193,100.0,193
+68518,Papua New Guinea,2021-05-31,others,18,100.0,18
+68542,Papua New Guinea,2021-06-14,others,14,100.0,14
+68566,Papua New Guinea,2021-06-28,others,3,100.0,3
+68590,Papua New Guinea,2021-07-12,others,7,43.75,16
+68614,Papua New Guinea,2021-07-26,others,12,63.16,19
+68638,Papua New Guinea,2021-08-09,others,3,15.79,19
+68662,Papua New Guinea,2021-08-23,others,4,3.77,106
+68686,Papua New Guinea,2021-09-06,others,0,0.0,385
+68710,Papua New Guinea,2021-09-20,others,6,2.8,214
+68734,Papua New Guinea,2021-10-04,others,7,1.9,368
+68758,Papua New Guinea,2021-10-18,others,0,0.0,242
+68782,Papua New Guinea,2021-11-01,others,0,0.0,116
+68806,Papua New Guinea,2021-11-15,others,0,0.0,34
+68830,Papua New Guinea,2021-11-29,others,0,0.0,7
+68854,Paraguay,2020-05-11,others,5,100.0,5
+68878,Paraguay,2020-05-25,others,2,100.0,2
+68902,Paraguay,2020-06-08,others,3,100.0,3
+68926,Paraguay,2020-06-22,others,1,100.0,1
+68950,Paraguay,2020-07-06,others,5,100.0,5
+68974,Paraguay,2020-07-20,others,5,100.0,5
+68998,Paraguay,2020-08-03,others,2,100.0,2
+69022,Paraguay,2020-08-17,others,14,100.0,14
+69046,Paraguay,2020-08-31,others,2,100.0,2
+69070,Paraguay,2020-09-14,others,7,100.0,7
+69094,Paraguay,2020-09-28,others,1,100.0,1
+69118,Paraguay,2020-10-12,others,3,100.0,3
+69142,Paraguay,2020-11-09,others,1,100.0,1
+69166,Paraguay,2020-11-23,others,1,100.0,1
+69190,Paraguay,2020-12-07,others,2,100.0,2
+69214,Paraguay,2020-12-21,others,14,100.0,14
+69238,Paraguay,2021-01-04,others,3,100.0,3
+69262,Paraguay,2021-01-11,others,15,100.0,15
+69286,Paraguay,2021-01-25,others,9,100.0,9
+69310,Paraguay,2021-02-08,others,62,93.93,66
+69334,Paraguay,2021-02-22,others,49,80.33,61
+69358,Paraguay,2021-03-08,others,52,74.28,70
+69382,Paraguay,2021-03-22,others,30,54.54,55
+69406,Paraguay,2021-04-05,others,4,28.57,14
+69430,Paraguay,2021-04-19,others,7,22.58,31
+69454,Paraguay,2021-05-03,others,2,10.0,20
+69478,Paraguay,2021-05-17,others,0,0.0,26
+69502,Paraguay,2021-05-31,others,0,0.0,14
+69526,Paraguay,2021-06-14,others,0,0.0,41
+69550,Paraguay,2021-06-28,others,0,0.0,18
+69574,Paraguay,2021-07-12,others,6,10.17,59
+69598,Paraguay,2021-07-26,others,6,24.0,25
+69622,Paraguay,2021-08-09,others,1,1.56,64
+69646,Paraguay,2021-08-23,others,1,1.67,60
+69670,Paraguay,2021-09-06,others,0,0.0,78
+69694,Paraguay,2021-09-20,others,0,0.0,26
+69718,Paraguay,2021-10-04,others,1,3.03,33
+69742,Paraguay,2021-10-18,others,0,0.0,9
+69766,Paraguay,2021-11-01,others,1,7.14,14
+69790,Peru,2020-05-11,others,49,100.0,49
+69814,Peru,2020-05-25,others,50,100.0,50
+69838,Peru,2020-06-08,others,5,100.0,5
+69862,Peru,2020-06-22,others,92,100.0,92
+69886,Peru,2020-07-06,others,35,100.0,35
+69910,Peru,2020-07-20,others,10,100.0,10
+69934,Peru,2020-08-03,others,12,100.0,12
+69958,Peru,2020-08-17,others,49,100.0,49
+69982,Peru,2020-08-31,others,105,100.0,105
+70006,Peru,2020-09-14,others,44,100.0,44
+70030,Peru,2020-09-28,others,33,100.0,33
+70054,Peru,2020-10-12,others,8,100.0,8
+70078,Peru,2020-10-26,others,127,99.22,128
+70102,Peru,2020-11-09,others,3,100.0,3
+70126,Peru,2020-11-23,others,32,100.0,32
+70150,Peru,2020-12-07,others,32,96.97,33
+70174,Peru,2020-12-21,others,127,97.69,130
+70198,Peru,2021-01-04,others,92,84.41,109
+70222,Peru,2021-01-11,others,21,72.41,29
+70246,Peru,2021-01-25,others,82,66.67,123
+70270,Peru,2021-02-08,others,56,61.54,91
+70294,Peru,2021-02-22,others,66,55.0,120
+70318,Peru,2021-03-08,others,44,28.38,155
+70342,Peru,2021-03-22,others,30,12.61,238
+70366,Peru,2021-04-05,others,25,13.16,190
+70390,Peru,2021-04-19,others,28,5.36,523
+70414,Peru,2021-05-03,others,9,2.8,321
+70438,Peru,2021-05-17,others,8,2.45,325
+70462,Peru,2021-05-31,others,5,1.77,284
+70486,Peru,2021-06-14,others,10,1.25,803
+70510,Peru,2021-06-28,others,12,2.41,496
+70534,Peru,2021-07-12,others,9,1.93,467
+70558,Peru,2021-07-26,others,2,0.35,586
+70582,Peru,2021-08-09,others,4,0.79,507
+70606,Peru,2021-08-23,others,4,0.62,645
+70630,Peru,2021-09-06,others,3,0.5,603
+70654,Peru,2021-09-20,others,0,0.0,782
+70678,Peru,2021-10-04,others,0,0.01,819
+70702,Peru,2021-10-18,others,0,0.01,805
+70726,Peru,2021-11-01,others,0,-0.01,721
+70750,Peru,2021-11-15,others,0,0.0,858
+70774,Peru,2021-11-29,others,0,0.0,717
+70798,Peru,2021-12-13,others,0,-0.01,65
+70822,Peru,2021-12-27,others,0,0.0,10
+70846,Philippines,2020-06-08,others,1,100.0,1
+70870,Philippines,2020-06-22,others,5,100.0,5
+70894,Philippines,2020-07-06,others,9,100.0,9
+70918,Philippines,2020-07-20,others,4,100.0,4
+70942,Philippines,2020-09-14,others,2,100.0,2
+70966,Philippines,2020-09-28,others,3,100.0,3
+70990,Philippines,2020-10-12,others,1,100.0,1
+71014,Philippines,2020-10-26,others,3,100.0,3
+71038,Philippines,2020-11-09,others,141,100.0,141
+71062,Philippines,2020-11-23,others,176,98.88,178
+71086,Philippines,2020-12-07,others,233,100.0,233
+71110,Philippines,2020-12-21,others,294,98.65,298
+71134,Philippines,2021-01-04,others,231,97.06,238
+71158,Philippines,2021-01-11,others,322,94.7,340
+71182,Philippines,2021-01-25,others,494,93.21,530
+71206,Philippines,2021-02-08,others,532,95.68,556
+71230,Philippines,2021-02-22,others,321,71.18,451
+71254,Philippines,2021-03-08,others,127,41.92,303
+71278,Philippines,2021-03-22,others,119,15.25,780
+71302,Philippines,2021-04-05,others,89,8.77,1016
+71326,Philippines,2021-04-19,others,47,12.18,386
+71350,Philippines,2021-05-03,others,38,9.65,394
+71374,Philippines,2021-05-17,others,15,4.37,343
+71398,Philippines,2021-05-31,others,10,3.02,331
+71422,Philippines,2021-06-14,others,25,4.35,575
+71446,Philippines,2021-06-28,others,37,4.43,836
+71470,Philippines,2021-07-12,others,68,7.68,886
+71494,Philippines,2021-07-26,others,76,6.83,1114
+71518,Philippines,2021-08-09,others,62,4.43,1400
+71542,Philippines,2021-08-23,others,11,0.99,1119
+71566,Philippines,2021-09-06,others,1,0.39,262
+71590,Poland,2020-05-11,others,59,100.0,59
+71614,Poland,2020-05-25,others,26,100.0,26
+71638,Poland,2020-06-08,others,23,100.0,23
+71662,Poland,2020-06-22,others,4,100.0,4
+71686,Poland,2020-08-31,others,1,33.33,3
+71710,Poland,2020-09-14,others,3,50.0,6
+71734,Poland,2020-09-28,others,4,66.67,6
+71758,Poland,2020-10-12,others,1,50.0,2
+71782,Poland,2020-10-26,others,0,0.0,1
+71806,Poland,2020-11-09,others,4,66.67,6
+71830,Poland,2020-11-23,others,12,75.0,16
+71854,Poland,2020-12-07,others,17,62.97,27
+71878,Poland,2020-12-21,others,15,28.31,53
+71902,Poland,2021-01-04,others,50,41.68,120
+71926,Poland,2021-01-11,others,27,48.21,56
+71950,Poland,2021-01-25,others,100,38.62,259
+71974,Poland,2021-02-08,others,126,33.25,379
+71998,Poland,2021-02-22,others,164,22.5,729
+72022,Poland,2021-03-08,others,189,12.73,1485
+72046,Poland,2021-03-22,others,104,4.82,2146
+72070,Poland,2021-04-05,others,27,1.49,1803
+72094,Poland,2021-04-19,others,21,0.75,2782
+72118,Poland,2021-05-03,others,8,0.3,2636
+72142,Poland,2021-05-17,others,10,0.39,2568
+72166,Poland,2021-05-31,others,3,0.2,1627
+72190,Poland,2021-06-14,others,7,1.14,621
+72214,Poland,2021-06-28,others,6,4.0,150
+72238,Poland,2021-07-12,others,7,3.75,186
+72262,Poland,2021-07-26,others,3,1.24,243
+72286,Poland,2021-08-09,others,10,3.01,333
+72310,Poland,2021-08-23,others,1,0.13,751
+72334,Poland,2021-09-06,others,0,0.0,935
+72358,Poland,2021-09-20,others,0,0.0,1424
+72382,Poland,2021-10-04,others,1,0.05,1724
+72406,Poland,2021-10-18,others,0,0.0,2282
+72430,Poland,2021-11-01,others,3,0.11,2785
+72454,Poland,2021-11-15,others,0,0.0,4144
+72478,Poland,2021-11-29,others,0,0.0,2239
+72502,Poland,2021-12-13,others,1,0.03,3352
+72526,Poland,2021-12-27,others,0,0.0,1269
+72550,Poland,2022-01-05,others,0,0.0,124
+72574,Portugal,2020-05-11,others,26,100.0,26
+72598,Portugal,2020-05-25,others,28,100.0,28
+72622,Portugal,2020-06-08,others,92,100.0,92
+72646,Portugal,2020-06-22,others,37,100.0,37
+72670,Portugal,2020-07-06,others,53,100.0,53
+72694,Portugal,2020-07-20,others,27,100.0,27
+72718,Portugal,2020-08-31,others,36,100.0,36
+72742,Portugal,2020-09-14,others,3,100.0,3
+72766,Portugal,2020-10-26,others,1,100.0,1
+72790,Portugal,2020-11-09,others,10,37.03,27
+72814,Portugal,2020-11-23,others,47,12.63,372
+72838,Portugal,2020-12-07,others,7,21.89,32
+72862,Portugal,2020-12-21,others,6,13.64,44
+72886,Portugal,2021-01-04,others,44,14.97,294
+72910,Portugal,2021-01-11,others,30,12.6,238
+72934,Portugal,2021-01-25,others,91,12.34,737
+72958,Portugal,2021-02-08,others,15,7.46,201
+72982,Portugal,2021-02-22,others,94,10.43,901
+73006,Portugal,2021-03-08,others,28,3.8,735
+73030,Portugal,2021-03-22,others,18,4.06,443
+73054,Portugal,2021-04-05,others,1,1.43,70
+73078,Portugal,2021-04-19,others,23,1.46,1586
+73102,Portugal,2021-05-03,others,9,9.18,98
+73126,Portugal,2021-05-17,others,31,2.92,1061
+73150,Portugal,2021-05-31,others,1,0.91,110
+73174,Portugal,2021-06-14,others,9,0.73,1247
+73198,Portugal,2021-06-28,others,2,0.17,1170
+73222,Portugal,2021-07-12,others,1,0.07,1132
+73246,Portugal,2021-07-26,others,2,0.16,1250
+73270,Portugal,2021-08-09,others,0,0.01,955
+73294,Portugal,2021-08-23,others,0,0.0,1002
+73318,Portugal,2021-09-06,others,0,0.0,1110
+73342,Portugal,2021-09-20,others,0,0.0,1093
+73366,Portugal,2021-10-04,others,0,0.0,1041
+73390,Portugal,2021-10-18,others,0,0.0,891
+73414,Portugal,2021-11-01,others,0,0.0,1079
+73438,Portugal,2021-11-15,others,1,0.1,958
+73462,Portugal,2021-11-29,others,0,0.0,1286
+73486,Portugal,2021-12-13,others,0,0.0,916
+73510,Portugal,2021-12-27,others,0,0.0,510
+73534,Qatar,2020-05-11,others,172,100.0,172
+73558,Qatar,2020-05-25,others,175,100.0,175
+73582,Qatar,2020-06-08,others,179,100.0,179
+73606,Qatar,2020-06-22,others,154,100.0,154
+73630,Qatar,2020-07-06,others,97,100.0,97
+73654,Qatar,2020-07-20,others,61,100.0,61
+73678,Qatar,2020-08-03,others,8,100.0,8
+73702,Qatar,2020-08-17,others,90,100.0,90
+73726,Qatar,2020-08-31,others,47,100.0,47
+73750,Qatar,2020-09-14,others,57,100.0,57
+73774,Qatar,2020-09-28,others,12,100.0,12
+73798,Qatar,2020-10-12,others,34,100.0,34
+73822,Qatar,2020-10-26,others,21,100.0,21
+73846,Qatar,2020-11-09,others,14,100.0,14
+73870,Qatar,2020-11-23,others,20,100.0,20
+73894,Qatar,2020-12-07,others,23,100.0,23
+73918,Qatar,2020-12-21,others,2,100.0,2
+73942,Qatar,2021-01-04,others,135,92.48,146
+73966,Qatar,2021-01-11,others,0,0.0,13
+73990,Qatar,2021-01-25,others,11,42.3,26
+74014,Qatar,2021-02-08,others,32,47.06,68
+74038,Qatar,2021-02-22,others,29,30.85,94
+74062,Qatar,2021-03-08,others,10,11.11,90
+74086,Qatar,2021-03-22,others,2,1.65,121
+74110,Qatar,2021-04-05,others,2,2.81,71
+74134,Qatar,2021-04-19,others,4,3.37,119
+74158,Qatar,2021-05-03,others,40,11.42,350
+74182,Qatar,2021-05-17,others,37,18.97,195
+74206,Qatar,2021-05-31,others,14,17.95,78
+74230,Qatar,2021-06-14,others,0,0.0,58
+74254,Qatar,2021-08-09,others,0,0.0,1
+74278,Qatar,2021-08-23,others,0,0.0,520
+74302,Qatar,2021-09-06,others,0,0.0,444
+74326,Qatar,2021-09-20,others,0,0.0,183
+74350,Qatar,2021-10-04,others,0,0.0,84
+74374,Qatar,2021-10-18,others,0,0.0,13
+74398,Qatar,2021-11-01,others,0,0.0,50
+74422,Qatar,2021-11-15,others,0,0.0,75
+74446,Qatar,2021-11-29,others,0,0.0,82
+74470,Romania,2020-05-11,others,32,96.97,33
+74494,Romania,2020-05-25,others,17,94.44,18
+74518,Romania,2020-06-08,others,17,94.44,18
+74542,Romania,2020-06-22,others,15,88.24,17
+74566,Romania,2020-07-06,others,0,0.0,10
+74590,Romania,2020-07-20,others,11,47.83,23
+74614,Romania,2020-08-03,others,24,29.63,81
+74638,Romania,2020-08-17,others,7,46.67,15
+74662,Romania,2020-08-31,others,27,34.18,79
+74686,Romania,2020-09-14,others,23,46.94,49
+74710,Romania,2020-09-28,others,25,39.68,63
+74734,Romania,2020-10-12,others,14,70.0,20
+74758,Romania,2020-10-26,others,16,29.63,54
+74782,Romania,2020-11-09,others,15,17.86,84
+74806,Romania,2020-11-23,others,26,19.12,136
+74830,Romania,2020-12-07,others,72,42.12,171
+74854,Romania,2020-12-21,others,31,30.69,101
+74878,Romania,2021-01-04,others,20,20.84,96
+74902,Romania,2021-01-11,others,16,23.88,67
+74926,Romania,2021-01-25,others,24,26.08,92
+74950,Romania,2021-02-08,others,12,7.14,168
+74974,Romania,2021-02-22,others,7,4.22,166
+74998,Romania,2021-03-08,others,14,5.21,269
+75022,Romania,2021-03-22,others,7,2.69,260
+75046,Romania,2021-04-05,others,6,2.02,297
+75070,Romania,2021-04-19,others,6,3.22,186
+75094,Romania,2021-05-03,others,4,3.05,131
+75118,Romania,2021-05-17,others,2,1.19,167
+75142,Romania,2021-05-31,others,0,0.0,152
+75166,Romania,2021-06-14,others,1,0.84,119
+75190,Romania,2021-06-28,others,0,0.0,72
+75214,Romania,2021-07-12,others,1,1.73,58
+75238,Romania,2021-07-26,others,1,1.03,97
+75262,Romania,2021-08-09,others,1,0.39,262
+75286,Romania,2021-08-23,others,0,0.0,281
+75310,Romania,2021-09-06,others,0,0.0,587
+75334,Romania,2021-09-20,others,0,0.0,1056
+75358,Romania,2021-10-04,others,0,0.0,985
+75382,Romania,2021-10-18,others,0,0.0,884
+75406,Romania,2021-11-01,others,0,0.0,612
+75430,Romania,2021-11-15,others,0,0.0,229
+75454,Romania,2021-11-29,others,0,0.0,132
+75478,Romania,2021-12-13,others,0,0.0,86
+75502,Romania,2021-12-27,others,0,0.0,83
+75526,Russia,2020-05-11,others,65,100.0,65
+75550,Russia,2020-05-25,others,122,100.0,122
+75574,Russia,2020-06-08,others,154,100.0,154
+75598,Russia,2020-06-22,others,63,100.0,63
+75622,Russia,2020-07-06,others,37,100.0,37
+75646,Russia,2020-07-20,others,77,100.0,77
+75670,Russia,2020-08-03,others,53,100.0,53
+75694,Russia,2020-08-17,others,59,100.0,59
+75718,Russia,2020-08-31,others,73,100.0,73
+75742,Russia,2020-09-14,others,134,100.0,134
+75766,Russia,2020-09-28,others,228,100.0,228
+75790,Russia,2020-10-12,others,228,100.0,228
+75814,Russia,2020-10-26,others,104,100.0,104
+75838,Russia,2020-11-09,others,91,100.0,91
+75862,Russia,2020-11-23,others,275,100.0,275
+75886,Russia,2020-12-07,others,145,100.0,145
+75910,Russia,2020-12-21,others,188,100.0,188
+75934,Russia,2021-01-04,others,246,99.6,247
+75958,Russia,2021-01-11,others,47,97.92,48
+75982,Russia,2021-01-25,others,69,93.24,74
+76006,Russia,2021-02-08,others,15,78.95,19
+76030,Russia,2021-02-22,others,285,93.75,304
+76054,Russia,2021-03-08,others,155,79.08,196
+76078,Russia,2021-03-22,others,219,83.27,263
+76102,Russia,2021-04-05,others,138,62.74,220
+76126,Russia,2021-04-19,others,244,77.95,313
+76150,Russia,2021-05-03,others,219,69.96,313
+76174,Russia,2021-05-17,others,146,50.18,291
+76198,Russia,2021-05-31,others,117,22.9,511
+76222,Russia,2021-06-14,others,77,8.52,904
+76246,Russia,2021-06-28,others,16,2.95,543
+76270,Russia,2021-07-12,others,3,0.45,665
+76294,Russia,2021-07-26,others,10,4.67,214
+76318,Russia,2021-08-09,others,14,5.47,256
+76342,Russia,2021-08-23,others,13,5.73,227
+76366,Russia,2021-09-06,others,0,0.0,277
+76390,Russia,2021-09-20,others,1,0.26,380
+76414,Russia,2021-10-04,others,2,0.47,425
+76438,Russia,2021-10-18,others,0,0.0,707
+76462,Russia,2021-11-01,others,0,0.0,913
+76486,Russia,2021-11-15,others,0,0.0,511
+76510,Russia,2021-11-29,others,1,0.32,316
+76534,Russia,2021-12-13,others,0,0.0,151
+76558,Russia,2021-12-27,others,1,0.65,155
+76582,Rwanda,2020-06-08,others,1,100.0,1
+76606,Rwanda,2020-06-22,others,8,100.0,8
+76630,Rwanda,2020-07-20,others,4,100.0,4
+76654,Rwanda,2020-08-03,others,4,100.0,4
+76678,Rwanda,2020-08-17,others,11,100.0,11
+76702,Rwanda,2020-08-31,others,59,100.0,59
+76726,Rwanda,2020-09-14,others,5,100.0,5
+76750,Rwanda,2020-10-26,others,10,100.0,10
+76774,Rwanda,2020-11-09,others,8,100.0,8
+76798,Rwanda,2020-12-07,others,2,100.0,2
+76822,Rwanda,2020-12-21,others,47,100.0,47
+76846,Rwanda,2021-01-04,others,23,92.0,25
+76870,Rwanda,2021-01-11,others,18,94.74,19
+76894,Rwanda,2021-01-25,others,48,85.71,56
+76918,Rwanda,2021-02-08,others,10,47.62,21
+76942,Rwanda,2021-02-22,others,16,76.19,21
+76966,Rwanda,2021-03-08,others,2,20.0,10
+76990,Rwanda,2021-03-22,others,4,100.0,4
+77014,Rwanda,2021-04-05,others,17,80.95,21
+77038,Rwanda,2021-04-19,others,4,66.66,6
+77062,Rwanda,2021-05-03,others,3,60.0,5
+77086,Rwanda,2021-05-17,others,6,75.0,8
+77110,Rwanda,2021-05-31,others,0,0.0,4
+77134,Rwanda,2021-06-14,others,2,33.33,6
+77158,Rwanda,2021-06-28,others,8,6.73,119
+77182,Rwanda,2021-07-12,others,2,3.39,59
+77206,Rwanda,2021-07-26,others,1,4.76,21
+77230,Rwanda,2021-08-09,others,0,0.0,56
+77254,Rwanda,2021-08-23,others,1,8.33,12
+77278,Rwanda,2021-09-06,others,2,5.0,40
+77302,Rwanda,2021-09-20,others,0,0.0,5
+77326,Rwanda,2021-10-04,others,0,0.0,5
+77350,Rwanda,2021-11-01,others,0,0.0,7
+77374,Senegal,2020-06-08,others,13,100.0,13
+77398,Senegal,2020-06-22,others,62,100.0,62
+77422,Senegal,2020-07-06,others,8,100.0,8
+77446,Senegal,2020-07-20,others,12,100.0,12
+77470,Senegal,2020-08-03,others,19,100.0,19
+77494,Senegal,2020-08-17,others,20,100.0,20
+77518,Senegal,2020-08-31,others,5,100.0,5
+77542,Senegal,2020-09-14,others,4,100.0,4
+77566,Senegal,2020-09-28,others,3,100.0,3
+77590,Senegal,2020-10-26,others,1,100.0,1
+77614,Senegal,2020-12-21,others,10,83.33,12
+77638,Senegal,2021-01-04,others,74,89.16,83
+77662,Senegal,2021-01-11,others,48,96.0,50
+77686,Senegal,2021-01-25,others,38,88.37,43
+77710,Senegal,2021-02-08,others,36,97.3,37
+77734,Senegal,2021-02-22,others,5,71.42,7
+77758,Senegal,2021-03-08,others,6,60.0,10
+77782,Senegal,2021-03-22,others,2,40.0,5
+77806,Senegal,2021-04-05,others,3,17.65,17
+77830,Senegal,2021-04-19,others,2,40.0,5
+77854,Senegal,2021-05-03,others,0,0.0,2
+77878,Senegal,2021-05-17,others,2,33.34,6
+77902,Senegal,2021-05-31,others,1,33.33,3
+77926,Senegal,2021-06-14,others,14,28.0,50
+77950,Senegal,2021-06-28,others,0,0.0,1
+77974,Senegal,2021-07-12,others,0,0.0,3
+77998,Senegal,2021-07-26,others,3,6.38,47
+78022,Senegal,2021-08-09,others,10,23.26,43
+78046,Senegal,2021-08-23,others,0,0.0,16
+78070,Senegal,2021-09-06,others,2,8.7,23
+78094,Senegal,2021-09-20,others,0,0.0,1
+78118,Senegal,2021-10-04,others,0,0.0,5
+78142,Senegal,2021-10-18,others,0,0.0,5
+78166,Senegal,2021-11-01,others,0,0.0,17
+78190,Senegal,2021-11-15,others,0,0.0,9
+78214,Senegal,2021-11-29,others,0,0.0,6
+78238,Senegal,2021-12-13,others,0,0.0,22
+78262,Senegal,2021-12-27,others,1,5.0,20
+78286,Serbia,2020-05-11,others,30,100.0,30
+78310,Serbia,2020-05-25,others,8,100.0,8
+78334,Serbia,2020-06-08,others,3,100.0,3
+78358,Serbia,2020-06-22,others,11,100.0,11
+78382,Serbia,2020-07-06,others,13,100.0,13
+78406,Serbia,2020-07-20,others,27,100.0,27
+78430,Serbia,2020-08-03,others,32,100.0,32
+78454,Serbia,2020-08-17,others,21,100.0,21
+78478,Serbia,2020-08-31,others,3,100.0,3
+78502,Serbia,2020-09-14,others,1,100.0,1
+78526,Serbia,2020-09-28,others,12,85.71,14
+78550,Serbia,2020-10-12,others,20,66.67,30
+78574,Serbia,2020-10-26,others,15,83.33,18
+78598,Serbia,2020-11-09,others,7,100.0,7
+78622,Serbia,2020-11-23,others,8,57.14,14
+78646,Serbia,2020-12-07,others,2,33.33,6
+78670,Serbia,2020-12-21,others,6,66.67,9
+78694,Serbia,2021-01-04,others,13,81.25,16
+78718,Serbia,2021-01-11,others,10,71.43,14
+78742,Serbia,2021-01-25,others,5,83.33,6
+78766,Serbia,2021-02-08,others,7,50.01,14
+78790,Serbia,2021-02-22,others,1,8.34,12
+78814,Serbia,2021-03-08,others,1,5.88,17
+78838,Serbia,2021-03-22,others,0,0.0,11
+78862,Serbia,2021-04-05,others,0,0.0,1
+78886,Serbia,2021-04-19,others,0,0.0,8
+78910,Serbia,2021-05-03,others,1,7.14,14
+78934,Serbia,2021-05-17,others,0,0.0,29
+78958,Serbia,2021-05-31,others,0,0.0,18
+78982,Serbia,2021-06-14,others,0,0.0,5
+79006,Serbia,2021-06-28,others,0,0.0,1
+79030,Serbia,2021-07-12,others,0,0.0,15
+79054,Serbia,2021-07-26,others,0,0.0,15
+79078,Serbia,2021-08-09,others,0,0.0,5
+79102,Serbia,2021-08-23,others,0,0.0,2
+79126,Serbia,2021-09-06,others,0,0.0,12
+79150,Serbia,2021-09-20,others,0,0.0,1
+79174,Serbia,2021-10-18,others,0,0.0,14
+79198,Seychelles,2020-07-06,others,2,100.0,2
+79222,Seychelles,2020-09-28,others,1,100.0,1
+79246,Seychelles,2020-10-12,others,1,100.0,1
+79270,Seychelles,2021-01-04,others,1,100.0,1
+79294,Seychelles,2021-01-11,others,4,100.0,4
+79318,Seychelles,2021-02-08,others,0,0.0,2
+79342,Seychelles,2021-02-22,others,0,0.0,1
+79366,Seychelles,2021-04-19,others,0,0.0,1
+79390,Seychelles,2021-05-03,others,0,0.0,3
+79414,Seychelles,2021-05-17,others,0,0.0,2
+79438,Seychelles,2021-05-31,others,1,2.27,44
+79462,Seychelles,2021-06-14,others,0,0.0,54
+79486,Seychelles,2021-06-28,others,0,0.0,15
+79510,Seychelles,2021-07-12,others,0,0.0,4
+79534,Seychelles,2021-07-26,others,0,0.0,10
+79558,Seychelles,2021-08-09,others,0,0.0,23
+79582,Seychelles,2021-08-23,others,0,0.0,97
+79606,Seychelles,2021-09-06,others,0,0.0,57
+79630,Seychelles,2021-09-20,others,0,0.0,83
+79654,Seychelles,2021-10-04,others,0,0.0,59
+79678,Seychelles,2021-10-18,others,1,1.72,58
+79702,Seychelles,2021-11-01,others,0,0.0,21
+79726,Singapore,2020-05-11,others,112,100.0,112
+79750,Singapore,2020-05-25,others,72,100.0,72
+79774,Singapore,2020-06-08,others,61,100.0,61
+79798,Singapore,2020-06-22,others,48,100.0,48
+79822,Singapore,2020-07-06,others,74,100.0,74
+79846,Singapore,2020-07-20,others,73,100.0,73
+79870,Singapore,2020-08-03,others,22,100.0,22
+79894,Singapore,2020-08-17,others,18,100.0,18
+79918,Singapore,2020-08-31,others,28,100.0,28
+79942,Singapore,2020-09-14,others,24,100.0,24
+79966,Singapore,2020-09-28,others,11,100.0,11
+79990,Singapore,2020-10-12,others,25,92.6,27
+80014,Singapore,2020-10-26,others,22,91.67,24
+80038,Singapore,2020-11-09,others,16,69.56,23
+80062,Singapore,2020-11-23,others,25,96.15,26
+80086,Singapore,2020-12-07,others,24,100.0,24
+80110,Singapore,2020-12-21,others,31,86.11,36
+80134,Singapore,2021-01-04,others,54,88.52,61
+80158,Singapore,2021-01-11,others,32,86.49,37
+80182,Singapore,2021-01-25,others,45,67.16,67
+80206,Singapore,2021-02-08,others,49,66.23,74
+80230,Singapore,2021-02-22,others,31,73.81,42
+80254,Singapore,2021-03-08,others,17,54.84,31
+80278,Singapore,2021-03-22,others,15,33.34,45
+80302,Singapore,2021-04-05,others,23,14.02,164
+80326,Singapore,2021-04-19,others,32,17.01,188
+80350,Singapore,2021-05-03,others,12,6.29,191
+80374,Singapore,2021-05-17,others,12,5.46,220
+80398,Singapore,2021-05-31,others,17,5.15,330
+80422,Singapore,2021-06-14,others,3,1.7,178
+80446,Singapore,2021-06-28,others,4,1.85,217
+80470,Singapore,2021-07-12,others,2,2.67,75
+80494,Singapore,2021-07-26,others,1,0.12,836
+80518,Singapore,2021-08-09,others,0,0.0,864
+80542,Singapore,2021-08-23,others,1,0.16,643
+80566,Singapore,2021-09-06,others,0,0.0,1007
+80590,Singapore,2021-09-20,others,0,0.0,700
+80614,Singapore,2021-10-04,others,0,0.0,611
+80638,Singapore,2021-10-18,others,0,0.0,571
+80662,Singapore,2021-11-01,others,0,0.0,537
+80686,Singapore,2021-11-15,others,0,0.0,542
+80710,Singapore,2021-11-29,others,0,0.0,466
+80734,Singapore,2021-12-13,others,1,0.24,424
+80758,Singapore,2021-12-27,others,2,0.4,499
+80782,Sint Maarten (Dutch part),2021-01-25,others,8,80.0,10
+80806,Sint Maarten (Dutch part),2021-02-22,others,3,7.5,40
+80830,Sint Maarten (Dutch part),2021-03-08,others,3,60.0,5
+80854,Sint Maarten (Dutch part),2021-03-22,others,0,0.0,7
+80878,Sint Maarten (Dutch part),2021-04-05,others,0,0.0,40
+80902,Sint Maarten (Dutch part),2021-04-19,others,0,0.0,20
+80926,Sint Maarten (Dutch part),2021-05-03,others,3,9.09,33
+80950,Sint Maarten (Dutch part),2021-05-17,others,2,7.15,28
+80974,Sint Maarten (Dutch part),2021-05-31,others,0,0.0,111
+80998,Sint Maarten (Dutch part),2021-06-14,others,0,0.0,51
+81022,Sint Maarten (Dutch part),2021-06-28,others,0,0.0,68
+81046,Sint Maarten (Dutch part),2021-07-12,others,0,0.0,39
+81070,Sint Maarten (Dutch part),2021-07-26,others,0,0.0,67
+81094,Sint Maarten (Dutch part),2021-08-09,others,0,-0.0,147
+81118,Sint Maarten (Dutch part),2021-08-23,others,0,0.0,425
+81142,Sint Maarten (Dutch part),2021-09-06,others,0,0.01,284
+81166,Sint Maarten (Dutch part),2021-09-20,others,0,-0.01,148
+81190,Sint Maarten (Dutch part),2021-10-04,others,0,0.0,153
+81214,Sint Maarten (Dutch part),2021-10-18,others,0,0.0,34
+81238,Sint Maarten (Dutch part),2021-11-01,others,0,0.0,39
+81262,Sint Maarten (Dutch part),2021-11-15,others,0,0.0,17
+81286,Sint Maarten (Dutch part),2021-11-29,others,0,0.0,20
+81310,Sint Maarten (Dutch part),2021-12-13,others,0,0.0,12
+81334,Slovakia,2020-05-11,others,3,100.0,3
+81358,Slovakia,2020-05-25,others,1,100.0,1
+81382,Slovakia,2020-07-06,others,2,100.0,2
+81406,Slovakia,2020-07-20,others,1,100.0,1
+81430,Slovakia,2020-08-03,others,1,100.0,1
+81454,Slovakia,2020-08-17,others,1,50.0,2
+81478,Slovakia,2020-08-31,others,0,0.0,1
+81502,Slovakia,2020-09-14,others,1,25.0,4
+81526,Slovakia,2020-09-28,others,5,83.33,6
+81550,Slovakia,2020-10-12,others,1,100.0,1
+81574,Slovakia,2020-10-26,others,1,100.0,1
+81598,Slovakia,2020-11-09,others,1,100.0,1
+81622,Slovakia,2020-11-23,others,11,73.33,15
+81646,Slovakia,2020-12-07,others,16,29.09,55
+81670,Slovakia,2020-12-21,others,0,0.0,1
+81694,Slovakia,2021-01-04,others,4,4.17,96
+81718,Slovakia,2021-01-11,others,2,3.84,52
+81742,Slovakia,2021-01-25,others,4,13.34,30
+81766,Slovakia,2021-02-08,others,1,0.85,117
+81790,Slovakia,2021-02-22,others,0,0.01,62
+81814,Slovakia,2021-03-08,others,12,2.74,437
+81838,Slovakia,2021-03-22,others,7,1.21,583
+81862,Slovakia,2021-04-05,others,10,1.52,660
+81886,Slovakia,2021-04-19,others,1,0.17,616
+81910,Slovakia,2021-05-03,others,0,0.0,337
+81934,Slovakia,2021-05-17,others,0,0.0,338
+81958,Slovakia,2021-05-31,others,3,0.44,691
+81982,Slovakia,2021-06-14,others,3,0.5,594
+82006,Slovakia,2021-06-28,others,3,1.2,249
+82030,Slovakia,2021-07-12,others,2,0.83,242
+82054,Slovakia,2021-07-26,others,1,0.37,271
+82078,Slovakia,2021-08-09,others,0,0.0,372
+82102,Slovakia,2021-08-23,others,0,0.0,619
+82126,Slovakia,2021-09-06,others,0,0.0,782
+82150,Slovakia,2021-09-20,others,0,0.0,1205
+82174,Slovakia,2021-10-04,others,0,0.0,845
+82198,Slovakia,2021-10-18,others,0,0.0,1710
+82222,Slovakia,2021-11-01,others,0,0.0,1733
+82246,Slovakia,2021-11-15,others,0,0.0,2290
+82270,Slovakia,2021-11-29,others,0,0.0,1254
+82294,Slovakia,2021-12-13,others,0,0.0,1289
+82318,Slovakia,2021-12-27,others,1,1.26,79
+82342,Slovenia,2020-05-11,others,4,100.0,4
+82366,Slovenia,2020-06-08,others,4,100.0,4
+82390,Slovenia,2020-06-22,others,11,100.0,11
+82414,Slovenia,2020-07-06,others,52,100.0,52
+82438,Slovenia,2020-07-20,others,58,100.0,58
+82462,Slovenia,2020-08-03,others,64,98.46,65
+82486,Slovenia,2020-08-17,others,48,63.16,76
+82510,Slovenia,2020-08-31,others,53,52.48,101
+82534,Slovenia,2020-09-14,others,67,38.07,176
+82558,Slovenia,2020-09-28,others,50,29.76,168
+82582,Slovenia,2020-10-12,others,130,38.12,341
+82606,Slovenia,2020-10-26,others,154,43.39,355
+82630,Slovenia,2020-11-09,others,248,27.91,889
+82654,Slovenia,2020-11-23,others,39,29.77,131
+82678,Slovenia,2020-12-07,others,220,22.74,968
+82702,Slovenia,2020-12-21,others,154,17.34,888
+82726,Slovenia,2021-01-04,others,47,10.64,442
+82750,Slovenia,2021-01-11,others,49,7.46,657
+82774,Slovenia,2021-01-25,others,63,17.4,362
+82798,Slovenia,2021-02-08,others,381,24.16,1577
+82822,Slovenia,2021-02-22,others,119,9.25,1288
+82846,Slovenia,2021-03-08,others,116,7.95,1458
+82870,Slovenia,2021-03-22,others,55,4.22,1303
+82894,Slovenia,2021-04-05,others,48,2.9,1656
+82918,Slovenia,2021-04-19,others,25,1.22,2046
+82942,Slovenia,2021-05-03,others,21,1.06,1979
+82966,Slovenia,2021-05-17,others,7,0.55,1267
+82990,Slovenia,2021-05-31,others,5,0.72,699
+83014,Slovenia,2021-06-14,others,4,0.61,658
+83038,Slovenia,2021-06-28,others,16,4.16,385
+83062,Slovenia,2021-07-12,others,14,2.96,474
+83086,Slovenia,2021-07-26,others,5,0.66,749
+83110,Slovenia,2021-08-09,others,3,0.22,1341
+83134,Slovenia,2021-08-23,others,1,0.05,2022
+83158,Slovenia,2021-09-06,others,0,0.0,2598
+83182,Slovenia,2021-09-20,others,1,0.05,2162
+83206,Slovenia,2021-10-04,others,1,0.05,2328
+83230,Slovenia,2021-10-18,others,0,0.0,2736
+83254,Slovenia,2021-11-01,others,0,0.0,2786
+83278,Slovenia,2021-11-15,others,0,0.0,2276
+83302,Slovenia,2021-11-29,others,0,0.0,2620
+83326,Slovenia,2021-12-13,others,0,0.0,1520
+83350,South Africa,2020-05-11,others,135,100.0,135
+83374,South Africa,2020-05-25,others,93,100.0,93
+83398,South Africa,2020-06-08,others,105,100.0,105
+83422,South Africa,2020-06-22,others,190,100.0,190
+83446,South Africa,2020-07-06,others,290,100.0,290
+83470,South Africa,2020-07-20,others,470,100.0,470
+83494,South Africa,2020-08-03,others,551,100.0,551
+83518,South Africa,2020-08-17,others,220,100.0,220
+83542,South Africa,2020-08-31,others,116,89.92,129
+83566,South Africa,2020-09-14,others,312,87.64,356
+83590,South Africa,2020-09-28,others,162,72.65,223
+83614,South Africa,2020-10-12,others,245,80.59,304
+83638,South Africa,2020-10-26,others,219,61.17,358
+83662,South Africa,2020-11-09,others,227,47.49,478
+83686,South Africa,2020-11-23,others,121,28.95,418
+83710,South Africa,2020-12-07,others,58,11.89,488
+83734,South Africa,2020-12-21,others,29,5.31,546
+83758,South Africa,2021-01-04,others,45,5.15,874
+83782,South Africa,2021-01-11,others,59,8.83,668
+83806,South Africa,2021-01-25,others,22,3.88,566
+83830,South Africa,2021-02-08,others,11,2.8,393
+83854,South Africa,2021-02-22,others,6,2.03,296
+83878,South Africa,2021-03-08,others,5,2.23,225
+83902,South Africa,2021-03-22,others,20,4.47,448
+83926,South Africa,2021-04-05,others,20,6.17,324
+83950,South Africa,2021-04-19,others,18,7.2,250
+83974,South Africa,2021-05-03,others,33,8.46,390
+83998,South Africa,2021-05-17,others,63,11.56,545
+84022,South Africa,2021-05-31,others,55,8.52,646
+84046,South Africa,2021-06-14,others,104,9.44,1101
+84070,South Africa,2021-06-28,others,126,7.58,1661
+84094,South Africa,2021-07-12,others,129,5.8,2226
+84118,South Africa,2021-07-26,others,65,3.9,1667
+84142,South Africa,2021-08-09,others,60,3.76,1601
+84166,South Africa,2021-08-23,others,27,2.18,1242
+84190,South Africa,2021-09-06,others,30,2.36,1269
+84214,South Africa,2021-09-20,others,39,4.22,925
+84238,South Africa,2021-10-04,others,29,5.55,522
+84262,South Africa,2021-10-18,others,28,6.18,453
+84286,South Africa,2021-11-01,others,8,3.83,209
+84310,South Africa,2021-11-15,others,9,7.76,116
+84334,South Africa,2021-11-29,others,15,1.81,829
+84358,South Africa,2021-12-13,others,30,2.67,1121
+84382,South Africa,2021-12-27,others,4,6.15,65
+84406,South Korea,2020-05-11,others,48,100.0,48
+84430,South Korea,2020-05-25,others,64,100.0,64
+84454,South Korea,2020-06-08,others,165,100.0,165
+84478,South Korea,2020-06-22,others,108,100.0,108
+84502,South Korea,2020-07-06,others,159,100.0,159
+84526,South Korea,2020-07-20,others,110,100.0,110
+84550,South Korea,2020-08-03,others,98,100.0,98
+84574,South Korea,2020-08-17,others,123,100.0,123
+84598,South Korea,2020-08-31,others,176,100.0,176
+84622,South Korea,2020-09-14,others,64,100.0,64
+84646,South Korea,2020-09-28,others,60,95.23,63
+84670,South Korea,2020-10-12,others,48,84.21,57
+84694,South Korea,2020-10-26,others,67,79.76,84
+84718,South Korea,2020-11-09,others,72,93.5,77
+84742,South Korea,2020-11-23,others,166,97.08,171
+84766,South Korea,2020-12-07,others,149,93.12,160
+84790,South Korea,2020-12-21,others,168,94.39,178
+84814,South Korea,2021-01-04,others,167,89.32,187
+84838,South Korea,2021-01-11,others,66,91.66,72
+84862,South Korea,2021-01-25,others,117,80.14,146
+84886,South Korea,2021-02-08,others,149,75.63,197
+84910,South Korea,2021-02-22,others,177,73.14,242
+84934,South Korea,2021-03-08,others,215,83.32,258
+84958,South Korea,2021-03-22,others,244,90.03,271
+84982,South Korea,2021-04-05,others,232,71.61,324
+85006,South Korea,2021-04-19,others,287,70.33,408
+85030,South Korea,2021-05-03,others,269,50.74,530
+85054,South Korea,2021-05-17,others,81,36.32,223
+85078,South Korea,2021-05-31,others,101,48.1,210
+85102,South Korea,2021-06-14,others,343,72.52,473
+85126,South Korea,2021-06-28,others,279,48.52,575
+85150,South Korea,2021-07-12,others,265,37.06,715
+85174,South Korea,2021-07-26,others,264,24.87,1062
+85198,South Korea,2021-08-09,others,98,10.21,960
+85222,South Korea,2021-08-23,others,22,2.42,909
+85246,South Korea,2021-09-06,others,9,0.68,1318
+85270,South Korea,2021-09-20,others,5,0.41,1216
+85294,South Korea,2021-10-04,others,1,0.1,943
+85318,South Korea,2021-10-18,others,0,0.0,1137
+85342,South Korea,2021-11-01,others,0,0.0,1562
+85366,South Korea,2021-11-15,others,0,0.0,1574
+85390,South Korea,2021-11-29,others,0,0.0,1368
+85414,South Korea,2021-12-13,others,0,0.0,1620
+85438,South Korea,2021-12-27,others,0,0.0,393
+85462,Spain,2020-05-11,others,180,100.0,180
+85486,Spain,2020-05-25,others,95,100.0,95
+85510,Spain,2020-06-08,others,63,100.0,63
+85534,Spain,2020-06-22,others,66,90.41,73
+85558,Spain,2020-07-06,others,70,50.0,140
+85582,Spain,2020-07-20,others,58,38.92,149
+85606,Spain,2020-08-03,others,55,32.35,170
+85630,Spain,2020-08-17,others,65,25.89,251
+85654,Spain,2020-08-31,others,24,8.54,281
+85678,Spain,2020-09-14,others,35,7.87,444
+85702,Spain,2020-09-28,others,88,18.04,488
+85726,Spain,2020-10-12,others,39,7.61,513
+85750,Spain,2020-10-26,others,34,7.12,478
+85774,Spain,2020-11-09,others,26,7.22,360
+85798,Spain,2020-11-23,others,24,5.87,409
+85822,Spain,2020-12-07,others,25,5.3,471
+85846,Spain,2020-12-21,others,68,7.04,967
+85870,Spain,2021-01-04,others,138,12.59,1095
+85894,Spain,2021-01-11,others,43,6.81,632
+85918,Spain,2021-01-25,others,309,11.79,2620
+85942,Spain,2021-02-08,others,295,9.7,3043
+85966,Spain,2021-02-22,others,310,11.8,2628
+85990,Spain,2021-03-08,others,236,8.81,2674
+86014,Spain,2021-03-22,others,194,7.98,2431
+86038,Spain,2021-04-05,others,122,4.36,2788
+86062,Spain,2021-04-19,others,97,3.29,2957
+86086,Spain,2021-05-03,others,38,1.35,2815
+86110,Spain,2021-05-17,others,58,1.73,3341
+86134,Spain,2021-05-31,others,64,2.43,2613
+86158,Spain,2021-06-14,others,136,4.21,3221
+86182,Spain,2021-06-28,others,107,3.55,3000
+86206,Spain,2021-07-12,others,46,0.78,5987
+86230,Spain,2021-07-26,others,23,0.44,5278
+86254,Spain,2021-08-09,others,19,0.35,5388
+86278,Spain,2021-08-23,others,23,0.63,3647
+86302,Spain,2021-09-06,others,18,0.55,3246
+86326,Spain,2021-09-20,others,4,0.18,2186
+86350,Spain,2021-10-04,others,3,0.2,1510
+86374,Spain,2021-10-18,others,0,0.01,1213
+86398,Spain,2021-11-01,others,0,0.0,1559
+86422,Spain,2021-11-15,others,1,0.06,1713
+86446,Spain,2021-11-29,others,0,0.0,2010
+86470,Spain,2021-12-13,others,1,0.05,2121
+86494,Spain,2021-12-27,others,1,0.1,991
+86518,Sri Lanka,2020-05-11,others,1,100.0,1
+86542,Sri Lanka,2020-06-22,others,1,100.0,1
+86566,Sri Lanka,2020-08-03,others,4,100.0,4
+86590,Sri Lanka,2020-10-12,others,3,100.0,3
+86614,Sri Lanka,2020-10-26,others,11,100.0,11
+86638,Sri Lanka,2020-11-09,others,8,100.0,8
+86662,Sri Lanka,2020-11-23,others,2,100.0,2
+86686,Sri Lanka,2020-12-07,others,6,100.0,6
+86710,Sri Lanka,2020-12-21,others,1,100.0,1
+86734,Sri Lanka,2021-01-04,others,9,90.0,10
+86758,Sri Lanka,2021-01-11,others,3,100.0,3
+86782,Sri Lanka,2021-01-25,others,49,90.74,54
+86806,Sri Lanka,2021-02-08,others,56,81.16,69
+86830,Sri Lanka,2021-02-22,others,50,96.15,52
+86854,Sri Lanka,2021-03-08,others,18,75.0,24
+86878,Sri Lanka,2021-03-22,others,39,81.25,48
+86902,Sri Lanka,2021-04-05,others,8,66.66,12
+86926,Sri Lanka,2021-04-19,others,4,50.0,8
+86950,Sri Lanka,2021-05-03,others,6,9.09,66
+86974,Sri Lanka,2021-05-17,others,4,9.09,44
+86998,Sri Lanka,2021-05-31,others,2,4.65,43
+87022,Sri Lanka,2021-06-14,others,1,1.64,61
+87046,Sri Lanka,2021-06-28,others,6,4.23,142
+87070,Sri Lanka,2021-07-12,others,1,1.4,71
+87094,Sri Lanka,2021-07-26,others,1,1.22,82
+87118,Sri Lanka,2021-08-09,others,1,0.84,118
+87142,Sri Lanka,2021-08-23,others,0,0.0,103
+87166,Sri Lanka,2021-09-06,others,0,0.0,223
+87190,Sri Lanka,2021-09-20,others,0,0.0,143
+87214,Sri Lanka,2021-10-04,others,0,0.0,83
+87238,Sri Lanka,2021-10-18,others,5,2.97,168
+87262,Sri Lanka,2021-11-01,others,0,0.0,106
+87286,Sri Lanka,2021-11-15,others,0,0.0,84
+87310,Sri Lanka,2021-11-29,others,0,0.0,101
+87334,Sri Lanka,2021-12-13,others,0,0.0,197
+87358,Sri Lanka,2021-12-27,others,4,2.1,191
+87382,Sri Lanka,2022-01-05,others,1,9.09,11
+87406,Suriname,2020-05-11,others,1,100.0,1
+87430,Suriname,2020-06-22,others,3,100.0,3
+87454,Suriname,2020-07-06,others,33,100.0,33
+87478,Suriname,2020-07-20,others,24,100.0,24
+87502,Suriname,2020-08-03,others,2,100.0,2
+87526,Suriname,2020-08-17,others,22,100.0,22
+87550,Suriname,2020-08-31,others,3,100.0,3
+87574,Suriname,2020-12-21,others,9,90.0,10
+87598,Suriname,2021-01-04,others,3,49.99,6
+87622,Suriname,2021-01-25,others,14,82.35,17
+87646,Suriname,2021-02-08,others,8,100.0,8
+87670,Suriname,2021-02-22,others,8,88.89,9
+87694,Suriname,2021-03-08,others,25,80.65,31
+87718,Suriname,2021-03-22,others,7,53.85,13
+87742,Suriname,2021-04-05,others,16,28.08,57
+87766,Suriname,2021-04-19,others,12,24.49,49
+87790,Suriname,2021-05-03,others,4,17.39,23
+87814,Suriname,2021-05-17,others,3,6.98,43
+87838,Suriname,2021-05-31,others,2,3.78,53
+87862,Suriname,2021-06-14,others,2,5.41,37
+87886,Suriname,2021-06-28,others,2,4.0,50
+87910,Suriname,2021-07-12,others,3,7.69,39
+87934,Suriname,2021-07-26,others,2,5.72,35
+87958,Suriname,2021-08-09,others,1,2.0,50
+87982,Suriname,2021-08-23,others,0,0.0,43
+88006,Suriname,2021-09-06,others,0,0.0,57
+88030,Suriname,2021-09-20,others,0,0.0,64
+88054,Suriname,2021-10-04,others,0,0.0,31
+88078,Suriname,2021-10-18,others,0,0.0,39
+88102,Suriname,2021-11-01,others,0,0.0,16
+88126,Suriname,2021-11-15,others,0,0.0,23
+88150,Suriname,2021-11-29,others,0,0.0,17
+88174,Suriname,2021-12-13,others,0,0.0,23
+88198,Sweden,2020-05-11,others,52,100.0,52
+88222,Sweden,2020-05-25,others,81,100.0,81
+88246,Sweden,2020-06-08,others,83,100.0,83
+88270,Sweden,2020-06-22,others,36,100.0,36
+88294,Sweden,2020-07-06,others,43,100.0,43
+88318,Sweden,2020-07-20,others,38,95.0,40
+88342,Sweden,2020-08-03,others,12,80.0,15
+88366,Sweden,2020-08-17,others,35,85.36,41
+88390,Sweden,2020-08-31,others,21,48.83,43
+88414,Sweden,2020-09-14,others,11,28.95,38
+88438,Sweden,2020-09-28,others,22,40.75,54
+88462,Sweden,2020-10-12,others,20,44.45,45
+88486,Sweden,2020-10-26,others,18,41.85,43
+88510,Sweden,2020-11-09,others,34,27.2,125
+88534,Sweden,2020-11-23,others,17,16.21,105
+88558,Sweden,2020-12-07,others,29,20.0,145
+88582,Sweden,2020-12-21,others,24,13.79,174
+88606,Sweden,2021-01-04,others,56,10.46,535
+88630,Sweden,2021-01-11,others,19,6.57,289
+88654,Sweden,2021-01-25,others,208,9.43,2203
+88678,Sweden,2021-02-08,others,544,9.79,5546
+88702,Sweden,2021-02-22,others,457,4.91,9307
+88726,Sweden,2021-03-08,others,247,2.18,11288
+88750,Sweden,2021-03-22,others,131,0.97,13397
+88774,Sweden,2021-04-05,others,111,1.07,10365
+88798,Sweden,2021-04-19,others,59,0.79,7416
+88822,Sweden,2021-05-03,others,55,0.82,6766
+88846,Sweden,2021-05-17,others,40,0.57,7046
+88870,Sweden,2021-05-31,others,38,0.72,5268
+88894,Sweden,2021-06-14,others,35,0.91,3876
+88918,Sweden,2021-06-28,others,29,0.87,3329
+88942,Sweden,2021-07-12,others,29,1.31,2229
+88966,Sweden,2021-07-26,others,14,0.41,3358
+88990,Sweden,2021-08-09,others,1,0.02,4585
+89014,Sweden,2021-08-23,others,0,0.0,6148
+89038,Sweden,2021-09-06,others,0,0.0,5028
+89062,Sweden,2021-09-20,others,0,0.0,4183
+89086,Sweden,2021-10-04,others,0,0.0,3358
+89110,Sweden,2021-10-18,others,0,0.0,2824
+89134,Sweden,2021-11-01,others,0,0.0,4604
+89158,Sweden,2021-11-15,others,1,0.02,4812
+89182,Sweden,2021-11-29,others,0,0.0,4120
+89206,Sweden,2021-12-13,others,2,0.06,3572
+89230,Sweden,2021-12-27,others,28,2.26,1239
+89254,Switzerland,2020-05-11,others,106,100.0,106
+89278,Switzerland,2020-05-25,others,23,100.0,23
+89302,Switzerland,2020-06-08,others,27,100.0,27
+89326,Switzerland,2020-06-22,others,25,100.0,25
+89350,Switzerland,2020-07-06,others,89,100.0,89
+89374,Switzerland,2020-07-20,others,168,99.41,169
+89398,Switzerland,2020-08-03,others,130,89.65,145
+89422,Switzerland,2020-08-17,others,125,71.85,174
+89446,Switzerland,2020-08-31,others,153,50.0,306
+89470,Switzerland,2020-09-14,others,97,33.69,288
+89494,Switzerland,2020-09-28,others,26,50.0,52
+89518,Switzerland,2020-10-12,others,193,43.08,448
+89542,Switzerland,2020-10-26,others,316,31.65,998
+89566,Switzerland,2020-11-09,others,426,26.51,1607
+89590,Switzerland,2020-11-23,others,554,32.89,1685
+89614,Switzerland,2020-12-07,others,510,35.89,1421
+89638,Switzerland,2020-12-21,others,707,29.15,2426
+89662,Switzerland,2021-01-04,others,881,27.29,3229
+89686,Switzerland,2021-01-11,others,370,20.73,1785
+89710,Switzerland,2021-01-25,others,869,24.38,3563
+89734,Switzerland,2021-02-08,others,524,17.16,3053
+89758,Switzerland,2021-02-22,others,245,13.48,1819
+89782,Switzerland,2021-03-08,others,169,8.73,1936
+89806,Switzerland,2021-03-22,others,158,6.24,2524
+89830,Switzerland,2021-04-05,others,101,4.0,2521
+89854,Switzerland,2021-04-19,others,114,3.57,3200
+89878,Switzerland,2021-05-03,others,159,3.95,4034
+89902,Switzerland,2021-05-17,others,109,3.81,2882
+89926,Switzerland,2021-05-31,others,93,4.19,2210
+89950,Switzerland,2021-06-14,others,38,3.43,1108
+89974,Switzerland,2021-06-28,others,13,2.72,479
+89998,Switzerland,2021-07-12,others,21,2.2,963
+90022,Switzerland,2021-07-26,others,19,0.65,2932
+90046,Switzerland,2021-08-09,others,60,1.31,4623
+90070,Switzerland,2021-08-23,others,9,0.14,6633
+90094,Switzerland,2021-09-06,others,2,0.05,4379
+90118,Switzerland,2021-09-20,others,0,0.0,4396
+90142,Switzerland,2021-10-04,others,0,0.0,3784
+90166,Switzerland,2021-10-18,others,1,0.03,3230
+90190,Switzerland,2021-11-01,others,6,0.11,5102
+90214,Switzerland,2021-11-15,others,1,0.02,6584
+90238,Switzerland,2021-11-29,others,0,-0.01,6568
+90262,Switzerland,2021-12-13,others,1,0.02,4811
+90286,Switzerland,2021-12-27,others,0,0.0,1330
+90310,Thailand,2020-08-03,others,5,100.0,5
+90334,Thailand,2020-08-31,others,2,100.0,2
+90358,Thailand,2020-09-28,others,2,100.0,2
+90382,Thailand,2020-10-12,others,5,71.42,7
+90406,Thailand,2020-10-26,others,3,42.85,7
+90430,Thailand,2020-11-09,others,5,83.33,6
+90454,Thailand,2020-11-23,others,5,55.56,9
+90478,Thailand,2020-12-07,others,15,83.33,18
+90502,Thailand,2020-12-21,others,75,98.68,76
+90526,Thailand,2021-01-04,others,36,97.3,37
+90550,Thailand,2021-01-11,others,45,95.74,47
+90574,Thailand,2021-01-25,others,30,90.91,33
+90598,Thailand,2021-02-08,others,24,72.73,33
+90622,Thailand,2021-02-22,others,94,87.03,108
+90646,Thailand,2021-03-08,others,20,68.96,29
+90670,Thailand,2021-03-22,others,25,75.76,33
+90694,Thailand,2021-04-05,others,8,27.58,29
+90718,Thailand,2021-04-19,others,9,6.97,129
+90742,Thailand,2021-05-03,others,2,2.02,99
+90766,Thailand,2021-05-17,others,13,2.21,589
+90790,Thailand,2021-05-31,others,22,3.59,613
+90814,Thailand,2021-06-14,others,0,0.01,274
+90838,Thailand,2021-06-28,others,2,0.52,391
+90862,Thailand,2021-07-12,others,0,0.01,208
+90886,Thailand,2021-07-26,others,2,0.34,590
+90910,Thailand,2021-08-09,others,1,0.33,298
+90934,Thailand,2021-08-23,others,0,0.0,310
+90958,Thailand,2021-09-06,others,0,0.01,308
+90982,Thailand,2021-09-20,others,1,0.24,437
+91006,Thailand,2021-10-04,others,0,0.0,807
+91030,Thailand,2021-10-18,others,0,0.0,951
+91054,Thailand,2021-11-01,others,0,0.0,948
+91078,Thailand,2021-11-15,others,0,0.0,586
+91102,Thailand,2021-11-29,others,0,0.0,516
+91126,Thailand,2021-12-13,others,0,0.0,460
+91150,Thailand,2021-12-27,others,0,0.0,23
+91174,Togo,2020-05-25,others,3,100.0,3
+91198,Togo,2020-06-08,others,4,100.0,4
+91222,Togo,2020-07-20,others,2,100.0,2
+91246,Togo,2020-09-28,others,5,100.0,5
+91270,Togo,2020-10-12,others,1,100.0,1
+91294,Togo,2020-11-23,others,1,100.0,1
+91318,Togo,2020-12-07,others,1,100.0,1
+91342,Togo,2020-12-21,others,8,100.0,8
+91366,Togo,2021-01-04,others,5,100.0,5
+91390,Togo,2021-01-25,others,3,50.0,6
+91414,Togo,2021-02-08,others,23,57.5,40
+91438,Togo,2021-02-22,others,11,27.5,40
+91462,Togo,2021-03-08,others,14,38.89,36
+91486,Togo,2021-03-22,others,3,25.0,12
+91510,Togo,2021-04-05,others,2,25.0,8
+91534,Togo,2021-04-19,others,4,28.57,14
+91558,Togo,2021-05-03,others,2,25.0,8
+91582,Togo,2021-06-14,others,9,36.0,25
+91606,Togo,2021-06-28,others,5,18.53,27
+91630,Togo,2021-07-12,others,3,12.5,24
+91654,Togo,2021-07-26,others,1,4.17,24
+91678,Togo,2021-08-09,others,0,0.0,44
+91702,Trinidad and Tobago,2020-06-22,others,1,100.0,1
+91726,Trinidad and Tobago,2020-08-17,others,1,100.0,1
+91750,Trinidad and Tobago,2020-08-31,others,10,100.0,10
+91774,Trinidad and Tobago,2020-09-14,others,5,100.0,5
+91798,Trinidad and Tobago,2020-09-28,others,1,100.0,1
+91822,Trinidad and Tobago,2020-11-09,others,4,100.0,4
+91846,Trinidad and Tobago,2020-11-23,others,1,100.0,1
+91870,Trinidad and Tobago,2020-12-07,others,9,100.0,9
+91894,Trinidad and Tobago,2020-12-21,others,3,100.0,3
+91918,Trinidad and Tobago,2021-01-25,others,0,0.0,1
+91942,Trinidad and Tobago,2021-02-22,others,4,100.0,4
+91966,Trinidad and Tobago,2021-03-08,others,2,100.0,2
+91990,Trinidad and Tobago,2021-03-22,others,6,100.0,6
+92014,Trinidad and Tobago,2021-04-05,others,3,37.5,8
+92038,Trinidad and Tobago,2021-04-19,others,64,91.43,70
+92062,Trinidad and Tobago,2021-05-03,others,88,44.67,197
+92086,Trinidad and Tobago,2021-05-17,others,15,10.56,142
+92110,Trinidad and Tobago,2021-05-31,others,1,3.57,28
+92134,Trinidad and Tobago,2021-06-14,others,0,0.0,23
+92158,Trinidad and Tobago,2021-06-28,others,0,0.0,11
+92182,Trinidad and Tobago,2021-07-12,others,0,0.0,8
+92206,Trinidad and Tobago,2021-07-26,others,0,0.0,12
+92230,Trinidad and Tobago,2021-08-09,others,4,8.0,50
+92254,Trinidad and Tobago,2021-08-23,others,0,0.0,60
+92278,Trinidad and Tobago,2021-09-06,others,1,6.66,15
+92302,Trinidad and Tobago,2021-09-20,others,1,2.0,50
+92326,Trinidad and Tobago,2021-10-04,others,0,0.0,65
+92350,Trinidad and Tobago,2021-10-18,others,0,0.0,124
+92374,Trinidad and Tobago,2021-11-01,others,0,0.0,117
+92398,Trinidad and Tobago,2021-11-15,others,0,0.0,162
+92422,Trinidad and Tobago,2021-11-29,others,2,1.89,106
+92446,Trinidad and Tobago,2021-12-13,others,0,0.0,105
+92470,Trinidad and Tobago,2021-12-27,others,0,0.0,35
+92494,Turkey,2020-05-11,others,95,100.0,95
+92518,Turkey,2020-05-25,others,74,100.0,74
+92542,Turkey,2020-06-08,others,33,100.0,33
+92566,Turkey,2020-06-22,others,21,100.0,21
+92590,Turkey,2020-07-06,others,20,100.0,20
+92614,Turkey,2020-07-20,others,1,100.0,1
+92638,Turkey,2020-08-03,others,10,100.0,10
+92662,Turkey,2020-08-17,others,4,100.0,4
+92686,Turkey,2020-08-31,others,10,100.0,10
+92710,Turkey,2020-09-14,others,11,100.0,11
+92734,Turkey,2020-09-28,others,11,100.0,11
+92758,Turkey,2020-10-12,others,2,100.0,2
+92782,Turkey,2020-10-26,others,2,100.0,2
+92806,Turkey,2020-11-23,others,31,96.88,32
+92830,Turkey,2020-12-07,others,1,100.0,1
+92854,Turkey,2020-12-21,others,23,95.83,24
+92878,Turkey,2021-01-04,others,49,73.13,67
+92902,Turkey,2021-01-11,others,4,33.33,12
+92926,Turkey,2021-01-25,others,74,32.18,230
+92950,Turkey,2021-02-08,others,112,33.43,335
+92974,Turkey,2021-02-22,others,793,71.83,1104
+92998,Turkey,2021-03-08,others,945,83.26,1135
+93022,Turkey,2021-03-22,others,439,44.88,978
+93046,Turkey,2021-04-05,others,1147,83.42,1375
+93070,Turkey,2021-04-19,others,4,19.04,21
+93094,Turkey,2021-05-03,others,137,95.15,144
+93118,Turkey,2021-05-17,others,282,96.58,292
+93142,Turkey,2021-05-31,others,262,90.35,290
+93166,Turkey,2021-06-14,others,86,31.85,270
+93190,Turkey,2021-06-28,others,462,40.43,1143
+93214,Turkey,2021-07-12,others,135,3.34,4053
+93238,Turkey,2021-07-26,others,834,66.18,1260
+93262,Turkey,2021-08-09,others,5670,45.58,12442
+93286,Turkey,2021-08-23,others,4700,14.44,32547
+93310,Turkey,2021-09-06,others,0,0.0,1319
+93334,Turkey,2021-09-20,others,0,0.0,2714
+93358,Turkey,2021-10-04,others,0,0.0,3008
+93382,Turkey,2021-10-18,others,0,0.0,1716
+93406,Turkey,2021-11-01,others,0,0.0,361
+93430,Turkey,2021-11-15,others,0,0.0,2426
+93454,Turkey,2021-11-29,others,1,0.04,2383
+93478,Turkey,2021-12-13,others,0,0.0,2782
+93502,Turkey,2021-12-27,others,3,0.14,2100
+93526,Uganda,2020-05-11,others,27,100.0,27
+93550,Uganda,2020-05-25,others,1,100.0,1
+93574,Uganda,2020-07-06,others,4,100.0,4
+93598,Uganda,2020-07-20,others,2,100.0,2
+93622,Uganda,2020-08-03,others,9,100.0,9
+93646,Uganda,2020-08-17,others,31,100.0,31
+93670,Uganda,2020-08-31,others,27,100.0,27
+93694,Uganda,2020-09-14,others,37,100.0,37
+93718,Uganda,2020-09-28,others,10,100.0,10
+93742,Uganda,2020-10-12,others,8,100.0,8
+93766,Uganda,2020-10-26,others,2,100.0,2
+93790,Uganda,2020-11-09,others,26,100.0,26
+93814,Uganda,2020-11-23,others,29,100.0,29
+93838,Uganda,2020-12-07,others,2,100.0,2
+93862,Uganda,2020-12-21,others,39,100.0,39
+93886,Uganda,2021-01-04,others,59,100.0,59
+93910,Uganda,2021-01-25,others,25,100.0,25
+93934,Uganda,2021-02-08,others,2,100.0,2
+93958,Uganda,2021-02-22,others,6,75.0,8
+93982,Uganda,2021-03-08,others,6,66.67,9
+94006,Uganda,2021-03-22,others,7,70.0,10
+94030,Uganda,2021-04-05,others,7,26.92,26
+94054,Uganda,2021-04-19,others,12,70.59,17
+94078,Uganda,2021-05-03,others,4,36.37,11
+94102,Uganda,2021-05-17,others,2,11.76,17
+94126,Uganda,2021-05-31,others,0,0.0,21
+94150,Uganda,2021-06-14,others,5,2.91,172
+94174,Uganda,2021-06-28,others,6,5.26,114
+94198,Uganda,2021-07-12,others,0,0.0,12
+94222,Uganda,2021-07-26,others,1,6.67,15
+94246,Uganda,2021-08-09,others,1,5.88,17
+94270,Uganda,2021-08-23,others,0,0.0,5
+94294,Uganda,2021-12-13,others,0,0.0,1
+94318,Ukraine,2020-05-11,others,2,100.0,2
+94342,Ukraine,2020-05-25,others,9,100.0,9
+94366,Ukraine,2020-06-08,others,23,100.0,23
+94390,Ukraine,2020-07-06,others,14,100.0,14
+94414,Ukraine,2020-07-20,others,3,100.0,3
+94438,Ukraine,2020-08-03,others,3,100.0,3
+94462,Ukraine,2020-08-17,others,10,100.0,10
+94486,Ukraine,2020-09-28,others,2,100.0,2
+94510,Ukraine,2020-10-12,others,3,100.0,3
+94534,Ukraine,2020-10-26,others,2,100.0,2
+94558,Ukraine,2020-11-23,others,1,100.0,1
+94582,Ukraine,2020-12-07,others,1,100.0,1
+94606,Ukraine,2021-01-04,others,41,91.12,45
+94630,Ukraine,2021-01-11,others,27,100.0,27
+94654,Ukraine,2021-01-25,others,25,100.0,25
+94678,Ukraine,2021-02-22,others,1,16.67,6
+94702,Ukraine,2021-03-08,others,3,11.54,26
+94726,Ukraine,2021-03-22,others,0,0.0,36
+94750,Ukraine,2021-04-05,others,1,50.0,2
+94774,Ukraine,2021-05-17,others,1,25.0,4
+94798,Ukraine,2021-05-31,others,0,0.0,21
+94822,Ukraine,2021-06-14,others,0,0.0,3
+94846,Ukraine,2021-06-28,others,3,6.97,43
+94870,Ukraine,2021-07-12,others,1,3.03,33
+94894,Ukraine,2021-07-26,others,0,0.0,32
+94918,Ukraine,2021-09-06,others,0,0.0,10
+94942,Ukraine,2021-09-20,others,0,0.0,41
+94966,Ukraine,2021-10-04,others,0,0.0,12
+94990,Ukraine,2021-10-18,others,0,0.0,2
+95014,Ukraine,2021-11-01,others,0,0.0,106
+95038,Ukraine,2021-11-15,others,0,0.0,10
+95062,Ukraine,2021-11-29,others,0,0.0,48
+95086,Ukraine,2021-12-13,others,0,0.0,8
+95110,Ukraine,2021-12-27,others,0,0.0,1
+95134,United Arab Emirates,2020-05-11,others,133,100.0,133
+95158,United Arab Emirates,2020-05-25,others,891,100.0,891
+95182,United Arab Emirates,2020-06-08,others,18,100.0,18
+95206,United Arab Emirates,2020-06-22,others,106,100.0,106
+95230,United Arab Emirates,2020-07-06,others,151,100.0,151
+95254,United Arab Emirates,2020-07-20,others,4,100.0,4
+95278,United Arab Emirates,2020-08-17,others,6,100.0,6
+95302,United Arab Emirates,2020-08-31,others,64,98.46,65
+95326,United Arab Emirates,2020-09-14,others,24,100.0,24
+95350,United Arab Emirates,2020-09-28,others,38,97.44,39
+95374,United Arab Emirates,2020-10-12,others,66,95.65,69
+95398,United Arab Emirates,2020-10-26,others,43,76.79,56
+95422,United Arab Emirates,2020-11-09,others,17,80.95,21
+95446,United Arab Emirates,2020-11-23,others,58,86.57,67
+95470,United Arab Emirates,2020-12-07,others,51,89.48,57
+95494,United Arab Emirates,2020-12-21,others,36,90.0,40
+95518,United Arab Emirates,2021-01-04,others,104,67.08,155
+95542,United Arab Emirates,2021-01-11,others,44,55.0,80
+95566,United Arab Emirates,2021-01-25,others,55,38.46,143
+95590,United Arab Emirates,2021-02-08,others,83,25.61,324
+95614,United Arab Emirates,2021-02-22,others,2,14.29,14
+95638,United Arab Emirates,2021-05-03,others,0,0.0,5
+95662,United Arab Emirates,2021-06-14,others,0,0.0,2
+95686,United Arab Emirates,2021-06-28,others,0,0.0,20
+95710,United Kingdom,2020-05-11,others,4753,100.0,4753
+95734,United Kingdom,2020-05-25,others,2767,100.0,2767
+95758,United Kingdom,2020-06-08,others,1761,100.0,1761
+95782,United Kingdom,2020-06-22,others,4716,100.0,4716
+95806,United Kingdom,2020-07-06,others,2284,99.91,2286
+95830,United Kingdom,2020-07-20,others,1073,98.63,1088
+95854,United Kingdom,2020-08-03,others,1150,96.64,1190
+95878,United Kingdom,2020-08-17,others,2086,88.5,2357
+95902,United Kingdom,2020-08-31,others,2550,61.54,4144
+95926,United Kingdom,2020-09-14,others,3209,56.62,5667
+95950,United Kingdom,2020-09-28,others,4429,45.57,9722
+95974,United Kingdom,2020-10-12,others,4147,35.75,11598
+95998,United Kingdom,2020-10-26,others,4651,28.72,16191
+96022,United Kingdom,2020-11-09,others,4125,23.0,17930
+96046,United Kingdom,2020-11-23,others,3340,18.52,18024
+96070,United Kingdom,2020-12-07,others,1144,13.52,8465
+96094,United Kingdom,2020-12-21,others,1516,7.02,21638
+96118,United Kingdom,2021-01-04,others,736,3.9,18777
+96142,United Kingdom,2021-01-11,others,299,2.36,12673
+96166,United Kingdom,2021-01-25,others,491,1.59,30847
+96190,United Kingdom,2021-02-08,others,297,0.9,33472
+96214,United Kingdom,2021-02-22,others,171,0.53,32917
+96238,United Kingdom,2021-03-08,others,276,0.91,30391
+96262,United Kingdom,2021-03-22,others,260,0.74,35371
+96286,United Kingdom,2021-04-05,others,186,0.64,29673
+96310,United Kingdom,2021-04-19,others,152,0.94,15908
+96334,United Kingdom,2021-05-03,others,128,0.89,14275
+96358,United Kingdom,2021-05-17,others,173,1.21,14374
+96382,United Kingdom,2021-05-31,others,95,0.4,23824
+96406,United Kingdom,2021-06-14,others,89,0.24,37317
+96430,United Kingdom,2021-06-28,others,77,0.19,43442
+96454,United Kingdom,2021-07-12,others,23,0.04,56140
+96478,United Kingdom,2021-07-26,others,17,0.04,57203
+96502,United Kingdom,2021-08-09,others,12,0.02,64528
+96526,United Kingdom,2021-08-23,others,10,0.02,63959
+96550,United Kingdom,2021-09-06,others,22,0.03,77119
+96574,United Kingdom,2021-09-20,others,1,0.01,77089
+96598,United Kingdom,2021-10-04,others,48,0.07,75474
+96622,United Kingdom,2021-10-18,others,19,0.03,76720
+96646,United Kingdom,2021-11-01,others,5,0.01,86068
+96670,United Kingdom,2021-11-15,others,9,0.01,96946
+96694,United Kingdom,2021-11-29,others,17,0.02,112772
+96718,United Kingdom,2021-12-13,others,60,0.05,127342
+96742,United Kingdom,2021-12-27,others,103,0.12,80002
+96766,United Kingdom,2022-01-05,others,0,0.0,562
+96790,United States,2020-05-11,others,5804,100.0,5804
+96814,United States,2020-05-25,others,4736,100.0,4736
+96838,United States,2020-06-08,others,4035,100.0,4035
+96862,United States,2020-06-22,others,6070,100.0,6070
+96886,United States,2020-07-06,others,8371,100.0,8371
+96910,United States,2020-07-20,others,10122,100.0,10122
+96934,United States,2020-08-03,others,7800,99.99,7801
+96958,United States,2020-08-17,others,5990,99.96,5992
+96982,United States,2020-08-31,others,4871,99.65,4888
+97006,United States,2020-09-14,others,4334,99.36,4362
+97030,United States,2020-09-28,others,5000,98.48,5077
+97054,United States,2020-10-12,others,5706,98.99,5764
+97078,United States,2020-10-26,others,7412,98.37,7535
+97102,United States,2020-11-09,others,12243,97.64,12540
+97126,United States,2020-11-23,others,13113,96.7,13561
+97150,United States,2020-12-07,others,12419,93.61,13266
+97174,United States,2020-12-21,others,17044,85.48,19936
+97198,United States,2021-01-04,others,17945,84.65,21204
+97222,United States,2021-01-11,others,14203,76.99,18451
+97246,United States,2021-01-25,others,27776,72.53,38293
+97270,United States,2021-02-08,others,21779,62.49,34853
+97294,United States,2021-02-22,others,20568,57.27,35919
+97318,United States,2021-03-08,others,17979,45.02,39935
+97342,United States,2021-03-22,others,16462,31.31,52615
+97366,United States,2021-04-05,others,12035,17.48,68922
+97390,United States,2021-04-19,others,8953,11.09,80542
+97414,United States,2021-05-03,others,5301,7.75,68541
+97438,United States,2021-05-17,others,3594,7.0,51424
+97462,United States,2021-05-31,others,2114,7.33,28913
+97486,United States,2021-06-14,others,1398,6.9,20283
+97510,United States,2021-06-28,others,1147,5.17,22291
+97534,United States,2021-07-12,others,997,2.67,37254
+97558,United States,2021-07-26,others,912,1.13,79713
+97582,United States,2021-08-09,others,953,0.65,146170
+97606,United States,2021-08-23,others,542,0.41,130754
+97630,United States,2021-09-06,others,770,0.56,137159
+97654,United States,2021-09-20,others,705,0.53,134718
+97678,United States,2021-10-04,others,412,0.37,111660
+97702,United States,2021-10-18,others,440,0.4,107920
+97726,United States,2021-11-01,others,415,0.41,104883
+97750,United States,2021-11-15,others,719,0.62,117419
+97774,United States,2021-11-29,others,680,0.68,100281
+97798,United States,2021-12-13,others,202,0.21,102430
+97822,United States,2021-12-27,others,154,0.32,49235
+97846,United States,2022-01-05,others,0,0.0,35
+97870,Uruguay,2020-05-11,others,3,100.0,3
+97894,Uruguay,2020-05-25,others,14,100.0,14
+97918,Uruguay,2020-06-08,others,11,100.0,11
+97942,Uruguay,2020-06-22,others,15,100.0,15
+97966,Uruguay,2020-07-06,others,13,100.0,13
+97990,Uruguay,2020-07-20,others,12,100.0,12
+98014,Uruguay,2020-08-03,others,7,100.0,7
+98038,Uruguay,2020-08-17,others,1,100.0,1
+98062,Uruguay,2020-09-28,others,6,100.0,6
+98086,Uruguay,2020-10-12,others,2,100.0,2
+98110,Uruguay,2020-11-09,others,3,100.0,3
+98134,Uruguay,2020-11-23,others,2,100.0,2
+98158,Uruguay,2020-12-07,others,8,100.0,8
+98182,Uruguay,2020-12-21,others,13,100.0,13
+98206,Uruguay,2021-01-04,others,11,100.0,11
+98230,Uruguay,2021-01-11,others,14,93.33,15
+98254,Uruguay,2021-01-25,others,48,96.0,50
+98278,Uruguay,2021-02-08,others,60,100.0,60
+98302,Uruguay,2021-02-22,others,53,100.0,53
+98326,Uruguay,2021-03-08,others,80,79.21,101
+98350,Uruguay,2021-03-22,others,8,14.04,57
+98374,Uruguay,2021-04-05,others,32,45.72,70
+98398,Uruguay,2021-04-19,others,60,44.77,134
+98422,Uruguay,2021-05-03,others,21,100.0,21
+98446,Vietnam,2021-01-04,others,0,0.0,1
+98470,Vietnam,2021-01-11,others,0,0.0,1
+98494,Vietnam,2021-02-08,others,1,50.0,2
+98518,Vietnam,2021-02-22,others,4,100.0,4
+98542,Vietnam,2021-05-03,others,0,0.0,15
+98566,Vietnam,2021-05-17,others,0,0.0,58
+98590,Vietnam,2021-05-31,others,0,0.0,26
+98614,Vietnam,2021-06-14,others,0,0.0,14
+98638,Vietnam,2021-06-28,others,0,0.0,6
+98662,Vietnam,2021-07-26,others,0,0.0,67
+98686,Vietnam,2021-08-09,others,0,0.0,106
+98710,Vietnam,2021-08-23,others,0,0.0,139
+98734,Vietnam,2021-09-06,others,0,0.0,862
+98758,Vietnam,2021-09-20,others,0,0.0,63
+98782,Vietnam,2021-10-04,others,0,0.0,88
+98806,Vietnam,2021-10-18,others,0,0.0,58
+98830,Vietnam,2021-11-01,others,0,0.0,82
+98854,Vietnam,2021-11-15,others,0,0.0,69
+98878,Vietnam,2021-11-29,others,0,0.0,59
+98902,Vietnam,2021-12-13,others,0,0.0,35
+98926,Vietnam,2021-12-27,others,0,0.0,50
+98950,Zambia,2020-05-11,others,4,100.0,4
+98974,Zambia,2020-06-08,others,21,100.0,21
+98998,Zambia,2020-06-22,others,25,100.0,25
+99022,Zambia,2020-07-06,others,29,100.0,29
+99046,Zambia,2020-07-20,others,62,100.0,62
+99070,Zambia,2020-08-03,others,184,100.0,184
+99094,Zambia,2020-08-17,others,62,98.41,63
+99118,Zambia,2020-08-31,others,35,100.0,35
+99142,Zambia,2020-09-14,others,2,100.0,2
+99166,Zambia,2020-10-12,others,4,100.0,4
+99190,Zambia,2020-10-26,others,1,100.0,1
+99214,Zambia,2020-12-07,others,0,0.0,4
+99238,Zambia,2020-12-21,others,2,20.0,10
+99262,Zambia,2021-01-04,others,1,5.0,20
+99286,Zambia,2021-01-11,others,5,19.23,26
+99310,Zambia,2021-01-25,others,3,7.89,38
+99334,Zambia,2021-02-08,others,3,6.12,49
+99358,Zambia,2021-02-22,others,1,1.31,76
+99382,Zambia,2021-03-08,others,0,0.0,8
+99406,Zambia,2021-03-22,others,0,0.0,5
+99430,Zambia,2021-04-05,others,0,0.0,9
+99454,Zambia,2021-04-19,others,1,50.0,2
+99478,Zambia,2021-05-03,others,3,16.66,18
+99502,Zambia,2021-05-31,others,0,0.0,87
+99526,Zambia,2021-06-14,others,0,0.01,94
+99550,Zambia,2021-06-28,others,0,0.0,22
+99574,Zambia,2021-07-12,others,0,0.0,70
+99598,Zambia,2021-07-26,others,0,0.0,41
+99622,Zambia,2021-08-09,others,0,0.0,17
+99646,Zambia,2021-08-23,others,0,0.0,7
+99670,Zambia,2021-09-06,others,0,0.0,37
+99694,Zambia,2021-09-20,others,0,0.0,1
+99718,Zambia,2021-12-13,others,0,0.0,39
+99742,Zambia,2021-12-27,others,0,0.0,7
+99766,Zimbabwe,2020-05-11,others,35,100.0,35
+99790,Zimbabwe,2020-06-08,others,41,100.0,41
+99814,Zimbabwe,2020-08-03,others,24,100.0,24
+99838,Zimbabwe,2020-08-17,others,5,100.0,5
+99862,Zimbabwe,2020-08-31,others,7,100.0,7
+99886,Zimbabwe,2020-09-14,others,7,87.5,8
+99910,Zimbabwe,2020-10-12,others,5,100.0,5
+99934,Zimbabwe,2020-10-26,others,4,100.0,4
+99958,Zimbabwe,2020-11-09,others,1,100.0,1
+99982,Zimbabwe,2020-11-23,others,0,0.0,1
+100006,Zimbabwe,2020-12-07,others,0,0.0,1
+100030,Zimbabwe,2020-12-21,others,9,32.14,28
+100054,Zimbabwe,2021-01-04,others,38,23.75,160
+100078,Zimbabwe,2021-01-11,others,5,4.39,114
+100102,Zimbabwe,2021-01-25,others,3,5.26,57
+100126,Zimbabwe,2021-02-08,others,0,0.0,37
+100150,Zimbabwe,2021-02-22,others,0,0.0,1
+100174,Zimbabwe,2021-03-08,others,0,0.0,8
+100198,Zimbabwe,2021-06-28,others,0,0.0,3
+100222,Zimbabwe,2021-07-12,others,0,0.0,42
+100246,Zimbabwe,2021-07-26,others,0,0.0,35
+100270,Zimbabwe,2021-08-09,others,1,5.56,18
+100294,Zimbabwe,2021-08-23,others,0,0.0,18
+100318,Zimbabwe,2021-09-06,others,0,0.0,14
+100342,Zimbabwe,2021-09-20,others,0,0.0,6
+100366,Zimbabwe,2021-10-04,others,0,0.0,2
+100390,Zimbabwe,2021-10-18,others,0,0.0,5
+100414,Zimbabwe,2021-11-01,others,0,0.0,6

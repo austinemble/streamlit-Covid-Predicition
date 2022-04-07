@@ -1,0 +1,4185 @@
+,location,date,variant,num_sequences,perc_sequences,num_sequences_total
+19,Angola,2020-07-06,Omicron,0,0.0,3
+43,Angola,2020-08-31,Omicron,0,0.0,1
+67,Angola,2020-09-28,Omicron,0,0.0,10
+91,Angola,2020-10-12,Omicron,0,0.0,29
+115,Angola,2020-10-26,Omicron,0,0.0,7
+139,Angola,2020-12-07,Omicron,0,0.0,6
+163,Angola,2020-12-21,Omicron,0,0.0,93
+187,Angola,2021-01-04,Omicron,0,0.0,5
+211,Angola,2021-01-11,Omicron,0,0.0,16
+235,Angola,2021-01-25,Omicron,0,0.0,52
+259,Angola,2021-02-08,Omicron,0,0.0,42
+283,Angola,2021-02-22,Omicron,0,0.0,39
+307,Angola,2021-03-08,Omicron,0,0.0,113
+331,Angola,2021-03-22,Omicron,0,0.0,121
+355,Angola,2021-04-05,Omicron,0,0.0,137
+379,Angola,2021-04-19,Omicron,0,0.0,83
+403,Angola,2021-05-03,Omicron,0,0.0,34
+427,Angola,2021-05-17,Omicron,0,0.0,5
+451,Angola,2021-05-31,Omicron,0,0.0,7
+475,Angola,2021-06-14,Omicron,0,0.0,22
+499,Angola,2021-06-28,Omicron,0,0.0,59
+523,Angola,2021-07-12,Omicron,0,0.0,46
+547,Angola,2021-07-26,Omicron,0,0.0,10
+571,Angola,2021-08-09,Omicron,0,0.0,4
+595,Angola,2021-08-23,Omicron,0,0.0,1
+619,Angola,2021-09-06,Omicron,0,0.0,20
+643,Angola,2021-09-20,Omicron,0,0.0,57
+667,Angola,2021-10-04,Omicron,0,0.0,33
+691,Argentina,2020-05-11,Omicron,0,0.0,151
+715,Argentina,2020-05-25,Omicron,0,0.0,167
+739,Argentina,2020-06-08,Omicron,0,0.0,67
+763,Argentina,2020-06-22,Omicron,0,0.0,79
+787,Argentina,2020-07-06,Omicron,0,0.0,63
+811,Argentina,2020-07-20,Omicron,0,0.0,113
+835,Argentina,2020-08-03,Omicron,0,0.0,103
+859,Argentina,2020-08-17,Omicron,0,0.0,113
+883,Argentina,2020-08-31,Omicron,0,0.0,138
+907,Argentina,2020-09-14,Omicron,0,0.0,50
+931,Argentina,2020-09-28,Omicron,0,0.0,56
+955,Argentina,2020-10-12,Omicron,0,0.0,39
+979,Argentina,2020-10-26,Omicron,0,0.0,102
+1003,Argentina,2020-11-09,Omicron,0,0.0,58
+1027,Argentina,2020-11-23,Omicron,0,0.0,63
+1051,Argentina,2020-12-07,Omicron,0,0.0,49
+1075,Argentina,2020-12-21,Omicron,0,0.0,71
+1099,Argentina,2021-01-04,Omicron,0,0.0,49
+1123,Argentina,2021-01-11,Omicron,0,0.0,33
+1147,Argentina,2021-01-25,Omicron,0,0.0,62
+1171,Argentina,2021-02-08,Omicron,0,0.0,69
+1195,Argentina,2021-02-22,Omicron,0,0.0,57
+1219,Argentina,2021-03-08,Omicron,0,0.0,65
+1243,Argentina,2021-03-22,Omicron,0,0.0,177
+1267,Argentina,2021-04-05,Omicron,0,0.0,196
+1291,Argentina,2021-04-19,Omicron,0,0.0,298
+1315,Argentina,2021-05-03,Omicron,0,0.0,337
+1339,Argentina,2021-05-17,Omicron,0,0.0,338
+1363,Argentina,2021-05-31,Omicron,0,0.0,301
+1387,Argentina,2021-06-14,Omicron,0,0.0,407
+1411,Argentina,2021-06-28,Omicron,0,0.0,380
+1435,Argentina,2021-07-12,Omicron,0,0.0,356
+1459,Argentina,2021-07-26,Omicron,0,0.0,336
+1483,Argentina,2021-08-09,Omicron,0,0.0,480
+1507,Argentina,2021-08-23,Omicron,0,0.0,447
+1531,Argentina,2021-09-06,Omicron,0,0.0,447
+1555,Argentina,2021-09-20,Omicron,0,0.0,313
+1579,Argentina,2021-10-04,Omicron,0,0.0,237
+1603,Argentina,2021-10-18,Omicron,0,0.0,361
+1627,Argentina,2021-11-01,Omicron,0,0.0,553
+1651,Argentina,2021-11-15,Omicron,0,0.0,332
+1675,Argentina,2021-11-29,Omicron,0,0.0,117
+1699,Argentina,2021-12-13,Omicron,13,14.94,87
+1723,Argentina,2021-12-27,Omicron,80,85.11,94
+1747,Aruba,2020-08-17,Omicron,0,0.0,4
+1771,Aruba,2020-08-31,Omicron,0,0.0,1
+1795,Aruba,2021-01-25,Omicron,0,0.0,26
+1819,Aruba,2021-02-08,Omicron,0,0.0,114
+1843,Aruba,2021-02-22,Omicron,0,0.0,154
+1867,Aruba,2021-03-08,Omicron,0,0.0,125
+1891,Aruba,2021-03-22,Omicron,0,0.0,99
+1915,Aruba,2021-04-05,Omicron,0,0.0,92
+1939,Aruba,2021-04-19,Omicron,0,0.0,145
+1963,Aruba,2021-05-03,Omicron,0,0.0,140
+1987,Aruba,2021-05-17,Omicron,0,0.0,101
+2011,Aruba,2021-05-31,Omicron,0,0.0,107
+2035,Aruba,2021-06-14,Omicron,0,0.0,89
+2059,Aruba,2021-06-28,Omicron,0,0.0,24
+2083,Aruba,2021-07-12,Omicron,0,0.0,29
+2107,Aruba,2021-07-26,Omicron,0,0.0,97
+2131,Aruba,2021-08-09,Omicron,0,0.0,341
+2155,Aruba,2021-08-23,Omicron,0,0.0,525
+2179,Aruba,2021-09-06,Omicron,0,0.0,261
+2203,Aruba,2021-09-20,Omicron,0,0.0,140
+2227,Aruba,2021-10-04,Omicron,0,0.0,177
+2251,Aruba,2021-10-18,Omicron,0,0.0,37
+2275,Aruba,2021-11-15,Omicron,0,0.0,68
+2299,Aruba,2021-11-29,Omicron,0,0.0,43
+2323,Aruba,2021-12-13,Omicron,0,0.0,61
+2347,Australia,2020-05-11,Omicron,0,0.0,148
+2371,Australia,2020-05-25,Omicron,0,0.0,103
+2395,Australia,2020-06-08,Omicron,0,0.0,94
+2419,Australia,2020-06-22,Omicron,0,0.0,172
+2443,Australia,2020-07-06,Omicron,0,0.0,814
+2467,Australia,2020-07-20,Omicron,0,0.0,2733
+2491,Australia,2020-08-03,Omicron,0,0.0,4183
+2515,Australia,2020-08-17,Omicron,0,0.0,3020
+2539,Australia,2020-08-31,Omicron,0,0.0,1987
+2563,Australia,2020-09-14,Omicron,0,0.0,770
+2587,Australia,2020-09-28,Omicron,0,0.0,323
+2611,Australia,2020-10-12,Omicron,0,0.0,182
+2635,Australia,2020-10-26,Omicron,0,0.0,132
+2659,Australia,2020-11-09,Omicron,0,0.0,63
+2683,Australia,2020-11-23,Omicron,0,0.0,64
+2707,Australia,2020-12-07,Omicron,0,0.0,49
+2731,Australia,2020-12-21,Omicron,0,0.0,142
+2755,Australia,2021-01-04,Omicron,0,0.0,208
+2779,Australia,2021-01-11,Omicron,0,0.0,74
+2803,Australia,2021-01-25,Omicron,0,0.0,100
+2827,Australia,2021-02-08,Omicron,0,0.0,53
+2851,Australia,2021-02-22,Omicron,0,0.0,80
+2875,Australia,2021-03-08,Omicron,0,0.0,71
+2899,Australia,2021-03-22,Omicron,0,0.0,122
+2923,Australia,2021-04-05,Omicron,0,0.0,123
+2947,Australia,2021-04-19,Omicron,0,0.0,157
+2971,Australia,2021-05-03,Omicron,0,0.0,204
+2995,Australia,2021-05-17,Omicron,0,0.0,117
+3019,Australia,2021-05-31,Omicron,0,0.0,108
+3043,Australia,2021-06-14,Omicron,0,0.0,132
+3067,Australia,2021-06-28,Omicron,0,0.0,247
+3091,Australia,2021-07-12,Omicron,0,0.0,767
+3115,Australia,2021-07-26,Omicron,0,0.0,1742
+3139,Australia,2021-08-09,Omicron,0,0.0,2734
+3163,Australia,2021-08-23,Omicron,0,0.0,3198
+3187,Australia,2021-09-06,Omicron,0,0.0,3744
+3211,Australia,2021-09-20,Omicron,0,0.0,3526
+3235,Australia,2021-10-04,Omicron,0,0.0,1824
+3259,Australia,2021-10-18,Omicron,0,0.0,2410
+3283,Australia,2021-11-01,Omicron,0,0.0,1883
+3307,Australia,2021-11-15,Omicron,0,0.0,2078
+3331,Australia,2021-11-29,Omicron,8,0.4,1992
+3355,Australia,2021-12-13,Omicron,366,13.07,2800
+3379,Australia,2021-12-27,Omicron,1319,76.42,1726
+3403,Austria,2020-05-11,Omicron,0,0.0,34
+3427,Austria,2020-05-25,Omicron,0,0.0,41
+3451,Austria,2020-06-08,Omicron,0,0.0,1
+3475,Austria,2020-06-22,Omicron,0,0.0,1
+3499,Austria,2020-07-06,Omicron,0,0.0,2
+3523,Austria,2020-07-20,Omicron,0,0.0,11
+3547,Austria,2020-08-03,Omicron,0,0.0,9
+3571,Austria,2020-08-17,Omicron,0,0.0,22
+3595,Austria,2020-08-31,Omicron,0,0.0,44
+3619,Austria,2020-09-14,Omicron,0,0.0,35
+3643,Austria,2020-09-28,Omicron,0,0.0,39
+3667,Austria,2020-10-12,Omicron,0,0.0,30
+3691,Austria,2020-10-26,Omicron,0,0.0,84
+3715,Austria,2020-11-09,Omicron,0,0.0,181
+3739,Austria,2020-11-23,Omicron,0,0.0,159
+3763,Austria,2020-12-07,Omicron,0,0.0,137
+3787,Austria,2020-12-21,Omicron,0,0.0,45
+3811,Austria,2021-01-04,Omicron,0,0.0,315
+3835,Austria,2021-01-11,Omicron,0,0.0,136
+3859,Austria,2021-01-25,Omicron,0,0.0,250
+3883,Austria,2021-02-08,Omicron,0,0.0,385
+3907,Austria,2021-02-22,Omicron,0,0.0,415
+3931,Austria,2021-03-08,Omicron,0,0.0,464
+3955,Austria,2021-03-22,Omicron,0,0.0,567
+3979,Austria,2021-04-05,Omicron,0,0.0,291
+4003,Austria,2021-04-19,Omicron,0,0.0,353
+4027,Austria,2021-05-03,Omicron,0,0.0,329
+4051,Austria,2021-05-17,Omicron,0,0.0,619
+4075,Austria,2021-05-31,Omicron,0,0.0,389
+4099,Austria,2021-06-14,Omicron,0,0.0,398
+4123,Austria,2021-06-28,Omicron,0,0.0,750
+4147,Austria,2021-07-12,Omicron,0,0.0,505
+4171,Austria,2021-07-26,Omicron,0,0.0,771
+4195,Austria,2021-08-09,Omicron,0,0.0,623
+4219,Austria,2021-08-23,Omicron,0,0.0,623
+4243,Austria,2021-09-06,Omicron,0,0.0,585
+4267,Austria,2021-09-20,Omicron,0,0.0,513
+4291,Austria,2021-10-04,Omicron,0,0.0,444
+4315,Austria,2021-10-18,Omicron,0,0.0,437
+4339,Austria,2021-11-01,Omicron,0,0.0,634
+4363,Austria,2021-11-15,Omicron,0,0.0,561
+4387,Austria,2021-11-29,Omicron,7,4.24,165
+4411,Austria,2021-12-13,Omicron,27,14.75,183
+4435,Bahrain,2020-06-08,Omicron,0,0.0,1
+4459,Bahrain,2020-06-22,Omicron,0,0.0,2
+4483,Bahrain,2020-07-06,Omicron,0,0.0,11
+4507,Bahrain,2020-08-03,Omicron,0,0.0,3
+4531,Bahrain,2020-08-31,Omicron,0,0.0,3
+4555,Bahrain,2020-09-14,Omicron,0,0.0,2
+4579,Bahrain,2020-09-28,Omicron,0,0.0,2
+4603,Bahrain,2020-10-12,Omicron,0,0.0,10
+4627,Bahrain,2020-10-26,Omicron,0,0.0,45
+4651,Bahrain,2020-11-09,Omicron,0,0.0,6
+4675,Bahrain,2020-11-23,Omicron,0,0.0,38
+4699,Bahrain,2021-02-08,Omicron,0,0.0,1
+4723,Bahrain,2021-02-22,Omicron,0,0.0,2
+4747,Bahrain,2021-03-22,Omicron,0,0.0,7
+4771,Bahrain,2021-04-05,Omicron,0,0.0,2
+4795,Bahrain,2021-04-19,Omicron,0,0.0,42
+4819,Bahrain,2021-05-03,Omicron,0,0.0,9
+4843,Bahrain,2021-05-17,Omicron,0,0.0,57
+4867,Bahrain,2021-05-31,Omicron,0,0.0,46
+4891,Bahrain,2021-06-14,Omicron,0,0.0,24
+4915,Bahrain,2021-06-28,Omicron,0,0.0,84
+4939,Bahrain,2021-07-12,Omicron,0,0.0,69
+4963,Bahrain,2021-07-26,Omicron,0,0.0,106
+4987,Bahrain,2021-08-09,Omicron,0,0.0,48
+5011,Bahrain,2021-09-06,Omicron,0,0.0,227
+5035,Bahrain,2021-10-04,Omicron,0,0.0,186
+5059,Bahrain,2021-10-18,Omicron,0,0.0,372
+5083,Bahrain,2021-11-01,Omicron,0,0.0,467
+5107,Bahrain,2021-11-15,Omicron,0,0.0,370
+5131,Bangladesh,2020-05-11,Omicron,0,0.0,124
+5155,Bangladesh,2020-05-25,Omicron,0,0.0,168
+5179,Bangladesh,2020-06-08,Omicron,0,0.0,69
+5203,Bangladesh,2020-06-22,Omicron,0,0.0,111
+5227,Bangladesh,2020-07-06,Omicron,0,0.0,175
+5251,Bangladesh,2020-07-20,Omicron,0,0.0,139
+5275,Bangladesh,2020-08-03,Omicron,0,0.0,66
+5299,Bangladesh,2020-08-17,Omicron,0,0.0,26
+5323,Bangladesh,2020-08-31,Omicron,0,0.0,25
+5347,Bangladesh,2020-09-14,Omicron,0,0.0,35
+5371,Bangladesh,2020-09-28,Omicron,0,0.0,8
+5395,Bangladesh,2020-10-12,Omicron,0,0.0,20
+5419,Bangladesh,2020-10-26,Omicron,0,0.0,15
+5443,Bangladesh,2020-11-09,Omicron,0,0.0,27
+5467,Bangladesh,2020-11-23,Omicron,0,0.0,30
+5491,Bangladesh,2020-12-07,Omicron,0,0.0,57
+5515,Bangladesh,2020-12-21,Omicron,0,0.0,25
+5539,Bangladesh,2021-01-04,Omicron,0,0.0,53
+5563,Bangladesh,2021-01-11,Omicron,0,0.0,15
+5587,Bangladesh,2021-01-25,Omicron,0,0.0,62
+5611,Bangladesh,2021-02-08,Omicron,0,0.0,42
+5635,Bangladesh,2021-02-22,Omicron,0,0.0,36
+5659,Bangladesh,2021-03-08,Omicron,0,0.0,14
+5683,Bangladesh,2021-03-22,Omicron,0,0.0,156
+5707,Bangladesh,2021-04-05,Omicron,0,0.0,87
+5731,Bangladesh,2021-04-19,Omicron,0,0.0,131
+5755,Bangladesh,2021-05-03,Omicron,0,0.0,56
+5779,Bangladesh,2021-05-17,Omicron,0,0.0,58
+5803,Bangladesh,2021-05-31,Omicron,0,0.0,99
+5827,Bangladesh,2021-06-14,Omicron,0,0.0,69
+5851,Bangladesh,2021-06-28,Omicron,0,0.0,112
+5875,Bangladesh,2021-07-12,Omicron,0,0.0,244
+5899,Bangladesh,2021-07-26,Omicron,0,0.0,174
+5923,Bangladesh,2021-08-09,Omicron,0,0.0,149
+5947,Bangladesh,2021-08-23,Omicron,0,0.0,140
+5971,Bangladesh,2021-09-06,Omicron,0,0.0,131
+5995,Bangladesh,2021-09-20,Omicron,0,0.0,126
+6019,Bangladesh,2021-10-04,Omicron,0,0.0,94
+6043,Bangladesh,2021-10-18,Omicron,0,0.0,136
+6067,Bangladesh,2021-11-01,Omicron,0,0.0,94
+6091,Bangladesh,2021-11-15,Omicron,0,0.0,118
+6115,Bangladesh,2021-11-29,Omicron,0,0.0,112
+6139,Bangladesh,2021-12-13,Omicron,3,6.67,45
+6163,Bangladesh,2021-12-27,Omicron,4,16.67,24
+6187,Bangladesh,2022-01-05,Omicron,3,100.0,3
+6211,Belgium,2020-05-11,Omicron,0,0.0,134
+6235,Belgium,2020-05-25,Omicron,0,0.0,67
+6259,Belgium,2020-06-08,Omicron,0,0.0,15
+6283,Belgium,2020-06-22,Omicron,0,0.0,38
+6307,Belgium,2020-07-06,Omicron,0,0.0,39
+6331,Belgium,2020-07-20,Omicron,0,0.0,39
+6355,Belgium,2020-08-03,Omicron,0,0.0,146
+6379,Belgium,2020-08-17,Omicron,0,0.0,130
+6403,Belgium,2020-08-31,Omicron,0,0.0,54
+6427,Belgium,2020-09-14,Omicron,0,0.0,87
+6451,Belgium,2020-09-28,Omicron,0,0.0,246
+6475,Belgium,2020-10-12,Omicron,0,0.0,130
+6499,Belgium,2020-10-26,Omicron,0,0.0,363
+6523,Belgium,2020-11-09,Omicron,0,0.0,204
+6547,Belgium,2020-11-23,Omicron,0,0.0,241
+6571,Belgium,2020-12-07,Omicron,0,0.0,148
+6595,Belgium,2020-12-21,Omicron,0,0.0,347
+6619,Belgium,2021-01-04,Omicron,0,0.0,242
+6643,Belgium,2021-01-11,Omicron,0,0.0,293
+6667,Belgium,2021-01-25,Omicron,0,0.0,1378
+6691,Belgium,2021-02-08,Omicron,0,0.0,1820
+6715,Belgium,2021-02-22,Omicron,0,0.0,1808
+6739,Belgium,2021-03-08,Omicron,0,0.0,2237
+6763,Belgium,2021-03-22,Omicron,0,0.0,2935
+6787,Belgium,2021-04-05,Omicron,0,0.0,3438
+6811,Belgium,2021-04-19,Omicron,0,0.0,2911
+6835,Belgium,2021-05-03,Omicron,0,0.0,3338
+6859,Belgium,2021-05-17,Omicron,0,0.0,3108
+6883,Belgium,2021-05-31,Omicron,0,0.0,2952
+6907,Belgium,2021-06-14,Omicron,0,0.0,1995
+6931,Belgium,2021-06-28,Omicron,0,0.0,1181
+6955,Belgium,2021-07-12,Omicron,0,0.0,2640
+6979,Belgium,2021-07-26,Omicron,0,0.0,3960
+7003,Belgium,2021-08-09,Omicron,0,0.0,4006
+7027,Belgium,2021-08-23,Omicron,0,0.0,4534
+7051,Belgium,2021-09-06,Omicron,0,0.0,4495
+7075,Belgium,2021-09-20,Omicron,0,0.0,3113
+7099,Belgium,2021-10-04,Omicron,0,0.0,2926
+7123,Belgium,2021-10-18,Omicron,0,0.0,3315
+7147,Belgium,2021-11-01,Omicron,0,0.0,3530
+7171,Belgium,2021-11-15,Omicron,0,0.0,2729
+7195,Belgium,2021-11-29,Omicron,5,0.16,3076
+7219,Belgium,2021-12-13,Omicron,290,9.39,3087
+7243,Belgium,2021-12-27,Omicron,464,31.08,1493
+7267,Belgium,2022-01-05,Omicron,30,50.85,59
+7291,Belize,2020-08-17,Omicron,0,0.0,4
+7315,Belize,2020-08-31,Omicron,0,0.0,1
+7339,Belize,2020-09-28,Omicron,0,0.0,2
+7363,Belize,2020-10-12,Omicron,0,0.0,4
+7387,Belize,2020-10-26,Omicron,0,0.0,6
+7411,Belize,2020-11-09,Omicron,0,0.0,1
+7435,Belize,2020-12-21,Omicron,0,0.0,7
+7459,Belize,2021-01-04,Omicron,0,0.0,14
+7483,Belize,2021-01-11,Omicron,0,0.0,7
+7507,Belize,2021-01-25,Omicron,0,0.0,16
+7531,Belize,2021-02-08,Omicron,0,0.0,26
+7555,Belize,2021-02-22,Omicron,0,0.0,11
+7579,Belize,2021-03-08,Omicron,0,0.0,3
+7603,Belize,2021-03-22,Omicron,0,0.0,2
+7627,Belize,2021-04-19,Omicron,0,0.0,3
+7651,Belize,2021-05-03,Omicron,0,0.0,1
+7675,Belize,2021-05-17,Omicron,0,0.0,15
+7699,Belize,2021-05-31,Omicron,0,0.0,3
+7723,Belize,2021-06-14,Omicron,0,0.0,1
+7747,Belize,2021-06-28,Omicron,0,0.0,32
+7771,Belize,2021-07-12,Omicron,0,0.0,18
+7795,Belize,2021-07-26,Omicron,0,0.0,58
+7819,Belize,2021-08-09,Omicron,0,0.0,63
+7843,Belize,2021-08-23,Omicron,0,0.0,16
+7867,Benin,2021-02-08,Omicron,0,0.0,109
+7891,Benin,2021-03-08,Omicron,0,0.0,121
+7915,Benin,2021-04-05,Omicron,0,0.0,176
+7939,Benin,2021-04-19,Omicron,0,0.0,8
+7963,Benin,2021-05-03,Omicron,0,0.0,25
+7987,Benin,2021-05-17,Omicron,0,0.0,32
+8011,Benin,2021-05-31,Omicron,0,0.0,27
+8035,Benin,2021-06-14,Omicron,0,0.0,9
+8059,Benin,2021-06-28,Omicron,0,0.0,14
+8083,Benin,2021-07-12,Omicron,0,0.0,28
+8107,Benin,2021-07-26,Omicron,0,0.0,36
+8131,Benin,2021-08-09,Omicron,0,0.0,34
+8155,Benin,2021-08-23,Omicron,0,0.0,74
+8179,Benin,2021-09-06,Omicron,0,0.0,57
+8203,Bosnia and Herzegovina,2020-05-11,Omicron,0,0.0,1
+8227,Bosnia and Herzegovina,2020-06-08,Omicron,0,0.0,2
+8251,Bosnia and Herzegovina,2020-07-20,Omicron,0,0.0,1
+8275,Bosnia and Herzegovina,2020-08-31,Omicron,0,0.0,1
+8299,Bosnia and Herzegovina,2020-09-14,Omicron,0,0.0,1
+8323,Bosnia and Herzegovina,2020-09-28,Omicron,0,0.0,1
+8347,Bosnia and Herzegovina,2020-10-12,Omicron,0,0.0,1
+8371,Bosnia and Herzegovina,2020-11-09,Omicron,0,0.0,2
+8395,Bosnia and Herzegovina,2020-11-23,Omicron,0,0.0,2
+8419,Bosnia and Herzegovina,2020-12-07,Omicron,0,0.0,3
+8443,Bosnia and Herzegovina,2020-12-21,Omicron,0,0.0,1
+8467,Bosnia and Herzegovina,2021-01-04,Omicron,0,0.0,2
+8491,Bosnia and Herzegovina,2021-01-11,Omicron,0,0.0,5
+8515,Bosnia and Herzegovina,2021-01-25,Omicron,0,0.0,12
+8539,Bosnia and Herzegovina,2021-02-08,Omicron,0,0.0,5
+8563,Bosnia and Herzegovina,2021-02-22,Omicron,0,0.0,11
+8587,Bosnia and Herzegovina,2021-03-08,Omicron,0,0.0,16
+8611,Bosnia and Herzegovina,2021-03-22,Omicron,0,0.0,9
+8635,Bosnia and Herzegovina,2021-04-05,Omicron,0,0.0,3
+8659,Bosnia and Herzegovina,2021-04-19,Omicron,0,0.0,17
+8683,Bosnia and Herzegovina,2021-05-17,Omicron,0,0.0,2
+8707,Bosnia and Herzegovina,2021-05-31,Omicron,0,0.0,1
+8731,Bosnia and Herzegovina,2021-06-14,Omicron,0,0.0,23
+8755,Bosnia and Herzegovina,2021-06-28,Omicron,0,0.0,16
+8779,Bosnia and Herzegovina,2021-07-12,Omicron,0,0.0,21
+8803,Bosnia and Herzegovina,2021-07-26,Omicron,0,0.0,12
+8827,Bosnia and Herzegovina,2021-08-09,Omicron,0,0.0,9
+8851,Bosnia and Herzegovina,2021-08-23,Omicron,0,0.0,7
+8875,Bosnia and Herzegovina,2021-09-06,Omicron,0,0.0,1
+8899,Bosnia and Herzegovina,2021-09-20,Omicron,0,0.0,2
+8923,Bosnia and Herzegovina,2021-10-04,Omicron,0,0.0,42
+8947,Bosnia and Herzegovina,2021-10-18,Omicron,0,0.0,184
+8971,Bosnia and Herzegovina,2021-11-01,Omicron,0,0.0,124
+8995,Bosnia and Herzegovina,2021-11-15,Omicron,0,0.0,164
+9019,Bosnia and Herzegovina,2021-11-29,Omicron,0,0.0,123
+9043,Bosnia and Herzegovina,2021-12-13,Omicron,0,0.0,165
+9067,Botswana,2020-09-14,Omicron,0,0.0,1
+9091,Botswana,2020-09-28,Omicron,0,0.0,10
+9115,Botswana,2020-10-12,Omicron,0,0.0,6
+9139,Botswana,2020-10-26,Omicron,0,0.0,6
+9163,Botswana,2020-11-09,Omicron,0,0.0,6
+9187,Botswana,2020-11-23,Omicron,0,0.0,8
+9211,Botswana,2020-12-07,Omicron,0,0.0,10
+9235,Botswana,2020-12-21,Omicron,0,0.0,17
+9259,Botswana,2021-01-04,Omicron,0,0.0,13
+9283,Botswana,2021-01-11,Omicron,0,0.0,6
+9307,Botswana,2021-01-25,Omicron,0,0.0,66
+9331,Botswana,2021-02-08,Omicron,0,0.0,29
+9355,Botswana,2021-02-22,Omicron,0,0.0,10
+9379,Botswana,2021-03-08,Omicron,0,0.0,11
+9403,Botswana,2021-03-22,Omicron,0,0.0,64
+9427,Botswana,2021-04-05,Omicron,0,0.0,7
+9451,Botswana,2021-05-03,Omicron,0,0.0,7
+9475,Botswana,2021-05-17,Omicron,0,0.0,19
+9499,Botswana,2021-05-31,Omicron,0,0.0,48
+9523,Botswana,2021-06-14,Omicron,0,0.0,102
+9547,Botswana,2021-06-28,Omicron,0,0.0,196
+9571,Botswana,2021-07-12,Omicron,0,0.0,106
+9595,Botswana,2021-07-26,Omicron,0,0.0,68
+9619,Botswana,2021-08-09,Omicron,0,0.0,38
+9643,Botswana,2021-08-23,Omicron,0,0.0,82
+9667,Botswana,2021-09-06,Omicron,0,0.0,294
+9691,Botswana,2021-09-20,Omicron,0,0.0,112
+9715,Botswana,2021-10-04,Omicron,0,0.0,58
+9739,Botswana,2021-10-18,Omicron,0,0.0,92
+9763,Botswana,2021-11-01,Omicron,0,0.0,53
+9787,Botswana,2021-11-15,Omicron,6,5.17,116
+9811,Botswana,2021-11-29,Omicron,25,20.16,124
+9835,Botswana,2021-12-13,Omicron,207,76.1,272
+9859,Botswana,2021-12-27,Omicron,142,99.3,143
+9883,Brazil,2020-05-11,Omicron,0,0.0,311
+9907,Brazil,2020-05-25,Omicron,0,0.0,183
+9931,Brazil,2020-06-08,Omicron,0,0.0,194
+9955,Brazil,2020-06-22,Omicron,0,0.0,179
+9979,Brazil,2020-07-06,Omicron,0,0.0,296
+10003,Brazil,2020-07-20,Omicron,0,0.0,168
+10027,Brazil,2020-08-03,Omicron,0,0.0,224
+10051,Brazil,2020-08-17,Omicron,0,0.0,231
+10075,Brazil,2020-08-31,Omicron,0,0.0,157
+10099,Brazil,2020-09-14,Omicron,0,0.0,221
+10123,Brazil,2020-09-28,Omicron,0,0.0,195
+10147,Brazil,2020-10-12,Omicron,0,0.0,196
+10171,Brazil,2020-10-26,Omicron,0,0.0,202
+10195,Brazil,2020-11-09,Omicron,0,0.0,238
+10219,Brazil,2020-11-23,Omicron,0,0.0,361
+10243,Brazil,2020-12-07,Omicron,0,0.0,513
+10267,Brazil,2020-12-21,Omicron,0,0.0,469
+10291,Brazil,2021-01-04,Omicron,0,0.0,578
+10315,Brazil,2021-01-11,Omicron,0,0.0,510
+10339,Brazil,2021-01-25,Omicron,0,0.0,888
+10363,Brazil,2021-02-08,Omicron,0,0.0,991
+10387,Brazil,2021-02-22,Omicron,0,0.0,1270
+10411,Brazil,2021-03-08,Omicron,0,0.0,1817
+10435,Brazil,2021-03-22,Omicron,0,0.0,1929
+10459,Brazil,2021-04-05,Omicron,0,0.0,2797
+10483,Brazil,2021-04-19,Omicron,0,0.0,3791
+10507,Brazil,2021-05-03,Omicron,0,0.0,3804
+10531,Brazil,2021-05-17,Omicron,0,0.0,3247
+10555,Brazil,2021-05-31,Omicron,0,0.0,4137
+10579,Brazil,2021-06-14,Omicron,0,0.0,5088
+10603,Brazil,2021-06-28,Omicron,0,0.0,4466
+10627,Brazil,2021-07-12,Omicron,0,0.0,5548
+10651,Brazil,2021-07-26,Omicron,0,0.0,5381
+10675,Brazil,2021-08-09,Omicron,0,0.0,5217
+10699,Brazil,2021-08-23,Omicron,0,0.0,4130
+10723,Brazil,2021-09-06,Omicron,0,0.0,5469
+10747,Brazil,2021-09-20,Omicron,0,0.0,5701
+10771,Brazil,2021-10-04,Omicron,0,0.0,4572
+10795,Brazil,2021-10-18,Omicron,0,0.0,4449
+10819,Brazil,2021-11-01,Omicron,0,0.0,3014
+10843,Brazil,2021-11-15,Omicron,0,0.0,2757
+10867,Brazil,2021-11-29,Omicron,4,0.16,2547
+10891,Brazil,2021-12-13,Omicron,38,2.85,1332
+10915,Brazil,2021-12-27,Omicron,147,58.33,252
+10939,Brunei,2021-01-04,Omicron,0,0.0,2
+10963,Brunei,2021-01-25,Omicron,0,0.0,1
+10987,Brunei,2021-02-08,Omicron,0,0.0,2
+11011,Brunei,2021-07-26,Omicron,0,0.0,16
+11035,Brunei,2021-08-23,Omicron,0,0.0,12
+11059,Brunei,2021-11-01,Omicron,0,0.0,12
+11083,Brunei,2021-11-15,Omicron,0,0.0,118
+11107,Brunei,2021-11-29,Omicron,0,0.0,125
+11131,Brunei,2021-12-13,Omicron,0,0.0,32
+11155,Brunei,2021-12-27,Omicron,8,72.73,11
+11179,Bulgaria,2020-05-11,Omicron,0,0.0,3
+11203,Bulgaria,2020-05-25,Omicron,0,0.0,3
+11227,Bulgaria,2020-07-20,Omicron,0,0.0,1
+11251,Bulgaria,2020-08-03,Omicron,0,0.0,1
+11275,Bulgaria,2020-08-17,Omicron,0,0.0,6
+11299,Bulgaria,2020-08-31,Omicron,0,0.0,3
+11323,Bulgaria,2020-09-14,Omicron,0,0.0,5
+11347,Bulgaria,2020-09-28,Omicron,0,0.0,4
+11371,Bulgaria,2020-10-12,Omicron,0,0.0,2
+11395,Bulgaria,2020-10-26,Omicron,0,0.0,2
+11419,Bulgaria,2020-11-09,Omicron,0,0.0,5
+11443,Bulgaria,2020-11-23,Omicron,0,0.0,5
+11467,Bulgaria,2020-12-07,Omicron,0,0.0,7
+11491,Bulgaria,2020-12-21,Omicron,0,0.0,50
+11515,Bulgaria,2021-01-04,Omicron,0,0.0,39
+11539,Bulgaria,2021-01-11,Omicron,0,0.0,56
+11563,Bulgaria,2021-01-25,Omicron,0,0.0,92
+11587,Bulgaria,2021-02-08,Omicron,0,0.0,220
+11611,Bulgaria,2021-02-22,Omicron,0,0.0,251
+11635,Bulgaria,2021-03-08,Omicron,0,0.0,407
+11659,Bulgaria,2021-03-22,Omicron,0,0.0,630
+11683,Bulgaria,2021-04-05,Omicron,0,0.0,557
+11707,Bulgaria,2021-04-19,Omicron,0,0.0,371
+11731,Bulgaria,2021-05-03,Omicron,0,0.0,253
+11755,Bulgaria,2021-05-17,Omicron,0,0.0,118
+11779,Bulgaria,2021-05-31,Omicron,0,0.0,38
+11803,Bulgaria,2021-06-14,Omicron,0,0.0,103
+11827,Bulgaria,2021-06-28,Omicron,0,0.0,125
+11851,Bulgaria,2021-07-12,Omicron,0,0.0,176
+11875,Bulgaria,2021-07-26,Omicron,0,0.0,239
+11899,Bulgaria,2021-08-09,Omicron,0,0.0,494
+11923,Bulgaria,2021-08-23,Omicron,0,0.0,798
+11947,Bulgaria,2021-09-06,Omicron,0,0.0,863
+11971,Bulgaria,2021-09-20,Omicron,0,0.0,739
+11995,Bulgaria,2021-10-04,Omicron,0,0.0,881
+12019,Bulgaria,2021-10-18,Omicron,0,0.0,996
+12043,Bulgaria,2021-11-01,Omicron,0,0.0,1024
+12067,Bulgaria,2021-11-15,Omicron,0,0.0,547
+12091,Bulgaria,2021-11-29,Omicron,0,0.0,120
+12115,Cambodia,2020-11-09,Omicron,0,0.0,2
+12139,Cambodia,2020-11-23,Omicron,0,0.0,4
+12163,Cambodia,2020-12-07,Omicron,0,0.0,15
+12187,Cambodia,2020-12-21,Omicron,0,0.0,1
+12211,Cambodia,2021-01-04,Omicron,0,0.0,5
+12235,Cambodia,2021-01-25,Omicron,0,0.0,2
+12259,Cambodia,2021-02-08,Omicron,0,0.0,3
+12283,Cambodia,2021-02-22,Omicron,0,0.0,12
+12307,Cambodia,2021-03-08,Omicron,0,0.0,14
+12331,Cambodia,2021-03-22,Omicron,0,0.0,13
+12355,Cambodia,2021-04-05,Omicron,0,0.0,3
+12379,Cambodia,2021-04-19,Omicron,0,0.0,39
+12403,Cambodia,2021-05-03,Omicron,0,0.0,56
+12427,Cambodia,2021-05-17,Omicron,0,0.0,52
+12451,Cambodia,2021-05-31,Omicron,0,0.0,69
+12475,Cambodia,2021-06-14,Omicron,0,0.0,76
+12499,Cambodia,2021-06-28,Omicron,0,0.0,94
+12523,Cambodia,2021-07-12,Omicron,0,0.0,81
+12547,Cambodia,2021-07-26,Omicron,0,0.0,121
+12571,Cambodia,2021-08-09,Omicron,0,0.0,87
+12595,Cambodia,2021-08-23,Omicron,0,0.0,106
+12619,Cambodia,2021-09-06,Omicron,0,0.0,96
+12643,Cambodia,2021-09-20,Omicron,0,0.0,132
+12667,Cambodia,2021-10-04,Omicron,0,0.0,107
+12691,Cambodia,2021-10-18,Omicron,0,0.0,135
+12715,Cambodia,2021-11-01,Omicron,0,0.0,135
+12739,Cambodia,2021-11-15,Omicron,0,0.0,143
+12763,Cambodia,2021-11-29,Omicron,0,0.0,149
+12787,Cambodia,2021-12-13,Omicron,1,0.77,130
+12811,Cambodia,2021-12-27,Omicron,18,18.75,96
+12835,Cameroon,2020-05-11,Omicron,0,0.0,4
+12859,Cameroon,2020-05-25,Omicron,0,0.0,8
+12883,Cameroon,2020-06-22,Omicron,0,0.0,4
+12907,Cameroon,2020-08-17,Omicron,0,0.0,2
+12931,Cameroon,2020-10-26,Omicron,0,0.0,1
+12955,Cameroon,2020-11-09,Omicron,0,0.0,4
+12979,Cameroon,2020-11-23,Omicron,0,0.0,7
+13003,Cameroon,2020-12-07,Omicron,0,0.0,2
+13027,Cameroon,2020-12-21,Omicron,0,0.0,4
+13051,Cameroon,2021-01-04,Omicron,0,0.0,23
+13075,Cameroon,2021-01-11,Omicron,0,0.0,9
+13099,Cameroon,2021-01-25,Omicron,0,0.0,23
+13123,Cameroon,2021-02-08,Omicron,0,0.0,51
+13147,Cameroon,2021-02-22,Omicron,0,0.0,19
+13171,Cameroon,2021-03-08,Omicron,0,0.0,27
+13195,Cameroon,2021-03-22,Omicron,0,0.0,5
+13219,Cameroon,2021-04-19,Omicron,0,0.0,7
+13243,Cameroon,2021-08-09,Omicron,0,0.0,3
+13267,Cameroon,2021-08-23,Omicron,0,0.0,57
+13291,Cameroon,2021-09-06,Omicron,0,0.0,116
+13315,Cameroon,2021-09-20,Omicron,0,0.0,106
+13339,Cameroon,2021-10-04,Omicron,0,0.0,54
+13363,Canada,2020-05-11,Omicron,0,0.0,903
+13387,Canada,2020-05-25,Omicron,0,0.0,597
+13411,Canada,2020-06-08,Omicron,0,0.0,211
+13435,Canada,2020-06-22,Omicron,0,0.0,203
+13459,Canada,2020-07-06,Omicron,0,0.0,107
+13483,Canada,2020-07-20,Omicron,0,0.0,204
+13507,Canada,2020-08-03,Omicron,0,0.0,295
+13531,Canada,2020-08-17,Omicron,0,0.0,586
+13555,Canada,2020-08-31,Omicron,0,0.0,737
+13579,Canada,2020-09-14,Omicron,0,0.0,728
+13603,Canada,2020-09-28,Omicron,0,0.0,758
+13627,Canada,2020-10-12,Omicron,0,0.0,1061
+13651,Canada,2020-10-26,Omicron,0,0.0,1096
+13675,Canada,2020-11-09,Omicron,0,0.0,1442
+13699,Canada,2020-11-23,Omicron,0,0.0,1937
+13723,Canada,2020-12-07,Omicron,0,0.0,2316
+13747,Canada,2020-12-21,Omicron,0,0.0,2431
+13771,Canada,2021-01-04,Omicron,0,0.0,2565
+13795,Canada,2021-01-11,Omicron,0,0.0,2004
+13819,Canada,2021-01-25,Omicron,0,0.0,4574
+13843,Canada,2021-02-08,Omicron,0,0.0,3026
+13867,Canada,2021-02-22,Omicron,0,0.0,3951
+13891,Canada,2021-03-08,Omicron,0,0.0,4581
+13915,Canada,2021-03-22,Omicron,0,0.0,7112
+13939,Canada,2021-04-05,Omicron,0,0.0,9805
+13963,Canada,2021-04-19,Omicron,0,0.0,10654
+13987,Canada,2021-05-03,Omicron,0,0.0,11006
+14011,Canada,2021-05-17,Omicron,0,0.0,8584
+14035,Canada,2021-05-31,Omicron,0,0.0,5887
+14059,Canada,2021-06-14,Omicron,0,0.0,4215
+14083,Canada,2021-06-28,Omicron,0,0.0,3712
+14107,Canada,2021-07-12,Omicron,0,0.0,1536
+14131,Canada,2021-07-26,Omicron,0,0.0,2454
+14155,Canada,2021-08-09,Omicron,0,0.0,7056
+14179,Canada,2021-08-23,Omicron,0,0.0,13081
+14203,Canada,2021-09-06,Omicron,0,0.0,13793
+14227,Canada,2021-09-20,Omicron,0,0.0,8908
+14251,Canada,2021-10-04,Omicron,0,0.0,7154
+14275,Canada,2021-10-18,Omicron,0,0.0,8016
+14299,Canada,2021-11-01,Omicron,0,0.0,6544
+14323,Canada,2021-11-15,Omicron,1,0.02,5627
+14347,Canada,2021-11-29,Omicron,22,0.43,5146
+14371,Canada,2021-12-13,Omicron,564,10.81,5219
+14395,Canada,2021-12-27,Omicron,25,39.68,63
+14419,Chile,2020-05-11,Omicron,0,0.0,106
+14443,Chile,2020-05-25,Omicron,0,0.0,84
+14467,Chile,2020-06-08,Omicron,0,0.0,81
+14491,Chile,2020-06-22,Omicron,0,0.0,8
+14515,Chile,2020-07-06,Omicron,0,0.0,61
+14539,Chile,2020-07-20,Omicron,0,0.0,35
+14563,Chile,2020-08-03,Omicron,0,0.0,36
+14587,Chile,2020-08-17,Omicron,0,0.0,25
+14611,Chile,2020-08-31,Omicron,0,0.0,65
+14635,Chile,2020-09-14,Omicron,0,0.0,54
+14659,Chile,2020-09-28,Omicron,0,0.0,44
+14683,Chile,2020-10-12,Omicron,0,0.0,66
+14707,Chile,2020-10-26,Omicron,0,0.0,47
+14731,Chile,2020-11-09,Omicron,0,0.0,10
+14755,Chile,2020-11-23,Omicron,0,0.0,17
+14779,Chile,2020-12-07,Omicron,0,0.0,8
+14803,Chile,2020-12-21,Omicron,0,0.0,27
+14827,Chile,2021-01-04,Omicron,0,0.0,79
+14851,Chile,2021-01-11,Omicron,0,0.0,50
+14875,Chile,2021-01-25,Omicron,0,0.0,59
+14899,Chile,2021-02-08,Omicron,0,0.0,56
+14923,Chile,2021-02-22,Omicron,0,0.0,97
+14947,Chile,2021-03-08,Omicron,0,0.0,85
+14971,Chile,2021-03-22,Omicron,0,0.0,140
+14995,Chile,2021-04-05,Omicron,0,0.0,266
+15019,Chile,2021-04-19,Omicron,0,0.0,359
+15043,Chile,2021-05-03,Omicron,0,0.0,565
+15067,Chile,2021-05-17,Omicron,0,0.0,625
+15091,Chile,2021-05-31,Omicron,0,0.0,435
+15115,Chile,2021-06-14,Omicron,0,0.0,626
+15139,Chile,2021-06-28,Omicron,0,0.0,719
+15163,Chile,2021-07-12,Omicron,0,0.0,866
+15187,Chile,2021-07-26,Omicron,0,0.0,568
+15211,Chile,2021-08-09,Omicron,0,0.0,789
+15235,Chile,2021-08-23,Omicron,0,0.0,879
+15259,Chile,2021-09-06,Omicron,0,0.0,1101
+15283,Chile,2021-09-20,Omicron,0,0.0,1223
+15307,Chile,2021-10-04,Omicron,0,0.0,1879
+15331,Chile,2021-10-18,Omicron,0,0.0,1365
+15355,Chile,2021-11-01,Omicron,0,0.0,1295
+15379,Chile,2021-11-15,Omicron,0,0.0,999
+15403,Chile,2021-11-29,Omicron,1,0.17,573
+15427,Chile,2021-12-13,Omicron,40,8.71,459
+15451,Chile,2021-12-27,Omicron,260,51.59,504
+15475,Colombia,2020-05-11,Omicron,0,0.0,81
+15499,Colombia,2020-05-25,Omicron,0,0.0,2
+15523,Colombia,2020-06-08,Omicron,0,0.0,8
+15547,Colombia,2020-06-22,Omicron,0,0.0,14
+15571,Colombia,2020-07-06,Omicron,0,0.0,29
+15595,Colombia,2020-07-20,Omicron,0,0.0,28
+15619,Colombia,2020-08-03,Omicron,0,0.0,8
+15643,Colombia,2020-08-17,Omicron,0,0.0,20
+15667,Colombia,2020-08-31,Omicron,0,0.0,5
+15691,Colombia,2020-09-14,Omicron,0,0.0,14
+15715,Colombia,2020-09-28,Omicron,0,0.0,5
+15739,Colombia,2020-10-12,Omicron,0,0.0,20
+15763,Colombia,2020-10-26,Omicron,0,0.0,8
+15787,Colombia,2020-11-09,Omicron,0,0.0,6
+15811,Colombia,2020-11-23,Omicron,0,0.0,12
+15835,Colombia,2020-12-07,Omicron,0,0.0,18
+15859,Colombia,2020-12-21,Omicron,0,0.0,32
+15883,Colombia,2021-01-04,Omicron,0,0.0,87
+15907,Colombia,2021-01-11,Omicron,0,0.0,48
+15931,Colombia,2021-01-25,Omicron,0,0.0,83
+15955,Colombia,2021-02-08,Omicron,0,0.0,30
+15979,Colombia,2021-02-22,Omicron,0,0.0,24
+16003,Colombia,2021-03-08,Omicron,0,0.0,73
+16027,Colombia,2021-03-22,Omicron,0,0.0,79
+16051,Colombia,2021-04-05,Omicron,0,0.0,160
+16075,Colombia,2021-04-19,Omicron,0,0.0,803
+16099,Colombia,2021-05-03,Omicron,0,0.0,432
+16123,Colombia,2021-05-17,Omicron,0,0.0,375
+16147,Colombia,2021-05-31,Omicron,0,0.0,194
+16171,Colombia,2021-06-14,Omicron,0,0.0,283
+16195,Colombia,2021-06-28,Omicron,0,0.0,224
+16219,Colombia,2021-07-12,Omicron,0,0.0,462
+16243,Colombia,2021-07-26,Omicron,0,0.0,920
+16267,Colombia,2021-08-09,Omicron,0,0.0,775
+16291,Colombia,2021-08-23,Omicron,0,0.0,768
+16315,Colombia,2021-09-06,Omicron,0,0.0,542
+16339,Colombia,2021-09-20,Omicron,0,0.0,423
+16363,Colombia,2021-10-04,Omicron,0,0.0,800
+16387,Colombia,2021-10-18,Omicron,0,0.0,652
+16411,Colombia,2021-11-01,Omicron,0,0.0,585
+16435,Colombia,2021-11-15,Omicron,0,0.0,616
+16459,Colombia,2021-11-29,Omicron,0,0.0,318
+16483,Colombia,2021-12-13,Omicron,1,0.89,112
+16507,Colombia,2021-12-27,Omicron,37,34.58,107
+16531,Costa Rica,2020-06-08,Omicron,0,0.0,8
+16555,Costa Rica,2020-06-22,Omicron,0,0.0,15
+16579,Costa Rica,2020-07-06,Omicron,0,0.0,19
+16603,Costa Rica,2020-07-20,Omicron,0,0.0,22
+16627,Costa Rica,2020-08-03,Omicron,0,0.0,13
+16651,Costa Rica,2020-08-17,Omicron,0,0.0,13
+16675,Costa Rica,2020-08-31,Omicron,0,0.0,3
+16699,Costa Rica,2020-09-14,Omicron,0,0.0,7
+16723,Costa Rica,2020-09-28,Omicron,0,0.0,6
+16747,Costa Rica,2020-10-12,Omicron,0,0.0,9
+16771,Costa Rica,2020-10-26,Omicron,0,0.0,7
+16795,Costa Rica,2020-11-09,Omicron,0,0.0,8
+16819,Costa Rica,2020-11-23,Omicron,0,0.0,10
+16843,Costa Rica,2020-12-07,Omicron,0,0.0,9
+16867,Costa Rica,2020-12-21,Omicron,0,0.0,14
+16891,Costa Rica,2021-01-04,Omicron,0,0.0,37
+16915,Costa Rica,2021-01-11,Omicron,0,0.0,10
+16939,Costa Rica,2021-01-25,Omicron,0,0.0,41
+16963,Costa Rica,2021-02-08,Omicron,0,0.0,27
+16987,Costa Rica,2021-02-22,Omicron,0,0.0,35
+17011,Costa Rica,2021-03-08,Omicron,0,0.0,66
+17035,Costa Rica,2021-03-22,Omicron,0,0.0,80
+17059,Costa Rica,2021-04-05,Omicron,0,0.0,58
+17083,Costa Rica,2021-04-19,Omicron,0,0.0,71
+17107,Costa Rica,2021-05-03,Omicron,0,0.0,57
+17131,Costa Rica,2021-05-17,Omicron,0,0.0,33
+17155,Costa Rica,2021-05-31,Omicron,0,0.0,47
+17179,Costa Rica,2021-06-14,Omicron,0,0.0,33
+17203,Costa Rica,2021-06-28,Omicron,0,0.0,56
+17227,Costa Rica,2021-07-12,Omicron,0,0.0,84
+17251,Costa Rica,2021-07-26,Omicron,0,0.0,88
+17275,Costa Rica,2021-08-09,Omicron,0,0.0,138
+17299,Costa Rica,2021-08-23,Omicron,0,0.0,135
+17323,Costa Rica,2021-09-06,Omicron,0,0.0,69
+17347,Costa Rica,2021-09-20,Omicron,0,0.0,92
+17371,Costa Rica,2021-10-04,Omicron,0,0.0,71
+17395,Costa Rica,2021-10-18,Omicron,0,0.0,150
+17419,Costa Rica,2021-11-01,Omicron,0,0.0,147
+17443,Costa Rica,2021-11-15,Omicron,0,0.0,156
+17467,Costa Rica,2021-11-29,Omicron,0,0.0,108
+17491,Costa Rica,2021-12-13,Omicron,1,1.67,60
+17515,Costa Rica,2021-12-27,Omicron,14,34.15,41
+17539,Croatia,2020-08-17,Omicron,0,0.0,1
+17563,Croatia,2020-08-31,Omicron,0,0.0,3
+17587,Croatia,2020-09-14,Omicron,0,0.0,11
+17611,Croatia,2020-09-28,Omicron,0,0.0,1
+17635,Croatia,2020-10-12,Omicron,0,0.0,12
+17659,Croatia,2020-11-23,Omicron,0,0.0,29
+17683,Croatia,2020-12-21,Omicron,0,0.0,1
+17707,Croatia,2021-01-04,Omicron,0,0.0,8
+17731,Croatia,2021-01-11,Omicron,0,0.0,11
+17755,Croatia,2021-01-25,Omicron,0,0.0,45
+17779,Croatia,2021-02-08,Omicron,0,0.0,159
+17803,Croatia,2021-02-22,Omicron,0,0.0,394
+17827,Croatia,2021-03-08,Omicron,0,0.0,582
+17851,Croatia,2021-03-22,Omicron,0,0.0,626
+17875,Croatia,2021-04-05,Omicron,0,0.0,749
+17899,Croatia,2021-04-19,Omicron,0,0.0,375
+17923,Croatia,2021-05-03,Omicron,0,0.0,786
+17947,Croatia,2021-05-17,Omicron,0,0.0,639
+17971,Croatia,2021-05-31,Omicron,0,0.0,370
+17995,Croatia,2021-06-14,Omicron,0,0.0,311
+18019,Croatia,2021-06-28,Omicron,0,0.0,162
+18043,Croatia,2021-07-12,Omicron,0,0.0,369
+18067,Croatia,2021-07-26,Omicron,0,0.0,407
+18091,Croatia,2021-08-09,Omicron,0,0.0,511
+18115,Croatia,2021-08-23,Omicron,0,0.0,770
+18139,Croatia,2021-09-06,Omicron,0,0.0,993
+18163,Croatia,2021-09-20,Omicron,0,0.0,739
+18187,Croatia,2021-10-04,Omicron,0,0.0,692
+18211,Croatia,2021-10-18,Omicron,0,0.0,661
+18235,Croatia,2021-11-01,Omicron,0,0.0,640
+18259,Croatia,2021-11-15,Omicron,0,0.0,742
+18283,Croatia,2021-11-29,Omicron,0,0.0,835
+18307,Croatia,2021-12-13,Omicron,8,0.86,935
+18331,Curacao,2020-08-17,Omicron,0,0.0,3
+18355,Curacao,2020-10-12,Omicron,0,0.0,1
+18379,Curacao,2020-10-26,Omicron,0,0.0,3
+18403,Curacao,2020-11-09,Omicron,0,0.0,8
+18427,Curacao,2020-11-23,Omicron,0,0.0,4
+18451,Curacao,2020-12-07,Omicron,0,0.0,2
+18475,Curacao,2020-12-21,Omicron,0,0.0,8
+18499,Curacao,2021-01-04,Omicron,0,0.0,5
+18523,Curacao,2021-01-11,Omicron,0,0.0,6
+18547,Curacao,2021-01-25,Omicron,0,0.0,15
+18571,Curacao,2021-02-08,Omicron,0,0.0,15
+18595,Curacao,2021-02-22,Omicron,0,0.0,36
+18619,Curacao,2021-03-08,Omicron,0,0.0,50
+18643,Curacao,2021-03-22,Omicron,0,0.0,55
+18667,Curacao,2021-04-05,Omicron,0,0.0,57
+18691,Curacao,2021-04-19,Omicron,0,0.0,61
+18715,Curacao,2021-05-03,Omicron,0,0.0,45
+18739,Curacao,2021-05-17,Omicron,0,0.0,25
+18763,Curacao,2021-05-31,Omicron,0,0.0,10
+18787,Curacao,2021-06-14,Omicron,0,0.0,4
+18811,Curacao,2021-06-28,Omicron,0,0.0,16
+18835,Curacao,2021-07-12,Omicron,0,0.0,38
+18859,Curacao,2021-07-26,Omicron,0,0.0,67
+18883,Curacao,2021-08-09,Omicron,0,0.0,62
+18907,Curacao,2021-08-23,Omicron,0,0.0,49
+18931,Curacao,2021-09-06,Omicron,0,0.0,47
+18955,Curacao,2021-09-20,Omicron,0,0.0,58
+18979,Curacao,2021-10-04,Omicron,0,0.0,56
+19003,Curacao,2021-10-18,Omicron,0,0.0,53
+19027,Curacao,2021-11-01,Omicron,0,0.0,47
+19051,Curacao,2021-11-15,Omicron,0,0.0,28
+19075,Curacao,2021-11-29,Omicron,0,0.0,20
+19099,Curacao,2021-12-13,Omicron,0,0.0,24
+19123,Cyprus,2020-05-11,Omicron,0,0.0,23
+19147,Cyprus,2020-05-25,Omicron,0,0.0,20
+19171,Cyprus,2020-06-08,Omicron,0,0.0,12
+19195,Cyprus,2020-06-22,Omicron,0,0.0,11
+19219,Cyprus,2020-07-06,Omicron,0,0.0,2
+19243,Cyprus,2020-07-20,Omicron,0,0.0,3
+19267,Cyprus,2020-08-03,Omicron,0,0.0,11
+19291,Cyprus,2020-08-17,Omicron,0,0.0,24
+19315,Cyprus,2020-08-31,Omicron,0,0.0,12
+19339,Cyprus,2020-09-14,Omicron,0,0.0,4
+19363,Cyprus,2020-09-28,Omicron,0,0.0,39
+19387,Cyprus,2020-10-12,Omicron,0,0.0,24
+19411,Cyprus,2020-10-26,Omicron,0,0.0,11
+19435,Cyprus,2020-11-09,Omicron,0,0.0,159
+19459,Cyprus,2020-11-23,Omicron,0,0.0,9
+19483,Cyprus,2020-12-07,Omicron,0,0.0,63
+19507,Cyprus,2020-12-21,Omicron,0,0.0,3
+19531,Cyprus,2021-01-04,Omicron,0,0.0,80
+19555,Cyprus,2021-01-11,Omicron,0,0.0,28
+19579,Cyprus,2021-01-25,Omicron,0,0.0,35
+19603,Cyprus,2021-02-08,Omicron,0,0.0,17
+19627,Czechia,2020-05-11,Omicron,0,0.0,6
+19651,Czechia,2020-05-25,Omicron,0,0.0,9
+19675,Czechia,2020-06-08,Omicron,0,0.0,4
+19699,Czechia,2020-06-22,Omicron,0,0.0,9
+19723,Czechia,2020-07-20,Omicron,0,0.0,9
+19747,Czechia,2020-08-03,Omicron,0,0.0,24
+19771,Czechia,2020-08-17,Omicron,0,0.0,26
+19795,Czechia,2020-08-31,Omicron,0,0.0,11
+19819,Czechia,2020-09-14,Omicron,0,0.0,9
+19843,Czechia,2020-09-28,Omicron,0,0.0,23
+19867,Czechia,2020-10-12,Omicron,0,0.0,76
+19891,Czechia,2020-10-26,Omicron,0,0.0,60
+19915,Czechia,2020-11-09,Omicron,0,0.0,56
+19939,Czechia,2020-11-23,Omicron,0,0.0,19
+19963,Czechia,2020-12-07,Omicron,0,0.0,9
+19987,Czechia,2020-12-21,Omicron,0,0.0,16
+20011,Czechia,2021-01-04,Omicron,0,0.0,26
+20035,Czechia,2021-01-11,Omicron,0,0.0,201
+20059,Czechia,2021-01-25,Omicron,0,0.0,97
+20083,Czechia,2021-02-08,Omicron,0,0.0,378
+20107,Czechia,2021-02-22,Omicron,0,0.0,617
+20131,Czechia,2021-03-08,Omicron,0,0.0,501
+20155,Czechia,2021-03-22,Omicron,0,0.0,556
+20179,Czechia,2021-04-05,Omicron,0,0.0,374
+20203,Czechia,2021-04-19,Omicron,0,0.0,635
+20227,Czechia,2021-05-03,Omicron,0,0.0,780
+20251,Czechia,2021-05-17,Omicron,0,0.0,558
+20275,Czechia,2021-05-31,Omicron,0,0.0,275
+20299,Czechia,2021-06-14,Omicron,0,0.0,388
+20323,Czechia,2021-06-28,Omicron,0,0.0,218
+20347,Czechia,2021-07-12,Omicron,0,0.0,501
+20371,Czechia,2021-07-26,Omicron,0,0.0,527
+20395,Czechia,2021-08-09,Omicron,0,0.0,566
+20419,Czechia,2021-08-23,Omicron,0,0.0,875
+20443,Czechia,2021-09-06,Omicron,0,0.0,844
+20467,Czechia,2021-09-20,Omicron,0,0.0,1382
+20491,Czechia,2021-10-04,Omicron,0,0.0,1373
+20515,Czechia,2021-10-18,Omicron,0,0.0,1766
+20539,Czechia,2021-11-01,Omicron,0,0.0,2031
+20563,Czechia,2021-11-15,Omicron,0,0.0,1420
+20587,Czechia,2021-11-29,Omicron,2,0.15,1331
+20611,Czechia,2021-12-13,Omicron,7,0.49,1431
+20635,Czechia,2021-12-27,Omicron,49,14.85,330
+20659,Czechia,2022-01-05,Omicron,7,46.67,15
+20683,Denmark,2020-05-11,Omicron,0,0.0,155
+20707,Denmark,2020-05-25,Omicron,0,0.0,136
+20731,Denmark,2020-06-08,Omicron,0,0.0,122
+20755,Denmark,2020-06-22,Omicron,0,0.0,169
+20779,Denmark,2020-07-06,Omicron,0,0.0,60
+20803,Denmark,2020-07-20,Omicron,0,0.0,100
+20827,Denmark,2020-08-03,Omicron,0,0.0,152
+20851,Denmark,2020-08-17,Omicron,0,0.0,437
+20875,Denmark,2020-08-31,Omicron,0,0.0,594
+20899,Denmark,2020-09-14,Omicron,0,0.0,979
+20923,Denmark,2020-09-28,Omicron,0,0.0,1644
+20947,Denmark,2020-10-12,Omicron,0,0.0,835
+20971,Denmark,2020-10-26,Omicron,0,0.0,1554
+20995,Denmark,2020-11-09,Omicron,0,0.0,3067
+21019,Denmark,2020-11-23,Omicron,0,0.0,3165
+21043,Denmark,2020-12-07,Omicron,0,0.0,5060
+21067,Denmark,2020-12-21,Omicron,0,0.0,9321
+21091,Denmark,2021-01-04,Omicron,0,0.0,7686
+21115,Denmark,2021-01-11,Omicron,0,0.0,4145
+21139,Denmark,2021-01-25,Omicron,0,0.0,8109
+21163,Denmark,2021-02-08,Omicron,0,0.0,4769
+21187,Denmark,2021-02-22,Omicron,0,0.0,4388
+21211,Denmark,2021-03-08,Omicron,0,0.0,5371
+21235,Denmark,2021-03-22,Omicron,0,0.0,6351
+21259,Denmark,2021-04-05,Omicron,0,0.0,7193
+21283,Denmark,2021-04-19,Omicron,0,0.0,7082
+21307,Denmark,2021-05-03,Omicron,0,0.0,7679
+21331,Denmark,2021-05-17,Omicron,0,0.0,9822
+21355,Denmark,2021-05-31,Omicron,0,0.0,9480
+21379,Denmark,2021-06-14,Omicron,0,0.0,5882
+21403,Denmark,2021-06-28,Omicron,0,0.0,2061
+21427,Denmark,2021-07-12,Omicron,0,0.0,5124
+21451,Denmark,2021-07-26,Omicron,0,0.0,10876
+21475,Denmark,2021-08-09,Omicron,0,0.0,10917
+21499,Denmark,2021-08-23,Omicron,0,0.0,11256
+21523,Denmark,2021-09-06,Omicron,0,0.0,8743
+21547,Denmark,2021-09-20,Omicron,0,0.0,4585
+21571,Denmark,2021-10-04,Omicron,0,0.0,4878
+21595,Denmark,2021-10-18,Omicron,0,0.0,7662
+21619,Denmark,2021-11-01,Omicron,0,0.0,15515
+21643,Denmark,2021-11-15,Omicron,0,0.0,22315
+21667,Denmark,2021-11-29,Omicron,9,0.04,23829
+21691,Denmark,2021-12-13,Omicron,1483,4.9,30285
+21715,Denmark,2021-12-27,Omicron,3331,48.86,6817
+21739,Djibouti,2020-05-11,Omicron,0,0.0,2
+21763,Djibouti,2020-05-25,Omicron,0,0.0,2
+21787,Djibouti,2020-06-08,Omicron,0,0.0,5
+21811,Djibouti,2020-06-22,Omicron,0,0.0,13
+21835,Djibouti,2020-07-06,Omicron,0,0.0,1
+21859,Djibouti,2020-07-20,Omicron,0,0.0,2
+21883,Djibouti,2020-08-03,Omicron,0,0.0,2
+21907,Djibouti,2020-10-26,Omicron,0,0.0,1
+21931,Djibouti,2020-11-09,Omicron,0,0.0,1
+21955,Djibouti,2020-11-23,Omicron,0,0.0,14
+21979,Djibouti,2020-12-07,Omicron,0,0.0,1
+22003,Djibouti,2020-12-21,Omicron,0,0.0,5
+22027,Djibouti,2021-01-04,Omicron,0,0.0,2
+22051,Djibouti,2021-01-25,Omicron,0,0.0,11
+22075,Djibouti,2021-02-08,Omicron,0,0.0,3
+22099,Djibouti,2021-02-22,Omicron,0,0.0,30
+22123,Djibouti,2021-03-08,Omicron,0,0.0,56
+22147,Djibouti,2021-03-22,Omicron,0,0.0,26
+22171,Djibouti,2021-04-05,Omicron,0,0.0,64
+22195,Djibouti,2021-04-19,Omicron,0,0.0,37
+22219,Djibouti,2021-05-03,Omicron,0,0.0,23
+22243,Djibouti,2021-05-17,Omicron,0,0.0,5
+22267,Djibouti,2021-05-31,Omicron,0,0.0,1
+22291,Djibouti,2021-07-12,Omicron,0,0.0,1
+22315,Djibouti,2021-08-09,Omicron,0,0.0,2
+22339,Djibouti,2021-09-06,Omicron,0,0.0,2
+22363,Djibouti,2021-09-20,Omicron,0,0.0,9
+22387,Djibouti,2021-10-04,Omicron,0,0.0,25
+22411,Djibouti,2021-10-18,Omicron,0,0.0,19
+22435,Djibouti,2021-11-01,Omicron,0,0.0,2
+22459,Dominican Republic,2020-05-11,Omicron,0,0.0,5
+22483,Dominican Republic,2020-11-23,Omicron,0,0.0,1
+22507,Dominican Republic,2021-01-04,Omicron,0,0.0,1
+22531,Dominican Republic,2021-01-25,Omicron,0,0.0,33
+22555,Dominican Republic,2021-02-08,Omicron,0,0.0,24
+22579,Dominican Republic,2021-02-22,Omicron,0,0.0,3
+22603,Dominican Republic,2021-03-08,Omicron,0,0.0,11
+22627,Dominican Republic,2021-03-22,Omicron,0,0.0,58
+22651,Dominican Republic,2021-04-05,Omicron,0,0.0,13
+22675,Dominican Republic,2021-04-19,Omicron,0,0.0,17
+22699,Dominican Republic,2021-05-03,Omicron,0,0.0,1
+22723,Dominican Republic,2021-05-17,Omicron,0,0.0,87
+22747,Dominican Republic,2021-05-31,Omicron,0,0.0,101
+22771,Dominican Republic,2021-06-14,Omicron,0,0.0,19
+22795,Dominican Republic,2021-06-28,Omicron,0,0.0,13
+22819,Dominican Republic,2021-07-12,Omicron,0,0.0,10
+22843,Dominican Republic,2021-07-26,Omicron,0,0.0,10
+22867,Dominican Republic,2021-08-09,Omicron,0,0.0,29
+22891,Dominican Republic,2021-08-23,Omicron,0,0.0,4
+22915,Dominican Republic,2021-09-06,Omicron,0,0.0,2
+22939,Dominican Republic,2021-09-20,Omicron,0,0.0,3
+22963,Dominican Republic,2021-10-04,Omicron,0,0.0,1
+22987,Dominican Republic,2021-10-18,Omicron,0,0.0,99
+23011,Dominican Republic,2021-11-01,Omicron,0,0.0,20
+23035,Ecuador,2020-05-11,Omicron,0,0.0,7
+23059,Ecuador,2020-05-25,Omicron,0,0.0,4
+23083,Ecuador,2020-06-08,Omicron,0,0.0,8
+23107,Ecuador,2020-06-22,Omicron,0,0.0,3
+23131,Ecuador,2020-07-06,Omicron,0,0.0,18
+23155,Ecuador,2020-07-20,Omicron,0,0.0,3
+23179,Ecuador,2020-08-03,Omicron,0,0.0,6
+23203,Ecuador,2020-08-17,Omicron,0,0.0,26
+23227,Ecuador,2020-08-31,Omicron,0,0.0,17
+23251,Ecuador,2020-09-14,Omicron,0,0.0,19
+23275,Ecuador,2020-09-28,Omicron,0,0.0,3
+23299,Ecuador,2020-10-12,Omicron,0,0.0,13
+23323,Ecuador,2020-10-26,Omicron,0,0.0,5
+23347,Ecuador,2020-11-09,Omicron,0,0.0,6
+23371,Ecuador,2020-11-23,Omicron,0,0.0,3
+23395,Ecuador,2020-12-07,Omicron,0,0.0,6
+23419,Ecuador,2020-12-21,Omicron,0,0.0,12
+23443,Ecuador,2021-01-04,Omicron,0,0.0,10
+23467,Ecuador,2021-01-11,Omicron,0,0.0,13
+23491,Ecuador,2021-01-25,Omicron,0,0.0,18
+23515,Ecuador,2021-02-08,Omicron,0,0.0,2
+23539,Ecuador,2021-02-22,Omicron,0,0.0,2
+23563,Ecuador,2021-03-08,Omicron,0,0.0,6
+23587,Ecuador,2021-03-22,Omicron,0,0.0,17
+23611,Ecuador,2021-04-05,Omicron,0,0.0,23
+23635,Ecuador,2021-04-19,Omicron,0,0.0,57
+23659,Ecuador,2021-05-03,Omicron,0,0.0,65
+23683,Ecuador,2021-05-17,Omicron,0,0.0,139
+23707,Ecuador,2021-05-31,Omicron,0,0.0,102
+23731,Ecuador,2021-06-14,Omicron,0,0.0,167
+23755,Ecuador,2021-06-28,Omicron,0,0.0,145
+23779,Ecuador,2021-07-12,Omicron,0,0.0,366
+23803,Ecuador,2021-07-26,Omicron,0,0.0,565
+23827,Ecuador,2021-08-09,Omicron,0,0.0,232
+23851,Ecuador,2021-08-23,Omicron,0,0.0,261
+23875,Ecuador,2021-09-06,Omicron,0,0.0,306
+23899,Ecuador,2021-09-20,Omicron,0,0.0,155
+23923,Ecuador,2021-10-04,Omicron,0,0.0,214
+23947,Ecuador,2021-10-18,Omicron,0,0.0,93
+23971,Ecuador,2021-11-01,Omicron,0,0.0,23
+23995,Ecuador,2021-11-15,Omicron,0,0.0,100
+24019,Ecuador,2021-11-29,Omicron,0,0.0,135
+24043,Ecuador,2021-12-13,Omicron,3,3.23,93
+24067,Ecuador,2021-12-27,Omicron,26,47.27,55
+24091,Egypt,2020-05-11,Omicron,0,0.0,38
+24115,Egypt,2020-05-25,Omicron,0,0.0,22
+24139,Egypt,2020-06-08,Omicron,0,0.0,141
+24163,Egypt,2020-06-22,Omicron,0,0.0,77
+24187,Egypt,2020-07-06,Omicron,0,0.0,128
+24211,Egypt,2020-07-20,Omicron,0,0.0,44
+24235,Egypt,2020-08-03,Omicron,0,0.0,41
+24259,Egypt,2020-08-17,Omicron,0,0.0,29
+24283,Egypt,2020-08-31,Omicron,0,0.0,43
+24307,Egypt,2020-09-14,Omicron,0,0.0,25
+24331,Egypt,2020-09-28,Omicron,0,0.0,17
+24355,Egypt,2020-10-12,Omicron,0,0.0,15
+24379,Egypt,2020-10-26,Omicron,0,0.0,11
+24403,Egypt,2020-11-09,Omicron,0,0.0,12
+24427,Egypt,2020-11-23,Omicron,0,0.0,12
+24451,Egypt,2020-12-07,Omicron,0,0.0,3
+24475,Egypt,2020-12-21,Omicron,0,0.0,14
+24499,Egypt,2021-01-04,Omicron,0,0.0,99
+24523,Egypt,2021-01-11,Omicron,0,0.0,40
+24547,Egypt,2021-01-25,Omicron,0,0.0,3
+24571,Egypt,2021-02-22,Omicron,0,0.0,79
+24595,Egypt,2021-03-08,Omicron,0,0.0,21
+24619,Egypt,2021-03-22,Omicron,0,0.0,12
+24643,Egypt,2021-04-05,Omicron,0,0.0,74
+24667,Egypt,2021-04-19,Omicron,0,0.0,10
+24691,Egypt,2021-05-03,Omicron,0,0.0,89
+24715,Egypt,2021-05-17,Omicron,0,0.0,42
+24739,Egypt,2021-05-31,Omicron,0,0.0,23
+24763,Egypt,2021-06-14,Omicron,0,0.0,10
+24787,Egypt,2021-06-28,Omicron,0,0.0,4
+24811,Egypt,2021-07-12,Omicron,0,0.0,3
+24835,Egypt,2021-07-26,Omicron,0,0.0,1
+24859,Egypt,2021-08-09,Omicron,0,0.0,9
+24883,Egypt,2021-09-06,Omicron,0,0.0,23
+24907,Egypt,2021-09-20,Omicron,0,0.0,5
+24931,Egypt,2021-10-04,Omicron,0,0.0,9
+24955,Egypt,2021-10-18,Omicron,0,0.0,21
+24979,Egypt,2021-11-01,Omicron,0,0.0,66
+25003,Egypt,2021-11-15,Omicron,0,0.0,13
+25027,Egypt,2021-11-29,Omicron,0,0.0,6
+25051,Egypt,2021-12-13,Omicron,1,100.0,1
+25075,Estonia,2020-09-14,Omicron,0,0.0,9
+25099,Estonia,2020-09-28,Omicron,0,0.0,120
+25123,Estonia,2020-10-12,Omicron,0,0.0,55
+25147,Estonia,2020-10-26,Omicron,0,0.0,21
+25171,Estonia,2020-11-09,Omicron,0,0.0,53
+25195,Estonia,2020-11-23,Omicron,0,0.0,18
+25219,Estonia,2020-12-21,Omicron,0,0.0,2
+25243,Estonia,2021-01-04,Omicron,0,0.0,46
+25267,Estonia,2021-01-11,Omicron,0,0.0,5
+25291,Estonia,2021-01-25,Omicron,0,0.0,10
+25315,Estonia,2021-02-08,Omicron,0,0.0,47
+25339,Estonia,2021-02-22,Omicron,0,0.0,564
+25363,Estonia,2021-03-08,Omicron,0,0.0,163
+25387,Estonia,2021-03-22,Omicron,0,0.0,1018
+25411,Estonia,2021-04-05,Omicron,0,0.0,1121
+25435,Estonia,2021-04-19,Omicron,0,0.0,368
+25459,Estonia,2021-05-03,Omicron,0,0.0,351
+25483,Estonia,2021-05-17,Omicron,0,0.0,326
+25507,Estonia,2021-06-14,Omicron,0,0.0,137
+25531,Estonia,2021-06-28,Omicron,0,0.0,45
+25555,Estonia,2021-07-12,Omicron,0,0.0,138
+25579,Estonia,2021-07-26,Omicron,0,0.0,252
+25603,Estonia,2021-08-09,Omicron,0,0.0,360
+25627,Estonia,2021-08-23,Omicron,0,0.0,371
+25651,Estonia,2021-09-06,Omicron,0,0.0,369
+25675,Estonia,2021-09-20,Omicron,0,0.0,346
+25699,Estonia,2021-10-04,Omicron,0,0.0,348
+25723,Estonia,2021-10-18,Omicron,0,0.0,319
+25747,Estonia,2021-11-01,Omicron,0,0.0,344
+25771,Estonia,2021-11-15,Omicron,0,0.0,294
+25795,Estonia,2021-11-29,Omicron,0,0.0,340
+25819,Estonia,2021-12-13,Omicron,0,0.0,82
+25843,Ethiopia,2020-11-23,Omicron,0,0.0,4
+25867,Ethiopia,2020-12-21,Omicron,0,0.0,4
+25891,Ethiopia,2021-01-25,Omicron,0,0.0,6
+25915,Ethiopia,2021-02-08,Omicron,0,0.0,10
+25939,Ethiopia,2021-02-22,Omicron,0,0.0,4
+25963,Ethiopia,2021-03-08,Omicron,0,0.0,13
+25987,Ethiopia,2021-03-22,Omicron,0,0.0,4
+26011,Ethiopia,2021-04-05,Omicron,0,0.0,6
+26035,Ethiopia,2021-04-19,Omicron,0,0.0,1
+26059,Ethiopia,2021-05-03,Omicron,0,0.0,2
+26083,Ethiopia,2021-05-31,Omicron,0,0.0,26
+26107,Ethiopia,2021-06-14,Omicron,0,0.0,5
+26131,Ethiopia,2021-07-12,Omicron,0,0.0,6
+26155,Ethiopia,2021-07-26,Omicron,0,0.0,59
+26179,Ethiopia,2021-08-09,Omicron,0,0.0,253
+26203,Ethiopia,2021-08-23,Omicron,0,0.0,119
+26227,Fiji,2020-08-31,Omicron,0,0.0,1
+26251,Fiji,2020-11-23,Omicron,0,0.0,2
+26275,Fiji,2020-12-07,Omicron,0,0.0,2
+26299,Fiji,2021-01-04,Omicron,0,0.0,2
+26323,Fiji,2021-02-08,Omicron,0,0.0,1
+26347,Fiji,2021-03-08,Omicron,0,0.0,1
+26371,Fiji,2021-03-22,Omicron,0,0.0,1
+26395,Fiji,2021-04-19,Omicron,0,0.0,7
+26419,Fiji,2021-05-03,Omicron,0,0.0,18
+26443,Fiji,2021-05-17,Omicron,0,0.0,22
+26467,Fiji,2021-05-31,Omicron,0,0.0,24
+26491,Fiji,2021-06-14,Omicron,0,0.0,52
+26515,Fiji,2021-06-28,Omicron,0,0.0,252
+26539,Fiji,2021-07-12,Omicron,0,0.0,140
+26563,Finland,2020-05-11,Omicron,0,0.0,102
+26587,Finland,2020-05-25,Omicron,0,0.0,51
+26611,Finland,2020-06-08,Omicron,0,0.0,37
+26635,Finland,2020-06-22,Omicron,0,0.0,4
+26659,Finland,2020-08-17,Omicron,0,0.0,10
+26683,Finland,2020-08-31,Omicron,0,0.0,14
+26707,Finland,2020-09-14,Omicron,0,0.0,23
+26731,Finland,2020-09-28,Omicron,0,0.0,96
+26755,Finland,2020-10-12,Omicron,0,0.0,283
+26779,Finland,2020-10-26,Omicron,0,0.0,98
+26803,Finland,2020-11-09,Omicron,0,0.0,51
+26827,Finland,2020-11-23,Omicron,0,0.0,54
+26851,Finland,2020-12-07,Omicron,0,0.0,156
+26875,Finland,2020-12-21,Omicron,0,0.0,114
+26899,Finland,2021-01-04,Omicron,0,0.0,148
+26923,Finland,2021-01-11,Omicron,0,0.0,124
+26947,Finland,2021-01-25,Omicron,0,0.0,765
+26971,Finland,2021-02-08,Omicron,0,0.0,1240
+26995,Finland,2021-02-22,Omicron,0,0.0,1587
+27019,Finland,2021-03-08,Omicron,0,0.0,1653
+27043,Finland,2021-03-22,Omicron,0,0.0,1715
+27067,Finland,2021-04-05,Omicron,0,0.0,987
+27091,Finland,2021-04-19,Omicron,0,0.0,702
+27115,Finland,2021-05-03,Omicron,0,0.0,542
+27139,Finland,2021-05-17,Omicron,0,0.0,601
+27163,Finland,2021-05-31,Omicron,0,0.0,529
+27187,Finland,2021-06-14,Omicron,0,0.0,294
+27211,Finland,2021-06-28,Omicron,0,0.0,734
+27235,Finland,2021-07-12,Omicron,0,0.0,822
+27259,Finland,2021-07-26,Omicron,0,0.0,1484
+27283,Finland,2021-08-09,Omicron,0,0.0,1655
+27307,Finland,2021-08-23,Omicron,0,0.0,1027
+27331,Finland,2021-09-06,Omicron,0,0.0,930
+27355,Finland,2021-09-20,Omicron,0,0.0,749
+27379,Finland,2021-10-04,Omicron,0,0.0,967
+27403,Finland,2021-10-18,Omicron,0,0.0,864
+27427,Finland,2021-11-01,Omicron,0,0.0,670
+27451,Finland,2021-11-15,Omicron,0,0.0,417
+27475,Finland,2021-11-29,Omicron,0,0.0,61
+27499,France,2020-05-11,Omicron,0,0.0,201
+27523,France,2020-05-25,Omicron,0,0.0,64
+27547,France,2020-06-08,Omicron,0,0.0,33
+27571,France,2020-06-22,Omicron,0,0.0,45
+27595,France,2020-07-06,Omicron,0,0.0,30
+27619,France,2020-07-20,Omicron,0,0.0,71
+27643,France,2020-08-03,Omicron,0,0.0,140
+27667,France,2020-08-17,Omicron,0,0.0,239
+27691,France,2020-08-31,Omicron,0,0.0,251
+27715,France,2020-09-14,Omicron,0,0.0,822
+27739,France,2020-09-28,Omicron,0,0.0,488
+27763,France,2020-10-12,Omicron,0,0.0,427
+27787,France,2020-10-26,Omicron,0,0.0,870
+27811,France,2020-11-09,Omicron,0,0.0,1020
+27835,France,2020-11-23,Omicron,0,0.0,619
+27859,France,2020-12-07,Omicron,0,0.0,347
+27883,France,2020-12-21,Omicron,0,0.0,404
+27907,France,2021-01-04,Omicron,0,0.0,518
+27931,France,2021-01-11,Omicron,0,0.0,738
+27955,France,2021-01-25,Omicron,0,0.0,2173
+27979,France,2021-02-08,Omicron,0,0.0,3995
+28003,France,2021-02-22,Omicron,0,0.0,2991
+28027,France,2021-03-08,Omicron,0,0.0,4276
+28051,France,2021-03-22,Omicron,0,0.0,6421
+28075,France,2021-04-05,Omicron,0,0.0,6026
+28099,France,2021-04-19,Omicron,0,0.0,5009
+28123,France,2021-05-03,Omicron,0,0.0,4393
+28147,France,2021-05-17,Omicron,0,0.0,3260
+28171,France,2021-05-31,Omicron,0,0.0,3135
+28195,France,2021-06-14,Omicron,0,0.0,2215
+28219,France,2021-06-28,Omicron,0,0.0,1950
+28243,France,2021-07-12,Omicron,0,0.0,4263
+28267,France,2021-07-26,Omicron,0,0.0,13457
+28291,France,2021-08-09,Omicron,0,0.0,9502
+28315,France,2021-08-23,Omicron,0,0.0,8879
+28339,France,2021-09-06,Omicron,0,0.0,8082
+28363,France,2021-09-20,Omicron,0,0.0,4638
+28387,France,2021-10-04,Omicron,0,0.0,3410
+28411,France,2021-10-18,Omicron,0,0.0,3568
+28435,France,2021-11-01,Omicron,0,0.0,10296
+28459,France,2021-11-15,Omicron,1,0.01,10101
+28483,France,2021-11-29,Omicron,10,0.12,8030
+28507,France,2021-12-13,Omicron,229,2.21,10382
+28531,France,2021-12-27,Omicron,509,22.93,2220
+28555,France,2022-01-05,Omicron,94,80.34,117
+28579,Gambia,2020-05-11,Omicron,0,0.0,13
+28603,Gambia,2020-05-25,Omicron,0,0.0,14
+28627,Gambia,2020-06-08,Omicron,0,0.0,11
+28651,Gambia,2020-06-22,Omicron,0,0.0,5
+28675,Gambia,2020-07-06,Omicron,0,0.0,23
+28699,Gambia,2020-07-20,Omicron,0,0.0,4
+28723,Gambia,2020-08-03,Omicron,0,0.0,241
+28747,Gambia,2020-08-17,Omicron,0,0.0,30
+28771,Gambia,2020-08-31,Omicron,0,0.0,37
+28795,Gambia,2020-09-14,Omicron,0,0.0,21
+28819,Gambia,2020-09-28,Omicron,0,0.0,4
+28843,Gambia,2020-10-12,Omicron,0,0.0,5
+28867,Gambia,2020-10-26,Omicron,0,0.0,1
+28891,Gambia,2021-01-04,Omicron,0,0.0,1
+28915,Gambia,2021-01-11,Omicron,0,0.0,2
+28939,Gambia,2021-01-25,Omicron,0,0.0,8
+28963,Gambia,2021-02-08,Omicron,0,0.0,11
+28987,Gambia,2021-02-22,Omicron,0,0.0,8
+29011,Gambia,2021-03-08,Omicron,0,0.0,21
+29035,Gambia,2021-03-22,Omicron,0,0.0,43
+29059,Gambia,2021-04-05,Omicron,0,0.0,14
+29083,Gambia,2021-04-19,Omicron,0,0.0,5
+29107,Gambia,2021-05-03,Omicron,0,0.0,11
+29131,Gambia,2021-05-17,Omicron,0,0.0,2
+29155,Gambia,2021-05-31,Omicron,0,0.0,12
+29179,Gambia,2021-06-14,Omicron,0,0.0,2
+29203,Gambia,2021-06-28,Omicron,0,0.0,5
+29227,Gambia,2021-07-12,Omicron,0,0.0,69
+29251,Gambia,2021-07-26,Omicron,0,0.0,40
+29275,Gambia,2021-08-09,Omicron,0,0.0,127
+29299,Gambia,2021-08-23,Omicron,0,0.0,73
+29323,Georgia,2020-05-11,Omicron,0,0.0,4
+29347,Georgia,2020-06-08,Omicron,0,0.0,1
+29371,Georgia,2020-06-22,Omicron,0,0.0,1
+29395,Georgia,2020-09-28,Omicron,0,0.0,2
+29419,Georgia,2020-10-12,Omicron,0,0.0,1
+29443,Georgia,2020-11-09,Omicron,0,0.0,2
+29467,Georgia,2020-11-23,Omicron,0,0.0,4
+29491,Georgia,2020-12-07,Omicron,0,0.0,1
+29515,Georgia,2020-12-21,Omicron,0,0.0,3
+29539,Georgia,2021-01-04,Omicron,0,0.0,1
+29563,Georgia,2021-01-11,Omicron,0,0.0,1
+29587,Georgia,2021-01-25,Omicron,0,0.0,4
+29611,Georgia,2021-02-08,Omicron,0,0.0,4
+29635,Georgia,2021-02-22,Omicron,0,0.0,9
+29659,Georgia,2021-03-08,Omicron,0,0.0,10
+29683,Georgia,2021-03-22,Omicron,0,0.0,6
+29707,Georgia,2021-04-05,Omicron,0,0.0,4
+29731,Georgia,2021-04-19,Omicron,0,0.0,1
+29755,Georgia,2021-05-03,Omicron,0,0.0,3
+29779,Georgia,2021-05-17,Omicron,0,0.0,23
+29803,Georgia,2021-05-31,Omicron,0,0.0,28
+29827,Georgia,2021-06-14,Omicron,0,0.0,17
+29851,Georgia,2021-06-28,Omicron,0,0.0,17
+29875,Georgia,2021-07-12,Omicron,0,0.0,27
+29899,Georgia,2021-07-26,Omicron,0,0.0,8
+29923,Georgia,2021-08-09,Omicron,0,0.0,16
+29947,Georgia,2021-08-23,Omicron,0,0.0,12
+29971,Georgia,2021-09-06,Omicron,0,0.0,30
+29995,Georgia,2021-09-20,Omicron,0,0.0,5
+30019,Georgia,2021-10-04,Omicron,0,0.0,70
+30043,Georgia,2021-10-18,Omicron,0,0.0,94
+30067,Georgia,2021-11-01,Omicron,0,0.0,33
+30091,Georgia,2021-11-15,Omicron,0,0.0,81
+30115,Georgia,2021-11-29,Omicron,0,0.0,78
+30139,Georgia,2021-12-13,Omicron,0,0.0,129
+30163,Georgia,2021-12-27,Omicron,46,41.82,110
+30187,Germany,2020-05-11,Omicron,0,0.0,105
+30211,Germany,2020-05-25,Omicron,0,0.0,94
+30235,Germany,2020-06-08,Omicron,0,0.0,82
+30259,Germany,2020-06-22,Omicron,0,0.0,1528
+30283,Germany,2020-07-06,Omicron,0,0.0,390
+30307,Germany,2020-07-20,Omicron,0,0.0,103
+30331,Germany,2020-08-03,Omicron,0,0.0,53
+30355,Germany,2020-08-17,Omicron,0,0.0,144
+30379,Germany,2020-08-31,Omicron,0,0.0,174
+30403,Germany,2020-09-14,Omicron,0,0.0,115
+30427,Germany,2020-09-28,Omicron,0,0.0,324
+30451,Germany,2020-10-12,Omicron,0,0.0,349
+30475,Germany,2020-10-26,Omicron,0,0.0,387
+30499,Germany,2020-11-09,Omicron,0,0.0,494
+30523,Germany,2020-11-23,Omicron,0,0.0,589
+30547,Germany,2020-12-07,Omicron,0,0.0,770
+30571,Germany,2020-12-21,Omicron,0,0.0,999
+30595,Germany,2021-01-04,Omicron,0,0.0,666
+30619,Germany,2021-01-11,Omicron,0,0.0,524
+30643,Germany,2021-01-25,Omicron,0,0.0,3161
+30667,Germany,2021-02-08,Omicron,0,0.0,6330
+30691,Germany,2021-02-22,Omicron,0,0.0,9085
+30715,Germany,2021-03-08,Omicron,0,0.0,11511
+30739,Germany,2021-03-22,Omicron,0,0.0,14479
+30763,Germany,2021-04-05,Omicron,0,0.0,16353
+30787,Germany,2021-04-19,Omicron,0,0.0,19363
+30811,Germany,2021-05-03,Omicron,0,0.0,19306
+30835,Germany,2021-05-17,Omicron,0,0.0,15645
+30859,Germany,2021-05-31,Omicron,0,0.0,9815
+30883,Germany,2021-06-14,Omicron,0,0.0,5401
+30907,Germany,2021-06-28,Omicron,0,0.0,2632
+30931,Germany,2021-07-12,Omicron,0,0.0,2651
+30955,Germany,2021-07-26,Omicron,0,0.0,4588
+30979,Germany,2021-08-09,Omicron,0,0.0,6197
+31003,Germany,2021-08-23,Omicron,0,0.0,13221
+31027,Germany,2021-09-06,Omicron,0,0.0,19285
+31051,Germany,2021-09-20,Omicron,0,0.0,19996
+31075,Germany,2021-10-04,Omicron,0,0.0,15758
+31099,Germany,2021-10-18,Omicron,0,0.0,12393
+31123,Germany,2021-11-01,Omicron,0,0.0,15674
+31147,Germany,2021-11-15,Omicron,0,0.0,17801
+31171,Germany,2021-11-29,Omicron,34,0.15,23129
+31195,Germany,2021-12-13,Omicron,535,2.34,22895
+31219,Germany,2021-12-27,Omicron,1701,13.52,12584
+31243,Ghana,2020-05-11,Omicron,0,0.0,1
+31267,Ghana,2020-05-25,Omicron,0,0.0,18
+31291,Ghana,2020-06-08,Omicron,0,0.0,8
+31315,Ghana,2020-06-22,Omicron,0,0.0,8
+31339,Ghana,2020-07-06,Omicron,0,0.0,1
+31363,Ghana,2020-07-20,Omicron,0,0.0,10
+31387,Ghana,2020-08-03,Omicron,0,0.0,43
+31411,Ghana,2020-08-17,Omicron,0,0.0,5
+31435,Ghana,2020-08-31,Omicron,0,0.0,20
+31459,Ghana,2020-09-14,Omicron,0,0.0,19
+31483,Ghana,2020-09-28,Omicron,0,0.0,1
+31507,Ghana,2020-10-12,Omicron,0,0.0,3
+31531,Ghana,2020-11-09,Omicron,0,0.0,20
+31555,Ghana,2020-11-23,Omicron,0,0.0,17
+31579,Ghana,2020-12-07,Omicron,0,0.0,32
+31603,Ghana,2020-12-21,Omicron,0,0.0,23
+31627,Ghana,2021-01-04,Omicron,0,0.0,22
+31651,Ghana,2021-01-11,Omicron,0,0.0,115
+31675,Ghana,2021-01-25,Omicron,0,0.0,91
+31699,Ghana,2021-02-08,Omicron,0,0.0,76
+31723,Ghana,2021-02-22,Omicron,0,0.0,95
+31747,Ghana,2021-03-08,Omicron,0,0.0,55
+31771,Ghana,2021-03-22,Omicron,0,0.0,61
+31795,Ghana,2021-04-05,Omicron,0,0.0,46
+31819,Ghana,2021-04-19,Omicron,0,0.0,96
+31843,Ghana,2021-05-03,Omicron,0,0.0,84
+31867,Ghana,2021-05-17,Omicron,0,0.0,60
+31891,Ghana,2021-05-31,Omicron,0,0.0,78
+31915,Ghana,2021-06-14,Omicron,0,0.0,58
+31939,Ghana,2021-06-28,Omicron,0,0.0,104
+31963,Ghana,2021-07-12,Omicron,0,0.0,156
+31987,Ghana,2021-07-26,Omicron,0,0.0,168
+32011,Ghana,2021-08-09,Omicron,0,0.0,110
+32035,Ghana,2021-08-23,Omicron,0,0.0,112
+32059,Ghana,2021-09-06,Omicron,0,0.0,17
+32083,Ghana,2021-09-20,Omicron,0,0.0,151
+32107,Ghana,2021-10-04,Omicron,0,0.0,64
+32131,Ghana,2021-10-18,Omicron,0,0.0,90
+32155,Ghana,2021-11-01,Omicron,0,0.0,64
+32179,Ghana,2021-11-15,Omicron,3,10.34,29
+32203,Ghana,2021-11-29,Omicron,52,68.42,76
+32227,Ghana,2021-12-13,Omicron,28,77.78,36
+32251,Greece,2020-05-11,Omicron,0,0.0,8
+32275,Greece,2020-05-25,Omicron,0,0.0,8
+32299,Greece,2020-08-03,Omicron,0,0.0,2
+32323,Greece,2020-08-17,Omicron,0,0.0,15
+32347,Greece,2020-08-31,Omicron,0,0.0,2
+32371,Greece,2020-09-14,Omicron,0,0.0,24
+32395,Greece,2020-09-28,Omicron,0,0.0,40
+32419,Greece,2020-10-12,Omicron,0,0.0,42
+32443,Greece,2020-10-26,Omicron,0,0.0,22
+32467,Greece,2020-11-09,Omicron,0,0.0,207
+32491,Greece,2020-11-23,Omicron,0,0.0,141
+32515,Greece,2020-12-07,Omicron,0,0.0,78
+32539,Greece,2020-12-21,Omicron,0,0.0,264
+32563,Greece,2021-01-04,Omicron,0,0.0,172
+32587,Greece,2021-01-11,Omicron,0,0.0,48
+32611,Greece,2021-01-25,Omicron,0,0.0,142
+32635,Greece,2021-02-08,Omicron,0,0.0,111
+32659,Greece,2021-02-22,Omicron,0,0.0,143
+32683,Greece,2021-03-08,Omicron,0,0.0,1114
+32707,Greece,2021-03-22,Omicron,0,0.0,1040
+32731,Greece,2021-04-05,Omicron,0,0.0,338
+32755,Greece,2021-04-19,Omicron,0,0.0,609
+32779,Greece,2021-05-03,Omicron,0,0.0,1269
+32803,Greece,2021-05-17,Omicron,0,0.0,1255
+32827,Greece,2021-05-31,Omicron,0,0.0,562
+32851,Greece,2021-06-14,Omicron,0,0.0,183
+32875,Greece,2021-06-28,Omicron,0,0.0,84
+32899,Greece,2021-07-12,Omicron,0,0.0,296
+32923,Greece,2021-07-26,Omicron,0,0.0,354
+32947,Greece,2021-08-09,Omicron,0,0.0,218
+32971,Greece,2021-08-23,Omicron,0,0.0,175
+32995,Greece,2021-09-06,Omicron,0,0.0,347
+33019,Greece,2021-09-20,Omicron,0,0.0,649
+33043,Greece,2021-10-04,Omicron,0,0.0,321
+33067,Greece,2021-10-18,Omicron,0,0.0,12
+33091,Greece,2021-11-01,Omicron,0,0.0,155
+33115,Greece,2021-11-15,Omicron,0,0.0,586
+33139,Greece,2021-11-29,Omicron,0,0.0,558
+33163,Greece,2021-12-13,Omicron,2,0.33,610
+33187,Guatemala,2020-05-25,Omicron,0,0.0,3
+33211,Guatemala,2020-06-08,Omicron,0,0.0,6
+33235,Guatemala,2020-06-22,Omicron,0,0.0,19
+33259,Guatemala,2020-07-06,Omicron,0,0.0,11
+33283,Guatemala,2020-07-20,Omicron,0,0.0,6
+33307,Guatemala,2020-08-03,Omicron,0,0.0,10
+33331,Guatemala,2020-08-17,Omicron,0,0.0,3
+33355,Guatemala,2020-08-31,Omicron,0,0.0,1
+33379,Guatemala,2020-09-14,Omicron,0,0.0,1
+33403,Guatemala,2020-09-28,Omicron,0,0.0,4
+33427,Guatemala,2020-10-12,Omicron,0,0.0,48
+33451,Guatemala,2020-10-26,Omicron,0,0.0,31
+33475,Guatemala,2020-11-09,Omicron,0,0.0,29
+33499,Guatemala,2020-11-23,Omicron,0,0.0,7
+33523,Guatemala,2020-12-07,Omicron,0,0.0,17
+33547,Guatemala,2020-12-21,Omicron,0,0.0,10
+33571,Guatemala,2021-01-04,Omicron,0,0.0,11
+33595,Guatemala,2021-01-11,Omicron,0,0.0,35
+33619,Guatemala,2021-01-25,Omicron,0,0.0,51
+33643,Guatemala,2021-02-08,Omicron,0,0.0,29
+33667,Guatemala,2021-02-22,Omicron,0,0.0,9
+33691,Guatemala,2021-03-08,Omicron,0,0.0,44
+33715,Guatemala,2021-03-22,Omicron,0,0.0,14
+33739,Guatemala,2021-04-05,Omicron,0,0.0,9
+33763,Guatemala,2021-04-19,Omicron,0,0.0,27
+33787,Guatemala,2021-05-03,Omicron,0,0.0,8
+33811,Guatemala,2021-05-17,Omicron,0,0.0,11
+33835,Guatemala,2021-05-31,Omicron,0,0.0,19
+33859,Guatemala,2021-06-14,Omicron,0,0.0,24
+33883,Guatemala,2021-06-28,Omicron,0,0.0,82
+33907,Guatemala,2021-07-12,Omicron,0,0.0,171
+33931,Guatemala,2021-07-26,Omicron,0,0.0,55
+33955,Guatemala,2021-08-09,Omicron,0,0.0,76
+33979,Guatemala,2021-08-23,Omicron,0,0.0,85
+34003,Guatemala,2021-09-06,Omicron,0,0.0,95
+34027,Guatemala,2021-09-20,Omicron,0,0.0,135
+34051,Guatemala,2021-10-04,Omicron,0,0.0,125
+34075,Guatemala,2021-10-18,Omicron,0,0.0,59
+34099,Guatemala,2021-11-01,Omicron,0,0.0,23
+34123,Guatemala,2021-11-15,Omicron,0,0.0,24
+34147,Guatemala,2021-11-29,Omicron,0,0.0,18
+34171,Guatemala,2021-12-13,Omicron,0,0.0,4
+34195,Hong Kong,2020-05-11,Omicron,0,0.0,3
+34219,Hong Kong,2020-05-25,Omicron,0,0.0,4
+34243,Hong Kong,2020-06-08,Omicron,0,0.0,8
+34267,Hong Kong,2020-06-22,Omicron,0,0.0,5
+34291,Hong Kong,2020-07-06,Omicron,0,0.0,34
+34315,Hong Kong,2020-07-20,Omicron,0,0.0,234
+34339,Hong Kong,2020-08-03,Omicron,0,0.0,248
+34363,Hong Kong,2020-08-17,Omicron,0,0.0,105
+34387,Hong Kong,2020-08-31,Omicron,0,0.0,55
+34411,Hong Kong,2020-09-14,Omicron,0,0.0,29
+34435,Hong Kong,2020-09-28,Omicron,0,0.0,40
+34459,Hong Kong,2020-10-12,Omicron,0,0.0,65
+34483,Hong Kong,2020-10-26,Omicron,0,0.0,13
+34507,Hong Kong,2020-11-09,Omicron,0,0.0,26
+34531,Hong Kong,2020-11-23,Omicron,0,0.0,114
+34555,Hong Kong,2020-12-07,Omicron,0,0.0,234
+34579,Hong Kong,2020-12-21,Omicron,0,0.0,141
+34603,Hong Kong,2021-01-04,Omicron,0,0.0,182
+34627,Hong Kong,2021-01-11,Omicron,0,0.0,19
+34651,Hong Kong,2021-01-25,Omicron,0,0.0,67
+34675,Hong Kong,2021-02-08,Omicron,0,0.0,45
+34699,Hong Kong,2021-02-22,Omicron,0,0.0,12
+34723,Hong Kong,2021-03-08,Omicron,0,0.0,28
+34747,Hong Kong,2021-03-22,Omicron,0,0.0,139
+34771,Hong Kong,2021-04-05,Omicron,0,0.0,43
+34795,Hong Kong,2021-04-19,Omicron,0,0.0,77
+34819,Hong Kong,2021-05-03,Omicron,0,0.0,40
+34843,Hong Kong,2021-05-17,Omicron,0,0.0,21
+34867,Hong Kong,2021-05-31,Omicron,0,0.0,8
+34891,Hong Kong,2021-06-14,Omicron,0,0.0,30
+34915,Hong Kong,2021-06-28,Omicron,0,0.0,52
+34939,Hong Kong,2021-07-12,Omicron,0,0.0,33
+34963,Hong Kong,2021-07-26,Omicron,0,0.0,15
+34987,Hong Kong,2021-08-09,Omicron,0,0.0,26
+35011,Hong Kong,2021-08-23,Omicron,0,0.0,27
+35035,Hong Kong,2021-09-06,Omicron,0,0.0,49
+35059,Hong Kong,2021-09-20,Omicron,0,0.0,29
+35083,Hong Kong,2021-10-04,Omicron,0,0.0,24
+35107,Hong Kong,2021-10-18,Omicron,0,0.0,28
+35131,Hong Kong,2021-11-01,Omicron,0,0.0,25
+35155,Hong Kong,2021-11-15,Omicron,3,9.68,31
+35179,Hong Kong,2021-11-29,Omicron,11,27.5,40
+35203,Hong Kong,2021-12-13,Omicron,6,24.0,25
+35227,Hong Kong,2021-12-27,Omicron,35,76.09,46
+35251,Hungary,2020-05-11,Omicron,0,0.0,7
+35275,Hungary,2020-05-25,Omicron,0,0.0,5
+35299,Hungary,2020-06-08,Omicron,0,0.0,10
+35323,Hungary,2020-06-22,Omicron,0,0.0,4
+35347,Hungary,2020-07-06,Omicron,0,0.0,3
+35371,Hungary,2020-07-20,Omicron,0,0.0,1
+35395,Hungary,2020-08-31,Omicron,0,0.0,7
+35419,Hungary,2020-09-14,Omicron,0,0.0,71
+35443,Hungary,2020-10-12,Omicron,0,0.0,106
+35467,Hungary,2020-10-26,Omicron,0,0.0,6
+35491,Hungary,2020-11-09,Omicron,0,0.0,37
+35515,Hungary,2020-12-21,Omicron,0,0.0,1
+35539,Hungary,2021-01-11,Omicron,0,0.0,8
+35563,Hungary,2021-01-25,Omicron,0,0.0,19
+35587,Hungary,2021-02-08,Omicron,0,0.0,27
+35611,Hungary,2021-02-22,Omicron,0,0.0,11
+35635,Hungary,2021-03-08,Omicron,0,0.0,3
+35659,Iceland,2020-08-03,Omicron,0,0.0,58
+35683,Iceland,2020-08-17,Omicron,0,0.0,86
+35707,Iceland,2020-08-31,Omicron,0,0.0,80
+35731,Iceland,2020-09-14,Omicron,0,0.0,47
+35755,Iceland,2020-09-28,Omicron,0,0.0,468
+35779,Iceland,2020-10-12,Omicron,0,0.0,867
+35803,Iceland,2020-10-26,Omicron,0,0.0,851
+35827,Iceland,2020-11-09,Omicron,0,0.0,538
+35851,Iceland,2020-11-23,Omicron,0,0.0,170
+35875,Iceland,2020-12-07,Omicron,0,0.0,193
+35899,Iceland,2020-12-21,Omicron,0,0.0,155
+35923,Iceland,2021-01-04,Omicron,0,0.0,140
+35947,Iceland,2021-01-11,Omicron,0,0.0,104
+35971,Iceland,2021-01-25,Omicron,0,0.0,84
+35995,Iceland,2021-02-08,Omicron,0,0.0,29
+36019,Iceland,2021-02-22,Omicron,0,0.0,21
+36043,Iceland,2021-03-08,Omicron,0,0.0,15
+36067,Iceland,2021-03-22,Omicron,0,0.0,54
+36091,Iceland,2021-04-05,Omicron,0,0.0,103
+36115,Iceland,2021-04-19,Omicron,0,0.0,88
+36139,Iceland,2021-05-03,Omicron,0,0.0,157
+36163,Iceland,2021-05-17,Omicron,0,0.0,63
+36187,Iceland,2021-05-31,Omicron,0,0.0,41
+36211,Iceland,2021-06-14,Omicron,0,0.0,45
+36235,Iceland,2021-06-28,Omicron,0,0.0,37
+36259,Iceland,2021-07-12,Omicron,0,0.0,40
+36283,Iceland,2021-07-26,Omicron,0,0.0,623
+36307,Iceland,2021-08-09,Omicron,0,0.0,1449
+36331,Iceland,2021-08-23,Omicron,0,0.0,1268
+36355,Iceland,2021-09-06,Omicron,0,0.0,400
+36379,India,2020-05-11,Omicron,0,0.0,471
+36403,India,2020-05-25,Omicron,0,0.0,649
+36427,India,2020-06-08,Omicron,0,0.0,617
+36451,India,2020-06-22,Omicron,0,0.0,766
+36475,India,2020-07-06,Omicron,0,0.0,276
+36499,India,2020-07-20,Omicron,0,0.0,317
+36523,India,2020-08-03,Omicron,0,0.0,393
+36547,India,2020-08-17,Omicron,0,0.0,418
+36571,India,2020-08-31,Omicron,0,0.0,235
+36595,India,2020-09-14,Omicron,0,0.0,423
+36619,India,2020-09-28,Omicron,0,0.0,397
+36643,India,2020-10-12,Omicron,0,0.0,409
+36667,India,2020-10-26,Omicron,0,0.0,329
+36691,India,2020-11-09,Omicron,0,0.0,354
+36715,India,2020-11-23,Omicron,0,0.0,286
+36739,India,2020-12-07,Omicron,0,0.0,1130
+36763,India,2020-12-21,Omicron,0,0.0,1546
+36787,India,2021-01-04,Omicron,0,0.0,1293
+36811,India,2021-01-11,Omicron,0,0.0,584
+36835,India,2021-01-25,Omicron,0,0.0,1170
+36859,India,2021-02-08,Omicron,0,0.0,1336
+36883,India,2021-02-22,Omicron,0,0.0,1697
+36907,India,2021-03-08,Omicron,0,0.0,2478
+36931,India,2021-03-22,Omicron,0,0.0,3761
+36955,India,2021-04-05,Omicron,0,0.0,4734
+36979,India,2021-04-19,Omicron,0,0.0,7463
+37003,India,2021-05-03,Omicron,0,0.0,8086
+37027,India,2021-05-17,Omicron,0,0.0,6417
+37051,India,2021-05-31,Omicron,0,0.0,5348
+37075,India,2021-06-14,Omicron,0,0.0,4258
+37099,India,2021-06-28,Omicron,0,0.0,3779
+37123,India,2021-07-12,Omicron,0,0.0,3408
+37147,India,2021-07-26,Omicron,0,0.0,3285
+37171,India,2021-08-09,Omicron,0,0.0,2888
+37195,India,2021-08-23,Omicron,0,0.0,2645
+37219,India,2021-09-06,Omicron,0,0.0,3657
+37243,India,2021-09-20,Omicron,0,0.0,3224
+37267,India,2021-10-04,Omicron,0,0.0,2436
+37291,India,2021-10-18,Omicron,0,0.0,1978
+37315,India,2021-11-01,Omicron,0,0.0,1781
+37339,India,2021-11-15,Omicron,1,0.07,1362
+37363,India,2021-11-29,Omicron,5,0.37,1360
+37387,India,2021-12-13,Omicron,35,3.23,1085
+37411,India,2021-12-27,Omicron,174,34.87,499
+37435,Indonesia,2020-05-11,Omicron,0,0.0,11
+37459,Indonesia,2020-05-25,Omicron,0,0.0,13
+37483,Indonesia,2020-06-08,Omicron,0,0.0,18
+37507,Indonesia,2020-06-22,Omicron,0,0.0,20
+37531,Indonesia,2020-07-06,Omicron,0,0.0,16
+37555,Indonesia,2020-07-20,Omicron,0,0.0,18
+37579,Indonesia,2020-08-03,Omicron,0,0.0,28
+37603,Indonesia,2020-08-17,Omicron,0,0.0,26
+37627,Indonesia,2020-08-31,Omicron,0,0.0,24
+37651,Indonesia,2020-09-14,Omicron,0,0.0,41
+37675,Indonesia,2020-09-28,Omicron,0,0.0,22
+37699,Indonesia,2020-10-12,Omicron,0,0.0,29
+37723,Indonesia,2020-10-26,Omicron,0,0.0,55
+37747,Indonesia,2020-11-09,Omicron,0,0.0,43
+37771,Indonesia,2020-11-23,Omicron,0,0.0,82
+37795,Indonesia,2020-12-07,Omicron,0,0.0,79
+37819,Indonesia,2020-12-21,Omicron,0,0.0,98
+37843,Indonesia,2021-01-04,Omicron,0,0.0,156
+37867,Indonesia,2021-01-11,Omicron,0,0.0,227
+37891,Indonesia,2021-01-25,Omicron,0,0.0,386
+37915,Indonesia,2021-02-08,Omicron,0,0.0,240
+37939,Indonesia,2021-02-22,Omicron,0,0.0,192
+37963,Indonesia,2021-03-08,Omicron,0,0.0,301
+37987,Indonesia,2021-03-22,Omicron,0,0.0,252
+38011,Indonesia,2021-04-05,Omicron,0,0.0,175
+38035,Indonesia,2021-04-19,Omicron,0,0.0,183
+38059,Indonesia,2021-05-03,Omicron,0,0.0,248
+38083,Indonesia,2021-05-17,Omicron,0,0.0,353
+38107,Indonesia,2021-05-31,Omicron,0,0.0,590
+38131,Indonesia,2021-06-14,Omicron,0,0.0,650
+38155,Indonesia,2021-06-28,Omicron,0,0.0,1041
+38179,Indonesia,2021-07-12,Omicron,0,0.0,977
+38203,Indonesia,2021-07-26,Omicron,0,0.0,752
+38227,Indonesia,2021-08-09,Omicron,0,0.0,1015
+38251,Indonesia,2021-08-23,Omicron,0,0.0,555
+38275,Indonesia,2021-09-06,Omicron,0,0.0,651
+38299,Indonesia,2021-09-20,Omicron,0,0.0,393
+38323,Indonesia,2021-10-04,Omicron,0,0.0,276
+38347,Indonesia,2021-10-18,Omicron,0,0.0,243
+38371,Indonesia,2021-11-01,Omicron,0,0.0,145
+38395,Indonesia,2021-11-15,Omicron,0,0.0,136
+38419,Indonesia,2021-11-29,Omicron,0,0.0,143
+38443,Indonesia,2021-12-13,Omicron,2,1.0,200
+38467,Indonesia,2021-12-27,Omicron,128,41.56,308
+38491,Iran,2020-05-11,Omicron,0,0.0,12
+38515,Iran,2020-05-25,Omicron,0,0.0,8
+38539,Iran,2020-06-08,Omicron,0,0.0,5
+38563,Iran,2020-06-22,Omicron,0,0.0,11
+38587,Iran,2020-07-06,Omicron,0,0.0,6
+38611,Iran,2020-07-20,Omicron,0,0.0,4
+38635,Iran,2020-08-31,Omicron,0,0.0,6
+38659,Iran,2020-09-28,Omicron,0,0.0,3
+38683,Iran,2020-10-12,Omicron,0,0.0,2
+38707,Iran,2020-10-26,Omicron,0,0.0,3
+38731,Iran,2020-11-09,Omicron,0,0.0,19
+38755,Iran,2020-11-23,Omicron,0,0.0,13
+38779,Iran,2020-12-07,Omicron,0,0.0,15
+38803,Iran,2020-12-21,Omicron,0,0.0,13
+38827,Iran,2021-01-04,Omicron,0,0.0,7
+38851,Iran,2021-01-11,Omicron,0,0.0,15
+38875,Iran,2021-01-25,Omicron,0,0.0,10
+38899,Iran,2021-02-08,Omicron,0,0.0,54
+38923,Iran,2021-02-22,Omicron,0,0.0,33
+38947,Iran,2021-03-08,Omicron,0,0.0,13
+38971,Iran,2021-04-05,Omicron,0,0.0,17
+38995,Iran,2021-04-19,Omicron,0,0.0,22
+39019,Iran,2021-05-03,Omicron,0,0.0,48
+39043,Iran,2021-05-17,Omicron,0,0.0,17
+39067,Iran,2021-05-31,Omicron,0,0.0,4
+39091,Iran,2021-07-26,Omicron,0,0.0,1
+39115,Iran,2021-08-09,Omicron,0,0.0,3
+39139,Iran,2021-09-06,Omicron,0,0.0,2
+39163,Iran,2021-12-13,Omicron,0,0.0,2
+39187,Iran,2021-12-27,Omicron,1,100.0,1
+39211,Iraq,2020-06-08,Omicron,0,0.0,10
+39235,Iraq,2020-06-22,Omicron,0,0.0,18
+39259,Iraq,2020-07-06,Omicron,0,0.0,2
+39283,Iraq,2020-10-12,Omicron,0,0.0,2
+39307,Iraq,2020-12-21,Omicron,0,0.0,2
+39331,Iraq,2021-01-04,Omicron,0,0.0,2
+39355,Iraq,2021-01-11,Omicron,0,0.0,1
+39379,Iraq,2021-01-25,Omicron,0,0.0,4
+39403,Iraq,2021-02-08,Omicron,0,0.0,4
+39427,Iraq,2021-02-22,Omicron,0,0.0,63
+39451,Iraq,2021-03-08,Omicron,0,0.0,15
+39475,Iraq,2021-03-22,Omicron,0,0.0,5
+39499,Iraq,2021-04-05,Omicron,0,0.0,5
+39523,Iraq,2021-04-19,Omicron,0,0.0,2
+39547,Iraq,2021-05-03,Omicron,0,0.0,12
+39571,Iraq,2021-05-17,Omicron,0,0.0,3
+39595,Iraq,2021-05-31,Omicron,0,0.0,2
+39619,Iraq,2021-06-14,Omicron,0,0.0,2
+39643,Iraq,2021-07-12,Omicron,0,0.0,2
+39667,Iraq,2021-07-26,Omicron,0,0.0,8
+39691,Iraq,2021-08-09,Omicron,0,0.0,2
+39715,Iraq,2021-11-15,Omicron,0,0.0,1
+39739,Ireland,2020-05-11,Omicron,0,0.0,115
+39763,Ireland,2020-05-25,Omicron,0,0.0,43
+39787,Ireland,2020-06-08,Omicron,0,0.0,8
+39811,Ireland,2020-06-22,Omicron,0,0.0,5
+39835,Ireland,2020-07-06,Omicron,0,0.0,9
+39859,Ireland,2020-07-20,Omicron,0,0.0,32
+39883,Ireland,2020-08-03,Omicron,0,0.0,59
+39907,Ireland,2020-08-17,Omicron,0,0.0,87
+39931,Ireland,2020-08-31,Omicron,0,0.0,22
+39955,Ireland,2020-09-14,Omicron,0,0.0,79
+39979,Ireland,2020-09-28,Omicron,0,0.0,102
+40003,Ireland,2020-10-12,Omicron,0,0.0,85
+40027,Ireland,2020-10-26,Omicron,0,0.0,100
+40051,Ireland,2020-11-09,Omicron,0,0.0,70
+40075,Ireland,2020-11-23,Omicron,0,0.0,95
+40099,Ireland,2020-12-07,Omicron,0,0.0,91
+40123,Ireland,2020-12-21,Omicron,0,0.0,100
+40147,Ireland,2021-01-04,Omicron,0,0.0,208
+40171,Ireland,2021-01-11,Omicron,0,0.0,140
+40195,Ireland,2021-01-25,Omicron,0,0.0,505
+40219,Ireland,2021-02-08,Omicron,0,0.0,1177
+40243,Ireland,2021-02-22,Omicron,0,0.0,1474
+40267,Ireland,2021-03-08,Omicron,0,0.0,1630
+40291,Ireland,2021-03-22,Omicron,0,0.0,1718
+40315,Ireland,2021-04-05,Omicron,0,0.0,1383
+40339,Ireland,2021-04-19,Omicron,0,0.0,1464
+40363,Ireland,2021-05-03,Omicron,0,0.0,1901
+40387,Ireland,2021-05-17,Omicron,0,0.0,1873
+40411,Ireland,2021-05-31,Omicron,0,0.0,2353
+40435,Ireland,2021-06-14,Omicron,0,0.0,1402
+40459,Ireland,2021-06-28,Omicron,0,0.0,1570
+40483,Ireland,2021-07-12,Omicron,0,0.0,1759
+40507,Ireland,2021-07-26,Omicron,0,0.0,2900
+40531,Ireland,2021-08-09,Omicron,0,0.0,3011
+40555,Ireland,2021-08-23,Omicron,0,0.0,2888
+40579,Ireland,2021-09-06,Omicron,0,0.0,2161
+40603,Ireland,2021-09-20,Omicron,0,0.0,2429
+40627,Ireland,2021-10-04,Omicron,0,0.0,1681
+40651,Ireland,2021-10-18,Omicron,0,0.0,2961
+40675,Ireland,2021-11-01,Omicron,0,0.0,3373
+40699,Ireland,2021-11-15,Omicron,0,0.0,990
+40723,Ireland,2021-11-29,Omicron,6,1.23,487
+40747,Ireland,2021-12-13,Omicron,134,15.09,888
+40771,Israel,2020-05-11,Omicron,0,0.0,8
+40795,Israel,2020-05-25,Omicron,0,0.0,4
+40819,Israel,2020-06-08,Omicron,0,0.0,18
+40843,Israel,2020-06-22,Omicron,0,0.0,7
+40867,Israel,2020-07-06,Omicron,0,0.0,16
+40891,Israel,2020-07-20,Omicron,0,0.0,6
+40915,Israel,2020-08-03,Omicron,0,0.0,48
+40939,Israel,2020-08-17,Omicron,0,0.0,9
+40963,Israel,2020-08-31,Omicron,0,0.0,1
+40987,Israel,2020-09-14,Omicron,0,0.0,3
+41011,Israel,2020-09-28,Omicron,0,0.0,1
+41035,Israel,2020-10-26,Omicron,0,0.0,1
+41059,Israel,2020-11-23,Omicron,0,0.0,1
+41083,Israel,2020-12-07,Omicron,0,0.0,9
+41107,Israel,2020-12-21,Omicron,0,0.0,54
+41131,Israel,2021-01-04,Omicron,0,0.0,1402
+41155,Israel,2021-01-11,Omicron,0,0.0,696
+41179,Israel,2021-01-25,Omicron,0,0.0,1167
+41203,Israel,2021-02-08,Omicron,0,0.0,2335
+41227,Israel,2021-02-22,Omicron,0,0.0,885
+41251,Israel,2021-03-08,Omicron,0,0.0,2004
+41275,Israel,2021-03-22,Omicron,0,0.0,925
+41299,Israel,2021-04-05,Omicron,0,0.0,830
+41323,Israel,2021-04-19,Omicron,0,0.0,482
+41347,Israel,2021-05-03,Omicron,0,0.0,357
+41371,Israel,2021-05-17,Omicron,0,0.0,204
+41395,Israel,2021-05-31,Omicron,0,0.0,150
+41419,Israel,2021-06-14,Omicron,0,0.0,114
+41443,Israel,2021-06-28,Omicron,0,0.0,847
+41467,Israel,2021-07-12,Omicron,0,0.0,1627
+41491,Israel,2021-07-26,Omicron,0,0.0,512
+41515,Israel,2021-08-09,Omicron,0,0.0,1647
+41539,Israel,2021-08-23,Omicron,0,0.0,1562
+41563,Israel,2021-09-06,Omicron,0,0.0,2177
+41587,Israel,2021-09-20,Omicron,0,0.0,2418
+41611,Israel,2021-10-04,Omicron,0,0.0,779
+41635,Israel,2021-10-18,Omicron,0,0.0,1546
+41659,Israel,2021-11-01,Omicron,0,0.0,1041
+41683,Israel,2021-11-15,Omicron,0,0.0,1652
+41707,Israel,2021-11-29,Omicron,7,0.27,2632
+41731,Israel,2021-12-13,Omicron,213,7.38,2885
+41755,Israel,2021-12-27,Omicron,1578,53.76,2935
+41779,Italy,2020-05-11,Omicron,0,0.0,128
+41803,Italy,2020-05-25,Omicron,0,0.0,51
+41827,Italy,2020-06-08,Omicron,0,0.0,35
+41851,Italy,2020-06-22,Omicron,0,0.0,51
+41875,Italy,2020-07-06,Omicron,0,0.0,109
+41899,Italy,2020-07-20,Omicron,0,0.0,33
+41923,Italy,2020-08-03,Omicron,0,0.0,28
+41947,Italy,2020-08-17,Omicron,0,0.0,30
+41971,Italy,2020-08-31,Omicron,0,0.0,133
+41995,Italy,2020-09-14,Omicron,0,0.0,155
+42019,Italy,2020-09-28,Omicron,0,0.0,164
+42043,Italy,2020-10-12,Omicron,0,0.0,153
+42067,Italy,2020-10-26,Omicron,0,0.0,221
+42091,Italy,2020-11-09,Omicron,0,0.0,489
+42115,Italy,2020-11-23,Omicron,0,0.0,261
+42139,Italy,2020-12-07,Omicron,0,0.0,264
+42163,Italy,2020-12-21,Omicron,0,0.0,723
+42187,Italy,2021-01-04,Omicron,0,0.0,764
+42211,Italy,2021-01-11,Omicron,0,0.0,430
+42235,Italy,2021-01-25,Omicron,0,0.0,1202
+42259,Italy,2021-02-08,Omicron,0,0.0,1037
+42283,Italy,2021-02-22,Omicron,0,0.0,3126
+42307,Italy,2021-03-08,Omicron,0,0.0,4193
+42331,Italy,2021-03-22,Omicron,0,0.0,5646
+42355,Italy,2021-04-05,Omicron,0,0.0,3420
+42379,Italy,2021-04-19,Omicron,0,0.0,3809
+42403,Italy,2021-05-03,Omicron,0,0.0,4066
+42427,Italy,2021-05-17,Omicron,0,0.0,2377
+42451,Italy,2021-05-31,Omicron,0,0.0,2678
+42475,Italy,2021-06-14,Omicron,0,0.0,1546
+42499,Italy,2021-06-28,Omicron,0,0.0,1968
+42523,Italy,2021-07-12,Omicron,0,0.0,3054
+42547,Italy,2021-07-26,Omicron,0,0.0,4771
+42571,Italy,2021-08-09,Omicron,0,0.0,4135
+42595,Italy,2021-08-23,Omicron,0,0.0,3261
+42619,Italy,2021-09-06,Omicron,0,0.0,3515
+42643,Italy,2021-09-20,Omicron,0,0.0,2256
+42667,Italy,2021-10-04,Omicron,0,0.0,2494
+42691,Italy,2021-10-18,Omicron,0,0.0,2186
+42715,Italy,2021-11-01,Omicron,0,0.0,2505
+42739,Italy,2021-11-15,Omicron,0,0.0,3024
+42763,Italy,2021-11-29,Omicron,4,0.12,3356
+42787,Italy,2021-12-13,Omicron,36,1.05,3415
+42811,Italy,2021-12-27,Omicron,486,20.63,2356
+42835,Jamaica,2021-01-04,Omicron,0,0.0,5
+42859,Jamaica,2021-01-25,Omicron,0,0.0,7
+42883,Jamaica,2021-02-08,Omicron,0,0.0,10
+42907,Jamaica,2021-02-22,Omicron,0,0.0,3
+42931,Jamaica,2021-03-08,Omicron,0,0.0,112
+42955,Jamaica,2021-03-22,Omicron,0,0.0,1
+42979,Jamaica,2021-04-05,Omicron,0,0.0,9
+43003,Jamaica,2021-04-19,Omicron,0,0.0,10
+43027,Jamaica,2021-05-03,Omicron,0,0.0,1
+43051,Jamaica,2021-05-17,Omicron,0,0.0,30
+43075,Jamaica,2021-05-31,Omicron,0,0.0,26
+43099,Jamaica,2021-07-26,Omicron,0,0.0,92
+43123,Jamaica,2021-08-09,Omicron,0,0.0,8
+43147,Jamaica,2021-08-23,Omicron,0,0.0,34
+43171,Jamaica,2021-09-06,Omicron,0,0.0,9
+43195,Jamaica,2021-10-04,Omicron,0,0.0,1
+43219,Jamaica,2021-10-18,Omicron,0,0.0,1
+43243,Jamaica,2021-11-01,Omicron,0,0.0,7
+43267,Japan,2020-05-11,Omicron,0,0.0,415
+43291,Japan,2020-05-25,Omicron,0,0.0,116
+43315,Japan,2020-06-08,Omicron,0,0.0,146
+43339,Japan,2020-06-22,Omicron,0,0.0,189
+43363,Japan,2020-07-06,Omicron,0,0.0,386
+43387,Japan,2020-07-20,Omicron,0,0.0,779
+43411,Japan,2020-08-03,Omicron,0,0.0,1843
+43435,Japan,2020-08-17,Omicron,0,0.0,2125
+43459,Japan,2020-08-31,Omicron,0,0.0,1450
+43483,Japan,2020-09-14,Omicron,0,0.0,764
+43507,Japan,2020-09-28,Omicron,0,0.0,523
+43531,Japan,2020-10-12,Omicron,0,0.0,546
+43555,Japan,2020-10-26,Omicron,0,0.0,685
+43579,Japan,2020-11-09,Omicron,0,0.0,818
+43603,Japan,2020-11-23,Omicron,0,0.0,1745
+43627,Japan,2020-12-07,Omicron,0,0.0,1976
+43651,Japan,2020-12-21,Omicron,0,0.0,2240
+43675,Japan,2021-01-04,Omicron,0,0.0,2441
+43699,Japan,2021-01-11,Omicron,0,0.0,2303
+43723,Japan,2021-01-25,Omicron,0,0.0,3637
+43747,Japan,2021-02-08,Omicron,0,0.0,2366
+43771,Japan,2021-02-22,Omicron,0,0.0,1316
+43795,Japan,2021-03-08,Omicron,0,0.0,1308
+43819,Japan,2021-03-22,Omicron,0,0.0,2208
+43843,Japan,2021-04-05,Omicron,0,0.0,4081
+43867,Japan,2021-04-19,Omicron,0,0.0,5582
+43891,Japan,2021-05-03,Omicron,0,0.0,10178
+43915,Japan,2021-05-17,Omicron,0,0.0,9411
+43939,Japan,2021-05-31,Omicron,0,0.0,5920
+43963,Japan,2021-06-14,Omicron,0,0.0,4207
+43987,Japan,2021-06-28,Omicron,0,0.0,4220
+44011,Japan,2021-07-12,Omicron,0,0.0,5720
+44035,Japan,2021-07-26,Omicron,0,0.0,10145
+44059,Japan,2021-08-09,Omicron,0,0.0,17302
+44083,Japan,2021-08-23,Omicron,0,0.0,28942
+44107,Japan,2021-09-06,Omicron,0,0.0,24621
+44131,Japan,2021-09-20,Omicron,0,0.0,9641
+44155,Japan,2021-10-04,Omicron,0,0.0,2773
+44179,Japan,2021-10-18,Omicron,0,0.0,1163
+44203,Japan,2021-11-01,Omicron,0,0.0,531
+44227,Japan,2021-11-15,Omicron,0,0.0,423
+44251,Japan,2021-11-29,Omicron,5,1.82,275
+44275,Japan,2021-12-13,Omicron,27,11.95,226
+44299,Japan,2021-12-27,Omicron,118,77.12,153
+44323,Jordan,2020-06-08,Omicron,0,0.0,2
+44347,Jordan,2020-06-22,Omicron,0,0.0,1
+44371,Jordan,2020-07-06,Omicron,0,0.0,3
+44395,Jordan,2020-08-17,Omicron,0,0.0,1
+44419,Jordan,2020-08-31,Omicron,0,0.0,13
+44443,Jordan,2020-09-14,Omicron,0,0.0,27
+44467,Jordan,2020-09-28,Omicron,0,0.0,15
+44491,Jordan,2020-10-12,Omicron,0,0.0,311
+44515,Jordan,2020-10-26,Omicron,0,0.0,90
+44539,Jordan,2020-11-09,Omicron,0,0.0,48
+44563,Jordan,2020-12-07,Omicron,0,0.0,2
+44587,Jordan,2020-12-21,Omicron,0,0.0,2
+44611,Jordan,2021-01-04,Omicron,0,0.0,9
+44635,Jordan,2021-01-11,Omicron,0,0.0,42
+44659,Jordan,2021-01-25,Omicron,0,0.0,6
+44683,Jordan,2021-02-08,Omicron,0,0.0,25
+44707,Jordan,2021-02-22,Omicron,0,0.0,17
+44731,Jordan,2021-03-08,Omicron,0,0.0,12
+44755,Jordan,2021-03-22,Omicron,0,0.0,29
+44779,Jordan,2021-04-05,Omicron,0,0.0,13
+44803,Jordan,2021-04-19,Omicron,0,0.0,19
+44827,Jordan,2021-05-03,Omicron,0,0.0,16
+44851,Jordan,2021-05-17,Omicron,0,0.0,17
+44875,Jordan,2021-05-31,Omicron,0,0.0,14
+44899,Jordan,2021-06-14,Omicron,0,0.0,27
+44923,Jordan,2021-06-28,Omicron,0,0.0,16
+44947,Jordan,2021-07-12,Omicron,0,0.0,12
+44971,Jordan,2021-07-26,Omicron,0,0.0,5
+44995,Jordan,2021-08-09,Omicron,0,0.0,13
+45019,Jordan,2021-08-23,Omicron,0,0.0,12
+45043,Jordan,2021-09-06,Omicron,0,0.0,22
+45067,Jordan,2021-09-20,Omicron,0,0.0,35
+45091,Jordan,2021-10-04,Omicron,0,0.0,71
+45115,Jordan,2021-10-18,Omicron,0,0.0,64
+45139,Jordan,2021-11-01,Omicron,0,0.0,43
+45163,Jordan,2021-11-15,Omicron,0,0.0,39
+45187,Jordan,2021-11-29,Omicron,0,0.0,38
+45211,Jordan,2021-12-13,Omicron,3,11.54,26
+45235,Jordan,2021-12-27,Omicron,22,68.75,32
+45259,Kazakhstan,2020-05-11,Omicron,0,0.0,2
+45283,Kazakhstan,2020-05-25,Omicron,0,0.0,1
+45307,Kazakhstan,2020-11-23,Omicron,0,0.0,9
+45331,Kazakhstan,2020-12-07,Omicron,0,0.0,2
+45355,Kazakhstan,2020-12-21,Omicron,0,0.0,13
+45379,Kazakhstan,2021-01-04,Omicron,0,0.0,9
+45403,Kazakhstan,2021-01-11,Omicron,0,0.0,7
+45427,Kazakhstan,2021-01-25,Omicron,0,0.0,1
+45451,Kazakhstan,2021-03-08,Omicron,0,0.0,16
+45475,Kazakhstan,2021-03-22,Omicron,0,0.0,39
+45499,Kazakhstan,2021-04-05,Omicron,0,0.0,59
+45523,Kazakhstan,2021-04-19,Omicron,0,0.0,35
+45547,Kazakhstan,2021-05-03,Omicron,0,0.0,47
+45571,Kazakhstan,2021-07-26,Omicron,0,0.0,1
+45595,Kazakhstan,2021-08-23,Omicron,0,0.0,93
+45619,Kazakhstan,2021-09-06,Omicron,0,0.0,3
+45643,Kazakhstan,2021-09-20,Omicron,0,0.0,19
+45667,Kazakhstan,2021-10-04,Omicron,0,0.0,20
+45691,Kazakhstan,2021-10-18,Omicron,0,0.0,53
+45715,Kenya,2020-05-11,Omicron,0,0.0,76
+45739,Kenya,2020-05-25,Omicron,0,0.0,125
+45763,Kenya,2020-06-08,Omicron,0,0.0,38
+45787,Kenya,2020-06-22,Omicron,0,0.0,57
+45811,Kenya,2020-07-06,Omicron,0,0.0,89
+45835,Kenya,2020-07-20,Omicron,0,0.0,67
+45859,Kenya,2020-08-03,Omicron,0,0.0,38
+45883,Kenya,2020-08-17,Omicron,0,0.0,56
+45907,Kenya,2020-08-31,Omicron,0,0.0,54
+45931,Kenya,2020-09-14,Omicron,0,0.0,54
+45955,Kenya,2020-09-28,Omicron,0,0.0,17
+45979,Kenya,2020-10-12,Omicron,0,0.0,68
+46003,Kenya,2020-10-26,Omicron,0,0.0,157
+46027,Kenya,2020-11-09,Omicron,0,0.0,344
+46051,Kenya,2020-11-23,Omicron,0,0.0,256
+46075,Kenya,2020-12-07,Omicron,0,0.0,157
+46099,Kenya,2020-12-21,Omicron,0,0.0,75
+46123,Kenya,2021-01-04,Omicron,0,0.0,29
+46147,Kenya,2021-01-11,Omicron,0,0.0,37
+46171,Kenya,2021-01-25,Omicron,0,0.0,52
+46195,Kenya,2021-02-08,Omicron,0,0.0,70
+46219,Kenya,2021-02-22,Omicron,0,0.0,64
+46243,Kenya,2021-03-08,Omicron,0,0.0,224
+46267,Kenya,2021-03-22,Omicron,0,0.0,261
+46291,Kenya,2021-04-05,Omicron,0,0.0,169
+46315,Kenya,2021-04-19,Omicron,0,0.0,133
+46339,Kenya,2021-05-03,Omicron,0,0.0,136
+46363,Kenya,2021-05-17,Omicron,0,0.0,117
+46387,Kenya,2021-05-31,Omicron,0,0.0,194
+46411,Kenya,2021-06-14,Omicron,0,0.0,132
+46435,Kenya,2021-06-28,Omicron,0,0.0,173
+46459,Kenya,2021-07-12,Omicron,0,0.0,278
+46483,Kenya,2021-07-26,Omicron,0,0.0,222
+46507,Kenya,2021-08-09,Omicron,0,0.0,296
+46531,Kenya,2021-08-23,Omicron,0,0.0,290
+46555,Kenya,2021-09-06,Omicron,0,0.0,230
+46579,Kenya,2021-09-20,Omicron,0,0.0,157
+46603,Kenya,2021-10-04,Omicron,0,0.0,99
+46627,Kenya,2021-10-18,Omicron,0,0.0,64
+46651,Kenya,2021-11-01,Omicron,0,0.0,33
+46675,Kenya,2021-11-15,Omicron,0,0.0,47
+46699,Kenya,2021-11-29,Omicron,4,22.22,18
+46723,Kenya,2021-12-13,Omicron,34,77.27,44
+46747,Kosovo,2020-05-11,Omicron,0,0.0,1
+46771,Kosovo,2020-07-20,Omicron,0,0.0,4
+46795,Kosovo,2020-08-03,Omicron,0,0.0,4
+46819,Kosovo,2020-11-23,Omicron,0,0.0,1
+46843,Kosovo,2020-12-21,Omicron,0,0.0,3
+46867,Kosovo,2021-01-04,Omicron,0,0.0,7
+46891,Kosovo,2021-01-11,Omicron,0,0.0,14
+46915,Kosovo,2021-05-03,Omicron,0,0.0,2
+46939,Kosovo,2021-05-17,Omicron,0,0.0,11
+46963,Kosovo,2021-05-31,Omicron,0,0.0,1
+46987,Kosovo,2021-06-14,Omicron,0,0.0,7
+47011,Kosovo,2021-07-12,Omicron,0,0.0,3
+47035,Kosovo,2021-07-26,Omicron,0,0.0,44
+47059,Kosovo,2021-08-09,Omicron,0,0.0,166
+47083,Kosovo,2021-08-23,Omicron,0,0.0,154
+47107,Kosovo,2021-09-06,Omicron,0,0.0,64
+47131,Kosovo,2021-09-20,Omicron,0,0.0,243
+47155,Kosovo,2021-10-04,Omicron,0,0.0,110
+47179,Kosovo,2021-10-18,Omicron,0,0.0,39
+47203,Kosovo,2021-11-01,Omicron,0,0.0,42
+47227,Kosovo,2021-11-15,Omicron,0,0.0,40
+47251,Kosovo,2021-11-29,Omicron,0,0.0,26
+47275,Kosovo,2021-12-13,Omicron,0,0.0,4
+47299,Kuwait,2021-01-04,Omicron,0,0.0,15
+47323,Kuwait,2021-01-25,Omicron,0,0.0,5
+47347,Kuwait,2021-02-08,Omicron,0,0.0,5
+47371,Kuwait,2021-04-19,Omicron,0,0.0,3
+47395,Kuwait,2021-05-31,Omicron,0,0.0,7
+47419,Kuwait,2021-06-14,Omicron,0,0.0,32
+47443,Kuwait,2021-06-28,Omicron,0,0.0,40
+47467,Kuwait,2021-07-12,Omicron,0,0.0,66
+47491,Kuwait,2021-08-09,Omicron,0,0.0,8
+47515,Kuwait,2021-08-23,Omicron,0,0.0,32
+47539,Kuwait,2021-09-06,Omicron,0,0.0,5
+47563,Kuwait,2021-09-20,Omicron,0,0.0,18
+47587,Kuwait,2021-10-04,Omicron,0,0.0,30
+47611,Kuwait,2021-10-18,Omicron,0,0.0,22
+47635,Kuwait,2021-11-01,Omicron,0,0.0,21
+47659,Kuwait,2021-11-15,Omicron,0,0.0,4
+47683,Kuwait,2021-11-29,Omicron,0,0.0,12
+47707,Kuwait,2021-12-13,Omicron,1,33.33,3
+47731,Latvia,2020-05-11,Omicron,0,0.0,19
+47755,Latvia,2020-06-08,Omicron,0,0.0,3
+47779,Latvia,2020-06-22,Omicron,0,0.0,5
+47803,Latvia,2020-07-06,Omicron,0,0.0,3
+47827,Latvia,2020-07-20,Omicron,0,0.0,29
+47851,Latvia,2020-08-03,Omicron,0,0.0,11
+47875,Latvia,2020-08-17,Omicron,0,0.0,18
+47899,Latvia,2020-08-31,Omicron,0,0.0,21
+47923,Latvia,2020-09-14,Omicron,0,0.0,23
+47947,Latvia,2020-09-28,Omicron,0,0.0,46
+47971,Latvia,2020-10-12,Omicron,0,0.0,297
+47995,Latvia,2020-10-26,Omicron,0,0.0,12
+48019,Latvia,2020-11-09,Omicron,0,0.0,1
+48043,Latvia,2020-11-23,Omicron,0,0.0,1
+48067,Latvia,2020-12-21,Omicron,0,0.0,5
+48091,Latvia,2021-01-04,Omicron,0,0.0,1
+48115,Latvia,2021-01-11,Omicron,0,0.0,3
+48139,Latvia,2021-01-25,Omicron,0,0.0,82
+48163,Latvia,2021-02-08,Omicron,0,0.0,249
+48187,Latvia,2021-02-22,Omicron,0,0.0,427
+48211,Latvia,2021-03-08,Omicron,0,0.0,468
+48235,Latvia,2021-03-22,Omicron,0,0.0,991
+48259,Latvia,2021-04-05,Omicron,0,0.0,458
+48283,Latvia,2021-04-19,Omicron,0,0.0,750
+48307,Latvia,2021-05-03,Omicron,0,0.0,725
+48331,Latvia,2021-05-17,Omicron,0,0.0,509
+48355,Latvia,2021-05-31,Omicron,0,0.0,517
+48379,Latvia,2021-06-14,Omicron,0,0.0,65
+48403,Latvia,2021-06-28,Omicron,0,0.0,71
+48427,Latvia,2021-07-12,Omicron,0,0.0,108
+48451,Latvia,2021-07-26,Omicron,0,0.0,137
+48475,Latvia,2021-08-09,Omicron,0,0.0,149
+48499,Latvia,2021-08-23,Omicron,0,0.0,86
+48523,Lebanon,2020-06-08,Omicron,0,0.0,3
+48547,Lebanon,2020-07-06,Omicron,0,0.0,2
+48571,Lebanon,2020-08-03,Omicron,0,0.0,4
+48595,Lebanon,2020-08-17,Omicron,0,0.0,3
+48619,Lebanon,2020-09-14,Omicron,0,0.0,10
+48643,Lebanon,2020-10-12,Omicron,0,0.0,3
+48667,Lebanon,2020-12-07,Omicron,0,0.0,2
+48691,Lebanon,2020-12-21,Omicron,0,0.0,1
+48715,Lebanon,2021-01-04,Omicron,0,0.0,18
+48739,Lebanon,2021-01-11,Omicron,0,0.0,31
+48763,Lebanon,2021-01-25,Omicron,0,0.0,63
+48787,Lebanon,2021-02-08,Omicron,0,0.0,62
+48811,Lebanon,2021-02-22,Omicron,0,0.0,139
+48835,Lebanon,2021-03-08,Omicron,0,0.0,157
+48859,Lebanon,2021-03-22,Omicron,0,0.0,130
+48883,Lebanon,2021-04-05,Omicron,0,0.0,117
+48907,Lebanon,2021-04-19,Omicron,0,0.0,77
+48931,Lebanon,2021-05-03,Omicron,0,0.0,91
+48955,Lebanon,2021-05-17,Omicron,0,0.0,11
+48979,Lebanon,2021-06-28,Omicron,0,0.0,4
+49003,Lebanon,2021-07-12,Omicron,0,0.0,52
+49027,Lebanon,2021-07-26,Omicron,0,0.0,25
+49051,Lebanon,2021-12-13,Omicron,4,100.0,4
+49075,Liechtenstein,2020-10-26,Omicron,0,0.0,3
+49099,Liechtenstein,2020-11-23,Omicron,0,0.0,1
+49123,Liechtenstein,2020-12-07,Omicron,0,0.0,2
+49147,Liechtenstein,2020-12-21,Omicron,0,0.0,12
+49171,Liechtenstein,2021-01-04,Omicron,0,0.0,15
+49195,Liechtenstein,2021-01-25,Omicron,0,0.0,3
+49219,Liechtenstein,2021-02-08,Omicron,0,0.0,9
+49243,Liechtenstein,2021-02-22,Omicron,0,0.0,1
+49267,Liechtenstein,2021-03-08,Omicron,0,0.0,3
+49291,Liechtenstein,2021-04-05,Omicron,0,0.0,1
+49315,Liechtenstein,2021-04-19,Omicron,0,0.0,16
+49339,Liechtenstein,2021-05-03,Omicron,0,0.0,12
+49363,Liechtenstein,2021-05-17,Omicron,0,0.0,7
+49387,Liechtenstein,2021-05-31,Omicron,0,0.0,2
+49411,Liechtenstein,2021-06-14,Omicron,0,0.0,2
+49435,Liechtenstein,2021-06-28,Omicron,0,0.0,2
+49459,Liechtenstein,2021-07-12,Omicron,0,0.0,2
+49483,Liechtenstein,2021-07-26,Omicron,0,0.0,4
+49507,Liechtenstein,2021-08-09,Omicron,0,0.0,2
+49531,Liechtenstein,2021-08-23,Omicron,0,0.0,11
+49555,Liechtenstein,2021-09-06,Omicron,0,0.0,7
+49579,Liechtenstein,2021-09-20,Omicron,0,0.0,5
+49603,Liechtenstein,2021-10-04,Omicron,0,0.0,4
+49627,Liechtenstein,2021-10-18,Omicron,0,0.0,4
+49651,Liechtenstein,2021-11-01,Omicron,0,0.0,11
+49675,Liechtenstein,2021-11-15,Omicron,0,0.0,63
+49699,Liechtenstein,2021-11-29,Omicron,0,0.0,131
+49723,Liechtenstein,2021-12-13,Omicron,2,1.59,126
+49747,Lithuania,2020-05-25,Omicron,0,0.0,13
+49771,Lithuania,2020-06-08,Omicron,0,0.0,2
+49795,Lithuania,2020-08-03,Omicron,0,0.0,9
+49819,Lithuania,2020-08-17,Omicron,0,0.0,16
+49843,Lithuania,2020-08-31,Omicron,0,0.0,14
+49867,Lithuania,2020-09-14,Omicron,0,0.0,30
+49891,Lithuania,2020-09-28,Omicron,0,0.0,4
+49915,Lithuania,2020-10-12,Omicron,0,0.0,4
+49939,Lithuania,2020-10-26,Omicron,0,0.0,2
+49963,Lithuania,2020-11-09,Omicron,0,0.0,3
+49987,Lithuania,2020-11-23,Omicron,0,0.0,17
+50011,Lithuania,2020-12-07,Omicron,0,0.0,199
+50035,Lithuania,2020-12-21,Omicron,0,0.0,206
+50059,Lithuania,2021-01-04,Omicron,0,0.0,112
+50083,Lithuania,2021-01-11,Omicron,0,0.0,122
+50107,Lithuania,2021-01-25,Omicron,0,0.0,191
+50131,Lithuania,2021-02-08,Omicron,0,0.0,181
+50155,Lithuania,2021-02-22,Omicron,0,0.0,881
+50179,Lithuania,2021-03-08,Omicron,0,0.0,1198
+50203,Lithuania,2021-03-22,Omicron,0,0.0,1395
+50227,Lithuania,2021-04-05,Omicron,0,0.0,1624
+50251,Lithuania,2021-04-19,Omicron,0,0.0,1710
+50275,Lithuania,2021-05-03,Omicron,0,0.0,1619
+50299,Lithuania,2021-05-17,Omicron,0,0.0,1422
+50323,Lithuania,2021-05-31,Omicron,0,0.0,1484
+50347,Lithuania,2021-06-14,Omicron,0,0.0,664
+50371,Lithuania,2021-06-28,Omicron,0,0.0,211
+50395,Lithuania,2021-07-12,Omicron,0,0.0,236
+50419,Lithuania,2021-07-26,Omicron,0,0.0,993
+50443,Lithuania,2021-08-09,Omicron,0,0.0,1516
+50467,Lithuania,2021-08-23,Omicron,0,0.0,1415
+50491,Lithuania,2021-09-06,Omicron,0,0.0,1200
+50515,Lithuania,2021-09-20,Omicron,0,0.0,871
+50539,Lithuania,2021-10-04,Omicron,0,0.0,731
+50563,Lithuania,2021-10-18,Omicron,0,0.0,944
+50587,Lithuania,2021-11-01,Omicron,0,0.0,1008
+50611,Lithuania,2021-11-15,Omicron,0,0.0,1167
+50635,Lithuania,2021-11-29,Omicron,0,0.0,858
+50659,Lithuania,2021-12-13,Omicron,6,0.67,899
+50683,Lithuania,2021-12-27,Omicron,50,23.58,212
+50707,Luxembourg,2020-05-11,Omicron,0,0.0,6
+50731,Luxembourg,2020-05-25,Omicron,0,0.0,12
+50755,Luxembourg,2020-06-22,Omicron,0,0.0,4
+50779,Luxembourg,2020-07-06,Omicron,0,0.0,20
+50803,Luxembourg,2020-07-20,Omicron,0,0.0,24
+50827,Luxembourg,2020-08-03,Omicron,0,0.0,20
+50851,Luxembourg,2020-08-17,Omicron,0,0.0,17
+50875,Luxembourg,2020-08-31,Omicron,0,0.0,4
+50899,Luxembourg,2020-09-14,Omicron,0,0.0,7
+50923,Luxembourg,2020-09-28,Omicron,0,0.0,18
+50947,Luxembourg,2020-10-12,Omicron,0,0.0,34
+50971,Luxembourg,2020-10-26,Omicron,0,0.0,394
+50995,Luxembourg,2020-11-09,Omicron,0,0.0,535
+51019,Luxembourg,2020-11-23,Omicron,0,0.0,444
+51043,Luxembourg,2020-12-07,Omicron,0,0.0,769
+51067,Luxembourg,2020-12-21,Omicron,0,0.0,676
+51091,Luxembourg,2021-01-04,Omicron,0,0.0,267
+51115,Luxembourg,2021-01-11,Omicron,0,0.0,114
+51139,Luxembourg,2021-01-25,Omicron,0,0.0,256
+51163,Luxembourg,2021-02-08,Omicron,0,0.0,593
+51187,Luxembourg,2021-02-22,Omicron,0,0.0,354
+51211,Luxembourg,2021-03-08,Omicron,0,0.0,754
+51235,Luxembourg,2021-03-22,Omicron,0,0.0,683
+51259,Luxembourg,2021-04-05,Omicron,0,0.0,948
+51283,Luxembourg,2021-04-19,Omicron,0,0.0,1043
+51307,Luxembourg,2021-05-03,Omicron,0,0.0,1073
+51331,Luxembourg,2021-05-17,Omicron,0,0.0,744
+51355,Luxembourg,2021-05-31,Omicron,0,0.0,392
+51379,Luxembourg,2021-06-14,Omicron,0,0.0,240
+51403,Luxembourg,2021-06-28,Omicron,0,0.0,130
+51427,Luxembourg,2021-07-12,Omicron,0,0.0,944
+51451,Luxembourg,2021-07-26,Omicron,0,0.0,699
+51475,Luxembourg,2021-08-09,Omicron,0,0.0,459
+51499,Luxembourg,2021-08-23,Omicron,0,0.0,413
+51523,Luxembourg,2021-09-06,Omicron,0,0.0,549
+51547,Luxembourg,2021-09-20,Omicron,0,0.0,600
+51571,Luxembourg,2021-10-04,Omicron,0,0.0,705
+51595,Luxembourg,2021-10-18,Omicron,0,0.0,764
+51619,Luxembourg,2021-11-01,Omicron,0,0.0,798
+51643,Luxembourg,2021-11-15,Omicron,0,0.0,766
+51667,Luxembourg,2021-11-29,Omicron,0,0.0,1044
+51691,Luxembourg,2021-12-13,Omicron,1,0.15,653
+51715,Madagascar,2020-05-11,Omicron,0,0.0,13
+51739,Madagascar,2020-05-25,Omicron,0,0.0,14
+51763,Madagascar,2020-06-08,Omicron,0,0.0,35
+51787,Madagascar,2020-06-22,Omicron,0,0.0,23
+51811,Madagascar,2020-07-06,Omicron,0,0.0,31
+51835,Madagascar,2020-07-20,Omicron,0,0.0,36
+51859,Madagascar,2020-08-03,Omicron,0,0.0,29
+51883,Madagascar,2020-08-17,Omicron,0,0.0,15
+51907,Madagascar,2020-08-31,Omicron,0,0.0,26
+51931,Madagascar,2020-09-14,Omicron,0,0.0,25
+51955,Madagascar,2020-09-28,Omicron,0,0.0,9
+51979,Madagascar,2020-10-12,Omicron,0,0.0,13
+52003,Madagascar,2020-10-26,Omicron,0,0.0,10
+52027,Madagascar,2020-11-09,Omicron,0,0.0,10
+52051,Madagascar,2020-11-23,Omicron,0,0.0,19
+52075,Madagascar,2020-12-07,Omicron,0,0.0,10
+52099,Madagascar,2020-12-21,Omicron,0,0.0,21
+52123,Madagascar,2021-01-04,Omicron,0,0.0,13
+52147,Madagascar,2021-01-11,Omicron,0,0.0,17
+52171,Madagascar,2021-01-25,Omicron,0,0.0,38
+52195,Madagascar,2021-02-08,Omicron,0,0.0,33
+52219,Madagascar,2021-02-22,Omicron,0,0.0,19
+52243,Madagascar,2021-03-08,Omicron,0,0.0,28
+52267,Madagascar,2021-03-22,Omicron,0,0.0,39
+52291,Madagascar,2021-04-05,Omicron,0,0.0,52
+52315,Madagascar,2021-04-19,Omicron,0,0.0,113
+52339,Madagascar,2021-05-03,Omicron,0,0.0,16
+52363,Madagascar,2021-05-17,Omicron,0,0.0,15
+52387,Madagascar,2021-05-31,Omicron,0,0.0,10
+52411,Madagascar,2021-07-12,Omicron,0,0.0,17
+52435,Madagascar,2021-07-26,Omicron,0,0.0,23
+52459,Malawi,2020-08-17,Omicron,0,0.0,1
+52483,Malawi,2020-09-28,Omicron,0,0.0,1
+52507,Malawi,2020-12-07,Omicron,0,0.0,2
+52531,Malawi,2020-12-21,Omicron,0,0.0,1
+52555,Malawi,2021-01-04,Omicron,0,0.0,18
+52579,Malawi,2021-01-11,Omicron,0,0.0,12
+52603,Malawi,2021-01-25,Omicron,0,0.0,154
+52627,Malawi,2021-02-08,Omicron,0,0.0,69
+52651,Malawi,2021-02-22,Omicron,0,0.0,21
+52675,Malawi,2021-03-08,Omicron,0,0.0,45
+52699,Malawi,2021-03-22,Omicron,0,0.0,23
+52723,Malawi,2021-04-05,Omicron,0,0.0,6
+52747,Malawi,2021-04-19,Omicron,0,0.0,40
+52771,Malawi,2021-05-03,Omicron,0,0.0,33
+52795,Malawi,2021-05-17,Omicron,0,0.0,4
+52819,Malawi,2021-05-31,Omicron,0,0.0,24
+52843,Malawi,2021-06-14,Omicron,0,0.0,50
+52867,Malawi,2021-06-28,Omicron,0,0.0,72
+52891,Malawi,2021-07-12,Omicron,0,0.0,76
+52915,Malawi,2021-07-26,Omicron,0,0.0,33
+52939,Malawi,2021-08-09,Omicron,0,0.0,38
+52963,Malawi,2021-08-23,Omicron,0,0.0,15
+52987,Malawi,2021-09-06,Omicron,0,0.0,12
+53011,Malawi,2021-09-20,Omicron,0,0.0,24
+53035,Malawi,2021-10-04,Omicron,0,0.0,2
+53059,Malawi,2021-11-01,Omicron,0,0.0,1
+53083,Malawi,2021-12-13,Omicron,13,100.0,13
+53107,Malawi,2021-12-27,Omicron,21,100.0,21
+53131,Malaysia,2020-05-11,Omicron,0,0.0,7
+53155,Malaysia,2020-05-25,Omicron,0,0.0,14
+53179,Malaysia,2020-06-08,Omicron,0,0.0,8
+53203,Malaysia,2020-06-22,Omicron,0,0.0,3
+53227,Malaysia,2020-07-20,Omicron,0,0.0,2
+53251,Malaysia,2020-08-03,Omicron,0,0.0,6
+53275,Malaysia,2020-08-17,Omicron,0,0.0,9
+53299,Malaysia,2020-08-31,Omicron,0,0.0,1
+53323,Malaysia,2020-09-14,Omicron,0,0.0,23
+53347,Malaysia,2020-10-12,Omicron,0,0.0,26
+53371,Malaysia,2020-10-26,Omicron,0,0.0,41
+53395,Malaysia,2020-11-09,Omicron,0,0.0,76
+53419,Malaysia,2020-11-23,Omicron,0,0.0,62
+53443,Malaysia,2020-12-07,Omicron,0,0.0,42
+53467,Malaysia,2020-12-21,Omicron,0,0.0,65
+53491,Malaysia,2021-01-04,Omicron,0,0.0,37
+53515,Malaysia,2021-01-11,Omicron,0,0.0,56
+53539,Malaysia,2021-01-25,Omicron,0,0.0,170
+53563,Malaysia,2021-02-08,Omicron,0,0.0,104
+53587,Malaysia,2021-02-22,Omicron,0,0.0,106
+53611,Malaysia,2021-03-08,Omicron,0,0.0,57
+53635,Malaysia,2021-03-22,Omicron,0,0.0,64
+53659,Malaysia,2021-04-05,Omicron,0,0.0,110
+53683,Malaysia,2021-04-19,Omicron,0,0.0,208
+53707,Malaysia,2021-05-03,Omicron,0,0.0,125
+53731,Malaysia,2021-05-17,Omicron,0,0.0,125
+53755,Malaysia,2021-05-31,Omicron,0,0.0,73
+53779,Malaysia,2021-06-14,Omicron,0,0.0,72
+53803,Malaysia,2021-06-28,Omicron,0,0.0,104
+53827,Malaysia,2021-07-12,Omicron,0,0.0,134
+53851,Malaysia,2021-07-26,Omicron,0,0.0,212
+53875,Malaysia,2021-08-09,Omicron,0,0.0,452
+53899,Malaysia,2021-08-23,Omicron,0,0.0,627
+53923,Malaysia,2021-09-06,Omicron,0,0.0,686
+53947,Malaysia,2021-09-20,Omicron,0,0.0,819
+53971,Malaysia,2021-10-04,Omicron,0,0.0,683
+53995,Malaysia,2021-10-18,Omicron,0,0.0,458
+54019,Malaysia,2021-11-01,Omicron,0,0.0,417
+54043,Malaysia,2021-11-15,Omicron,0,0.0,397
+54067,Malaysia,2021-11-29,Omicron,1,0.33,301
+54091,Malaysia,2021-12-13,Omicron,11,5.05,218
+54115,Malaysia,2021-12-27,Omicron,5,11.9,42
+54139,Maldives,2020-05-11,Omicron,0,0.0,1
+54163,Maldives,2020-05-25,Omicron,0,0.0,1
+54187,Maldives,2020-06-08,Omicron,0,0.0,1
+54211,Maldives,2020-06-22,Omicron,0,0.0,1
+54235,Maldives,2020-07-20,Omicron,0,0.0,2
+54259,Maldives,2020-08-03,Omicron,0,0.0,1
+54283,Maldives,2020-08-17,Omicron,0,0.0,3
+54307,Maldives,2020-09-28,Omicron,0,0.0,1
+54331,Maldives,2020-11-09,Omicron,0,0.0,1
+54355,Maldives,2020-11-23,Omicron,0,0.0,1
+54379,Maldives,2021-01-04,Omicron,0,0.0,4
+54403,Maldives,2021-01-11,Omicron,0,0.0,2
+54427,Maldives,2021-01-25,Omicron,0,0.0,1
+54451,Maldives,2021-02-08,Omicron,0,0.0,5
+54475,Maldives,2021-02-22,Omicron,0,0.0,1
+54499,Maldives,2021-03-08,Omicron,0,0.0,5
+54523,Maldives,2021-03-22,Omicron,0,0.0,2
+54547,Maldives,2021-04-05,Omicron,0,0.0,3
+54571,Maldives,2021-05-03,Omicron,0,0.0,5
+54595,Maldives,2021-05-17,Omicron,0,0.0,4
+54619,Maldives,2021-05-31,Omicron,0,0.0,5
+54643,Maldives,2021-06-14,Omicron,0,0.0,1
+54667,Maldives,2021-06-28,Omicron,0,0.0,7
+54691,Maldives,2021-07-12,Omicron,0,0.0,3
+54715,Maldives,2021-07-26,Omicron,0,0.0,17
+54739,Maldives,2021-08-09,Omicron,0,0.0,24
+54763,Maldives,2021-08-23,Omicron,0,0.0,51
+54787,Maldives,2021-09-06,Omicron,0,0.0,106
+54811,Maldives,2021-09-20,Omicron,0,0.0,61
+54835,Maldives,2021-10-04,Omicron,0,0.0,113
+54859,Maldives,2021-10-18,Omicron,0,0.0,97
+54883,Maldives,2021-11-01,Omicron,0,0.0,52
+54907,Maldives,2021-11-15,Omicron,0,0.0,85
+54931,Maldives,2021-11-29,Omicron,1,1.69,59
+54955,Maldives,2021-12-13,Omicron,3,2.8,107
+54979,Maldives,2021-12-27,Omicron,7,21.88,32
+55003,Malta,2020-08-17,Omicron,0,0.0,1
+55027,Malta,2020-08-31,Omicron,0,0.0,2
+55051,Malta,2020-09-14,Omicron,0,0.0,7
+55075,Malta,2021-04-05,Omicron,0,0.0,38
+55099,Malta,2021-04-19,Omicron,0,0.0,32
+55123,Malta,2021-05-03,Omicron,0,0.0,44
+55147,Malta,2021-05-17,Omicron,0,0.0,32
+55171,Malta,2021-05-31,Omicron,0,0.0,15
+55195,Malta,2021-06-14,Omicron,0,0.0,11
+55219,Malta,2021-06-28,Omicron,0,0.0,9
+55243,Malta,2021-07-12,Omicron,0,0.0,60
+55267,Malta,2021-07-26,Omicron,0,0.0,48
+55291,Malta,2021-08-09,Omicron,0,0.0,19
+55315,Malta,2021-10-18,Omicron,0,0.0,52
+55339,Malta,2021-11-01,Omicron,0,0.0,24
+55363,Malta,2021-11-15,Omicron,0,0.0,22
+55387,Malta,2021-11-29,Omicron,0,0.0,132
+55411,Malta,2021-12-13,Omicron,0,0.0,21
+55435,Malta,2021-12-27,Omicron,34,100.0,34
+55459,Mauritius,2020-10-26,Omicron,0,0.0,2
+55483,Mauritius,2020-11-09,Omicron,0,0.0,1
+55507,Mauritius,2020-11-23,Omicron,0,0.0,3
+55531,Mauritius,2020-12-07,Omicron,0,0.0,4
+55555,Mauritius,2020-12-21,Omicron,0,0.0,2
+55579,Mauritius,2021-01-04,Omicron,0,0.0,2
+55603,Mauritius,2021-01-11,Omicron,0,0.0,8
+55627,Mauritius,2021-01-25,Omicron,0,0.0,6
+55651,Mauritius,2021-02-08,Omicron,0,0.0,5
+55675,Mauritius,2021-02-22,Omicron,0,0.0,3
+55699,Mauritius,2021-03-08,Omicron,0,0.0,8
+55723,Mauritius,2021-03-22,Omicron,0,0.0,89
+55747,Mauritius,2021-04-05,Omicron,0,0.0,10
+55771,Mauritius,2021-04-19,Omicron,0,0.0,3
+55795,Mauritius,2021-05-03,Omicron,0,0.0,8
+55819,Mauritius,2021-05-17,Omicron,0,0.0,40
+55843,Mauritius,2021-05-31,Omicron,0,0.0,8
+55867,Mauritius,2021-06-14,Omicron,0,0.0,13
+55891,Mauritius,2021-06-28,Omicron,0,0.0,18
+55915,Mauritius,2021-07-12,Omicron,0,0.0,23
+55939,Mauritius,2021-07-26,Omicron,0,0.0,21
+55963,Mauritius,2021-08-09,Omicron,0,0.0,10
+55987,Mauritius,2021-08-23,Omicron,0,0.0,7
+56011,Mauritius,2021-09-06,Omicron,0,0.0,18
+56035,Mauritius,2021-09-20,Omicron,0,0.0,11
+56059,Mauritius,2021-10-04,Omicron,0,0.0,13
+56083,Mauritius,2021-10-18,Omicron,0,0.0,17
+56107,Mauritius,2021-11-01,Omicron,0,0.0,31
+56131,Mauritius,2021-11-15,Omicron,0,0.0,2
+56155,Mauritius,2021-11-29,Omicron,6,7.32,82
+56179,Mexico,2020-05-11,Omicron,0,0.0,208
+56203,Mexico,2020-05-25,Omicron,0,0.0,264
+56227,Mexico,2020-06-08,Omicron,0,0.0,290
+56251,Mexico,2020-06-22,Omicron,0,0.0,166
+56275,Mexico,2020-07-06,Omicron,0,0.0,219
+56299,Mexico,2020-07-20,Omicron,0,0.0,135
+56323,Mexico,2020-08-03,Omicron,0,0.0,155
+56347,Mexico,2020-08-17,Omicron,0,0.0,144
+56371,Mexico,2020-08-31,Omicron,0,0.0,178
+56395,Mexico,2020-09-14,Omicron,0,0.0,123
+56419,Mexico,2020-09-28,Omicron,0,0.0,62
+56443,Mexico,2020-10-12,Omicron,0,0.0,81
+56467,Mexico,2020-10-26,Omicron,0,0.0,90
+56491,Mexico,2020-11-09,Omicron,0,0.0,89
+56515,Mexico,2020-11-23,Omicron,0,0.0,170
+56539,Mexico,2020-12-07,Omicron,0,0.0,233
+56563,Mexico,2020-12-21,Omicron,0,0.0,310
+56587,Mexico,2021-01-04,Omicron,0,0.0,277
+56611,Mexico,2021-01-11,Omicron,0,0.0,128
+56635,Mexico,2021-01-25,Omicron,0,0.0,365
+56659,Mexico,2021-02-08,Omicron,0,0.0,362
+56683,Mexico,2021-02-22,Omicron,0,0.0,1128
+56707,Mexico,2021-03-08,Omicron,0,0.0,1327
+56731,Mexico,2021-03-22,Omicron,0,0.0,1130
+56755,Mexico,2021-04-05,Omicron,0,0.0,1011
+56779,Mexico,2021-04-19,Omicron,0,0.0,1263
+56803,Mexico,2021-05-03,Omicron,0,0.0,1390
+56827,Mexico,2021-05-17,Omicron,0,0.0,1589
+56851,Mexico,2021-05-31,Omicron,0,0.0,1724
+56875,Mexico,2021-06-14,Omicron,0,0.0,2222
+56899,Mexico,2021-06-28,Omicron,0,0.0,1889
+56923,Mexico,2021-07-12,Omicron,0,0.0,2121
+56947,Mexico,2021-07-26,Omicron,0,0.0,2443
+56971,Mexico,2021-08-09,Omicron,0,0.0,3024
+56995,Mexico,2021-08-23,Omicron,0,0.0,2528
+57019,Mexico,2021-09-06,Omicron,0,0.0,2069
+57043,Mexico,2021-09-20,Omicron,0,0.0,2057
+57067,Mexico,2021-10-04,Omicron,0,0.0,2511
+57091,Mexico,2021-10-18,Omicron,0,0.0,1868
+57115,Mexico,2021-11-01,Omicron,0,0.0,1724
+57139,Mexico,2021-11-15,Omicron,0,0.0,1384
+57163,Mexico,2021-11-29,Omicron,2,0.21,938
+57187,Mexico,2021-12-13,Omicron,12,1.2,998
+57211,Mexico,2021-12-27,Omicron,240,55.17,435
+57235,Mexico,2022-01-05,Omicron,0,0.0,11
+57259,Moldova,2020-06-22,Omicron,0,0.0,4
+57283,Moldova,2020-09-14,Omicron,0,0.0,8
+57307,Moldova,2021-02-08,Omicron,0,0.0,3
+57331,Moldova,2021-02-22,Omicron,0,0.0,1
+57355,Moldova,2021-03-08,Omicron,0,0.0,7
+57379,Moldova,2021-03-22,Omicron,0,0.0,2
+57403,Moldova,2021-04-05,Omicron,0,0.0,5
+57427,Moldova,2021-04-19,Omicron,0,0.0,2
+57451,Moldova,2021-05-03,Omicron,0,0.0,4
+57475,Moldova,2021-05-17,Omicron,0,0.0,12
+57499,Moldova,2021-05-31,Omicron,0,0.0,1
+57523,Moldova,2021-06-28,Omicron,0,0.0,6
+57547,Moldova,2021-07-12,Omicron,0,0.0,7
+57571,Moldova,2021-08-23,Omicron,0,0.0,4
+57595,Moldova,2021-09-06,Omicron,0,0.0,9
+57619,Moldova,2021-09-20,Omicron,0,0.0,26
+57643,Moldova,2021-11-01,Omicron,0,0.0,2
+57667,Moldova,2021-11-15,Omicron,0,0.0,10
+57691,Moldova,2021-11-29,Omicron,0,0.0,9
+57715,Moldova,2021-12-13,Omicron,0,0.0,15
+57739,Moldova,2021-12-27,Omicron,0,0.0,15
+57763,Monaco,2021-01-25,Omicron,0,0.0,1
+57787,Monaco,2021-02-08,Omicron,0,0.0,1
+57811,Monaco,2021-03-08,Omicron,0,0.0,4
+57835,Monaco,2021-04-19,Omicron,0,0.0,2
+57859,Monaco,2021-05-31,Omicron,0,0.0,1
+57883,Monaco,2021-06-14,Omicron,0,0.0,11
+57907,Monaco,2021-06-28,Omicron,0,0.0,20
+57931,Monaco,2021-07-12,Omicron,0,0.0,1
+57955,Monaco,2021-07-26,Omicron,0,0.0,14
+57979,Monaco,2021-08-09,Omicron,0,0.0,14
+58003,Monaco,2021-09-06,Omicron,0,0.0,6
+58027,Monaco,2021-09-20,Omicron,0,0.0,2
+58051,Monaco,2021-11-01,Omicron,0,0.0,3
+58075,Monaco,2021-11-15,Omicron,0,0.0,3
+58099,Monaco,2021-12-27,Omicron,0,0.0,1
+58123,Mongolia,2020-08-17,Omicron,0,0.0,1
+58147,Mongolia,2020-10-12,Omicron,0,0.0,1
+58171,Mongolia,2020-11-09,Omicron,0,0.0,2
+58195,Mongolia,2020-11-23,Omicron,0,0.0,1
+58219,Mongolia,2020-12-07,Omicron,0,0.0,1
+58243,Mongolia,2020-12-21,Omicron,0,0.0,1
+58267,Mongolia,2021-01-04,Omicron,0,0.0,2
+58291,Mongolia,2021-01-11,Omicron,0,0.0,2
+58315,Mongolia,2021-01-25,Omicron,0,0.0,2
+58339,Mongolia,2021-02-08,Omicron,0,0.0,1
+58363,Mongolia,2021-02-22,Omicron,0,0.0,3
+58387,Mongolia,2021-03-08,Omicron,0,0.0,2
+58411,Mongolia,2021-03-22,Omicron,0,0.0,7
+58435,Mongolia,2021-04-19,Omicron,0,0.0,2
+58459,Mongolia,2021-05-17,Omicron,0,0.0,3
+58483,Mongolia,2021-06-28,Omicron,0,0.0,16
+58507,Mongolia,2021-07-12,Omicron,0,0.0,34
+58531,Mongolia,2021-07-26,Omicron,0,0.0,17
+58555,Mongolia,2021-08-09,Omicron,0,0.0,52
+58579,Montenegro,2020-07-20,Omicron,0,0.0,9
+58603,Montenegro,2021-01-25,Omicron,0,0.0,19
+58627,Montenegro,2021-06-14,Omicron,0,0.0,17
+58651,Montenegro,2021-06-28,Omicron,0,0.0,18
+58675,Montenegro,2021-07-12,Omicron,0,0.0,20
+58699,Montenegro,2021-07-26,Omicron,0,0.0,30
+58723,Montenegro,2021-08-09,Omicron,0,0.0,72
+58747,Montenegro,2021-08-23,Omicron,0,0.0,41
+58771,Montenegro,2021-09-06,Omicron,0,0.0,34
+58795,Montenegro,2021-09-20,Omicron,0,0.0,5
+58819,Montenegro,2021-10-04,Omicron,0,0.0,1
+58843,Montenegro,2021-10-18,Omicron,0,0.0,15
+58867,Montenegro,2021-11-01,Omicron,0,0.0,34
+58891,Montenegro,2021-11-15,Omicron,0,0.0,38
+58915,Montenegro,2021-11-29,Omicron,0,0.0,25
+58939,Montenegro,2021-12-13,Omicron,6,8.7,69
+58963,Morocco,2020-05-11,Omicron,0,0.0,25
+58987,Morocco,2020-05-25,Omicron,0,0.0,3
+59011,Morocco,2020-06-08,Omicron,0,0.0,1
+59035,Morocco,2020-06-22,Omicron,0,0.0,1
+59059,Morocco,2020-07-06,Omicron,0,0.0,2
+59083,Morocco,2020-07-20,Omicron,0,0.0,19
+59107,Morocco,2020-08-17,Omicron,0,0.0,2
+59131,Morocco,2020-09-28,Omicron,0,0.0,2
+59155,Morocco,2020-11-09,Omicron,0,0.0,1
+59179,Morocco,2020-12-21,Omicron,0,0.0,26
+59203,Morocco,2021-01-04,Omicron,0,0.0,15
+59227,Morocco,2021-01-11,Omicron,0,0.0,22
+59251,Morocco,2021-01-25,Omicron,0,0.0,1
+59275,Morocco,2021-02-08,Omicron,0,0.0,4
+59299,Morocco,2021-03-08,Omicron,0,0.0,17
+59323,Morocco,2021-03-22,Omicron,0,0.0,24
+59347,Morocco,2021-04-05,Omicron,0,0.0,18
+59371,Morocco,2021-04-19,Omicron,0,0.0,20
+59395,Morocco,2021-05-03,Omicron,0,0.0,5
+59419,Morocco,2021-05-31,Omicron,0,0.0,1
+59443,Morocco,2021-06-14,Omicron,0,0.0,1
+59467,Morocco,2021-06-28,Omicron,0,0.0,7
+59491,Morocco,2021-07-12,Omicron,0,0.0,9
+59515,Morocco,2021-07-26,Omicron,0,0.0,31
+59539,Morocco,2021-09-06,Omicron,0,0.0,45
+59563,Morocco,2021-09-20,Omicron,0,0.0,15
+59587,Morocco,2021-10-04,Omicron,0,0.0,2
+59611,Morocco,2021-10-18,Omicron,0,0.0,26
+59635,Morocco,2021-11-01,Omicron,0,0.0,20
+59659,Morocco,2021-11-15,Omicron,0,0.0,8
+59683,Morocco,2021-11-29,Omicron,0,0.0,9
+59707,Morocco,2021-12-13,Omicron,0,0.0,2
+59731,Morocco,2021-12-27,Omicron,15,93.75,16
+59755,Mozambique,2020-07-20,Omicron,0,0.0,7
+59779,Mozambique,2020-08-17,Omicron,0,0.0,1
+59803,Mozambique,2020-08-31,Omicron,0,0.0,10
+59827,Mozambique,2020-09-14,Omicron,0,0.0,5
+59851,Mozambique,2020-09-28,Omicron,0,0.0,5
+59875,Mozambique,2020-10-12,Omicron,0,0.0,13
+59899,Mozambique,2020-10-26,Omicron,0,0.0,2
+59923,Mozambique,2020-11-09,Omicron,0,0.0,32
+59947,Mozambique,2020-11-23,Omicron,0,0.0,11
+59971,Mozambique,2020-12-07,Omicron,0,0.0,29
+59995,Mozambique,2020-12-21,Omicron,0,0.0,11
+60019,Mozambique,2021-01-04,Omicron,0,0.0,30
+60043,Mozambique,2021-01-11,Omicron,0,0.0,31
+60067,Mozambique,2021-01-25,Omicron,0,0.0,104
+60091,Mozambique,2021-02-08,Omicron,0,0.0,42
+60115,Mozambique,2021-02-22,Omicron,0,0.0,47
+60139,Mozambique,2021-03-08,Omicron,0,0.0,22
+60163,Mozambique,2021-03-22,Omicron,0,0.0,83
+60187,Mozambique,2021-04-05,Omicron,0,0.0,11
+60211,Mozambique,2021-04-19,Omicron,0,0.0,9
+60235,Mozambique,2021-05-03,Omicron,0,0.0,20
+60259,Mozambique,2021-05-17,Omicron,0,0.0,9
+60283,Mozambique,2021-05-31,Omicron,0,0.0,12
+60307,Mozambique,2021-06-14,Omicron,0,0.0,8
+60331,Mozambique,2021-06-28,Omicron,0,0.0,114
+60355,Mozambique,2021-07-12,Omicron,0,0.0,109
+60379,Mozambique,2021-07-26,Omicron,0,0.0,64
+60403,Mozambique,2021-08-09,Omicron,0,0.0,24
+60427,Mozambique,2021-08-23,Omicron,0,0.0,1
+60451,Mozambique,2021-09-06,Omicron,0,0.0,15
+60475,Mozambique,2021-09-20,Omicron,0,0.0,14
+60499,Mozambique,2021-10-04,Omicron,0,0.0,9
+60523,Mozambique,2021-10-18,Omicron,0,0.0,2
+60547,Mozambique,2021-11-01,Omicron,0,0.0,2
+60571,Mozambique,2021-11-15,Omicron,0,0.0,1
+60595,Mozambique,2021-11-29,Omicron,3,75.0,4
+60619,Mozambique,2021-12-13,Omicron,14,100.0,14
+60643,Nepal,2020-08-03,Omicron,0,0.0,2
+60667,Nepal,2020-08-17,Omicron,0,0.0,12
+60691,Nepal,2020-08-31,Omicron,0,0.0,1
+60715,Nepal,2020-10-12,Omicron,0,0.0,1
+60739,Nepal,2020-11-23,Omicron,0,0.0,1
+60763,Nepal,2020-12-07,Omicron,0,0.0,1
+60787,Nepal,2021-04-19,Omicron,0,0.0,4
+60811,Nepal,2021-05-03,Omicron,0,0.0,17
+60835,Nepal,2021-05-17,Omicron,0,0.0,30
+60859,Nepal,2021-05-31,Omicron,0,0.0,18
+60883,Nepal,2021-06-14,Omicron,0,0.0,39
+60907,Nepal,2021-06-28,Omicron,0,0.0,14
+60931,Nepal,2021-07-12,Omicron,0,0.0,25
+60955,Nepal,2021-07-26,Omicron,0,0.0,15
+60979,Nepal,2021-08-09,Omicron,0,0.0,22
+61003,Nepal,2021-08-23,Omicron,0,0.0,43
+61027,Nepal,2021-09-06,Omicron,0,0.0,11
+61051,Nepal,2021-09-20,Omicron,0,0.0,25
+61075,Nepal,2021-10-04,Omicron,0,0.0,22
+61099,Nepal,2021-11-01,Omicron,0,0.0,5
+61123,Nepal,2021-11-15,Omicron,0,0.0,6
+61147,Nepal,2021-11-29,Omicron,3,12.0,25
+61171,Nepal,2021-12-13,Omicron,0,0.0,25
+61195,Nepal,2021-12-27,Omicron,0,0.0,4
+61219,Netherlands,2020-05-11,Omicron,0,0.0,214
+61243,Netherlands,2020-05-25,Omicron,0,0.0,226
+61267,Netherlands,2020-06-08,Omicron,0,0.0,144
+61291,Netherlands,2020-06-22,Omicron,0,0.0,98
+61315,Netherlands,2020-07-06,Omicron,0,0.0,91
+61339,Netherlands,2020-07-20,Omicron,0,0.0,67
+61363,Netherlands,2020-08-03,Omicron,0,0.0,90
+61387,Netherlands,2020-08-17,Omicron,0,0.0,123
+61411,Netherlands,2020-08-31,Omicron,0,0.0,127
+61435,Netherlands,2020-09-14,Omicron,0,0.0,120
+61459,Netherlands,2020-09-28,Omicron,0,0.0,273
+61483,Netherlands,2020-10-12,Omicron,0,0.0,297
+61507,Netherlands,2020-10-26,Omicron,0,0.0,436
+61531,Netherlands,2020-11-09,Omicron,0,0.0,416
+61555,Netherlands,2020-11-23,Omicron,0,0.0,437
+61579,Netherlands,2020-12-07,Omicron,0,0.0,533
+61603,Netherlands,2020-12-21,Omicron,0,0.0,818
+61627,Netherlands,2021-01-04,Omicron,0,0.0,1142
+61651,Netherlands,2021-01-11,Omicron,0,0.0,790
+61675,Netherlands,2021-01-25,Omicron,0,0.0,1750
+61699,Netherlands,2021-02-08,Omicron,0,0.0,2269
+61723,Netherlands,2021-02-22,Omicron,0,0.0,2431
+61747,Netherlands,2021-03-08,Omicron,0,0.0,3167
+61771,Netherlands,2021-03-22,Omicron,0,0.0,4040
+61795,Netherlands,2021-04-05,Omicron,0,0.0,3860
+61819,Netherlands,2021-04-19,Omicron,0,0.0,3602
+61843,Netherlands,2021-05-03,Omicron,0,0.0,3934
+61867,Netherlands,2021-05-17,Omicron,0,0.0,3490
+61891,Netherlands,2021-05-31,Omicron,0,0.0,2969
+61915,Netherlands,2021-06-14,Omicron,0,0.0,2635
+61939,Netherlands,2021-06-28,Omicron,0,0.0,1888
+61963,Netherlands,2021-07-12,Omicron,0,0.0,3583
+61987,Netherlands,2021-07-26,Omicron,0,0.0,4845
+62011,Netherlands,2021-08-09,Omicron,0,0.0,3079
+62035,Netherlands,2021-08-23,Omicron,0,0.0,3129
+62059,Netherlands,2021-09-06,Omicron,0,0.0,3390
+62083,Netherlands,2021-09-20,Omicron,0,0.0,2691
+62107,Netherlands,2021-10-04,Omicron,0,0.0,2258
+62131,Netherlands,2021-10-18,Omicron,0,0.0,2733
+62155,Netherlands,2021-11-01,Omicron,0,0.0,3174
+62179,Netherlands,2021-11-15,Omicron,0,0.0,3645
+62203,Netherlands,2021-11-29,Omicron,45,1.21,3714
+62227,Netherlands,2021-12-13,Omicron,178,5.67,3137
+62251,Netherlands,2021-12-27,Omicron,254,29.3,867
+62275,Netherlands,2022-01-05,Omicron,12,48.0,25
+62299,New Zealand,2020-05-11,Omicron,0,0.0,8
+62323,New Zealand,2020-05-25,Omicron,0,0.0,1
+62347,New Zealand,2020-06-22,Omicron,0,0.0,5
+62371,New Zealand,2020-07-06,Omicron,0,0.0,3
+62395,New Zealand,2020-07-20,Omicron,0,0.0,3
+62419,New Zealand,2020-08-03,Omicron,0,0.0,2
+62443,New Zealand,2020-08-17,Omicron,0,0.0,37
+62467,New Zealand,2020-08-31,Omicron,0,0.0,74
+62491,New Zealand,2020-09-14,Omicron,0,0.0,33
+62515,New Zealand,2020-09-28,Omicron,0,0.0,16
+62539,New Zealand,2020-10-12,Omicron,0,0.0,14
+62563,New Zealand,2020-10-26,Omicron,0,0.0,36
+62587,New Zealand,2020-11-09,Omicron,0,0.0,33
+62611,New Zealand,2020-11-23,Omicron,0,0.0,20
+62635,New Zealand,2020-12-07,Omicron,0,0.0,28
+62659,New Zealand,2020-12-21,Omicron,0,0.0,20
+62683,New Zealand,2021-01-04,Omicron,0,0.0,28
+62707,New Zealand,2021-01-11,Omicron,0,0.0,11
+62731,New Zealand,2021-01-25,Omicron,0,0.0,22
+62755,New Zealand,2021-02-08,Omicron,0,0.0,17
+62779,New Zealand,2021-02-22,Omicron,0,0.0,19
+62803,New Zealand,2021-03-08,Omicron,0,0.0,26
+62827,New Zealand,2021-03-22,Omicron,0,0.0,28
+62851,New Zealand,2021-04-05,Omicron,0,0.0,29
+62875,New Zealand,2021-04-19,Omicron,0,0.0,26
+62899,New Zealand,2021-05-03,Omicron,0,0.0,19
+62923,New Zealand,2021-05-17,Omicron,0,0.0,7
+62947,New Zealand,2021-05-31,Omicron,0,0.0,8
+62971,New Zealand,2021-06-14,Omicron,0,0.0,14
+62995,New Zealand,2021-06-28,Omicron,0,0.0,16
+63019,New Zealand,2021-07-12,Omicron,0,0.0,12
+63043,New Zealand,2021-07-26,Omicron,0,0.0,49
+63067,New Zealand,2021-08-09,Omicron,0,0.0,31
+63091,New Zealand,2021-08-23,Omicron,0,0.0,173
+63115,New Zealand,2021-09-06,Omicron,0,0.0,615
+63139,New Zealand,2021-09-20,Omicron,0,0.0,238
+63163,New Zealand,2021-10-04,Omicron,0,0.0,276
+63187,New Zealand,2021-10-18,Omicron,0,0.0,583
+63211,New Zealand,2021-11-01,Omicron,0,0.0,605
+63235,New Zealand,2021-11-15,Omicron,0,0.0,567
+63259,New Zealand,2021-11-29,Omicron,0,0.0,460
+63283,New Zealand,2021-12-13,Omicron,3,0.96,313
+63307,New Zealand,2021-12-27,Omicron,63,28.25,223
+63331,New Zealand,2022-01-05,Omicron,10,90.91,11
+63355,Nigeria,2020-05-11,Omicron,0,0.0,26
+63379,Nigeria,2020-05-25,Omicron,0,0.0,31
+63403,Nigeria,2020-06-08,Omicron,0,0.0,16
+63427,Nigeria,2020-06-22,Omicron,0,0.0,27
+63451,Nigeria,2020-07-06,Omicron,0,0.0,28
+63475,Nigeria,2020-07-20,Omicron,0,0.0,48
+63499,Nigeria,2020-08-03,Omicron,0,0.0,5
+63523,Nigeria,2020-08-17,Omicron,0,0.0,11
+63547,Nigeria,2020-08-31,Omicron,0,0.0,5
+63571,Nigeria,2020-09-14,Omicron,0,0.0,5
+63595,Nigeria,2020-10-12,Omicron,0,0.0,5
+63619,Nigeria,2020-10-26,Omicron,0,0.0,7
+63643,Nigeria,2020-11-09,Omicron,0,0.0,1
+63667,Nigeria,2020-11-23,Omicron,0,0.0,4
+63691,Nigeria,2020-12-07,Omicron,0,0.0,31
+63715,Nigeria,2020-12-21,Omicron,0,0.0,34
+63739,Nigeria,2021-01-04,Omicron,0,0.0,73
+63763,Nigeria,2021-01-11,Omicron,0,0.0,131
+63787,Nigeria,2021-01-25,Omicron,0,0.0,127
+63811,Nigeria,2021-02-08,Omicron,0,0.0,231
+63835,Nigeria,2021-02-22,Omicron,0,0.0,164
+63859,Nigeria,2021-03-08,Omicron,0,0.0,111
+63883,Nigeria,2021-03-22,Omicron,0,0.0,45
+63907,Nigeria,2021-04-05,Omicron,0,0.0,18
+63931,Nigeria,2021-04-19,Omicron,0,0.0,7
+63955,Nigeria,2021-05-03,Omicron,0,0.0,23
+63979,Nigeria,2021-05-17,Omicron,0,0.0,8
+64003,Nigeria,2021-05-31,Omicron,0,0.0,6
+64027,Nigeria,2021-06-14,Omicron,0,0.0,7
+64051,Nigeria,2021-06-28,Omicron,0,0.0,14
+64075,Nigeria,2021-07-12,Omicron,0,0.0,43
+64099,Nigeria,2021-07-26,Omicron,0,0.0,94
+64123,Nigeria,2021-08-09,Omicron,0,0.0,498
+64147,Nigeria,2021-08-23,Omicron,0,0.0,535
+64171,Nigeria,2021-09-06,Omicron,0,0.0,576
+64195,Nigeria,2021-09-20,Omicron,0,0.0,331
+64219,Nigeria,2021-10-04,Omicron,0,0.0,93
+64243,Nigeria,2021-10-18,Omicron,1,1.67,60
+64267,Nigeria,2021-11-01,Omicron,0,0.0,34
+64291,Nigeria,2021-11-15,Omicron,1,4.55,22
+64315,Nigeria,2021-11-29,Omicron,10,17.86,56
+64339,Nigeria,2021-12-13,Omicron,62,84.93,73
+64363,Nigeria,2021-12-27,Omicron,10,100.0,10
+64387,North Macedonia,2020-05-25,Omicron,0,0.0,1
+64411,North Macedonia,2020-06-08,Omicron,0,0.0,17
+64435,North Macedonia,2020-06-22,Omicron,0,0.0,18
+64459,North Macedonia,2020-07-06,Omicron,0,0.0,20
+64483,North Macedonia,2020-07-20,Omicron,0,0.0,5
+64507,North Macedonia,2020-08-03,Omicron,0,0.0,6
+64531,North Macedonia,2020-08-17,Omicron,0,0.0,8
+64555,North Macedonia,2020-08-31,Omicron,0,0.0,2
+64579,North Macedonia,2020-09-14,Omicron,0,0.0,9
+64603,North Macedonia,2020-10-12,Omicron,0,0.0,7
+64627,North Macedonia,2020-10-26,Omicron,0,0.0,13
+64651,North Macedonia,2020-11-09,Omicron,0,0.0,20
+64675,North Macedonia,2020-11-23,Omicron,0,0.0,8
+64699,North Macedonia,2020-12-07,Omicron,0,0.0,4
+64723,North Macedonia,2020-12-21,Omicron,0,0.0,16
+64747,North Macedonia,2021-01-04,Omicron,0,0.0,27
+64771,North Macedonia,2021-01-11,Omicron,0,0.0,23
+64795,North Macedonia,2021-01-25,Omicron,0,0.0,68
+64819,North Macedonia,2021-02-08,Omicron,0,0.0,61
+64843,North Macedonia,2021-02-22,Omicron,0,0.0,58
+64867,North Macedonia,2021-03-08,Omicron,0,0.0,15
+64891,North Macedonia,2021-03-22,Omicron,0,0.0,26
+64915,North Macedonia,2021-04-05,Omicron,0,0.0,36
+64939,North Macedonia,2021-04-19,Omicron,0,0.0,103
+64963,North Macedonia,2021-05-03,Omicron,0,0.0,15
+64987,North Macedonia,2021-05-17,Omicron,0,0.0,30
+65011,North Macedonia,2021-05-31,Omicron,0,0.0,17
+65035,North Macedonia,2021-06-14,Omicron,0,0.0,12
+65059,North Macedonia,2021-06-28,Omicron,0,0.0,4
+65083,North Macedonia,2021-07-12,Omicron,0,0.0,7
+65107,North Macedonia,2021-07-26,Omicron,0,0.0,22
+65131,North Macedonia,2021-08-09,Omicron,0,0.0,12
+65155,North Macedonia,2021-11-01,Omicron,0,0.0,11
+65179,North Macedonia,2021-11-15,Omicron,0,0.0,37
+65203,Norway,2020-05-11,Omicron,0,0.0,28
+65227,Norway,2020-05-25,Omicron,0,0.0,18
+65251,Norway,2020-06-08,Omicron,0,0.0,8
+65275,Norway,2020-06-22,Omicron,0,0.0,31
+65299,Norway,2020-07-06,Omicron,0,0.0,61
+65323,Norway,2020-07-20,Omicron,0,0.0,33
+65347,Norway,2020-08-03,Omicron,0,0.0,84
+65371,Norway,2020-08-17,Omicron,0,0.0,164
+65395,Norway,2020-08-31,Omicron,0,0.0,47
+65419,Norway,2020-09-14,Omicron,0,0.0,109
+65443,Norway,2020-09-28,Omicron,0,0.0,117
+65467,Norway,2020-10-12,Omicron,0,0.0,156
+65491,Norway,2020-10-26,Omicron,0,0.0,204
+65515,Norway,2020-11-09,Omicron,0,0.0,265
+65539,Norway,2020-11-23,Omicron,0,0.0,163
+65563,Norway,2020-12-07,Omicron,0,0.0,187
+65587,Norway,2020-12-21,Omicron,0,0.0,274
+65611,Norway,2021-01-04,Omicron,0,0.0,272
+65635,Norway,2021-01-11,Omicron,0,0.0,266
+65659,Norway,2021-01-25,Omicron,0,0.0,740
+65683,Norway,2021-02-08,Omicron,0,0.0,1400
+65707,Norway,2021-02-22,Omicron,0,0.0,1404
+65731,Norway,2021-03-08,Omicron,0,0.0,1547
+65755,Norway,2021-03-22,Omicron,0,0.0,1671
+65779,Norway,2021-04-05,Omicron,0,0.0,1328
+65803,Norway,2021-04-19,Omicron,0,0.0,1847
+65827,Norway,2021-05-03,Omicron,0,0.0,1654
+65851,Norway,2021-05-17,Omicron,0,0.0,1837
+65875,Norway,2021-05-31,Omicron,0,0.0,1417
+65899,Norway,2021-06-14,Omicron,0,0.0,1134
+65923,Norway,2021-06-28,Omicron,0,0.0,827
+65947,Norway,2021-07-12,Omicron,0,0.0,867
+65971,Norway,2021-07-26,Omicron,0,0.0,892
+65995,Norway,2021-08-09,Omicron,0,0.0,1320
+66019,Norway,2021-08-23,Omicron,0,0.0,1747
+66043,Norway,2021-09-06,Omicron,0,0.0,1917
+66067,Norway,2021-09-20,Omicron,0,0.0,2089
+66091,Norway,2021-10-04,Omicron,0,0.0,1632
+66115,Norway,2021-10-18,Omicron,0,0.0,1421
+66139,Norway,2021-11-01,Omicron,0,0.0,2045
+66163,Norway,2021-11-15,Omicron,0,0.0,1848
+66187,Norway,2021-11-29,Omicron,5,0.33,1532
+66211,Norway,2021-12-13,Omicron,286,28.95,988
+66235,Norway,2021-12-27,Omicron,17,25.37,67
+66259,Oman,2020-05-11,Omicron,0,0.0,22
+66283,Oman,2020-05-25,Omicron,0,0.0,55
+66307,Oman,2020-06-08,Omicron,0,0.0,25
+66331,Oman,2020-06-22,Omicron,0,0.0,11
+66355,Oman,2020-07-06,Omicron,0,0.0,8
+66379,Oman,2020-07-20,Omicron,0,0.0,8
+66403,Oman,2020-08-03,Omicron,0,0.0,1
+66427,Oman,2020-08-17,Omicron,0,0.0,7
+66451,Oman,2020-08-31,Omicron,0,0.0,1
+66475,Oman,2020-09-14,Omicron,0,0.0,6
+66499,Oman,2020-09-28,Omicron,0,0.0,6
+66523,Oman,2020-10-12,Omicron,0,0.0,1
+66547,Oman,2020-10-26,Omicron,0,0.0,1
+66571,Oman,2020-11-23,Omicron,0,0.0,1
+66595,Oman,2021-01-04,Omicron,0,0.0,3
+66619,Oman,2021-01-11,Omicron,0,0.0,3
+66643,Oman,2021-01-25,Omicron,0,0.0,3
+66667,Oman,2021-02-08,Omicron,0,0.0,12
+66691,Oman,2021-02-22,Omicron,0,0.0,9
+66715,Oman,2021-03-08,Omicron,0,0.0,10
+66739,Oman,2021-03-22,Omicron,0,0.0,7
+66763,Oman,2021-04-05,Omicron,0,0.0,11
+66787,Oman,2021-04-19,Omicron,0,0.0,18
+66811,Oman,2021-05-03,Omicron,0,0.0,53
+66835,Oman,2021-05-17,Omicron,0,0.0,21
+66859,Oman,2021-05-31,Omicron,0,0.0,12
+66883,Oman,2021-06-14,Omicron,0,0.0,43
+66907,Oman,2021-06-28,Omicron,0,0.0,71
+66931,Oman,2021-07-12,Omicron,0,0.0,7
+66955,Oman,2021-09-06,Omicron,0,0.0,1
+66979,Oman,2021-12-13,Omicron,8,100.0,8
+67003,Oman,2021-12-27,Omicron,1,100.0,1
+67027,Pakistan,2020-05-11,Omicron,0,0.0,3
+67051,Pakistan,2020-05-25,Omicron,0,0.0,10
+67075,Pakistan,2020-06-08,Omicron,0,0.0,24
+67099,Pakistan,2020-06-22,Omicron,0,0.0,8
+67123,Pakistan,2020-07-06,Omicron,0,0.0,5
+67147,Pakistan,2020-07-20,Omicron,0,0.0,6
+67171,Pakistan,2020-08-17,Omicron,0,0.0,10
+67195,Pakistan,2020-09-14,Omicron,0,0.0,3
+67219,Pakistan,2020-10-12,Omicron,0,0.0,8
+67243,Pakistan,2020-10-26,Omicron,0,0.0,1
+67267,Pakistan,2020-11-09,Omicron,0,0.0,1
+67291,Pakistan,2020-11-23,Omicron,0,0.0,8
+67315,Pakistan,2020-12-07,Omicron,0,0.0,20
+67339,Pakistan,2020-12-21,Omicron,0,0.0,26
+67363,Pakistan,2021-01-04,Omicron,0,0.0,14
+67387,Pakistan,2021-01-11,Omicron,0,0.0,7
+67411,Pakistan,2021-01-25,Omicron,0,0.0,3
+67435,Pakistan,2021-02-08,Omicron,0,0.0,4
+67459,Pakistan,2021-02-22,Omicron,0,0.0,3
+67483,Pakistan,2021-03-08,Omicron,0,0.0,7
+67507,Pakistan,2021-03-22,Omicron,0,0.0,31
+67531,Pakistan,2021-04-05,Omicron,0,0.0,6
+67555,Pakistan,2021-04-19,Omicron,0,0.0,138
+67579,Pakistan,2021-05-03,Omicron,0,0.0,53
+67603,Pakistan,2021-05-17,Omicron,0,0.0,30
+67627,Pakistan,2021-05-31,Omicron,0,0.0,80
+67651,Pakistan,2021-06-14,Omicron,0,0.0,195
+67675,Pakistan,2021-06-28,Omicron,0,0.0,54
+67699,Pakistan,2021-07-12,Omicron,0,0.0,59
+67723,Pakistan,2021-07-26,Omicron,0,0.0,67
+67747,Pakistan,2021-08-09,Omicron,0,0.0,121
+67771,Pakistan,2021-08-23,Omicron,0,0.0,108
+67795,Pakistan,2021-09-06,Omicron,0,0.0,176
+67819,Pakistan,2021-09-20,Omicron,0,0.0,65
+67843,Pakistan,2021-10-04,Omicron,0,0.0,26
+67867,Pakistan,2021-10-18,Omicron,0,0.0,51
+67891,Pakistan,2021-11-01,Omicron,0,0.0,40
+67915,Pakistan,2021-11-15,Omicron,0,0.0,41
+67939,Pakistan,2021-11-29,Omicron,0,0.0,10
+67963,Pakistan,2021-12-13,Omicron,5,20.0,25
+67987,Pakistan,2021-12-27,Omicron,11,57.89,19
+68011,Pakistan,2022-01-05,Omicron,6,100.0,6
+68035,Papua New Guinea,2020-07-20,Omicron,0,0.0,4
+68059,Papua New Guinea,2020-08-03,Omicron,0,0.0,34
+68083,Papua New Guinea,2020-08-17,Omicron,0,0.0,55
+68107,Papua New Guinea,2020-08-31,Omicron,0,0.0,7
+68131,Papua New Guinea,2020-09-14,Omicron,0,0.0,2
+68155,Papua New Guinea,2020-09-28,Omicron,0,0.0,2
+68179,Papua New Guinea,2020-10-12,Omicron,0,0.0,6
+68203,Papua New Guinea,2020-12-07,Omicron,0,0.0,22
+68227,Papua New Guinea,2020-12-21,Omicron,0,0.0,9
+68251,Papua New Guinea,2021-01-04,Omicron,0,0.0,11
+68275,Papua New Guinea,2021-01-11,Omicron,0,0.0,3
+68299,Papua New Guinea,2021-01-25,Omicron,0,0.0,2
+68323,Papua New Guinea,2021-02-08,Omicron,0,0.0,11
+68347,Papua New Guinea,2021-02-22,Omicron,0,0.0,60
+68371,Papua New Guinea,2021-03-08,Omicron,0,0.0,190
+68395,Papua New Guinea,2021-03-22,Omicron,0,0.0,368
+68419,Papua New Guinea,2021-04-05,Omicron,0,0.0,598
+68443,Papua New Guinea,2021-04-19,Omicron,0,0.0,100
+68467,Papua New Guinea,2021-05-03,Omicron,0,0.0,128
+68491,Papua New Guinea,2021-05-17,Omicron,0,0.0,193
+68515,Papua New Guinea,2021-05-31,Omicron,0,0.0,18
+68539,Papua New Guinea,2021-06-14,Omicron,0,0.0,14
+68563,Papua New Guinea,2021-06-28,Omicron,0,0.0,3
+68587,Papua New Guinea,2021-07-12,Omicron,0,0.0,16
+68611,Papua New Guinea,2021-07-26,Omicron,0,0.0,19
+68635,Papua New Guinea,2021-08-09,Omicron,0,0.0,19
+68659,Papua New Guinea,2021-08-23,Omicron,0,0.0,106
+68683,Papua New Guinea,2021-09-06,Omicron,0,0.0,385
+68707,Papua New Guinea,2021-09-20,Omicron,0,0.0,214
+68731,Papua New Guinea,2021-10-04,Omicron,0,0.0,368
+68755,Papua New Guinea,2021-10-18,Omicron,0,0.0,242
+68779,Papua New Guinea,2021-11-01,Omicron,0,0.0,116
+68803,Papua New Guinea,2021-11-15,Omicron,0,0.0,34
+68827,Papua New Guinea,2021-11-29,Omicron,0,0.0,7
+68851,Paraguay,2020-05-11,Omicron,0,0.0,5
+68875,Paraguay,2020-05-25,Omicron,0,0.0,2
+68899,Paraguay,2020-06-08,Omicron,0,0.0,3
+68923,Paraguay,2020-06-22,Omicron,0,0.0,1
+68947,Paraguay,2020-07-06,Omicron,0,0.0,5
+68971,Paraguay,2020-07-20,Omicron,0,0.0,5
+68995,Paraguay,2020-08-03,Omicron,0,0.0,2
+69019,Paraguay,2020-08-17,Omicron,0,0.0,14
+69043,Paraguay,2020-08-31,Omicron,0,0.0,2
+69067,Paraguay,2020-09-14,Omicron,0,0.0,7
+69091,Paraguay,2020-09-28,Omicron,0,0.0,1
+69115,Paraguay,2020-10-12,Omicron,0,0.0,3
+69139,Paraguay,2020-11-09,Omicron,0,0.0,1
+69163,Paraguay,2020-11-23,Omicron,0,0.0,1
+69187,Paraguay,2020-12-07,Omicron,0,0.0,2
+69211,Paraguay,2020-12-21,Omicron,0,0.0,14
+69235,Paraguay,2021-01-04,Omicron,0,0.0,3
+69259,Paraguay,2021-01-11,Omicron,0,0.0,15
+69283,Paraguay,2021-01-25,Omicron,0,0.0,9
+69307,Paraguay,2021-02-08,Omicron,0,0.0,66
+69331,Paraguay,2021-02-22,Omicron,0,0.0,61
+69355,Paraguay,2021-03-08,Omicron,0,0.0,70
+69379,Paraguay,2021-03-22,Omicron,0,0.0,55
+69403,Paraguay,2021-04-05,Omicron,0,0.0,14
+69427,Paraguay,2021-04-19,Omicron,0,0.0,31
+69451,Paraguay,2021-05-03,Omicron,0,0.0,20
+69475,Paraguay,2021-05-17,Omicron,0,0.0,26
+69499,Paraguay,2021-05-31,Omicron,0,0.0,14
+69523,Paraguay,2021-06-14,Omicron,0,0.0,41
+69547,Paraguay,2021-06-28,Omicron,0,0.0,18
+69571,Paraguay,2021-07-12,Omicron,0,0.0,59
+69595,Paraguay,2021-07-26,Omicron,0,0.0,25
+69619,Paraguay,2021-08-09,Omicron,0,0.0,64
+69643,Paraguay,2021-08-23,Omicron,0,0.0,60
+69667,Paraguay,2021-09-06,Omicron,0,0.0,78
+69691,Paraguay,2021-09-20,Omicron,0,0.0,26
+69715,Paraguay,2021-10-04,Omicron,0,0.0,33
+69739,Paraguay,2021-10-18,Omicron,0,0.0,9
+69763,Paraguay,2021-11-01,Omicron,0,0.0,14
+69787,Peru,2020-05-11,Omicron,0,0.0,49
+69811,Peru,2020-05-25,Omicron,0,0.0,50
+69835,Peru,2020-06-08,Omicron,0,0.0,5
+69859,Peru,2020-06-22,Omicron,0,0.0,92
+69883,Peru,2020-07-06,Omicron,0,0.0,35
+69907,Peru,2020-07-20,Omicron,0,0.0,10
+69931,Peru,2020-08-03,Omicron,0,0.0,12
+69955,Peru,2020-08-17,Omicron,0,0.0,49
+69979,Peru,2020-08-31,Omicron,0,0.0,105
+70003,Peru,2020-09-14,Omicron,0,0.0,44
+70027,Peru,2020-09-28,Omicron,0,0.0,33
+70051,Peru,2020-10-12,Omicron,0,0.0,8
+70075,Peru,2020-10-26,Omicron,0,0.0,128
+70099,Peru,2020-11-09,Omicron,0,0.0,3
+70123,Peru,2020-11-23,Omicron,0,0.0,32
+70147,Peru,2020-12-07,Omicron,0,0.0,33
+70171,Peru,2020-12-21,Omicron,0,0.0,130
+70195,Peru,2021-01-04,Omicron,0,0.0,109
+70219,Peru,2021-01-11,Omicron,0,0.0,29
+70243,Peru,2021-01-25,Omicron,0,0.0,123
+70267,Peru,2021-02-08,Omicron,0,0.0,91
+70291,Peru,2021-02-22,Omicron,0,0.0,120
+70315,Peru,2021-03-08,Omicron,0,0.0,155
+70339,Peru,2021-03-22,Omicron,0,0.0,238
+70363,Peru,2021-04-05,Omicron,0,0.0,190
+70387,Peru,2021-04-19,Omicron,0,0.0,523
+70411,Peru,2021-05-03,Omicron,0,0.0,321
+70435,Peru,2021-05-17,Omicron,0,0.0,325
+70459,Peru,2021-05-31,Omicron,0,0.0,284
+70483,Peru,2021-06-14,Omicron,0,0.0,803
+70507,Peru,2021-06-28,Omicron,0,0.0,496
+70531,Peru,2021-07-12,Omicron,0,0.0,467
+70555,Peru,2021-07-26,Omicron,0,0.0,586
+70579,Peru,2021-08-09,Omicron,0,0.0,507
+70603,Peru,2021-08-23,Omicron,0,0.0,645
+70627,Peru,2021-09-06,Omicron,0,0.0,603
+70651,Peru,2021-09-20,Omicron,0,0.0,782
+70675,Peru,2021-10-04,Omicron,0,0.0,819
+70699,Peru,2021-10-18,Omicron,0,0.0,805
+70723,Peru,2021-11-01,Omicron,0,0.0,721
+70747,Peru,2021-11-15,Omicron,0,0.0,858
+70771,Peru,2021-11-29,Omicron,0,0.0,717
+70795,Peru,2021-12-13,Omicron,2,3.08,65
+70819,Peru,2021-12-27,Omicron,10,100.0,10
+70843,Philippines,2020-06-08,Omicron,0,0.0,1
+70867,Philippines,2020-06-22,Omicron,0,0.0,5
+70891,Philippines,2020-07-06,Omicron,0,0.0,9
+70915,Philippines,2020-07-20,Omicron,0,0.0,4
+70939,Philippines,2020-09-14,Omicron,0,0.0,2
+70963,Philippines,2020-09-28,Omicron,0,0.0,3
+70987,Philippines,2020-10-12,Omicron,0,0.0,1
+71011,Philippines,2020-10-26,Omicron,0,0.0,3
+71035,Philippines,2020-11-09,Omicron,0,0.0,141
+71059,Philippines,2020-11-23,Omicron,0,0.0,178
+71083,Philippines,2020-12-07,Omicron,0,0.0,233
+71107,Philippines,2020-12-21,Omicron,0,0.0,298
+71131,Philippines,2021-01-04,Omicron,0,0.0,238
+71155,Philippines,2021-01-11,Omicron,0,0.0,340
+71179,Philippines,2021-01-25,Omicron,0,0.0,530
+71203,Philippines,2021-02-08,Omicron,0,0.0,556
+71227,Philippines,2021-02-22,Omicron,0,0.0,451
+71251,Philippines,2021-03-08,Omicron,0,0.0,303
+71275,Philippines,2021-03-22,Omicron,0,0.0,780
+71299,Philippines,2021-04-05,Omicron,0,0.0,1016
+71323,Philippines,2021-04-19,Omicron,0,0.0,386
+71347,Philippines,2021-05-03,Omicron,0,0.0,394
+71371,Philippines,2021-05-17,Omicron,0,0.0,343
+71395,Philippines,2021-05-31,Omicron,0,0.0,331
+71419,Philippines,2021-06-14,Omicron,0,0.0,575
+71443,Philippines,2021-06-28,Omicron,0,0.0,836
+71467,Philippines,2021-07-12,Omicron,0,0.0,886
+71491,Philippines,2021-07-26,Omicron,0,0.0,1114
+71515,Philippines,2021-08-09,Omicron,0,0.0,1400
+71539,Philippines,2021-08-23,Omicron,0,0.0,1119
+71563,Philippines,2021-09-06,Omicron,0,0.0,262
+71587,Poland,2020-05-11,Omicron,0,0.0,59
+71611,Poland,2020-05-25,Omicron,0,0.0,26
+71635,Poland,2020-06-08,Omicron,0,0.0,23
+71659,Poland,2020-06-22,Omicron,0,0.0,4
+71683,Poland,2020-08-31,Omicron,0,0.0,3
+71707,Poland,2020-09-14,Omicron,0,0.0,6
+71731,Poland,2020-09-28,Omicron,0,0.0,6
+71755,Poland,2020-10-12,Omicron,0,0.0,2
+71779,Poland,2020-10-26,Omicron,0,0.0,1
+71803,Poland,2020-11-09,Omicron,0,0.0,6
+71827,Poland,2020-11-23,Omicron,0,0.0,16
+71851,Poland,2020-12-07,Omicron,0,0.0,27
+71875,Poland,2020-12-21,Omicron,0,0.0,53
+71899,Poland,2021-01-04,Omicron,0,0.0,120
+71923,Poland,2021-01-11,Omicron,0,0.0,56
+71947,Poland,2021-01-25,Omicron,0,0.0,259
+71971,Poland,2021-02-08,Omicron,0,0.0,379
+71995,Poland,2021-02-22,Omicron,0,0.0,729
+72019,Poland,2021-03-08,Omicron,0,0.0,1485
+72043,Poland,2021-03-22,Omicron,0,0.0,2146
+72067,Poland,2021-04-05,Omicron,0,0.0,1803
+72091,Poland,2021-04-19,Omicron,0,0.0,2782
+72115,Poland,2021-05-03,Omicron,0,0.0,2636
+72139,Poland,2021-05-17,Omicron,0,0.0,2568
+72163,Poland,2021-05-31,Omicron,0,0.0,1627
+72187,Poland,2021-06-14,Omicron,0,0.0,621
+72211,Poland,2021-06-28,Omicron,0,0.0,150
+72235,Poland,2021-07-12,Omicron,0,0.0,186
+72259,Poland,2021-07-26,Omicron,0,0.0,243
+72283,Poland,2021-08-09,Omicron,0,0.0,333
+72307,Poland,2021-08-23,Omicron,0,0.0,751
+72331,Poland,2021-09-06,Omicron,0,0.0,935
+72355,Poland,2021-09-20,Omicron,0,0.0,1424
+72379,Poland,2021-10-04,Omicron,0,0.0,1724
+72403,Poland,2021-10-18,Omicron,0,0.0,2282
+72427,Poland,2021-11-01,Omicron,0,0.0,2785
+72451,Poland,2021-11-15,Omicron,0,0.0,4144
+72475,Poland,2021-11-29,Omicron,0,0.0,2239
+72499,Poland,2021-12-13,Omicron,4,0.12,3352
+72523,Poland,2021-12-27,Omicron,28,2.21,1269
+72547,Poland,2022-01-05,Omicron,14,11.29,124
+72571,Portugal,2020-05-11,Omicron,0,0.0,26
+72595,Portugal,2020-05-25,Omicron,0,0.0,28
+72619,Portugal,2020-06-08,Omicron,0,0.0,92
+72643,Portugal,2020-06-22,Omicron,0,0.0,37
+72667,Portugal,2020-07-06,Omicron,0,0.0,53
+72691,Portugal,2020-07-20,Omicron,0,0.0,27
+72715,Portugal,2020-08-31,Omicron,0,0.0,36
+72739,Portugal,2020-09-14,Omicron,0,0.0,3
+72763,Portugal,2020-10-26,Omicron,0,0.0,1
+72787,Portugal,2020-11-09,Omicron,0,0.0,27
+72811,Portugal,2020-11-23,Omicron,0,0.0,372
+72835,Portugal,2020-12-07,Omicron,0,0.0,32
+72859,Portugal,2020-12-21,Omicron,0,0.0,44
+72883,Portugal,2021-01-04,Omicron,0,0.0,294
+72907,Portugal,2021-01-11,Omicron,0,0.0,238
+72931,Portugal,2021-01-25,Omicron,0,0.0,737
+72955,Portugal,2021-02-08,Omicron,0,0.0,201
+72979,Portugal,2021-02-22,Omicron,0,0.0,901
+73003,Portugal,2021-03-08,Omicron,0,0.0,735
+73027,Portugal,2021-03-22,Omicron,0,0.0,443
+73051,Portugal,2021-04-05,Omicron,0,0.0,70
+73075,Portugal,2021-04-19,Omicron,0,0.0,1586
+73099,Portugal,2021-05-03,Omicron,0,0.0,98
+73123,Portugal,2021-05-17,Omicron,0,0.0,1061
+73147,Portugal,2021-05-31,Omicron,0,0.0,110
+73171,Portugal,2021-06-14,Omicron,0,0.0,1247
+73195,Portugal,2021-06-28,Omicron,0,0.0,1170
+73219,Portugal,2021-07-12,Omicron,0,0.0,1132
+73243,Portugal,2021-07-26,Omicron,0,0.0,1250
+73267,Portugal,2021-08-09,Omicron,0,0.0,955
+73291,Portugal,2021-08-23,Omicron,0,0.0,1002
+73315,Portugal,2021-09-06,Omicron,0,0.0,1110
+73339,Portugal,2021-09-20,Omicron,0,0.0,1093
+73363,Portugal,2021-10-04,Omicron,0,0.0,1041
+73387,Portugal,2021-10-18,Omicron,0,0.0,891
+73411,Portugal,2021-11-01,Omicron,0,0.0,1079
+73435,Portugal,2021-11-15,Omicron,0,0.0,958
+73459,Portugal,2021-11-29,Omicron,20,1.56,1286
+73483,Portugal,2021-12-13,Omicron,56,6.11,916
+73507,Portugal,2021-12-27,Omicron,118,23.14,510
+73531,Qatar,2020-05-11,Omicron,0,0.0,172
+73555,Qatar,2020-05-25,Omicron,0,0.0,175
+73579,Qatar,2020-06-08,Omicron,0,0.0,179
+73603,Qatar,2020-06-22,Omicron,0,0.0,154
+73627,Qatar,2020-07-06,Omicron,0,0.0,97
+73651,Qatar,2020-07-20,Omicron,0,0.0,61
+73675,Qatar,2020-08-03,Omicron,0,0.0,8
+73699,Qatar,2020-08-17,Omicron,0,0.0,90
+73723,Qatar,2020-08-31,Omicron,0,0.0,47
+73747,Qatar,2020-09-14,Omicron,0,0.0,57
+73771,Qatar,2020-09-28,Omicron,0,0.0,12
+73795,Qatar,2020-10-12,Omicron,0,0.0,34
+73819,Qatar,2020-10-26,Omicron,0,0.0,21
+73843,Qatar,2020-11-09,Omicron,0,0.0,14
+73867,Qatar,2020-11-23,Omicron,0,0.0,20
+73891,Qatar,2020-12-07,Omicron,0,0.0,23
+73915,Qatar,2020-12-21,Omicron,0,0.0,2
+73939,Qatar,2021-01-04,Omicron,0,0.0,146
+73963,Qatar,2021-01-11,Omicron,0,0.0,13
+73987,Qatar,2021-01-25,Omicron,0,0.0,26
+74011,Qatar,2021-02-08,Omicron,0,0.0,68
+74035,Qatar,2021-02-22,Omicron,0,0.0,94
+74059,Qatar,2021-03-08,Omicron,0,0.0,90
+74083,Qatar,2021-03-22,Omicron,0,0.0,121
+74107,Qatar,2021-04-05,Omicron,0,0.0,71
+74131,Qatar,2021-04-19,Omicron,0,0.0,119
+74155,Qatar,2021-05-03,Omicron,0,0.0,350
+74179,Qatar,2021-05-17,Omicron,0,0.0,195
+74203,Qatar,2021-05-31,Omicron,0,0.0,78
+74227,Qatar,2021-06-14,Omicron,0,0.0,58
+74251,Qatar,2021-08-09,Omicron,0,0.0,1
+74275,Qatar,2021-08-23,Omicron,0,0.0,520
+74299,Qatar,2021-09-06,Omicron,0,0.0,444
+74323,Qatar,2021-09-20,Omicron,0,0.0,183
+74347,Qatar,2021-10-04,Omicron,0,0.0,84
+74371,Qatar,2021-10-18,Omicron,0,0.0,13
+74395,Qatar,2021-11-01,Omicron,0,0.0,50
+74419,Qatar,2021-11-15,Omicron,0,0.0,75
+74443,Qatar,2021-11-29,Omicron,0,0.0,82
+74467,Romania,2020-05-11,Omicron,0,0.0,33
+74491,Romania,2020-05-25,Omicron,0,0.0,18
+74515,Romania,2020-06-08,Omicron,0,0.0,18
+74539,Romania,2020-06-22,Omicron,0,0.0,17
+74563,Romania,2020-07-06,Omicron,0,0.0,10
+74587,Romania,2020-07-20,Omicron,0,0.0,23
+74611,Romania,2020-08-03,Omicron,0,0.0,81
+74635,Romania,2020-08-17,Omicron,0,0.0,15
+74659,Romania,2020-08-31,Omicron,0,0.0,79
+74683,Romania,2020-09-14,Omicron,0,0.0,49
+74707,Romania,2020-09-28,Omicron,0,0.0,63
+74731,Romania,2020-10-12,Omicron,0,0.0,20
+74755,Romania,2020-10-26,Omicron,0,0.0,54
+74779,Romania,2020-11-09,Omicron,0,0.0,84
+74803,Romania,2020-11-23,Omicron,0,0.0,136
+74827,Romania,2020-12-07,Omicron,0,0.0,171
+74851,Romania,2020-12-21,Omicron,0,0.0,101
+74875,Romania,2021-01-04,Omicron,0,0.0,96
+74899,Romania,2021-01-11,Omicron,0,0.0,67
+74923,Romania,2021-01-25,Omicron,0,0.0,92
+74947,Romania,2021-02-08,Omicron,0,0.0,168
+74971,Romania,2021-02-22,Omicron,0,0.0,166
+74995,Romania,2021-03-08,Omicron,0,0.0,269
+75019,Romania,2021-03-22,Omicron,0,0.0,260
+75043,Romania,2021-04-05,Omicron,0,0.0,297
+75067,Romania,2021-04-19,Omicron,0,0.0,186
+75091,Romania,2021-05-03,Omicron,0,0.0,131
+75115,Romania,2021-05-17,Omicron,0,0.0,167
+75139,Romania,2021-05-31,Omicron,0,0.0,152
+75163,Romania,2021-06-14,Omicron,0,0.0,119
+75187,Romania,2021-06-28,Omicron,0,0.0,72
+75211,Romania,2021-07-12,Omicron,0,0.0,58
+75235,Romania,2021-07-26,Omicron,0,0.0,97
+75259,Romania,2021-08-09,Omicron,0,0.0,262
+75283,Romania,2021-08-23,Omicron,0,0.0,281
+75307,Romania,2021-09-06,Omicron,0,0.0,587
+75331,Romania,2021-09-20,Omicron,0,0.0,1056
+75355,Romania,2021-10-04,Omicron,0,0.0,985
+75379,Romania,2021-10-18,Omicron,0,0.0,884
+75403,Romania,2021-11-01,Omicron,0,0.0,612
+75427,Romania,2021-11-15,Omicron,0,0.0,229
+75451,Romania,2021-11-29,Omicron,0,0.0,132
+75475,Romania,2021-12-13,Omicron,12,13.95,86
+75499,Romania,2021-12-27,Omicron,3,3.61,83
+75523,Russia,2020-05-11,Omicron,0,0.0,65
+75547,Russia,2020-05-25,Omicron,0,0.0,122
+75571,Russia,2020-06-08,Omicron,0,0.0,154
+75595,Russia,2020-06-22,Omicron,0,0.0,63
+75619,Russia,2020-07-06,Omicron,0,0.0,37
+75643,Russia,2020-07-20,Omicron,0,0.0,77
+75667,Russia,2020-08-03,Omicron,0,0.0,53
+75691,Russia,2020-08-17,Omicron,0,0.0,59
+75715,Russia,2020-08-31,Omicron,0,0.0,73
+75739,Russia,2020-09-14,Omicron,0,0.0,134
+75763,Russia,2020-09-28,Omicron,0,0.0,228
+75787,Russia,2020-10-12,Omicron,0,0.0,228
+75811,Russia,2020-10-26,Omicron,0,0.0,104
+75835,Russia,2020-11-09,Omicron,0,0.0,91
+75859,Russia,2020-11-23,Omicron,0,0.0,275
+75883,Russia,2020-12-07,Omicron,0,0.0,145
+75907,Russia,2020-12-21,Omicron,0,0.0,188
+75931,Russia,2021-01-04,Omicron,0,0.0,247
+75955,Russia,2021-01-11,Omicron,0,0.0,48
+75979,Russia,2021-01-25,Omicron,0,0.0,74
+76003,Russia,2021-02-08,Omicron,0,0.0,19
+76027,Russia,2021-02-22,Omicron,0,0.0,304
+76051,Russia,2021-03-08,Omicron,0,0.0,196
+76075,Russia,2021-03-22,Omicron,0,0.0,263
+76099,Russia,2021-04-05,Omicron,0,0.0,220
+76123,Russia,2021-04-19,Omicron,0,0.0,313
+76147,Russia,2021-05-03,Omicron,0,0.0,313
+76171,Russia,2021-05-17,Omicron,0,0.0,291
+76195,Russia,2021-05-31,Omicron,0,0.0,511
+76219,Russia,2021-06-14,Omicron,0,0.0,904
+76243,Russia,2021-06-28,Omicron,0,0.0,543
+76267,Russia,2021-07-12,Omicron,0,0.0,665
+76291,Russia,2021-07-26,Omicron,0,0.0,214
+76315,Russia,2021-08-09,Omicron,0,0.0,256
+76339,Russia,2021-08-23,Omicron,0,0.0,227
+76363,Russia,2021-09-06,Omicron,0,0.0,277
+76387,Russia,2021-09-20,Omicron,0,0.0,380
+76411,Russia,2021-10-04,Omicron,0,0.0,425
+76435,Russia,2021-10-18,Omicron,0,0.0,707
+76459,Russia,2021-11-01,Omicron,0,0.0,913
+76483,Russia,2021-11-15,Omicron,0,0.0,511
+76507,Russia,2021-11-29,Omicron,0,0.0,316
+76531,Russia,2021-12-13,Omicron,3,1.99,151
+76555,Russia,2021-12-27,Omicron,45,29.03,155
+76579,Rwanda,2020-06-08,Omicron,0,0.0,1
+76603,Rwanda,2020-06-22,Omicron,0,0.0,8
+76627,Rwanda,2020-07-20,Omicron,0,0.0,4
+76651,Rwanda,2020-08-03,Omicron,0,0.0,4
+76675,Rwanda,2020-08-17,Omicron,0,0.0,11
+76699,Rwanda,2020-08-31,Omicron,0,0.0,59
+76723,Rwanda,2020-09-14,Omicron,0,0.0,5
+76747,Rwanda,2020-10-26,Omicron,0,0.0,10
+76771,Rwanda,2020-11-09,Omicron,0,0.0,8
+76795,Rwanda,2020-12-07,Omicron,0,0.0,2
+76819,Rwanda,2020-12-21,Omicron,0,0.0,47
+76843,Rwanda,2021-01-04,Omicron,0,0.0,25
+76867,Rwanda,2021-01-11,Omicron,0,0.0,19
+76891,Rwanda,2021-01-25,Omicron,0,0.0,56
+76915,Rwanda,2021-02-08,Omicron,0,0.0,21
+76939,Rwanda,2021-02-22,Omicron,0,0.0,21
+76963,Rwanda,2021-03-08,Omicron,0,0.0,10
+76987,Rwanda,2021-03-22,Omicron,0,0.0,4
+77011,Rwanda,2021-04-05,Omicron,0,0.0,21
+77035,Rwanda,2021-04-19,Omicron,0,0.0,6
+77059,Rwanda,2021-05-03,Omicron,0,0.0,5
+77083,Rwanda,2021-05-17,Omicron,0,0.0,8
+77107,Rwanda,2021-05-31,Omicron,0,0.0,4
+77131,Rwanda,2021-06-14,Omicron,0,0.0,6
+77155,Rwanda,2021-06-28,Omicron,0,0.0,119
+77179,Rwanda,2021-07-12,Omicron,0,0.0,59
+77203,Rwanda,2021-07-26,Omicron,0,0.0,21
+77227,Rwanda,2021-08-09,Omicron,0,0.0,56
+77251,Rwanda,2021-08-23,Omicron,0,0.0,12
+77275,Rwanda,2021-09-06,Omicron,0,0.0,40
+77299,Rwanda,2021-09-20,Omicron,0,0.0,5
+77323,Rwanda,2021-10-04,Omicron,0,0.0,5
+77347,Rwanda,2021-11-01,Omicron,0,0.0,7
+77371,Senegal,2020-06-08,Omicron,0,0.0,13
+77395,Senegal,2020-06-22,Omicron,0,0.0,62
+77419,Senegal,2020-07-06,Omicron,0,0.0,8
+77443,Senegal,2020-07-20,Omicron,0,0.0,12
+77467,Senegal,2020-08-03,Omicron,0,0.0,19
+77491,Senegal,2020-08-17,Omicron,0,0.0,20
+77515,Senegal,2020-08-31,Omicron,0,0.0,5
+77539,Senegal,2020-09-14,Omicron,0,0.0,4
+77563,Senegal,2020-09-28,Omicron,0,0.0,3
+77587,Senegal,2020-10-26,Omicron,0,0.0,1
+77611,Senegal,2020-12-21,Omicron,0,0.0,12
+77635,Senegal,2021-01-04,Omicron,0,0.0,83
+77659,Senegal,2021-01-11,Omicron,0,0.0,50
+77683,Senegal,2021-01-25,Omicron,0,0.0,43
+77707,Senegal,2021-02-08,Omicron,0,0.0,37
+77731,Senegal,2021-02-22,Omicron,0,0.0,7
+77755,Senegal,2021-03-08,Omicron,0,0.0,10
+77779,Senegal,2021-03-22,Omicron,0,0.0,5
+77803,Senegal,2021-04-05,Omicron,0,0.0,17
+77827,Senegal,2021-04-19,Omicron,0,0.0,5
+77851,Senegal,2021-05-03,Omicron,0,0.0,2
+77875,Senegal,2021-05-17,Omicron,0,0.0,6
+77899,Senegal,2021-05-31,Omicron,0,0.0,3
+77923,Senegal,2021-06-14,Omicron,0,0.0,50
+77947,Senegal,2021-06-28,Omicron,0,0.0,1
+77971,Senegal,2021-07-12,Omicron,0,0.0,3
+77995,Senegal,2021-07-26,Omicron,0,0.0,47
+78019,Senegal,2021-08-09,Omicron,0,0.0,43
+78043,Senegal,2021-08-23,Omicron,0,0.0,16
+78067,Senegal,2021-09-06,Omicron,0,0.0,23
+78091,Senegal,2021-09-20,Omicron,0,0.0,1
+78115,Senegal,2021-10-04,Omicron,0,0.0,5
+78139,Senegal,2021-10-18,Omicron,0,0.0,5
+78163,Senegal,2021-11-01,Omicron,0,0.0,17
+78187,Senegal,2021-11-15,Omicron,1,11.11,9
+78211,Senegal,2021-11-29,Omicron,1,16.67,6
+78235,Senegal,2021-12-13,Omicron,15,68.18,22
+78259,Senegal,2021-12-27,Omicron,15,75.0,20
+78283,Serbia,2020-05-11,Omicron,0,0.0,30
+78307,Serbia,2020-05-25,Omicron,0,0.0,8
+78331,Serbia,2020-06-08,Omicron,0,0.0,3
+78355,Serbia,2020-06-22,Omicron,0,0.0,11
+78379,Serbia,2020-07-06,Omicron,0,0.0,13
+78403,Serbia,2020-07-20,Omicron,0,0.0,27
+78427,Serbia,2020-08-03,Omicron,0,0.0,32
+78451,Serbia,2020-08-17,Omicron,0,0.0,21
+78475,Serbia,2020-08-31,Omicron,0,0.0,3
+78499,Serbia,2020-09-14,Omicron,0,0.0,1
+78523,Serbia,2020-09-28,Omicron,0,0.0,14
+78547,Serbia,2020-10-12,Omicron,0,0.0,30
+78571,Serbia,2020-10-26,Omicron,0,0.0,18
+78595,Serbia,2020-11-09,Omicron,0,0.0,7
+78619,Serbia,2020-11-23,Omicron,0,0.0,14
+78643,Serbia,2020-12-07,Omicron,0,0.0,6
+78667,Serbia,2020-12-21,Omicron,0,0.0,9
+78691,Serbia,2021-01-04,Omicron,0,0.0,16
+78715,Serbia,2021-01-11,Omicron,0,0.0,14
+78739,Serbia,2021-01-25,Omicron,0,0.0,6
+78763,Serbia,2021-02-08,Omicron,0,0.0,14
+78787,Serbia,2021-02-22,Omicron,0,0.0,12
+78811,Serbia,2021-03-08,Omicron,0,0.0,17
+78835,Serbia,2021-03-22,Omicron,0,0.0,11
+78859,Serbia,2021-04-05,Omicron,0,0.0,1
+78883,Serbia,2021-04-19,Omicron,0,0.0,8
+78907,Serbia,2021-05-03,Omicron,0,0.0,14
+78931,Serbia,2021-05-17,Omicron,0,0.0,29
+78955,Serbia,2021-05-31,Omicron,0,0.0,18
+78979,Serbia,2021-06-14,Omicron,0,0.0,5
+79003,Serbia,2021-06-28,Omicron,0,0.0,1
+79027,Serbia,2021-07-12,Omicron,0,0.0,15
+79051,Serbia,2021-07-26,Omicron,0,0.0,15
+79075,Serbia,2021-08-09,Omicron,0,0.0,5
+79099,Serbia,2021-08-23,Omicron,0,0.0,2
+79123,Serbia,2021-09-06,Omicron,0,0.0,12
+79147,Serbia,2021-09-20,Omicron,0,0.0,1
+79171,Serbia,2021-10-18,Omicron,0,0.0,14
+79195,Seychelles,2020-07-06,Omicron,0,0.0,2
+79219,Seychelles,2020-09-28,Omicron,0,0.0,1
+79243,Seychelles,2020-10-12,Omicron,0,0.0,1
+79267,Seychelles,2021-01-04,Omicron,0,0.0,1
+79291,Seychelles,2021-01-11,Omicron,0,0.0,4
+79315,Seychelles,2021-02-08,Omicron,0,0.0,2
+79339,Seychelles,2021-02-22,Omicron,0,0.0,1
+79363,Seychelles,2021-04-19,Omicron,0,0.0,1
+79387,Seychelles,2021-05-03,Omicron,0,0.0,3
+79411,Seychelles,2021-05-17,Omicron,0,0.0,2
+79435,Seychelles,2021-05-31,Omicron,0,0.0,44
+79459,Seychelles,2021-06-14,Omicron,0,0.0,54
+79483,Seychelles,2021-06-28,Omicron,0,0.0,15
+79507,Seychelles,2021-07-12,Omicron,0,0.0,4
+79531,Seychelles,2021-07-26,Omicron,0,0.0,10
+79555,Seychelles,2021-08-09,Omicron,0,0.0,23
+79579,Seychelles,2021-08-23,Omicron,0,0.0,97
+79603,Seychelles,2021-09-06,Omicron,0,0.0,57
+79627,Seychelles,2021-09-20,Omicron,0,0.0,83
+79651,Seychelles,2021-10-04,Omicron,0,0.0,59
+79675,Seychelles,2021-10-18,Omicron,0,0.0,58
+79699,Seychelles,2021-11-01,Omicron,0,0.0,21
+79723,Singapore,2020-05-11,Omicron,0,0.0,112
+79747,Singapore,2020-05-25,Omicron,0,0.0,72
+79771,Singapore,2020-06-08,Omicron,0,0.0,61
+79795,Singapore,2020-06-22,Omicron,0,0.0,48
+79819,Singapore,2020-07-06,Omicron,0,0.0,74
+79843,Singapore,2020-07-20,Omicron,0,0.0,73
+79867,Singapore,2020-08-03,Omicron,0,0.0,22
+79891,Singapore,2020-08-17,Omicron,0,0.0,18
+79915,Singapore,2020-08-31,Omicron,0,0.0,28
+79939,Singapore,2020-09-14,Omicron,0,0.0,24
+79963,Singapore,2020-09-28,Omicron,0,0.0,11
+79987,Singapore,2020-10-12,Omicron,0,0.0,27
+80011,Singapore,2020-10-26,Omicron,0,0.0,24
+80035,Singapore,2020-11-09,Omicron,0,0.0,23
+80059,Singapore,2020-11-23,Omicron,0,0.0,26
+80083,Singapore,2020-12-07,Omicron,0,0.0,24
+80107,Singapore,2020-12-21,Omicron,0,0.0,36
+80131,Singapore,2021-01-04,Omicron,0,0.0,61
+80155,Singapore,2021-01-11,Omicron,0,0.0,37
+80179,Singapore,2021-01-25,Omicron,0,0.0,67
+80203,Singapore,2021-02-08,Omicron,0,0.0,74
+80227,Singapore,2021-02-22,Omicron,0,0.0,42
+80251,Singapore,2021-03-08,Omicron,0,0.0,31
+80275,Singapore,2021-03-22,Omicron,0,0.0,45
+80299,Singapore,2021-04-05,Omicron,0,0.0,164
+80323,Singapore,2021-04-19,Omicron,0,0.0,188
+80347,Singapore,2021-05-03,Omicron,0,0.0,191
+80371,Singapore,2021-05-17,Omicron,0,0.0,220
+80395,Singapore,2021-05-31,Omicron,0,0.0,330
+80419,Singapore,2021-06-14,Omicron,0,0.0,178
+80443,Singapore,2021-06-28,Omicron,0,0.0,217
+80467,Singapore,2021-07-12,Omicron,0,0.0,75
+80491,Singapore,2021-07-26,Omicron,0,0.0,836
+80515,Singapore,2021-08-09,Omicron,0,0.0,864
+80539,Singapore,2021-08-23,Omicron,0,0.0,643
+80563,Singapore,2021-09-06,Omicron,0,0.0,1007
+80587,Singapore,2021-09-20,Omicron,0,0.0,700
+80611,Singapore,2021-10-04,Omicron,0,0.0,611
+80635,Singapore,2021-10-18,Omicron,0,0.0,571
+80659,Singapore,2021-11-01,Omicron,0,0.0,537
+80683,Singapore,2021-11-15,Omicron,0,0.0,542
+80707,Singapore,2021-11-29,Omicron,0,0.0,466
+80731,Singapore,2021-12-13,Omicron,29,6.84,424
+80755,Singapore,2021-12-27,Omicron,249,49.9,499
+80779,Sint Maarten (Dutch part),2021-01-25,Omicron,0,0.0,10
+80803,Sint Maarten (Dutch part),2021-02-22,Omicron,0,0.0,40
+80827,Sint Maarten (Dutch part),2021-03-08,Omicron,0,0.0,5
+80851,Sint Maarten (Dutch part),2021-03-22,Omicron,0,0.0,7
+80875,Sint Maarten (Dutch part),2021-04-05,Omicron,0,0.0,40
+80899,Sint Maarten (Dutch part),2021-04-19,Omicron,0,0.0,20
+80923,Sint Maarten (Dutch part),2021-05-03,Omicron,0,0.0,33
+80947,Sint Maarten (Dutch part),2021-05-17,Omicron,0,0.0,28
+80971,Sint Maarten (Dutch part),2021-05-31,Omicron,0,0.0,111
+80995,Sint Maarten (Dutch part),2021-06-14,Omicron,0,0.0,51
+81019,Sint Maarten (Dutch part),2021-06-28,Omicron,0,0.0,68
+81043,Sint Maarten (Dutch part),2021-07-12,Omicron,0,0.0,39
+81067,Sint Maarten (Dutch part),2021-07-26,Omicron,0,0.0,67
+81091,Sint Maarten (Dutch part),2021-08-09,Omicron,0,0.0,147
+81115,Sint Maarten (Dutch part),2021-08-23,Omicron,0,0.0,425
+81139,Sint Maarten (Dutch part),2021-09-06,Omicron,0,0.0,284
+81163,Sint Maarten (Dutch part),2021-09-20,Omicron,0,0.0,148
+81187,Sint Maarten (Dutch part),2021-10-04,Omicron,0,0.0,153
+81211,Sint Maarten (Dutch part),2021-10-18,Omicron,0,0.0,34
+81235,Sint Maarten (Dutch part),2021-11-01,Omicron,0,0.0,39
+81259,Sint Maarten (Dutch part),2021-11-15,Omicron,0,0.0,17
+81283,Sint Maarten (Dutch part),2021-11-29,Omicron,0,0.0,20
+81307,Sint Maarten (Dutch part),2021-12-13,Omicron,0,0.0,12
+81331,Slovakia,2020-05-11,Omicron,0,0.0,3
+81355,Slovakia,2020-05-25,Omicron,0,0.0,1
+81379,Slovakia,2020-07-06,Omicron,0,0.0,2
+81403,Slovakia,2020-07-20,Omicron,0,0.0,1
+81427,Slovakia,2020-08-03,Omicron,0,0.0,1
+81451,Slovakia,2020-08-17,Omicron,0,0.0,2
+81475,Slovakia,2020-08-31,Omicron,0,0.0,1
+81499,Slovakia,2020-09-14,Omicron,0,0.0,4
+81523,Slovakia,2020-09-28,Omicron,0,0.0,6
+81547,Slovakia,2020-10-12,Omicron,0,0.0,1
+81571,Slovakia,2020-10-26,Omicron,0,0.0,1
+81595,Slovakia,2020-11-09,Omicron,0,0.0,1
+81619,Slovakia,2020-11-23,Omicron,0,0.0,15
+81643,Slovakia,2020-12-07,Omicron,0,0.0,55
+81667,Slovakia,2020-12-21,Omicron,0,0.0,1
+81691,Slovakia,2021-01-04,Omicron,0,0.0,96
+81715,Slovakia,2021-01-11,Omicron,0,0.0,52
+81739,Slovakia,2021-01-25,Omicron,0,0.0,30
+81763,Slovakia,2021-02-08,Omicron,0,0.0,117
+81787,Slovakia,2021-02-22,Omicron,0,0.0,62
+81811,Slovakia,2021-03-08,Omicron,0,0.0,437
+81835,Slovakia,2021-03-22,Omicron,0,0.0,583
+81859,Slovakia,2021-04-05,Omicron,0,0.0,660
+81883,Slovakia,2021-04-19,Omicron,0,0.0,616
+81907,Slovakia,2021-05-03,Omicron,0,0.0,337
+81931,Slovakia,2021-05-17,Omicron,0,0.0,338
+81955,Slovakia,2021-05-31,Omicron,0,0.0,691
+81979,Slovakia,2021-06-14,Omicron,0,0.0,594
+82003,Slovakia,2021-06-28,Omicron,0,0.0,249
+82027,Slovakia,2021-07-12,Omicron,0,0.0,242
+82051,Slovakia,2021-07-26,Omicron,0,0.0,271
+82075,Slovakia,2021-08-09,Omicron,0,0.0,372
+82099,Slovakia,2021-08-23,Omicron,0,0.0,619
+82123,Slovakia,2021-09-06,Omicron,0,0.0,782
+82147,Slovakia,2021-09-20,Omicron,0,0.0,1205
+82171,Slovakia,2021-10-04,Omicron,0,0.0,845
+82195,Slovakia,2021-10-18,Omicron,0,0.0,1710
+82219,Slovakia,2021-11-01,Omicron,0,0.0,1733
+82243,Slovakia,2021-11-15,Omicron,0,0.0,2290
+82267,Slovakia,2021-11-29,Omicron,0,0.0,1254
+82291,Slovakia,2021-12-13,Omicron,9,0.7,1289
+82315,Slovakia,2021-12-27,Omicron,8,10.13,79
+82339,Slovenia,2020-05-11,Omicron,0,0.0,4
+82363,Slovenia,2020-06-08,Omicron,0,0.0,4
+82387,Slovenia,2020-06-22,Omicron,0,0.0,11
+82411,Slovenia,2020-07-06,Omicron,0,0.0,52
+82435,Slovenia,2020-07-20,Omicron,0,0.0,58
+82459,Slovenia,2020-08-03,Omicron,0,0.0,65
+82483,Slovenia,2020-08-17,Omicron,0,0.0,76
+82507,Slovenia,2020-08-31,Omicron,0,0.0,101
+82531,Slovenia,2020-09-14,Omicron,0,0.0,176
+82555,Slovenia,2020-09-28,Omicron,0,0.0,168
+82579,Slovenia,2020-10-12,Omicron,0,0.0,341
+82603,Slovenia,2020-10-26,Omicron,0,0.0,355
+82627,Slovenia,2020-11-09,Omicron,0,0.0,889
+82651,Slovenia,2020-11-23,Omicron,0,0.0,131
+82675,Slovenia,2020-12-07,Omicron,0,0.0,968
+82699,Slovenia,2020-12-21,Omicron,0,0.0,888
+82723,Slovenia,2021-01-04,Omicron,0,0.0,442
+82747,Slovenia,2021-01-11,Omicron,0,0.0,657
+82771,Slovenia,2021-01-25,Omicron,0,0.0,362
+82795,Slovenia,2021-02-08,Omicron,0,0.0,1577
+82819,Slovenia,2021-02-22,Omicron,0,0.0,1288
+82843,Slovenia,2021-03-08,Omicron,0,0.0,1458
+82867,Slovenia,2021-03-22,Omicron,0,0.0,1303
+82891,Slovenia,2021-04-05,Omicron,0,0.0,1656
+82915,Slovenia,2021-04-19,Omicron,0,0.0,2046
+82939,Slovenia,2021-05-03,Omicron,0,0.0,1979
+82963,Slovenia,2021-05-17,Omicron,0,0.0,1267
+82987,Slovenia,2021-05-31,Omicron,0,0.0,699
+83011,Slovenia,2021-06-14,Omicron,0,0.0,658
+83035,Slovenia,2021-06-28,Omicron,0,0.0,385
+83059,Slovenia,2021-07-12,Omicron,0,0.0,474
+83083,Slovenia,2021-07-26,Omicron,0,0.0,749
+83107,Slovenia,2021-08-09,Omicron,0,0.0,1341
+83131,Slovenia,2021-08-23,Omicron,0,0.0,2022
+83155,Slovenia,2021-09-06,Omicron,0,0.0,2598
+83179,Slovenia,2021-09-20,Omicron,0,0.0,2162
+83203,Slovenia,2021-10-04,Omicron,0,0.0,2328
+83227,Slovenia,2021-10-18,Omicron,0,0.0,2736
+83251,Slovenia,2021-11-01,Omicron,0,0.0,2786
+83275,Slovenia,2021-11-15,Omicron,0,0.0,2276
+83299,Slovenia,2021-11-29,Omicron,0,0.0,2620
+83323,Slovenia,2021-12-13,Omicron,7,0.46,1520
+83347,South Africa,2020-05-11,Omicron,0,0.0,135
+83371,South Africa,2020-05-25,Omicron,0,0.0,93
+83395,South Africa,2020-06-08,Omicron,0,0.0,105
+83419,South Africa,2020-06-22,Omicron,0,0.0,190
+83443,South Africa,2020-07-06,Omicron,0,0.0,290
+83467,South Africa,2020-07-20,Omicron,0,0.0,470
+83491,South Africa,2020-08-03,Omicron,0,0.0,551
+83515,South Africa,2020-08-17,Omicron,0,0.0,220
+83539,South Africa,2020-08-31,Omicron,0,0.0,129
+83563,South Africa,2020-09-14,Omicron,0,0.0,356
+83587,South Africa,2020-09-28,Omicron,0,0.0,223
+83611,South Africa,2020-10-12,Omicron,0,0.0,304
+83635,South Africa,2020-10-26,Omicron,0,0.0,358
+83659,South Africa,2020-11-09,Omicron,0,0.0,478
+83683,South Africa,2020-11-23,Omicron,0,0.0,418
+83707,South Africa,2020-12-07,Omicron,0,0.0,488
+83731,South Africa,2020-12-21,Omicron,0,0.0,546
+83755,South Africa,2021-01-04,Omicron,0,0.0,874
+83779,South Africa,2021-01-11,Omicron,0,0.0,668
+83803,South Africa,2021-01-25,Omicron,0,0.0,566
+83827,South Africa,2021-02-08,Omicron,0,0.0,393
+83851,South Africa,2021-02-22,Omicron,0,0.0,296
+83875,South Africa,2021-03-08,Omicron,0,0.0,225
+83899,South Africa,2021-03-22,Omicron,0,0.0,448
+83923,South Africa,2021-04-05,Omicron,0,0.0,324
+83947,South Africa,2021-04-19,Omicron,0,0.0,250
+83971,South Africa,2021-05-03,Omicron,0,0.0,390
+83995,South Africa,2021-05-17,Omicron,0,0.0,545
+84019,South Africa,2021-05-31,Omicron,0,0.0,646
+84043,South Africa,2021-06-14,Omicron,0,0.0,1101
+84067,South Africa,2021-06-28,Omicron,0,0.0,1661
+84091,South Africa,2021-07-12,Omicron,0,0.0,2226
+84115,South Africa,2021-07-26,Omicron,0,0.0,1667
+84139,South Africa,2021-08-09,Omicron,0,0.0,1601
+84163,South Africa,2021-08-23,Omicron,0,0.0,1242
+84187,South Africa,2021-09-06,Omicron,0,0.0,1269
+84211,South Africa,2021-09-20,Omicron,0,0.0,925
+84235,South Africa,2021-10-04,Omicron,0,0.0,522
+84259,South Africa,2021-10-18,Omicron,0,0.0,453
+84283,South Africa,2021-11-01,Omicron,1,0.48,209
+84307,South Africa,2021-11-15,Omicron,25,21.55,116
+84331,South Africa,2021-11-29,Omicron,710,85.65,829
+84355,South Africa,2021-12-13,Omicron,1075,95.9,1121
+84379,South Africa,2021-12-27,Omicron,61,93.85,65
+84403,South Korea,2020-05-11,Omicron,0,0.0,48
+84427,South Korea,2020-05-25,Omicron,0,0.0,64
+84451,South Korea,2020-06-08,Omicron,0,0.0,165
+84475,South Korea,2020-06-22,Omicron,0,0.0,108
+84499,South Korea,2020-07-06,Omicron,0,0.0,159
+84523,South Korea,2020-07-20,Omicron,0,0.0,110
+84547,South Korea,2020-08-03,Omicron,0,0.0,98
+84571,South Korea,2020-08-17,Omicron,0,0.0,123
+84595,South Korea,2020-08-31,Omicron,0,0.0,176
+84619,South Korea,2020-09-14,Omicron,0,0.0,64
+84643,South Korea,2020-09-28,Omicron,0,0.0,63
+84667,South Korea,2020-10-12,Omicron,0,0.0,57
+84691,South Korea,2020-10-26,Omicron,0,0.0,84
+84715,South Korea,2020-11-09,Omicron,0,0.0,77
+84739,South Korea,2020-11-23,Omicron,0,0.0,171
+84763,South Korea,2020-12-07,Omicron,0,0.0,160
+84787,South Korea,2020-12-21,Omicron,0,0.0,178
+84811,South Korea,2021-01-04,Omicron,0,0.0,187
+84835,South Korea,2021-01-11,Omicron,0,0.0,72
+84859,South Korea,2021-01-25,Omicron,0,0.0,146
+84883,South Korea,2021-02-08,Omicron,0,0.0,197
+84907,South Korea,2021-02-22,Omicron,0,0.0,242
+84931,South Korea,2021-03-08,Omicron,0,0.0,258
+84955,South Korea,2021-03-22,Omicron,0,0.0,271
+84979,South Korea,2021-04-05,Omicron,0,0.0,324
+85003,South Korea,2021-04-19,Omicron,0,0.0,408
+85027,South Korea,2021-05-03,Omicron,0,0.0,530
+85051,South Korea,2021-05-17,Omicron,0,0.0,223
+85075,South Korea,2021-05-31,Omicron,0,0.0,210
+85099,South Korea,2021-06-14,Omicron,0,0.0,473
+85123,South Korea,2021-06-28,Omicron,0,0.0,575
+85147,South Korea,2021-07-12,Omicron,0,0.0,715
+85171,South Korea,2021-07-26,Omicron,0,0.0,1062
+85195,South Korea,2021-08-09,Omicron,0,0.0,960
+85219,South Korea,2021-08-23,Omicron,0,0.0,909
+85243,South Korea,2021-09-06,Omicron,0,0.0,1318
+85267,South Korea,2021-09-20,Omicron,0,0.0,1216
+85291,South Korea,2021-10-04,Omicron,0,0.0,943
+85315,South Korea,2021-10-18,Omicron,0,0.0,1137
+85339,South Korea,2021-11-01,Omicron,0,0.0,1562
+85363,South Korea,2021-11-15,Omicron,0,0.0,1574
+85387,South Korea,2021-11-29,Omicron,2,0.15,1368
+85411,South Korea,2021-12-13,Omicron,15,0.93,1620
+85435,South Korea,2021-12-27,Omicron,0,0.0,393
+85459,Spain,2020-05-11,Omicron,0,0.0,180
+85483,Spain,2020-05-25,Omicron,0,0.0,95
+85507,Spain,2020-06-08,Omicron,0,0.0,63
+85531,Spain,2020-06-22,Omicron,0,0.0,73
+85555,Spain,2020-07-06,Omicron,0,0.0,140
+85579,Spain,2020-07-20,Omicron,0,0.0,149
+85603,Spain,2020-08-03,Omicron,0,0.0,170
+85627,Spain,2020-08-17,Omicron,0,0.0,251
+85651,Spain,2020-08-31,Omicron,0,0.0,281
+85675,Spain,2020-09-14,Omicron,0,0.0,444
+85699,Spain,2020-09-28,Omicron,0,0.0,488
+85723,Spain,2020-10-12,Omicron,0,0.0,513
+85747,Spain,2020-10-26,Omicron,0,0.0,478
+85771,Spain,2020-11-09,Omicron,0,0.0,360
+85795,Spain,2020-11-23,Omicron,0,0.0,409
+85819,Spain,2020-12-07,Omicron,0,0.0,471
+85843,Spain,2020-12-21,Omicron,0,0.0,967
+85867,Spain,2021-01-04,Omicron,0,0.0,1095
+85891,Spain,2021-01-11,Omicron,0,0.0,632
+85915,Spain,2021-01-25,Omicron,0,0.0,2620
+85939,Spain,2021-02-08,Omicron,0,0.0,3043
+85963,Spain,2021-02-22,Omicron,0,0.0,2628
+85987,Spain,2021-03-08,Omicron,0,0.0,2674
+86011,Spain,2021-03-22,Omicron,0,0.0,2431
+86035,Spain,2021-04-05,Omicron,0,0.0,2788
+86059,Spain,2021-04-19,Omicron,0,0.0,2957
+86083,Spain,2021-05-03,Omicron,0,0.0,2815
+86107,Spain,2021-05-17,Omicron,0,0.0,3341
+86131,Spain,2021-05-31,Omicron,0,0.0,2613
+86155,Spain,2021-06-14,Omicron,0,0.0,3221
+86179,Spain,2021-06-28,Omicron,0,0.0,3000
+86203,Spain,2021-07-12,Omicron,0,0.0,5987
+86227,Spain,2021-07-26,Omicron,0,0.0,5278
+86251,Spain,2021-08-09,Omicron,0,0.0,5388
+86275,Spain,2021-08-23,Omicron,0,0.0,3647
+86299,Spain,2021-09-06,Omicron,0,0.0,3246
+86323,Spain,2021-09-20,Omicron,0,0.0,2186
+86347,Spain,2021-10-04,Omicron,0,0.0,1510
+86371,Spain,2021-10-18,Omicron,0,0.0,1213
+86395,Spain,2021-11-01,Omicron,0,0.0,1559
+86419,Spain,2021-11-15,Omicron,0,0.0,1713
+86443,Spain,2021-11-29,Omicron,1,0.05,2010
+86467,Spain,2021-12-13,Omicron,241,11.36,2121
+86491,Spain,2021-12-27,Omicron,461,46.52,991
+86515,Sri Lanka,2020-05-11,Omicron,0,0.0,1
+86539,Sri Lanka,2020-06-22,Omicron,0,0.0,1
+86563,Sri Lanka,2020-08-03,Omicron,0,0.0,4
+86587,Sri Lanka,2020-10-12,Omicron,0,0.0,3
+86611,Sri Lanka,2020-10-26,Omicron,0,0.0,11
+86635,Sri Lanka,2020-11-09,Omicron,0,0.0,8
+86659,Sri Lanka,2020-11-23,Omicron,0,0.0,2
+86683,Sri Lanka,2020-12-07,Omicron,0,0.0,6
+86707,Sri Lanka,2020-12-21,Omicron,0,0.0,1
+86731,Sri Lanka,2021-01-04,Omicron,0,0.0,10
+86755,Sri Lanka,2021-01-11,Omicron,0,0.0,3
+86779,Sri Lanka,2021-01-25,Omicron,0,0.0,54
+86803,Sri Lanka,2021-02-08,Omicron,0,0.0,69
+86827,Sri Lanka,2021-02-22,Omicron,0,0.0,52
+86851,Sri Lanka,2021-03-08,Omicron,0,0.0,24
+86875,Sri Lanka,2021-03-22,Omicron,0,0.0,48
+86899,Sri Lanka,2021-04-05,Omicron,0,0.0,12
+86923,Sri Lanka,2021-04-19,Omicron,0,0.0,8
+86947,Sri Lanka,2021-05-03,Omicron,0,0.0,66
+86971,Sri Lanka,2021-05-17,Omicron,0,0.0,44
+86995,Sri Lanka,2021-05-31,Omicron,0,0.0,43
+87019,Sri Lanka,2021-06-14,Omicron,0,0.0,61
+87043,Sri Lanka,2021-06-28,Omicron,0,0.0,142
+87067,Sri Lanka,2021-07-12,Omicron,0,0.0,71
+87091,Sri Lanka,2021-07-26,Omicron,0,0.0,82
+87115,Sri Lanka,2021-08-09,Omicron,0,0.0,118
+87139,Sri Lanka,2021-08-23,Omicron,0,0.0,103
+87163,Sri Lanka,2021-09-06,Omicron,0,0.0,223
+87187,Sri Lanka,2021-09-20,Omicron,0,0.0,143
+87211,Sri Lanka,2021-10-04,Omicron,0,0.0,83
+87235,Sri Lanka,2021-10-18,Omicron,0,0.0,168
+87259,Sri Lanka,2021-11-01,Omicron,0,0.0,106
+87283,Sri Lanka,2021-11-15,Omicron,0,0.0,84
+87307,Sri Lanka,2021-11-29,Omicron,1,0.99,101
+87331,Sri Lanka,2021-12-13,Omicron,3,1.52,197
+87355,Sri Lanka,2021-12-27,Omicron,37,19.37,191
+87379,Sri Lanka,2022-01-05,Omicron,7,63.64,11
+87403,Suriname,2020-05-11,Omicron,0,0.0,1
+87427,Suriname,2020-06-22,Omicron,0,0.0,3
+87451,Suriname,2020-07-06,Omicron,0,0.0,33
+87475,Suriname,2020-07-20,Omicron,0,0.0,24
+87499,Suriname,2020-08-03,Omicron,0,0.0,2
+87523,Suriname,2020-08-17,Omicron,0,0.0,22
+87547,Suriname,2020-08-31,Omicron,0,0.0,3
+87571,Suriname,2020-12-21,Omicron,0,0.0,10
+87595,Suriname,2021-01-04,Omicron,0,0.0,6
+87619,Suriname,2021-01-25,Omicron,0,0.0,17
+87643,Suriname,2021-02-08,Omicron,0,0.0,8
+87667,Suriname,2021-02-22,Omicron,0,0.0,9
+87691,Suriname,2021-03-08,Omicron,0,0.0,31
+87715,Suriname,2021-03-22,Omicron,0,0.0,13
+87739,Suriname,2021-04-05,Omicron,0,0.0,57
+87763,Suriname,2021-04-19,Omicron,0,0.0,49
+87787,Suriname,2021-05-03,Omicron,0,0.0,23
+87811,Suriname,2021-05-17,Omicron,0,0.0,43
+87835,Suriname,2021-05-31,Omicron,0,0.0,53
+87859,Suriname,2021-06-14,Omicron,0,0.0,37
+87883,Suriname,2021-06-28,Omicron,0,0.0,50
+87907,Suriname,2021-07-12,Omicron,0,0.0,39
+87931,Suriname,2021-07-26,Omicron,0,0.0,35
+87955,Suriname,2021-08-09,Omicron,0,0.0,50
+87979,Suriname,2021-08-23,Omicron,0,0.0,43
+88003,Suriname,2021-09-06,Omicron,0,0.0,57
+88027,Suriname,2021-09-20,Omicron,0,0.0,64
+88051,Suriname,2021-10-04,Omicron,0,0.0,31
+88075,Suriname,2021-10-18,Omicron,0,0.0,39
+88099,Suriname,2021-11-01,Omicron,0,0.0,16
+88123,Suriname,2021-11-15,Omicron,0,0.0,23
+88147,Suriname,2021-11-29,Omicron,0,0.0,17
+88171,Suriname,2021-12-13,Omicron,0,0.0,23
+88195,Sweden,2020-05-11,Omicron,0,0.0,52
+88219,Sweden,2020-05-25,Omicron,0,0.0,81
+88243,Sweden,2020-06-08,Omicron,0,0.0,83
+88267,Sweden,2020-06-22,Omicron,0,0.0,36
+88291,Sweden,2020-07-06,Omicron,0,0.0,43
+88315,Sweden,2020-07-20,Omicron,0,0.0,40
+88339,Sweden,2020-08-03,Omicron,0,0.0,15
+88363,Sweden,2020-08-17,Omicron,0,0.0,41
+88387,Sweden,2020-08-31,Omicron,0,0.0,43
+88411,Sweden,2020-09-14,Omicron,0,0.0,38
+88435,Sweden,2020-09-28,Omicron,0,0.0,54
+88459,Sweden,2020-10-12,Omicron,0,0.0,45
+88483,Sweden,2020-10-26,Omicron,0,0.0,43
+88507,Sweden,2020-11-09,Omicron,0,0.0,125
+88531,Sweden,2020-11-23,Omicron,0,0.0,105
+88555,Sweden,2020-12-07,Omicron,0,0.0,145
+88579,Sweden,2020-12-21,Omicron,0,0.0,174
+88603,Sweden,2021-01-04,Omicron,0,0.0,535
+88627,Sweden,2021-01-11,Omicron,0,0.0,289
+88651,Sweden,2021-01-25,Omicron,0,0.0,2203
+88675,Sweden,2021-02-08,Omicron,0,0.0,5546
+88699,Sweden,2021-02-22,Omicron,0,0.0,9307
+88723,Sweden,2021-03-08,Omicron,0,0.0,11288
+88747,Sweden,2021-03-22,Omicron,0,0.0,13397
+88771,Sweden,2021-04-05,Omicron,0,0.0,10365
+88795,Sweden,2021-04-19,Omicron,0,0.0,7416
+88819,Sweden,2021-05-03,Omicron,0,0.0,6766
+88843,Sweden,2021-05-17,Omicron,0,0.0,7046
+88867,Sweden,2021-05-31,Omicron,0,0.0,5268
+88891,Sweden,2021-06-14,Omicron,0,0.0,3876
+88915,Sweden,2021-06-28,Omicron,0,0.0,3329
+88939,Sweden,2021-07-12,Omicron,0,0.0,2229
+88963,Sweden,2021-07-26,Omicron,0,0.0,3358
+88987,Sweden,2021-08-09,Omicron,0,0.0,4585
+89011,Sweden,2021-08-23,Omicron,0,0.0,6148
+89035,Sweden,2021-09-06,Omicron,0,0.0,5028
+89059,Sweden,2021-09-20,Omicron,0,0.0,4183
+89083,Sweden,2021-10-04,Omicron,0,0.0,3358
+89107,Sweden,2021-10-18,Omicron,0,0.0,2824
+89131,Sweden,2021-11-01,Omicron,0,0.0,4604
+89155,Sweden,2021-11-15,Omicron,0,0.0,4812
+89179,Sweden,2021-11-29,Omicron,5,0.12,4120
+89203,Sweden,2021-12-13,Omicron,195,5.46,3572
+89227,Sweden,2021-12-27,Omicron,434,35.03,1239
+89251,Switzerland,2020-05-11,Omicron,0,0.0,106
+89275,Switzerland,2020-05-25,Omicron,0,0.0,23
+89299,Switzerland,2020-06-08,Omicron,0,0.0,27
+89323,Switzerland,2020-06-22,Omicron,0,0.0,25
+89347,Switzerland,2020-07-06,Omicron,0,0.0,89
+89371,Switzerland,2020-07-20,Omicron,0,0.0,169
+89395,Switzerland,2020-08-03,Omicron,0,0.0,145
+89419,Switzerland,2020-08-17,Omicron,0,0.0,174
+89443,Switzerland,2020-08-31,Omicron,0,0.0,306
+89467,Switzerland,2020-09-14,Omicron,0,0.0,288
+89491,Switzerland,2020-09-28,Omicron,0,0.0,52
+89515,Switzerland,2020-10-12,Omicron,0,0.0,448
+89539,Switzerland,2020-10-26,Omicron,0,0.0,998
+89563,Switzerland,2020-11-09,Omicron,0,0.0,1607
+89587,Switzerland,2020-11-23,Omicron,0,0.0,1685
+89611,Switzerland,2020-12-07,Omicron,0,0.0,1421
+89635,Switzerland,2020-12-21,Omicron,0,0.0,2426
+89659,Switzerland,2021-01-04,Omicron,0,0.0,3229
+89683,Switzerland,2021-01-11,Omicron,0,0.0,1785
+89707,Switzerland,2021-01-25,Omicron,0,0.0,3563
+89731,Switzerland,2021-02-08,Omicron,0,0.0,3053
+89755,Switzerland,2021-02-22,Omicron,0,0.0,1819
+89779,Switzerland,2021-03-08,Omicron,0,0.0,1936
+89803,Switzerland,2021-03-22,Omicron,0,0.0,2524
+89827,Switzerland,2021-04-05,Omicron,0,0.0,2521
+89851,Switzerland,2021-04-19,Omicron,0,0.0,3200
+89875,Switzerland,2021-05-03,Omicron,0,0.0,4034
+89899,Switzerland,2021-05-17,Omicron,0,0.0,2882
+89923,Switzerland,2021-05-31,Omicron,0,0.0,2210
+89947,Switzerland,2021-06-14,Omicron,0,0.0,1108
+89971,Switzerland,2021-06-28,Omicron,0,0.0,479
+89995,Switzerland,2021-07-12,Omicron,0,0.0,963
+90019,Switzerland,2021-07-26,Omicron,0,0.0,2932
+90043,Switzerland,2021-08-09,Omicron,0,0.0,4623
+90067,Switzerland,2021-08-23,Omicron,0,0.0,6633
+90091,Switzerland,2021-09-06,Omicron,0,0.0,4379
+90115,Switzerland,2021-09-20,Omicron,0,0.0,4396
+90139,Switzerland,2021-10-04,Omicron,0,0.0,3784
+90163,Switzerland,2021-10-18,Omicron,0,0.0,3230
+90187,Switzerland,2021-11-01,Omicron,0,0.0,5102
+90211,Switzerland,2021-11-15,Omicron,0,0.0,6584
+90235,Switzerland,2021-11-29,Omicron,24,0.37,6568
+90259,Switzerland,2021-12-13,Omicron,244,5.07,4811
+90283,Switzerland,2021-12-27,Omicron,514,38.65,1330
+90307,Thailand,2020-08-03,Omicron,0,0.0,5
+90331,Thailand,2020-08-31,Omicron,0,0.0,2
+90355,Thailand,2020-09-28,Omicron,0,0.0,2
+90379,Thailand,2020-10-12,Omicron,0,0.0,7
+90403,Thailand,2020-10-26,Omicron,0,0.0,7
+90427,Thailand,2020-11-09,Omicron,0,0.0,6
+90451,Thailand,2020-11-23,Omicron,0,0.0,9
+90475,Thailand,2020-12-07,Omicron,0,0.0,18
+90499,Thailand,2020-12-21,Omicron,0,0.0,76
+90523,Thailand,2021-01-04,Omicron,0,0.0,37
+90547,Thailand,2021-01-11,Omicron,0,0.0,47
+90571,Thailand,2021-01-25,Omicron,0,0.0,33
+90595,Thailand,2021-02-08,Omicron,0,0.0,33
+90619,Thailand,2021-02-22,Omicron,0,0.0,108
+90643,Thailand,2021-03-08,Omicron,0,0.0,29
+90667,Thailand,2021-03-22,Omicron,0,0.0,33
+90691,Thailand,2021-04-05,Omicron,0,0.0,29
+90715,Thailand,2021-04-19,Omicron,0,0.0,129
+90739,Thailand,2021-05-03,Omicron,0,0.0,99
+90763,Thailand,2021-05-17,Omicron,0,0.0,589
+90787,Thailand,2021-05-31,Omicron,0,0.0,613
+90811,Thailand,2021-06-14,Omicron,0,0.0,274
+90835,Thailand,2021-06-28,Omicron,0,0.0,391
+90859,Thailand,2021-07-12,Omicron,0,0.0,208
+90883,Thailand,2021-07-26,Omicron,0,0.0,590
+90907,Thailand,2021-08-09,Omicron,0,0.0,298
+90931,Thailand,2021-08-23,Omicron,0,0.0,310
+90955,Thailand,2021-09-06,Omicron,0,0.0,308
+90979,Thailand,2021-09-20,Omicron,0,0.0,437
+91003,Thailand,2021-10-04,Omicron,0,0.0,807
+91027,Thailand,2021-10-18,Omicron,0,0.0,951
+91051,Thailand,2021-11-01,Omicron,0,0.0,948
+91075,Thailand,2021-11-15,Omicron,0,0.0,586
+91099,Thailand,2021-11-29,Omicron,2,0.39,516
+91123,Thailand,2021-12-13,Omicron,10,2.17,460
+91147,Thailand,2021-12-27,Omicron,6,26.09,23
+91171,Togo,2020-05-25,Omicron,0,0.0,3
+91195,Togo,2020-06-08,Omicron,0,0.0,4
+91219,Togo,2020-07-20,Omicron,0,0.0,2
+91243,Togo,2020-09-28,Omicron,0,0.0,5
+91267,Togo,2020-10-12,Omicron,0,0.0,1
+91291,Togo,2020-11-23,Omicron,0,0.0,1
+91315,Togo,2020-12-07,Omicron,0,0.0,1
+91339,Togo,2020-12-21,Omicron,0,0.0,8
+91363,Togo,2021-01-04,Omicron,0,0.0,5
+91387,Togo,2021-01-25,Omicron,0,0.0,6
+91411,Togo,2021-02-08,Omicron,0,0.0,40
+91435,Togo,2021-02-22,Omicron,0,0.0,40
+91459,Togo,2021-03-08,Omicron,0,0.0,36
+91483,Togo,2021-03-22,Omicron,0,0.0,12
+91507,Togo,2021-04-05,Omicron,0,0.0,8
+91531,Togo,2021-04-19,Omicron,0,0.0,14
+91555,Togo,2021-05-03,Omicron,0,0.0,8
+91579,Togo,2021-06-14,Omicron,0,0.0,25
+91603,Togo,2021-06-28,Omicron,0,0.0,27
+91627,Togo,2021-07-12,Omicron,0,0.0,24
+91651,Togo,2021-07-26,Omicron,0,0.0,24
+91675,Togo,2021-08-09,Omicron,0,0.0,44
+91699,Trinidad and Tobago,2020-06-22,Omicron,0,0.0,1
+91723,Trinidad and Tobago,2020-08-17,Omicron,0,0.0,1
+91747,Trinidad and Tobago,2020-08-31,Omicron,0,0.0,10
+91771,Trinidad and Tobago,2020-09-14,Omicron,0,0.0,5
+91795,Trinidad and Tobago,2020-09-28,Omicron,0,0.0,1
+91819,Trinidad and Tobago,2020-11-09,Omicron,0,0.0,4
+91843,Trinidad and Tobago,2020-11-23,Omicron,0,0.0,1
+91867,Trinidad and Tobago,2020-12-07,Omicron,0,0.0,9
+91891,Trinidad and Tobago,2020-12-21,Omicron,0,0.0,3
+91915,Trinidad and Tobago,2021-01-25,Omicron,0,0.0,1
+91939,Trinidad and Tobago,2021-02-22,Omicron,0,0.0,4
+91963,Trinidad and Tobago,2021-03-08,Omicron,0,0.0,2
+91987,Trinidad and Tobago,2021-03-22,Omicron,0,0.0,6
+92011,Trinidad and Tobago,2021-04-05,Omicron,0,0.0,8
+92035,Trinidad and Tobago,2021-04-19,Omicron,0,0.0,70
+92059,Trinidad and Tobago,2021-05-03,Omicron,0,0.0,197
+92083,Trinidad and Tobago,2021-05-17,Omicron,0,0.0,142
+92107,Trinidad and Tobago,2021-05-31,Omicron,0,0.0,28
+92131,Trinidad and Tobago,2021-06-14,Omicron,0,0.0,23
+92155,Trinidad and Tobago,2021-06-28,Omicron,0,0.0,11
+92179,Trinidad and Tobago,2021-07-12,Omicron,0,0.0,8
+92203,Trinidad and Tobago,2021-07-26,Omicron,0,0.0,12
+92227,Trinidad and Tobago,2021-08-09,Omicron,0,0.0,50
+92251,Trinidad and Tobago,2021-08-23,Omicron,0,0.0,60
+92275,Trinidad and Tobago,2021-09-06,Omicron,0,0.0,15
+92299,Trinidad and Tobago,2021-09-20,Omicron,0,0.0,50
+92323,Trinidad and Tobago,2021-10-04,Omicron,0,0.0,65
+92347,Trinidad and Tobago,2021-10-18,Omicron,0,0.0,124
+92371,Trinidad and Tobago,2021-11-01,Omicron,0,0.0,117
+92395,Trinidad and Tobago,2021-11-15,Omicron,0,0.0,162
+92419,Trinidad and Tobago,2021-11-29,Omicron,0,0.0,106
+92443,Trinidad and Tobago,2021-12-13,Omicron,2,1.9,105
+92467,Trinidad and Tobago,2021-12-27,Omicron,8,22.86,35
+92491,Turkey,2020-05-11,Omicron,0,0.0,95
+92515,Turkey,2020-05-25,Omicron,0,0.0,74
+92539,Turkey,2020-06-08,Omicron,0,0.0,33
+92563,Turkey,2020-06-22,Omicron,0,0.0,21
+92587,Turkey,2020-07-06,Omicron,0,0.0,20
+92611,Turkey,2020-07-20,Omicron,0,0.0,1
+92635,Turkey,2020-08-03,Omicron,0,0.0,10
+92659,Turkey,2020-08-17,Omicron,0,0.0,4
+92683,Turkey,2020-08-31,Omicron,0,0.0,10
+92707,Turkey,2020-09-14,Omicron,0,0.0,11
+92731,Turkey,2020-09-28,Omicron,0,0.0,11
+92755,Turkey,2020-10-12,Omicron,0,0.0,2
+92779,Turkey,2020-10-26,Omicron,0,0.0,2
+92803,Turkey,2020-11-23,Omicron,0,0.0,32
+92827,Turkey,2020-12-07,Omicron,0,0.0,1
+92851,Turkey,2020-12-21,Omicron,0,0.0,24
+92875,Turkey,2021-01-04,Omicron,0,0.0,67
+92899,Turkey,2021-01-11,Omicron,0,0.0,12
+92923,Turkey,2021-01-25,Omicron,0,0.0,230
+92947,Turkey,2021-02-08,Omicron,0,0.0,335
+92971,Turkey,2021-02-22,Omicron,0,0.0,1104
+92995,Turkey,2021-03-08,Omicron,0,0.0,1135
+93019,Turkey,2021-03-22,Omicron,0,0.0,978
+93043,Turkey,2021-04-05,Omicron,0,0.0,1375
+93067,Turkey,2021-04-19,Omicron,0,0.0,21
+93091,Turkey,2021-05-03,Omicron,0,0.0,144
+93115,Turkey,2021-05-17,Omicron,0,0.0,292
+93139,Turkey,2021-05-31,Omicron,0,0.0,290
+93163,Turkey,2021-06-14,Omicron,0,0.0,270
+93187,Turkey,2021-06-28,Omicron,0,0.0,1143
+93211,Turkey,2021-07-12,Omicron,0,0.0,4053
+93235,Turkey,2021-07-26,Omicron,0,0.0,1260
+93259,Turkey,2021-08-09,Omicron,0,0.0,12442
+93283,Turkey,2021-08-23,Omicron,0,0.0,32547
+93307,Turkey,2021-09-06,Omicron,0,0.0,1319
+93331,Turkey,2021-09-20,Omicron,0,0.0,2714
+93355,Turkey,2021-10-04,Omicron,0,0.0,3008
+93379,Turkey,2021-10-18,Omicron,0,0.0,1716
+93403,Turkey,2021-11-01,Omicron,0,0.0,361
+93427,Turkey,2021-11-15,Omicron,0,0.0,2426
+93451,Turkey,2021-11-29,Omicron,0,0.0,2383
+93475,Turkey,2021-12-13,Omicron,3,0.11,2782
+93499,Turkey,2021-12-27,Omicron,202,9.62,2100
+93523,Uganda,2020-05-11,Omicron,0,0.0,27
+93547,Uganda,2020-05-25,Omicron,0,0.0,1
+93571,Uganda,2020-07-06,Omicron,0,0.0,4
+93595,Uganda,2020-07-20,Omicron,0,0.0,2
+93619,Uganda,2020-08-03,Omicron,0,0.0,9
+93643,Uganda,2020-08-17,Omicron,0,0.0,31
+93667,Uganda,2020-08-31,Omicron,0,0.0,27
+93691,Uganda,2020-09-14,Omicron,0,0.0,37
+93715,Uganda,2020-09-28,Omicron,0,0.0,10
+93739,Uganda,2020-10-12,Omicron,0,0.0,8
+93763,Uganda,2020-10-26,Omicron,0,0.0,2
+93787,Uganda,2020-11-09,Omicron,0,0.0,26
+93811,Uganda,2020-11-23,Omicron,0,0.0,29
+93835,Uganda,2020-12-07,Omicron,0,0.0,2
+93859,Uganda,2020-12-21,Omicron,0,0.0,39
+93883,Uganda,2021-01-04,Omicron,0,0.0,59
+93907,Uganda,2021-01-25,Omicron,0,0.0,25
+93931,Uganda,2021-02-08,Omicron,0,0.0,2
+93955,Uganda,2021-02-22,Omicron,0,0.0,8
+93979,Uganda,2021-03-08,Omicron,0,0.0,9
+94003,Uganda,2021-03-22,Omicron,0,0.0,10
+94027,Uganda,2021-04-05,Omicron,0,0.0,26
+94051,Uganda,2021-04-19,Omicron,0,0.0,17
+94075,Uganda,2021-05-03,Omicron,0,0.0,11
+94099,Uganda,2021-05-17,Omicron,0,0.0,17
+94123,Uganda,2021-05-31,Omicron,0,0.0,21
+94147,Uganda,2021-06-14,Omicron,0,0.0,172
+94171,Uganda,2021-06-28,Omicron,0,0.0,114
+94195,Uganda,2021-07-12,Omicron,0,0.0,12
+94219,Uganda,2021-07-26,Omicron,0,0.0,15
+94243,Uganda,2021-08-09,Omicron,0,0.0,17
+94267,Uganda,2021-08-23,Omicron,0,0.0,5
+94291,Uganda,2021-12-13,Omicron,1,100.0,1
+94315,Ukraine,2020-05-11,Omicron,0,0.0,2
+94339,Ukraine,2020-05-25,Omicron,0,0.0,9
+94363,Ukraine,2020-06-08,Omicron,0,0.0,23
+94387,Ukraine,2020-07-06,Omicron,0,0.0,14
+94411,Ukraine,2020-07-20,Omicron,0,0.0,3
+94435,Ukraine,2020-08-03,Omicron,0,0.0,3
+94459,Ukraine,2020-08-17,Omicron,0,0.0,10
+94483,Ukraine,2020-09-28,Omicron,0,0.0,2
+94507,Ukraine,2020-10-12,Omicron,0,0.0,3
+94531,Ukraine,2020-10-26,Omicron,0,0.0,2
+94555,Ukraine,2020-11-23,Omicron,0,0.0,1
+94579,Ukraine,2020-12-07,Omicron,0,0.0,1
+94603,Ukraine,2021-01-04,Omicron,0,0.0,45
+94627,Ukraine,2021-01-11,Omicron,0,0.0,27
+94651,Ukraine,2021-01-25,Omicron,0,0.0,25
+94675,Ukraine,2021-02-22,Omicron,0,0.0,6
+94699,Ukraine,2021-03-08,Omicron,0,0.0,26
+94723,Ukraine,2021-03-22,Omicron,0,0.0,36
+94747,Ukraine,2021-04-05,Omicron,0,0.0,2
+94771,Ukraine,2021-05-17,Omicron,0,0.0,4
+94795,Ukraine,2021-05-31,Omicron,0,0.0,21
+94819,Ukraine,2021-06-14,Omicron,0,0.0,3
+94843,Ukraine,2021-06-28,Omicron,0,0.0,43
+94867,Ukraine,2021-07-12,Omicron,0,0.0,33
+94891,Ukraine,2021-07-26,Omicron,0,0.0,32
+94915,Ukraine,2021-09-06,Omicron,0,0.0,10
+94939,Ukraine,2021-09-20,Omicron,0,0.0,41
+94963,Ukraine,2021-10-04,Omicron,0,0.0,12
+94987,Ukraine,2021-10-18,Omicron,0,0.0,2
+95011,Ukraine,2021-11-01,Omicron,0,0.0,106
+95035,Ukraine,2021-11-15,Omicron,0,0.0,10
+95059,Ukraine,2021-11-29,Omicron,0,0.0,48
+95083,Ukraine,2021-12-13,Omicron,0,0.0,8
+95107,Ukraine,2021-12-27,Omicron,1,100.0,1
+95131,United Arab Emirates,2020-05-11,Omicron,0,0.0,133
+95155,United Arab Emirates,2020-05-25,Omicron,0,0.0,891
+95179,United Arab Emirates,2020-06-08,Omicron,0,0.0,18
+95203,United Arab Emirates,2020-06-22,Omicron,0,0.0,106
+95227,United Arab Emirates,2020-07-06,Omicron,0,0.0,151
+95251,United Arab Emirates,2020-07-20,Omicron,0,0.0,4
+95275,United Arab Emirates,2020-08-17,Omicron,0,0.0,6
+95299,United Arab Emirates,2020-08-31,Omicron,0,0.0,65
+95323,United Arab Emirates,2020-09-14,Omicron,0,0.0,24
+95347,United Arab Emirates,2020-09-28,Omicron,0,0.0,39
+95371,United Arab Emirates,2020-10-12,Omicron,0,0.0,69
+95395,United Arab Emirates,2020-10-26,Omicron,0,0.0,56
+95419,United Arab Emirates,2020-11-09,Omicron,0,0.0,21
+95443,United Arab Emirates,2020-11-23,Omicron,0,0.0,67
+95467,United Arab Emirates,2020-12-07,Omicron,0,0.0,57
+95491,United Arab Emirates,2020-12-21,Omicron,0,0.0,40
+95515,United Arab Emirates,2021-01-04,Omicron,0,0.0,155
+95539,United Arab Emirates,2021-01-11,Omicron,0,0.0,80
+95563,United Arab Emirates,2021-01-25,Omicron,0,0.0,143
+95587,United Arab Emirates,2021-02-08,Omicron,0,0.0,324
+95611,United Arab Emirates,2021-02-22,Omicron,0,0.0,14
+95635,United Arab Emirates,2021-05-03,Omicron,0,0.0,5
+95659,United Arab Emirates,2021-06-14,Omicron,0,0.0,2
+95683,United Arab Emirates,2021-06-28,Omicron,0,0.0,20
+95707,United Kingdom,2020-05-11,Omicron,0,0.0,4753
+95731,United Kingdom,2020-05-25,Omicron,0,0.0,2767
+95755,United Kingdom,2020-06-08,Omicron,0,0.0,1761
+95779,United Kingdom,2020-06-22,Omicron,0,0.0,4716
+95803,United Kingdom,2020-07-06,Omicron,0,0.0,2286
+95827,United Kingdom,2020-07-20,Omicron,0,0.0,1088
+95851,United Kingdom,2020-08-03,Omicron,0,0.0,1190
+95875,United Kingdom,2020-08-17,Omicron,0,0.0,2357
+95899,United Kingdom,2020-08-31,Omicron,0,0.0,4144
+95923,United Kingdom,2020-09-14,Omicron,0,0.0,5667
+95947,United Kingdom,2020-09-28,Omicron,0,0.0,9722
+95971,United Kingdom,2020-10-12,Omicron,0,0.0,11598
+95995,United Kingdom,2020-10-26,Omicron,0,0.0,16191
+96019,United Kingdom,2020-11-09,Omicron,0,0.0,17930
+96043,United Kingdom,2020-11-23,Omicron,0,0.0,18024
+96067,United Kingdom,2020-12-07,Omicron,0,0.0,8465
+96091,United Kingdom,2020-12-21,Omicron,0,0.0,21638
+96115,United Kingdom,2021-01-04,Omicron,0,0.0,18777
+96139,United Kingdom,2021-01-11,Omicron,0,0.0,12673
+96163,United Kingdom,2021-01-25,Omicron,0,0.0,30847
+96187,United Kingdom,2021-02-08,Omicron,0,0.0,33472
+96211,United Kingdom,2021-02-22,Omicron,0,0.0,32917
+96235,United Kingdom,2021-03-08,Omicron,0,0.0,30391
+96259,United Kingdom,2021-03-22,Omicron,0,0.0,35371
+96283,United Kingdom,2021-04-05,Omicron,0,0.0,29673
+96307,United Kingdom,2021-04-19,Omicron,0,0.0,15908
+96331,United Kingdom,2021-05-03,Omicron,0,0.0,14275
+96355,United Kingdom,2021-05-17,Omicron,0,0.0,14374
+96379,United Kingdom,2021-05-31,Omicron,0,0.0,23824
+96403,United Kingdom,2021-06-14,Omicron,0,0.0,37317
+96427,United Kingdom,2021-06-28,Omicron,0,0.0,43442
+96451,United Kingdom,2021-07-12,Omicron,0,0.0,56140
+96475,United Kingdom,2021-07-26,Omicron,0,0.0,57203
+96499,United Kingdom,2021-08-09,Omicron,0,0.0,64528
+96523,United Kingdom,2021-08-23,Omicron,0,0.0,63959
+96547,United Kingdom,2021-09-06,Omicron,0,0.0,77119
+96571,United Kingdom,2021-09-20,Omicron,0,0.0,77089
+96595,United Kingdom,2021-10-04,Omicron,0,0.0,75474
+96619,United Kingdom,2021-10-18,Omicron,0,0.0,76720
+96643,United Kingdom,2021-11-01,Omicron,2,0.0,86068
+96667,United Kingdom,2021-11-15,Omicron,0,0.0,96946
+96691,United Kingdom,2021-11-29,Omicron,184,0.16,112772
+96715,United Kingdom,2021-12-13,Omicron,11956,9.39,127342
+96739,United Kingdom,2021-12-27,Omicron,52456,65.57,80002
+96763,United Kingdom,2022-01-05,Omicron,539,95.91,562
+96787,United States,2020-05-11,Omicron,0,0.0,5804
+96811,United States,2020-05-25,Omicron,0,0.0,4736
+96835,United States,2020-06-08,Omicron,0,0.0,4035
+96859,United States,2020-06-22,Omicron,0,0.0,6070
+96883,United States,2020-07-06,Omicron,0,0.0,8371
+96907,United States,2020-07-20,Omicron,0,0.0,10122
+96931,United States,2020-08-03,Omicron,0,0.0,7801
+96955,United States,2020-08-17,Omicron,0,0.0,5992
+96979,United States,2020-08-31,Omicron,0,0.0,4888
+97003,United States,2020-09-14,Omicron,0,0.0,4362
+97027,United States,2020-09-28,Omicron,0,0.0,5077
+97051,United States,2020-10-12,Omicron,0,0.0,5764
+97075,United States,2020-10-26,Omicron,0,0.0,7535
+97099,United States,2020-11-09,Omicron,0,0.0,12540
+97123,United States,2020-11-23,Omicron,0,0.0,13561
+97147,United States,2020-12-07,Omicron,0,0.0,13266
+97171,United States,2020-12-21,Omicron,0,0.0,19936
+97195,United States,2021-01-04,Omicron,0,0.0,21204
+97219,United States,2021-01-11,Omicron,0,0.0,18451
+97243,United States,2021-01-25,Omicron,0,0.0,38293
+97267,United States,2021-02-08,Omicron,0,0.0,34853
+97291,United States,2021-02-22,Omicron,0,0.0,35919
+97315,United States,2021-03-08,Omicron,0,0.0,39935
+97339,United States,2021-03-22,Omicron,0,0.0,52615
+97363,United States,2021-04-05,Omicron,0,0.0,68922
+97387,United States,2021-04-19,Omicron,0,0.0,80542
+97411,United States,2021-05-03,Omicron,0,0.0,68541
+97435,United States,2021-05-17,Omicron,0,0.0,51424
+97459,United States,2021-05-31,Omicron,0,0.0,28913
+97483,United States,2021-06-14,Omicron,0,0.0,20283
+97507,United States,2021-06-28,Omicron,0,0.0,22291
+97531,United States,2021-07-12,Omicron,0,0.0,37254
+97555,United States,2021-07-26,Omicron,0,0.0,79713
+97579,United States,2021-08-09,Omicron,0,0.0,146170
+97603,United States,2021-08-23,Omicron,0,0.0,130754
+97627,United States,2021-09-06,Omicron,0,0.0,137159
+97651,United States,2021-09-20,Omicron,0,0.0,134718
+97675,United States,2021-10-04,Omicron,0,0.0,111660
+97699,United States,2021-10-18,Omicron,0,0.0,107920
+97723,United States,2021-11-01,Omicron,1,0.0,104883
+97747,United States,2021-11-15,Omicron,0,0.0,117419
+97771,United States,2021-11-29,Omicron,56,0.06,100281
+97795,United States,2021-12-13,Omicron,3770,3.68,102430
+97819,United States,2021-12-27,Omicron,24681,50.13,49235
+97843,United States,2022-01-05,Omicron,28,80.0,35
+97867,Uruguay,2020-05-11,Omicron,0,0.0,3
+97891,Uruguay,2020-05-25,Omicron,0,0.0,14
+97915,Uruguay,2020-06-08,Omicron,0,0.0,11
+97939,Uruguay,2020-06-22,Omicron,0,0.0,15
+97963,Uruguay,2020-07-06,Omicron,0,0.0,13
+97987,Uruguay,2020-07-20,Omicron,0,0.0,12
+98011,Uruguay,2020-08-03,Omicron,0,0.0,7
+98035,Uruguay,2020-08-17,Omicron,0,0.0,1
+98059,Uruguay,2020-09-28,Omicron,0,0.0,6
+98083,Uruguay,2020-10-12,Omicron,0,0.0,2
+98107,Uruguay,2020-11-09,Omicron,0,0.0,3
+98131,Uruguay,2020-11-23,Omicron,0,0.0,2
+98155,Uruguay,2020-12-07,Omicron,0,0.0,8
+98179,Uruguay,2020-12-21,Omicron,0,0.0,13
+98203,Uruguay,2021-01-04,Omicron,0,0.0,11
+98227,Uruguay,2021-01-11,Omicron,0,0.0,15
+98251,Uruguay,2021-01-25,Omicron,0,0.0,50
+98275,Uruguay,2021-02-08,Omicron,0,0.0,60
+98299,Uruguay,2021-02-22,Omicron,0,0.0,53
+98323,Uruguay,2021-03-08,Omicron,0,0.0,101
+98347,Uruguay,2021-03-22,Omicron,0,0.0,57
+98371,Uruguay,2021-04-05,Omicron,0,0.0,70
+98395,Uruguay,2021-04-19,Omicron,0,0.0,134
+98419,Uruguay,2021-05-03,Omicron,0,0.0,21
+98443,Vietnam,2021-01-04,Omicron,0,0.0,1
+98467,Vietnam,2021-01-11,Omicron,0,0.0,1
+98491,Vietnam,2021-02-08,Omicron,0,0.0,2
+98515,Vietnam,2021-02-22,Omicron,0,0.0,4
+98539,Vietnam,2021-05-03,Omicron,0,0.0,15
+98563,Vietnam,2021-05-17,Omicron,0,0.0,58
+98587,Vietnam,2021-05-31,Omicron,0,0.0,26
+98611,Vietnam,2021-06-14,Omicron,0,0.0,14
+98635,Vietnam,2021-06-28,Omicron,0,0.0,6
+98659,Vietnam,2021-07-26,Omicron,0,0.0,67
+98683,Vietnam,2021-08-09,Omicron,0,0.0,106
+98707,Vietnam,2021-08-23,Omicron,0,0.0,139
+98731,Vietnam,2021-09-06,Omicron,0,0.0,862
+98755,Vietnam,2021-09-20,Omicron,0,0.0,63
+98779,Vietnam,2021-10-04,Omicron,0,0.0,88
+98803,Vietnam,2021-10-18,Omicron,0,0.0,58
+98827,Vietnam,2021-11-01,Omicron,0,0.0,82
+98851,Vietnam,2021-11-15,Omicron,0,0.0,69
+98875,Vietnam,2021-11-29,Omicron,0,0.0,59
+98899,Vietnam,2021-12-13,Omicron,0,0.0,35
+98923,Vietnam,2021-12-27,Omicron,1,2.0,50
+98947,Zambia,2020-05-11,Omicron,0,0.0,4
+98971,Zambia,2020-06-08,Omicron,0,0.0,21
+98995,Zambia,2020-06-22,Omicron,0,0.0,25
+99019,Zambia,2020-07-06,Omicron,0,0.0,29
+99043,Zambia,2020-07-20,Omicron,0,0.0,62
+99067,Zambia,2020-08-03,Omicron,0,0.0,184
+99091,Zambia,2020-08-17,Omicron,0,0.0,63
+99115,Zambia,2020-08-31,Omicron,0,0.0,35
+99139,Zambia,2020-09-14,Omicron,0,0.0,2
+99163,Zambia,2020-10-12,Omicron,0,0.0,4
+99187,Zambia,2020-10-26,Omicron,0,0.0,1
+99211,Zambia,2020-12-07,Omicron,0,0.0,4
+99235,Zambia,2020-12-21,Omicron,0,0.0,10
+99259,Zambia,2021-01-04,Omicron,0,0.0,20
+99283,Zambia,2021-01-11,Omicron,0,0.0,26
+99307,Zambia,2021-01-25,Omicron,0,0.0,38
+99331,Zambia,2021-02-08,Omicron,0,0.0,49
+99355,Zambia,2021-02-22,Omicron,0,0.0,76
+99379,Zambia,2021-03-08,Omicron,0,0.0,8
+99403,Zambia,2021-03-22,Omicron,0,0.0,5
+99427,Zambia,2021-04-05,Omicron,0,0.0,9
+99451,Zambia,2021-04-19,Omicron,0,0.0,2
+99475,Zambia,2021-05-03,Omicron,0,0.0,18
+99499,Zambia,2021-05-31,Omicron,0,0.0,87
+99523,Zambia,2021-06-14,Omicron,0,0.0,94
+99547,Zambia,2021-06-28,Omicron,0,0.0,22
+99571,Zambia,2021-07-12,Omicron,0,0.0,70
+99595,Zambia,2021-07-26,Omicron,0,0.0,41
+99619,Zambia,2021-08-09,Omicron,0,0.0,17
+99643,Zambia,2021-08-23,Omicron,0,0.0,7
+99667,Zambia,2021-09-06,Omicron,0,0.0,37
+99691,Zambia,2021-09-20,Omicron,0,0.0,1
+99715,Zambia,2021-12-13,Omicron,39,100.0,39
+99739,Zambia,2021-12-27,Omicron,7,100.0,7
+99763,Zimbabwe,2020-05-11,Omicron,0,0.0,35
+99787,Zimbabwe,2020-06-08,Omicron,0,0.0,41
+99811,Zimbabwe,2020-08-03,Omicron,0,0.0,24
+99835,Zimbabwe,2020-08-17,Omicron,0,0.0,5
+99859,Zimbabwe,2020-08-31,Omicron,0,0.0,7
+99883,Zimbabwe,2020-09-14,Omicron,0,0.0,8
+99907,Zimbabwe,2020-10-12,Omicron,0,0.0,5
+99931,Zimbabwe,2020-10-26,Omicron,0,0.0,4
+99955,Zimbabwe,2020-11-09,Omicron,0,0.0,1
+99979,Zimbabwe,2020-11-23,Omicron,0,0.0,1
+100003,Zimbabwe,2020-12-07,Omicron,0,0.0,1
+100027,Zimbabwe,2020-12-21,Omicron,0,0.0,28
+100051,Zimbabwe,2021-01-04,Omicron,0,0.0,160
+100075,Zimbabwe,2021-01-11,Omicron,0,0.0,114
+100099,Zimbabwe,2021-01-25,Omicron,0,0.0,57
+100123,Zimbabwe,2021-02-08,Omicron,0,0.0,37
+100147,Zimbabwe,2021-02-22,Omicron,0,0.0,1
+100171,Zimbabwe,2021-03-08,Omicron,0,0.0,8
+100195,Zimbabwe,2021-06-28,Omicron,0,0.0,3
+100219,Zimbabwe,2021-07-12,Omicron,0,0.0,42
+100243,Zimbabwe,2021-07-26,Omicron,0,0.0,35
+100267,Zimbabwe,2021-08-09,Omicron,0,0.0,18
+100291,Zimbabwe,2021-08-23,Omicron,0,0.0,18
+100315,Zimbabwe,2021-09-06,Omicron,0,0.0,14
+100339,Zimbabwe,2021-09-20,Omicron,0,0.0,6
+100363,Zimbabwe,2021-10-04,Omicron,0,0.0,2
+100387,Zimbabwe,2021-10-18,Omicron,0,0.0,5
+100411,Zimbabwe,2021-11-01,Omicron,0,0.0,6

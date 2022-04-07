@@ -1,0 +1,4185 @@
+,location,date,variant,num_sequences,perc_sequences,num_sequences_total
+23,Angola,2020-07-06,non_who,3,100.0,3
+47,Angola,2020-08-31,non_who,0,0.0,1
+71,Angola,2020-09-28,non_who,1,10.0,10
+95,Angola,2020-10-12,non_who,5,17.24,29
+119,Angola,2020-10-26,non_who,0,0.0,7
+143,Angola,2020-12-07,non_who,0,0.0,6
+167,Angola,2020-12-21,non_who,23,24.73,93
+191,Angola,2021-01-04,non_who,5,100.0,5
+215,Angola,2021-01-11,non_who,15,93.75,16
+239,Angola,2021-01-25,non_who,47,90.38,52
+263,Angola,2021-02-08,non_who,26,61.91,42
+287,Angola,2021-02-22,non_who,22,56.41,39
+311,Angola,2021-03-08,non_who,37,32.75,113
+335,Angola,2021-03-22,non_who,20,16.52,121
+359,Angola,2021-04-05,non_who,30,21.89,137
+383,Angola,2021-04-19,non_who,26,31.33,83
+407,Angola,2021-05-03,non_who,5,14.71,34
+431,Angola,2021-05-17,non_who,1,20.0,5
+455,Angola,2021-05-31,non_who,0,0.0,7
+479,Angola,2021-06-14,non_who,0,0.0,22
+503,Angola,2021-06-28,non_who,1,1.69,59
+527,Angola,2021-07-12,non_who,2,4.34,46
+551,Angola,2021-07-26,non_who,1,10.0,10
+575,Angola,2021-08-09,non_who,0,0.0,4
+599,Angola,2021-08-23,non_who,0,0.0,1
+623,Angola,2021-09-06,non_who,0,0.0,20
+647,Angola,2021-09-20,non_who,0,0.0,57
+671,Angola,2021-10-04,non_who,0,0.0,33
+695,Argentina,2020-05-11,non_who,151,100.0,151
+719,Argentina,2020-05-25,non_who,167,100.0,167
+743,Argentina,2020-06-08,non_who,67,100.0,67
+767,Argentina,2020-06-22,non_who,79,100.0,79
+791,Argentina,2020-07-06,non_who,63,100.0,63
+815,Argentina,2020-07-20,non_who,113,100.0,113
+839,Argentina,2020-08-03,non_who,103,100.0,103
+863,Argentina,2020-08-17,non_who,113,100.0,113
+887,Argentina,2020-08-31,non_who,138,100.0,138
+911,Argentina,2020-09-14,non_who,50,100.0,50
+935,Argentina,2020-09-28,non_who,56,100.0,56
+959,Argentina,2020-10-12,non_who,39,100.0,39
+983,Argentina,2020-10-26,non_who,102,100.0,102
+1007,Argentina,2020-11-09,non_who,57,98.28,58
+1031,Argentina,2020-11-23,non_who,62,98.41,63
+1055,Argentina,2020-12-07,non_who,49,100.0,49
+1079,Argentina,2020-12-21,non_who,71,100.0,71
+1103,Argentina,2021-01-04,non_who,48,97.96,49
+1127,Argentina,2021-01-11,non_who,32,96.97,33
+1151,Argentina,2021-01-25,non_who,60,96.78,62
+1175,Argentina,2021-02-08,non_who,57,82.6,69
+1199,Argentina,2021-02-22,non_who,51,89.48,57
+1223,Argentina,2021-03-08,non_who,47,72.3,65
+1247,Argentina,2021-03-22,non_who,120,67.8,177
+1271,Argentina,2021-04-05,non_who,84,42.85,196
+1295,Argentina,2021-04-19,non_who,127,42.62,298
+1319,Argentina,2021-05-03,non_who,78,23.13,337
+1343,Argentina,2021-05-17,non_who,45,13.31,338
+1367,Argentina,2021-05-31,non_who,13,4.31,301
+1391,Argentina,2021-06-14,non_who,11,2.7,407
+1415,Argentina,2021-06-28,non_who,7,1.84,380
+1439,Argentina,2021-07-12,non_who,1,0.28,356
+1463,Argentina,2021-07-26,non_who,4,1.18,336
+1487,Argentina,2021-08-09,non_who,3,0.62,480
+1511,Argentina,2021-08-23,non_who,0,0.0,447
+1535,Argentina,2021-09-06,non_who,2,0.46,447
+1559,Argentina,2021-09-20,non_who,1,0.31,313
+1583,Argentina,2021-10-04,non_who,2,0.85,237
+1607,Argentina,2021-10-18,non_who,1,0.29,361
+1631,Argentina,2021-11-01,non_who,1,0.18,553
+1655,Argentina,2021-11-15,non_who,1,0.3,332
+1679,Argentina,2021-11-29,non_who,0,0.0,117
+1703,Argentina,2021-12-13,non_who,0,0.0,87
+1727,Argentina,2021-12-27,non_who,2,2.12,94
+1751,Aruba,2020-08-17,non_who,4,100.0,4
+1775,Aruba,2020-08-31,non_who,1,100.0,1
+1799,Aruba,2021-01-25,non_who,23,88.46,26
+1823,Aruba,2021-02-08,non_who,102,89.48,114
+1847,Aruba,2021-02-22,non_who,101,65.58,154
+1871,Aruba,2021-03-08,non_who,36,28.8,125
+1895,Aruba,2021-03-22,non_who,11,11.11,99
+1919,Aruba,2021-04-05,non_who,3,3.27,92
+1943,Aruba,2021-04-19,non_who,10,6.88,145
+1967,Aruba,2021-05-03,non_who,8,5.72,140
+1991,Aruba,2021-05-17,non_who,2,1.98,101
+2015,Aruba,2021-05-31,non_who,1,0.94,107
+2039,Aruba,2021-06-14,non_who,0,0.0,89
+2063,Aruba,2021-06-28,non_who,0,-0.01,24
+2087,Aruba,2021-07-12,non_who,0,0.0,29
+2111,Aruba,2021-07-26,non_who,0,0.0,97
+2135,Aruba,2021-08-09,non_who,0,0.0,341
+2159,Aruba,2021-08-23,non_who,0,0.0,525
+2183,Aruba,2021-09-06,non_who,0,0.0,261
+2207,Aruba,2021-09-20,non_who,0,0.0,140
+2231,Aruba,2021-10-04,non_who,0,0.0,177
+2255,Aruba,2021-10-18,non_who,0,0.0,37
+2279,Aruba,2021-11-15,non_who,0,0.0,68
+2303,Aruba,2021-11-29,non_who,0,0.0,43
+2327,Aruba,2021-12-13,non_who,0,0.0,61
+2351,Australia,2020-05-11,non_who,148,100.0,148
+2375,Australia,2020-05-25,non_who,103,100.0,103
+2399,Australia,2020-06-08,non_who,94,100.0,94
+2423,Australia,2020-06-22,non_who,172,100.0,172
+2447,Australia,2020-07-06,non_who,814,100.0,814
+2471,Australia,2020-07-20,non_who,2733,100.0,2733
+2495,Australia,2020-08-03,non_who,4183,100.0,4183
+2519,Australia,2020-08-17,non_who,3020,100.0,3020
+2543,Australia,2020-08-31,non_who,1987,100.0,1987
+2567,Australia,2020-09-14,non_who,770,100.0,770
+2591,Australia,2020-09-28,non_who,323,100.0,323
+2615,Australia,2020-10-12,non_who,182,100.0,182
+2639,Australia,2020-10-26,non_who,132,100.0,132
+2663,Australia,2020-11-09,non_who,63,100.0,63
+2687,Australia,2020-11-23,non_who,64,100.0,64
+2711,Australia,2020-12-07,non_who,48,97.96,49
+2735,Australia,2020-12-21,non_who,130,91.54,142
+2759,Australia,2021-01-04,non_who,178,85.58,208
+2783,Australia,2021-01-11,non_who,43,58.1,74
+2807,Australia,2021-01-25,non_who,47,47.0,100
+2831,Australia,2021-02-08,non_who,26,49.06,53
+2855,Australia,2021-02-22,non_who,10,12.5,80
+2879,Australia,2021-03-08,non_who,30,42.25,71
+2903,Australia,2021-03-22,non_who,48,39.34,122
+2927,Australia,2021-04-05,non_who,39,31.7,123
+2951,Australia,2021-04-19,non_who,8,5.09,157
+2975,Australia,2021-05-03,non_who,29,14.22,204
+2999,Australia,2021-05-17,non_who,14,11.98,117
+3023,Australia,2021-05-31,non_who,6,5.55,108
+3047,Australia,2021-06-14,non_who,9,6.81,132
+3071,Australia,2021-06-28,non_who,7,2.84,247
+3095,Australia,2021-07-12,non_who,4,0.52,767
+3119,Australia,2021-07-26,non_who,0,0.0,1742
+3143,Australia,2021-08-09,non_who,0,0.0,2734
+3167,Australia,2021-08-23,non_who,0,0.0,3198
+3191,Australia,2021-09-06,non_who,1,0.02,3744
+3215,Australia,2021-09-20,non_who,0,0.0,3526
+3239,Australia,2021-10-04,non_who,1,0.05,1824
+3263,Australia,2021-10-18,non_who,0,0.0,2410
+3287,Australia,2021-11-01,non_who,0,0.0,1883
+3311,Australia,2021-11-15,non_who,0,0.0,2078
+3335,Australia,2021-11-29,non_who,0,0.0,1992
+3359,Australia,2021-12-13,non_who,2,0.07,2800
+3383,Australia,2021-12-27,non_who,1,0.06,1726
+3407,Austria,2020-05-11,non_who,34,100.0,34
+3431,Austria,2020-05-25,non_who,41,100.0,41
+3455,Austria,2020-06-08,non_who,1,100.0,1
+3479,Austria,2020-06-22,non_who,1,100.0,1
+3503,Austria,2020-07-06,non_who,2,100.0,2
+3527,Austria,2020-07-20,non_who,11,100.0,11
+3551,Austria,2020-08-03,non_who,9,100.0,9
+3575,Austria,2020-08-17,non_who,22,100.0,22
+3599,Austria,2020-08-31,non_who,44,100.0,44
+3623,Austria,2020-09-14,non_who,35,100.0,35
+3647,Austria,2020-09-28,non_who,39,100.0,39
+3671,Austria,2020-10-12,non_who,30,100.0,30
+3695,Austria,2020-10-26,non_who,84,100.0,84
+3719,Austria,2020-11-09,non_who,181,100.0,181
+3743,Austria,2020-11-23,non_who,159,100.0,159
+3767,Austria,2020-12-07,non_who,135,98.54,137
+3791,Austria,2020-12-21,non_who,45,100.0,45
+3815,Austria,2021-01-04,non_who,299,94.92,315
+3839,Austria,2021-01-11,non_who,88,64.71,136
+3863,Austria,2021-01-25,non_who,67,26.8,250
+3887,Austria,2021-02-08,non_who,218,56.62,385
+3911,Austria,2021-02-22,non_who,162,39.04,415
+3935,Austria,2021-03-08,non_who,101,21.77,464
+3959,Austria,2021-03-22,non_who,68,11.99,567
+3983,Austria,2021-04-05,non_who,16,5.51,291
+4007,Austria,2021-04-19,non_who,28,7.93,353
+4031,Austria,2021-05-03,non_who,28,8.51,329
+4055,Austria,2021-05-17,non_who,36,5.82,619
+4079,Austria,2021-05-31,non_who,22,5.65,389
+4103,Austria,2021-06-14,non_who,22,5.53,398
+4127,Austria,2021-06-28,non_who,15,2.0,750
+4151,Austria,2021-07-12,non_who,2,0.39,505
+4175,Austria,2021-07-26,non_who,0,0.0,771
+4199,Austria,2021-08-09,non_who,0,0.0,623
+4223,Austria,2021-08-23,non_who,2,0.32,623
+4247,Austria,2021-09-06,non_who,0,0.0,585
+4271,Austria,2021-09-20,non_who,0,0.0,513
+4295,Austria,2021-10-04,non_who,0,0.0,444
+4319,Austria,2021-10-18,non_who,0,0.0,437
+4343,Austria,2021-11-01,non_who,0,0.0,634
+4367,Austria,2021-11-15,non_who,0,0.0,561
+4391,Austria,2021-11-29,non_who,0,0.0,165
+4415,Austria,2021-12-13,non_who,0,0.0,183
+4439,Bahrain,2020-06-08,non_who,1,100.0,1
+4463,Bahrain,2020-06-22,non_who,2,100.0,2
+4487,Bahrain,2020-07-06,non_who,11,100.0,11
+4511,Bahrain,2020-08-03,non_who,3,100.0,3
+4535,Bahrain,2020-08-31,non_who,3,100.0,3
+4559,Bahrain,2020-09-14,non_who,2,100.0,2
+4583,Bahrain,2020-09-28,non_who,2,100.0,2
+4607,Bahrain,2020-10-12,non_who,10,100.0,10
+4631,Bahrain,2020-10-26,non_who,45,100.0,45
+4655,Bahrain,2020-11-09,non_who,6,100.0,6
+4679,Bahrain,2020-11-23,non_who,38,100.0,38
+4703,Bahrain,2021-02-08,non_who,1,100.0,1
+4727,Bahrain,2021-02-22,non_who,1,50.0,2
+4751,Bahrain,2021-03-22,non_who,1,14.29,7
+4775,Bahrain,2021-04-05,non_who,0,0.0,2
+4799,Bahrain,2021-04-19,non_who,8,19.05,42
+4823,Bahrain,2021-05-03,non_who,0,0.0,9
+4847,Bahrain,2021-05-17,non_who,2,3.51,57
+4871,Bahrain,2021-05-31,non_who,2,4.35,46
+4895,Bahrain,2021-06-14,non_who,1,4.16,24
+4919,Bahrain,2021-06-28,non_who,0,0.0,84
+4943,Bahrain,2021-07-12,non_who,0,0.0,69
+4967,Bahrain,2021-07-26,non_who,1,0.95,106
+4991,Bahrain,2021-08-09,non_who,1,2.09,48
+5015,Bahrain,2021-09-06,non_who,0,0.0,227
+5039,Bahrain,2021-10-04,non_who,0,0.0,186
+5063,Bahrain,2021-10-18,non_who,0,0.0,372
+5087,Bahrain,2021-11-01,non_who,0,0.0,467
+5111,Bahrain,2021-11-15,non_who,0,0.0,370
+5135,Bangladesh,2020-05-11,non_who,124,100.0,124
+5159,Bangladesh,2020-05-25,non_who,168,100.0,168
+5183,Bangladesh,2020-06-08,non_who,69,100.0,69
+5207,Bangladesh,2020-06-22,non_who,111,100.0,111
+5231,Bangladesh,2020-07-06,non_who,175,100.0,175
+5255,Bangladesh,2020-07-20,non_who,139,100.0,139
+5279,Bangladesh,2020-08-03,non_who,66,100.0,66
+5303,Bangladesh,2020-08-17,non_who,26,100.0,26
+5327,Bangladesh,2020-08-31,non_who,25,100.0,25
+5351,Bangladesh,2020-09-14,non_who,35,100.0,35
+5375,Bangladesh,2020-09-28,non_who,8,100.0,8
+5399,Bangladesh,2020-10-12,non_who,20,100.0,20
+5423,Bangladesh,2020-10-26,non_who,15,100.0,15
+5447,Bangladesh,2020-11-09,non_who,25,92.59,27
+5471,Bangladesh,2020-11-23,non_who,30,100.0,30
+5495,Bangladesh,2020-12-07,non_who,57,100.0,57
+5519,Bangladesh,2020-12-21,non_who,25,100.0,25
+5543,Bangladesh,2021-01-04,non_who,50,94.34,53
+5567,Bangladesh,2021-01-11,non_who,8,53.33,15
+5591,Bangladesh,2021-01-25,non_who,53,85.48,62
+5615,Bangladesh,2021-02-08,non_who,34,80.95,42
+5639,Bangladesh,2021-02-22,non_who,20,55.55,36
+5663,Bangladesh,2021-03-08,non_who,3,21.43,14
+5687,Bangladesh,2021-03-22,non_who,24,15.38,156
+5711,Bangladesh,2021-04-05,non_who,9,10.34,87
+5735,Bangladesh,2021-04-19,non_who,7,5.34,131
+5759,Bangladesh,2021-05-03,non_who,4,7.15,56
+5783,Bangladesh,2021-05-17,non_who,5,8.62,58
+5807,Bangladesh,2021-05-31,non_who,9,9.1,99
+5831,Bangladesh,2021-06-14,non_who,5,7.24,69
+5855,Bangladesh,2021-06-28,non_who,4,3.57,112
+5879,Bangladesh,2021-07-12,non_who,2,0.82,244
+5903,Bangladesh,2021-07-26,non_who,0,0.0,174
+5927,Bangladesh,2021-08-09,non_who,0,0.0,149
+5951,Bangladesh,2021-08-23,non_who,0,0.0,140
+5975,Bangladesh,2021-09-06,non_who,0,0.0,131
+5999,Bangladesh,2021-09-20,non_who,0,0.0,126
+6023,Bangladesh,2021-10-04,non_who,0,0.0,94
+6047,Bangladesh,2021-10-18,non_who,0,0.0,136
+6071,Bangladesh,2021-11-01,non_who,0,0.0,94
+6095,Bangladesh,2021-11-15,non_who,0,0.0,118
+6119,Bangladesh,2021-11-29,non_who,0,0.0,112
+6143,Bangladesh,2021-12-13,non_who,0,0.0,45
+6167,Bangladesh,2021-12-27,non_who,0,0.0,24
+6191,Bangladesh,2022-01-05,non_who,0,0.0,3
+6215,Belgium,2020-05-11,non_who,134,100.0,134
+6239,Belgium,2020-05-25,non_who,67,100.0,67
+6263,Belgium,2020-06-08,non_who,15,100.0,15
+6287,Belgium,2020-06-22,non_who,38,100.0,38
+6311,Belgium,2020-07-06,non_who,39,100.0,39
+6335,Belgium,2020-07-20,non_who,39,100.0,39
+6359,Belgium,2020-08-03,non_who,146,100.0,146
+6383,Belgium,2020-08-17,non_who,130,100.0,130
+6407,Belgium,2020-08-31,non_who,54,100.0,54
+6431,Belgium,2020-09-14,non_who,87,100.0,87
+6455,Belgium,2020-09-28,non_who,246,100.0,246
+6479,Belgium,2020-10-12,non_who,130,100.0,130
+6503,Belgium,2020-10-26,non_who,363,100.0,363
+6527,Belgium,2020-11-09,non_who,204,100.0,204
+6551,Belgium,2020-11-23,non_who,241,100.0,241
+6575,Belgium,2020-12-07,non_who,145,97.97,148
+6599,Belgium,2020-12-21,non_who,345,99.42,347
+6623,Belgium,2021-01-04,non_who,185,76.45,242
+6647,Belgium,2021-01-11,non_who,224,76.45,293
+6671,Belgium,2021-01-25,non_who,766,55.58,1378
+6695,Belgium,2021-02-08,non_who,997,54.79,1820
+6719,Belgium,2021-02-22,non_who,750,41.48,1808
+6743,Belgium,2021-03-08,non_who,557,24.9,2237
+6767,Belgium,2021-03-22,non_who,359,12.23,2935
+6791,Belgium,2021-04-05,non_who,260,7.56,3438
+6815,Belgium,2021-04-19,non_who,152,5.22,2911
+6839,Belgium,2021-05-03,non_who,195,5.83,3338
+6863,Belgium,2021-05-17,non_who,116,3.74,3108
+6887,Belgium,2021-05-31,non_who,87,2.94,2952
+6911,Belgium,2021-06-14,non_who,31,1.56,1995
+6935,Belgium,2021-06-28,non_who,16,1.37,1181
+6959,Belgium,2021-07-12,non_who,30,1.14,2640
+6983,Belgium,2021-07-26,non_who,10,0.26,3960
+7007,Belgium,2021-08-09,non_who,4,0.11,4006
+7031,Belgium,2021-08-23,non_who,2,0.04,4534
+7055,Belgium,2021-09-06,non_who,5,0.11,4495
+7079,Belgium,2021-09-20,non_who,1,0.04,3113
+7103,Belgium,2021-10-04,non_who,1,0.04,2926
+7127,Belgium,2021-10-18,non_who,1,0.03,3315
+7151,Belgium,2021-11-01,non_who,5,0.14,3530
+7175,Belgium,2021-11-15,non_who,0,0.0,2729
+7199,Belgium,2021-11-29,non_who,2,0.07,3076
+7223,Belgium,2021-12-13,non_who,0,0.0,3087
+7247,Belgium,2021-12-27,non_who,4,0.27,1493
+7271,Belgium,2022-01-05,non_who,0,0.0,59
+7295,Belize,2020-08-17,non_who,4,100.0,4
+7319,Belize,2020-08-31,non_who,1,100.0,1
+7343,Belize,2020-09-28,non_who,2,100.0,2
+7367,Belize,2020-10-12,non_who,4,100.0,4
+7391,Belize,2020-10-26,non_who,6,100.0,6
+7415,Belize,2020-11-09,non_who,1,100.0,1
+7439,Belize,2020-12-21,non_who,7,100.0,7
+7463,Belize,2021-01-04,non_who,14,100.0,14
+7487,Belize,2021-01-11,non_who,7,100.0,7
+7511,Belize,2021-01-25,non_who,14,87.5,16
+7535,Belize,2021-02-08,non_who,25,96.15,26
+7559,Belize,2021-02-22,non_who,10,90.91,11
+7583,Belize,2021-03-08,non_who,1,33.34,3
+7607,Belize,2021-03-22,non_who,1,50.0,2
+7631,Belize,2021-04-19,non_who,0,0.0,3
+7655,Belize,2021-05-03,non_who,1,100.0,1
+7679,Belize,2021-05-17,non_who,4,26.66,15
+7703,Belize,2021-05-31,non_who,1,33.33,3
+7727,Belize,2021-06-14,non_who,0,0.0,1
+7751,Belize,2021-06-28,non_who,10,31.25,32
+7775,Belize,2021-07-12,non_who,3,16.67,18
+7799,Belize,2021-07-26,non_who,21,36.21,58
+7823,Belize,2021-08-09,non_who,23,36.51,63
+7847,Belize,2021-08-23,non_who,4,25.0,16
+7871,Benin,2021-02-08,non_who,34,31.19,109
+7895,Benin,2021-03-08,non_who,33,27.27,121
+7919,Benin,2021-04-05,non_who,81,46.03,176
+7943,Benin,2021-04-19,non_who,6,75.0,8
+7967,Benin,2021-05-03,non_who,19,76.0,25
+7991,Benin,2021-05-17,non_who,25,78.12,32
+8015,Benin,2021-05-31,non_who,21,77.79,27
+8039,Benin,2021-06-14,non_who,7,77.78,9
+8063,Benin,2021-06-28,non_who,9,64.29,14
+8087,Benin,2021-07-12,non_who,12,42.86,28
+8111,Benin,2021-07-26,non_who,10,27.78,36
+8135,Benin,2021-08-09,non_who,1,2.94,34
+8159,Benin,2021-08-23,non_who,5,6.76,74
+8183,Benin,2021-09-06,non_who,2,3.51,57
+8207,Bosnia and Herzegovina,2020-05-11,non_who,1,100.0,1
+8231,Bosnia and Herzegovina,2020-06-08,non_who,2,100.0,2
+8255,Bosnia and Herzegovina,2020-07-20,non_who,1,100.0,1
+8279,Bosnia and Herzegovina,2020-08-31,non_who,1,100.0,1
+8303,Bosnia and Herzegovina,2020-09-14,non_who,1,100.0,1
+8327,Bosnia and Herzegovina,2020-09-28,non_who,1,100.0,1
+8351,Bosnia and Herzegovina,2020-10-12,non_who,1,100.0,1
+8375,Bosnia and Herzegovina,2020-11-09,non_who,2,100.0,2
+8399,Bosnia and Herzegovina,2020-11-23,non_who,2,100.0,2
+8423,Bosnia and Herzegovina,2020-12-07,non_who,3,100.0,3
+8447,Bosnia and Herzegovina,2020-12-21,non_who,1,100.0,1
+8471,Bosnia and Herzegovina,2021-01-04,non_who,0,0.0,2
+8495,Bosnia and Herzegovina,2021-01-11,non_who,5,100.0,5
+8519,Bosnia and Herzegovina,2021-01-25,non_who,12,100.0,12
+8543,Bosnia and Herzegovina,2021-02-08,non_who,3,60.0,5
+8567,Bosnia and Herzegovina,2021-02-22,non_who,3,27.27,11
+8591,Bosnia and Herzegovina,2021-03-08,non_who,7,43.75,16
+8615,Bosnia and Herzegovina,2021-03-22,non_who,0,0.0,9
+8639,Bosnia and Herzegovina,2021-04-05,non_who,0,0.0,3
+8663,Bosnia and Herzegovina,2021-04-19,non_who,0,0.0,17
+8687,Bosnia and Herzegovina,2021-05-17,non_who,0,0.0,2
+8711,Bosnia and Herzegovina,2021-05-31,non_who,0,0.0,1
+8735,Bosnia and Herzegovina,2021-06-14,non_who,4,17.39,23
+8759,Bosnia and Herzegovina,2021-06-28,non_who,1,6.25,16
+8783,Bosnia and Herzegovina,2021-07-12,non_who,0,0.0,21
+8807,Bosnia and Herzegovina,2021-07-26,non_who,0,0.0,12
+8831,Bosnia and Herzegovina,2021-08-09,non_who,0,0.0,9
+8855,Bosnia and Herzegovina,2021-08-23,non_who,0,0.0,7
+8879,Bosnia and Herzegovina,2021-09-06,non_who,0,0.0,1
+8903,Bosnia and Herzegovina,2021-09-20,non_who,0,0.0,2
+8927,Bosnia and Herzegovina,2021-10-04,non_who,0,0.0,42
+8951,Bosnia and Herzegovina,2021-10-18,non_who,0,0.0,184
+8975,Bosnia and Herzegovina,2021-11-01,non_who,0,0.0,124
+8999,Bosnia and Herzegovina,2021-11-15,non_who,0,0.0,164
+9023,Bosnia and Herzegovina,2021-11-29,non_who,0,0.0,123
+9047,Bosnia and Herzegovina,2021-12-13,non_who,0,0.0,165
+9071,Botswana,2020-09-14,non_who,0,0.0,1
+9095,Botswana,2020-09-28,non_who,10,100.0,10
+9119,Botswana,2020-10-12,non_who,6,100.0,6
+9143,Botswana,2020-10-26,non_who,6,100.0,6
+9167,Botswana,2020-11-09,non_who,6,100.0,6
+9191,Botswana,2020-11-23,non_who,6,75.0,8
+9215,Botswana,2020-12-07,non_who,7,70.0,10
+9239,Botswana,2020-12-21,non_who,13,76.47,17
+9263,Botswana,2021-01-04,non_who,9,69.23,13
+9287,Botswana,2021-01-11,non_who,1,16.67,6
+9311,Botswana,2021-01-25,non_who,9,13.64,66
+9335,Botswana,2021-02-08,non_who,0,0.0,29
+9359,Botswana,2021-02-22,non_who,0,0.0,10
+9383,Botswana,2021-03-08,non_who,0,0.0,11
+9407,Botswana,2021-03-22,non_who,1,1.56,64
+9431,Botswana,2021-04-05,non_who,4,57.14,7
+9455,Botswana,2021-05-03,non_who,1,14.29,7
+9479,Botswana,2021-05-17,non_who,2,10.53,19
+9503,Botswana,2021-05-31,non_who,1,2.08,48
+9527,Botswana,2021-06-14,non_who,13,12.74,102
+9551,Botswana,2021-06-28,non_who,16,8.16,196
+9575,Botswana,2021-07-12,non_who,9,8.49,106
+9599,Botswana,2021-07-26,non_who,0,0.0,68
+9623,Botswana,2021-08-09,non_who,1,2.63,38
+9647,Botswana,2021-08-23,non_who,0,0.0,82
+9671,Botswana,2021-09-06,non_who,1,0.34,294
+9695,Botswana,2021-09-20,non_who,1,0.9,112
+9719,Botswana,2021-10-04,non_who,1,1.73,58
+9743,Botswana,2021-10-18,non_who,0,0.0,92
+9767,Botswana,2021-11-01,non_who,0,0.0,53
+9791,Botswana,2021-11-15,non_who,0,0.0,116
+9815,Botswana,2021-11-29,non_who,6,4.84,124
+9839,Botswana,2021-12-13,non_who,22,8.09,272
+9863,Botswana,2021-12-27,non_who,1,0.7,143
+9887,Brazil,2020-05-11,non_who,311,100.0,311
+9911,Brazil,2020-05-25,non_who,183,100.0,183
+9935,Brazil,2020-06-08,non_who,194,100.0,194
+9959,Brazil,2020-06-22,non_who,179,100.0,179
+9983,Brazil,2020-07-06,non_who,296,100.0,296
+10007,Brazil,2020-07-20,non_who,168,100.0,168
+10031,Brazil,2020-08-03,non_who,224,100.0,224
+10055,Brazil,2020-08-17,non_who,231,100.0,231
+10079,Brazil,2020-08-31,non_who,157,100.0,157
+10103,Brazil,2020-09-14,non_who,221,100.0,221
+10127,Brazil,2020-09-28,non_who,195,100.0,195
+10151,Brazil,2020-10-12,non_who,196,100.0,196
+10175,Brazil,2020-10-26,non_who,202,100.0,202
+10199,Brazil,2020-11-09,non_who,236,99.16,238
+10223,Brazil,2020-11-23,non_who,358,99.17,361
+10247,Brazil,2020-12-07,non_who,508,99.03,513
+10271,Brazil,2020-12-21,non_who,441,94.03,469
+10295,Brazil,2021-01-04,non_who,444,76.82,578
+10319,Brazil,2021-01-11,non_who,397,77.84,510
+10343,Brazil,2021-01-25,non_who,631,71.06,888
+10367,Brazil,2021-02-08,non_who,624,62.97,991
+10391,Brazil,2021-02-22,non_who,498,39.21,1270
+10415,Brazil,2021-03-08,non_who,375,20.63,1817
+10439,Brazil,2021-03-22,non_who,198,10.27,1929
+10463,Brazil,2021-04-05,non_who,197,7.04,2797
+10487,Brazil,2021-04-19,non_who,144,3.8,3791
+10511,Brazil,2021-05-03,non_who,78,2.05,3804
+10535,Brazil,2021-05-17,non_who,40,1.22,3247
+10559,Brazil,2021-05-31,non_who,60,1.45,4137
+10583,Brazil,2021-06-14,non_who,59,1.16,5088
+10607,Brazil,2021-06-28,non_who,29,0.66,4466
+10631,Brazil,2021-07-12,non_who,23,0.41,5548
+10655,Brazil,2021-07-26,non_who,22,0.42,5381
+10679,Brazil,2021-08-09,non_who,18,0.34,5217
+10703,Brazil,2021-08-23,non_who,12,0.3,4130
+10727,Brazil,2021-09-06,non_who,6,0.1,5469
+10751,Brazil,2021-09-20,non_who,22,0.38,5701
+10775,Brazil,2021-10-04,non_who,7,0.16,4572
+10799,Brazil,2021-10-18,non_who,1,0.02,4449
+10823,Brazil,2021-11-01,non_who,1,0.03,3014
+10847,Brazil,2021-11-15,non_who,0,0.0,2757
+10871,Brazil,2021-11-29,non_who,2,0.07,2547
+10895,Brazil,2021-12-13,non_who,1,0.07,1332
+10919,Brazil,2021-12-27,non_who,0,0.0,252
+10943,Brunei,2021-01-04,non_who,2,100.0,2
+10967,Brunei,2021-01-25,non_who,0,0.0,1
+10991,Brunei,2021-02-08,non_who,2,100.0,2
+11015,Brunei,2021-07-26,non_who,0,0.0,16
+11039,Brunei,2021-08-23,non_who,0,0.0,12
+11063,Brunei,2021-11-01,non_who,0,0.0,12
+11087,Brunei,2021-11-15,non_who,0,0.0,118
+11111,Brunei,2021-11-29,non_who,0,0.0,125
+11135,Brunei,2021-12-13,non_who,0,0.0,32
+11159,Brunei,2021-12-27,non_who,0,0.0,11
+11183,Bulgaria,2020-05-11,non_who,3,100.0,3
+11207,Bulgaria,2020-05-25,non_who,3,100.0,3
+11231,Bulgaria,2020-07-20,non_who,1,100.0,1
+11255,Bulgaria,2020-08-03,non_who,1,100.0,1
+11279,Bulgaria,2020-08-17,non_who,6,100.0,6
+11303,Bulgaria,2020-08-31,non_who,3,100.0,3
+11327,Bulgaria,2020-09-14,non_who,5,100.0,5
+11351,Bulgaria,2020-09-28,non_who,4,100.0,4
+11375,Bulgaria,2020-10-12,non_who,2,100.0,2
+11399,Bulgaria,2020-10-26,non_who,2,100.0,2
+11423,Bulgaria,2020-11-09,non_who,5,100.0,5
+11447,Bulgaria,2020-11-23,non_who,5,100.0,5
+11471,Bulgaria,2020-12-07,non_who,7,100.0,7
+11495,Bulgaria,2020-12-21,non_who,48,96.0,50
+11519,Bulgaria,2021-01-04,non_who,37,94.87,39
+11543,Bulgaria,2021-01-11,non_who,36,64.29,56
+11567,Bulgaria,2021-01-25,non_who,30,32.61,92
+11591,Bulgaria,2021-02-08,non_who,50,22.73,220
+11615,Bulgaria,2021-02-22,non_who,17,6.77,251
+11639,Bulgaria,2021-03-08,non_who,27,6.63,407
+11663,Bulgaria,2021-03-22,non_who,7,1.11,630
+11687,Bulgaria,2021-04-05,non_who,5,0.9,557
+11711,Bulgaria,2021-04-19,non_who,0,0.0,371
+11735,Bulgaria,2021-05-03,non_who,0,0.0,253
+11759,Bulgaria,2021-05-17,non_who,0,0.0,118
+11783,Bulgaria,2021-05-31,non_who,0,0.0,38
+11807,Bulgaria,2021-06-14,non_who,3,2.91,103
+11831,Bulgaria,2021-06-28,non_who,3,2.4,125
+11855,Bulgaria,2021-07-12,non_who,2,1.14,176
+11879,Bulgaria,2021-07-26,non_who,1,0.42,239
+11903,Bulgaria,2021-08-09,non_who,2,0.4,494
+11927,Bulgaria,2021-08-23,non_who,5,0.63,798
+11951,Bulgaria,2021-09-06,non_who,3,0.34,863
+11975,Bulgaria,2021-09-20,non_who,0,0.0,739
+11999,Bulgaria,2021-10-04,non_who,0,0.0,881
+12023,Bulgaria,2021-10-18,non_who,0,0.0,996
+12047,Bulgaria,2021-11-01,non_who,0,0.0,1024
+12071,Bulgaria,2021-11-15,non_who,0,0.0,547
+12095,Bulgaria,2021-11-29,non_who,0,0.0,120
+12119,Cambodia,2020-11-09,non_who,2,100.0,2
+12143,Cambodia,2020-11-23,non_who,4,100.0,4
+12167,Cambodia,2020-12-07,non_who,15,100.0,15
+12191,Cambodia,2020-12-21,non_who,1,100.0,1
+12215,Cambodia,2021-01-04,non_who,5,100.0,5
+12239,Cambodia,2021-01-25,non_who,0,0.0,2
+12263,Cambodia,2021-02-08,non_who,0,0.0,3
+12287,Cambodia,2021-02-22,non_who,2,16.67,12
+12311,Cambodia,2021-03-08,non_who,0,0.0,14
+12335,Cambodia,2021-03-22,non_who,0,0.0,13
+12359,Cambodia,2021-04-05,non_who,2,66.67,3
+12383,Cambodia,2021-04-19,non_who,3,7.69,39
+12407,Cambodia,2021-05-03,non_who,0,0.0,56
+12431,Cambodia,2021-05-17,non_who,0,0.0,52
+12455,Cambodia,2021-05-31,non_who,4,5.79,69
+12479,Cambodia,2021-06-14,non_who,5,6.57,76
+12503,Cambodia,2021-06-28,non_who,0,0.0,94
+12527,Cambodia,2021-07-12,non_who,0,0.0,81
+12551,Cambodia,2021-07-26,non_who,0,0.0,121
+12575,Cambodia,2021-08-09,non_who,0,0.0,87
+12599,Cambodia,2021-08-23,non_who,0,0.0,106
+12623,Cambodia,2021-09-06,non_who,0,0.0,96
+12647,Cambodia,2021-09-20,non_who,0,0.0,132
+12671,Cambodia,2021-10-04,non_who,0,0.0,107
+12695,Cambodia,2021-10-18,non_who,0,0.0,135
+12719,Cambodia,2021-11-01,non_who,0,0.0,135
+12743,Cambodia,2021-11-15,non_who,0,0.0,143
+12767,Cambodia,2021-11-29,non_who,0,0.0,149
+12791,Cambodia,2021-12-13,non_who,0,0.0,130
+12815,Cambodia,2021-12-27,non_who,1,1.04,96
+12839,Cameroon,2020-05-11,non_who,4,100.0,4
+12863,Cameroon,2020-05-25,non_who,8,100.0,8
+12887,Cameroon,2020-06-22,non_who,4,100.0,4
+12911,Cameroon,2020-08-17,non_who,2,100.0,2
+12935,Cameroon,2020-10-26,non_who,1,100.0,1
+12959,Cameroon,2020-11-09,non_who,4,100.0,4
+12983,Cameroon,2020-11-23,non_who,7,100.0,7
+13007,Cameroon,2020-12-07,non_who,2,100.0,2
+13031,Cameroon,2020-12-21,non_who,4,100.0,4
+13055,Cameroon,2021-01-04,non_who,23,100.0,23
+13079,Cameroon,2021-01-11,non_who,8,88.89,9
+13103,Cameroon,2021-01-25,non_who,22,95.65,23
+13127,Cameroon,2021-02-08,non_who,33,64.71,51
+13151,Cameroon,2021-02-22,non_who,12,63.16,19
+13175,Cameroon,2021-03-08,non_who,16,59.25,27
+13199,Cameroon,2021-03-22,non_who,5,100.0,5
+13223,Cameroon,2021-04-19,non_who,4,57.14,7
+13247,Cameroon,2021-08-09,non_who,1,33.33,3
+13271,Cameroon,2021-08-23,non_who,11,19.3,57
+13295,Cameroon,2021-09-06,non_who,7,6.04,116
+13319,Cameroon,2021-09-20,non_who,4,3.78,106
+13343,Cameroon,2021-10-04,non_who,4,7.41,54
+13367,Canada,2020-05-11,non_who,903,100.0,903
+13391,Canada,2020-05-25,non_who,597,100.0,597
+13415,Canada,2020-06-08,non_who,211,100.0,211
+13439,Canada,2020-06-22,non_who,203,100.0,203
+13463,Canada,2020-07-06,non_who,107,100.0,107
+13487,Canada,2020-07-20,non_who,204,100.0,204
+13511,Canada,2020-08-03,non_who,295,100.0,295
+13535,Canada,2020-08-17,non_who,586,100.0,586
+13559,Canada,2020-08-31,non_who,737,100.0,737
+13583,Canada,2020-09-14,non_who,728,100.0,728
+13607,Canada,2020-09-28,non_who,758,100.0,758
+13631,Canada,2020-10-12,non_who,1061,100.0,1061
+13655,Canada,2020-10-26,non_who,1096,100.0,1096
+13679,Canada,2020-11-09,non_who,1440,99.86,1442
+13703,Canada,2020-11-23,non_who,1937,100.0,1937
+13727,Canada,2020-12-07,non_who,2314,99.92,2316
+13751,Canada,2020-12-21,non_who,2416,99.38,2431
+13775,Canada,2021-01-04,non_who,2534,98.79,2565
+13799,Canada,2021-01-11,non_who,1961,97.85,2004
+13823,Canada,2021-01-25,non_who,4432,96.9,4574
+13847,Canada,2021-02-08,non_who,2848,94.12,3026
+13871,Canada,2021-02-22,non_who,3216,81.39,3951
+13895,Canada,2021-03-08,non_who,2917,63.66,4581
+13919,Canada,2021-03-22,non_who,3130,44.02,7112
+13943,Canada,2021-04-05,non_who,2485,25.33,9805
+13967,Canada,2021-04-19,non_who,2217,20.81,10654
+13991,Canada,2021-05-03,non_who,1567,14.23,11006
+14015,Canada,2021-05-17,non_who,673,7.85,8584
+14039,Canada,2021-05-31,non_who,259,4.41,5887
+14063,Canada,2021-06-14,non_who,178,4.24,4215
+14087,Canada,2021-06-28,non_who,207,5.58,3712
+14111,Canada,2021-07-12,non_who,17,1.1,1536
+14135,Canada,2021-07-26,non_who,18,0.74,2454
+14159,Canada,2021-08-09,non_who,39,0.55,7056
+14183,Canada,2021-08-23,non_who,24,0.18,13081
+14207,Canada,2021-09-06,non_who,1,0.01,13793
+14231,Canada,2021-09-20,non_who,0,0.0,8908
+14255,Canada,2021-10-04,non_who,2,0.02,7154
+14279,Canada,2021-10-18,non_who,3,0.04,8016
+14303,Canada,2021-11-01,non_who,1,-0.0,6544
+14327,Canada,2021-11-15,non_who,2,0.03,5627
+14351,Canada,2021-11-29,non_who,0,0.0,5146
+14375,Canada,2021-12-13,non_who,10,0.19,5219
+14399,Canada,2021-12-27,non_who,0,0.0,63
+14423,Chile,2020-05-11,non_who,106,100.0,106
+14447,Chile,2020-05-25,non_who,84,100.0,84
+14471,Chile,2020-06-08,non_who,81,100.0,81
+14495,Chile,2020-06-22,non_who,8,100.0,8
+14519,Chile,2020-07-06,non_who,61,100.0,61
+14543,Chile,2020-07-20,non_who,35,100.0,35
+14567,Chile,2020-08-03,non_who,36,100.0,36
+14591,Chile,2020-08-17,non_who,25,100.0,25
+14615,Chile,2020-08-31,non_who,65,100.0,65
+14639,Chile,2020-09-14,non_who,54,100.0,54
+14663,Chile,2020-09-28,non_who,44,100.0,44
+14687,Chile,2020-10-12,non_who,66,100.0,66
+14711,Chile,2020-10-26,non_who,47,100.0,47
+14735,Chile,2020-11-09,non_who,10,100.0,10
+14759,Chile,2020-11-23,non_who,17,100.0,17
+14783,Chile,2020-12-07,non_who,8,100.0,8
+14807,Chile,2020-12-21,non_who,27,100.0,27
+14831,Chile,2021-01-04,non_who,69,87.33,79
+14855,Chile,2021-01-11,non_who,47,94.0,50
+14879,Chile,2021-01-25,non_who,54,91.54,59
+14903,Chile,2021-02-08,non_who,51,91.06,56
+14927,Chile,2021-02-22,non_who,77,79.39,97
+14951,Chile,2021-03-08,non_who,53,62.36,85
+14975,Chile,2021-03-22,non_who,56,39.99,140
+14999,Chile,2021-04-05,non_who,64,24.06,266
+15023,Chile,2021-04-19,non_who,53,14.76,359
+15047,Chile,2021-05-03,non_who,119,21.06,565
+15071,Chile,2021-05-17,non_who,49,7.84,625
+15095,Chile,2021-05-31,non_who,14,3.21,435
+15119,Chile,2021-06-14,non_who,35,5.59,626
+15143,Chile,2021-06-28,non_who,17,2.36,719
+15167,Chile,2021-07-12,non_who,20,2.3,866
+15191,Chile,2021-07-26,non_who,13,2.29,568
+15215,Chile,2021-08-09,non_who,16,2.03,789
+15239,Chile,2021-08-23,non_who,16,1.82,879
+15263,Chile,2021-09-06,non_who,61,5.55,1101
+15287,Chile,2021-09-20,non_who,7,0.57,1223
+15311,Chile,2021-10-04,non_who,2,0.11,1879
+15335,Chile,2021-10-18,non_who,2,0.14,1365
+15359,Chile,2021-11-01,non_who,4,0.31,1295
+15383,Chile,2021-11-15,non_who,0,0.0,999
+15407,Chile,2021-11-29,non_who,6,1.05,573
+15431,Chile,2021-12-13,non_who,0,0.0,459
+15455,Chile,2021-12-27,non_who,1,0.19,504
+15479,Colombia,2020-05-11,non_who,81,100.0,81
+15503,Colombia,2020-05-25,non_who,2,100.0,2
+15527,Colombia,2020-06-08,non_who,8,100.0,8
+15551,Colombia,2020-06-22,non_who,14,100.0,14
+15575,Colombia,2020-07-06,non_who,29,100.0,29
+15599,Colombia,2020-07-20,non_who,28,100.0,28
+15623,Colombia,2020-08-03,non_who,8,100.0,8
+15647,Colombia,2020-08-17,non_who,20,100.0,20
+15671,Colombia,2020-08-31,non_who,5,100.0,5
+15695,Colombia,2020-09-14,non_who,14,100.0,14
+15719,Colombia,2020-09-28,non_who,5,100.0,5
+15743,Colombia,2020-10-12,non_who,20,100.0,20
+15767,Colombia,2020-10-26,non_who,8,100.0,8
+15791,Colombia,2020-11-09,non_who,6,100.0,6
+15815,Colombia,2020-11-23,non_who,12,100.0,12
+15839,Colombia,2020-12-07,non_who,18,100.0,18
+15863,Colombia,2020-12-21,non_who,30,93.76,32
+15887,Colombia,2021-01-04,non_who,86,98.85,87
+15911,Colombia,2021-01-11,non_who,41,85.42,48
+15935,Colombia,2021-01-25,non_who,72,86.75,83
+15959,Colombia,2021-02-08,non_who,21,70.0,30
+15983,Colombia,2021-02-22,non_who,12,50.0,24
+16007,Colombia,2021-03-08,non_who,47,64.38,73
+16031,Colombia,2021-03-22,non_who,32,40.5,79
+16055,Colombia,2021-04-05,non_who,44,27.5,160
+16079,Colombia,2021-04-19,non_who,173,21.55,803
+16103,Colombia,2021-05-03,non_who,74,17.13,432
+16127,Colombia,2021-05-17,non_who,47,12.53,375
+16151,Colombia,2021-05-31,non_who,13,6.7,194
+16175,Colombia,2021-06-14,non_who,15,5.29,283
+16199,Colombia,2021-06-28,non_who,4,1.79,224
+16223,Colombia,2021-07-12,non_who,7,1.52,462
+16247,Colombia,2021-07-26,non_who,17,1.86,920
+16271,Colombia,2021-08-09,non_who,12,1.54,775
+16295,Colombia,2021-08-23,non_who,4,0.52,768
+16319,Colombia,2021-09-06,non_who,3,0.56,542
+16343,Colombia,2021-09-20,non_who,0,0.0,423
+16367,Colombia,2021-10-04,non_who,7,0.87,800
+16391,Colombia,2021-10-18,non_who,6,0.92,652
+16415,Colombia,2021-11-01,non_who,0,0.01,585
+16439,Colombia,2021-11-15,non_who,1,0.16,616
+16463,Colombia,2021-11-29,non_who,0,0.0,318
+16487,Colombia,2021-12-13,non_who,0,0.0,112
+16511,Colombia,2021-12-27,non_who,0,0.0,107
+16535,Costa Rica,2020-06-08,non_who,8,100.0,8
+16559,Costa Rica,2020-06-22,non_who,15,100.0,15
+16583,Costa Rica,2020-07-06,non_who,19,100.0,19
+16607,Costa Rica,2020-07-20,non_who,22,100.0,22
+16631,Costa Rica,2020-08-03,non_who,13,100.0,13
+16655,Costa Rica,2020-08-17,non_who,13,100.0,13
+16679,Costa Rica,2020-08-31,non_who,3,100.0,3
+16703,Costa Rica,2020-09-14,non_who,7,100.0,7
+16727,Costa Rica,2020-09-28,non_who,6,100.0,6
+16751,Costa Rica,2020-10-12,non_who,9,100.0,9
+16775,Costa Rica,2020-10-26,non_who,7,100.0,7
+16799,Costa Rica,2020-11-09,non_who,8,100.0,8
+16823,Costa Rica,2020-11-23,non_who,10,100.0,10
+16847,Costa Rica,2020-12-07,non_who,9,100.0,9
+16871,Costa Rica,2020-12-21,non_who,14,100.0,14
+16895,Costa Rica,2021-01-04,non_who,35,94.59,37
+16919,Costa Rica,2021-01-11,non_who,10,100.0,10
+16943,Costa Rica,2021-01-25,non_who,41,100.0,41
+16967,Costa Rica,2021-02-08,non_who,27,100.0,27
+16991,Costa Rica,2021-02-22,non_who,33,94.29,35
+17015,Costa Rica,2021-03-08,non_who,55,83.31,66
+17039,Costa Rica,2021-03-22,non_who,59,73.75,80
+17063,Costa Rica,2021-04-05,non_who,28,48.28,58
+17087,Costa Rica,2021-04-19,non_who,29,40.85,71
+17111,Costa Rica,2021-05-03,non_who,15,26.33,57
+17135,Costa Rica,2021-05-17,non_who,8,24.24,33
+17159,Costa Rica,2021-05-31,non_who,10,21.28,47
+17183,Costa Rica,2021-06-14,non_who,6,18.18,33
+17207,Costa Rica,2021-06-28,non_who,7,12.5,56
+17231,Costa Rica,2021-07-12,non_who,17,20.24,84
+17255,Costa Rica,2021-07-26,non_who,7,7.96,88
+17279,Costa Rica,2021-08-09,non_who,1,0.72,138
+17303,Costa Rica,2021-08-23,non_who,1,0.75,135
+17327,Costa Rica,2021-09-06,non_who,0,0.0,69
+17351,Costa Rica,2021-09-20,non_who,0,-0.01,92
+17375,Costa Rica,2021-10-04,non_who,0,0.0,71
+17399,Costa Rica,2021-10-18,non_who,0,0.0,150
+17423,Costa Rica,2021-11-01,non_who,0,0.0,147
+17447,Costa Rica,2021-11-15,non_who,0,0.0,156
+17471,Costa Rica,2021-11-29,non_who,0,0.0,108
+17495,Costa Rica,2021-12-13,non_who,0,0.0,60
+17519,Costa Rica,2021-12-27,non_who,0,0.0,41
+17543,Croatia,2020-08-17,non_who,1,100.0,1
+17567,Croatia,2020-08-31,non_who,3,100.0,3
+17591,Croatia,2020-09-14,non_who,11,100.0,11
+17615,Croatia,2020-09-28,non_who,1,100.0,1
+17639,Croatia,2020-10-12,non_who,12,100.0,12
+17663,Croatia,2020-11-23,non_who,29,100.0,29
+17687,Croatia,2020-12-21,non_who,1,100.0,1
+17711,Croatia,2021-01-04,non_who,8,100.0,8
+17735,Croatia,2021-01-11,non_who,11,100.0,11
+17759,Croatia,2021-01-25,non_who,39,86.67,45
+17783,Croatia,2021-02-08,non_who,123,77.36,159
+17807,Croatia,2021-02-22,non_who,261,66.24,394
+17831,Croatia,2021-03-08,non_who,207,35.56,582
+17855,Croatia,2021-03-22,non_who,73,11.66,626
+17879,Croatia,2021-04-05,non_who,32,4.28,749
+17903,Croatia,2021-04-19,non_who,18,4.79,375
+17927,Croatia,2021-05-03,non_who,78,9.92,786
+17951,Croatia,2021-05-17,non_who,6,0.94,639
+17975,Croatia,2021-05-31,non_who,5,1.35,370
+17999,Croatia,2021-06-14,non_who,1,0.32,311
+18023,Croatia,2021-06-28,non_who,2,1.23,162
+18047,Croatia,2021-07-12,non_who,3,0.82,369
+18071,Croatia,2021-07-26,non_who,2,0.49,407
+18095,Croatia,2021-08-09,non_who,0,-0.01,511
+18119,Croatia,2021-08-23,non_who,0,0.0,770
+18143,Croatia,2021-09-06,non_who,0,0.0,993
+18167,Croatia,2021-09-20,non_who,0,0.0,739
+18191,Croatia,2021-10-04,non_who,0,0.0,692
+18215,Croatia,2021-10-18,non_who,0,0.0,661
+18239,Croatia,2021-11-01,non_who,0,0.0,640
+18263,Croatia,2021-11-15,non_who,0,0.0,742
+18287,Croatia,2021-11-29,non_who,0,0.0,835
+18311,Croatia,2021-12-13,non_who,0,0.0,935
+18335,Curacao,2020-08-17,non_who,3,100.0,3
+18359,Curacao,2020-10-12,non_who,1,100.0,1
+18383,Curacao,2020-10-26,non_who,3,100.0,3
+18407,Curacao,2020-11-09,non_who,8,100.0,8
+18431,Curacao,2020-11-23,non_who,4,100.0,4
+18455,Curacao,2020-12-07,non_who,2,100.0,2
+18479,Curacao,2020-12-21,non_who,8,100.0,8
+18503,Curacao,2021-01-04,non_who,5,100.0,5
+18527,Curacao,2021-01-11,non_who,6,100.0,6
+18551,Curacao,2021-01-25,non_who,14,93.33,15
+18575,Curacao,2021-02-08,non_who,14,93.33,15
+18599,Curacao,2021-02-22,non_who,12,33.33,36
+18623,Curacao,2021-03-08,non_who,7,14.0,50
+18647,Curacao,2021-03-22,non_who,2,3.63,55
+18671,Curacao,2021-04-05,non_who,1,1.76,57
+18695,Curacao,2021-04-19,non_who,1,1.64,61
+18719,Curacao,2021-05-03,non_who,1,2.23,45
+18743,Curacao,2021-05-17,non_who,0,0.0,25
+18767,Curacao,2021-05-31,non_who,0,0.0,10
+18791,Curacao,2021-06-14,non_who,0,0.0,4
+18815,Curacao,2021-06-28,non_who,0,0.0,16
+18839,Curacao,2021-07-12,non_who,0,0.01,38
+18863,Curacao,2021-07-26,non_who,0,0.0,67
+18887,Curacao,2021-08-09,non_who,0,0.0,62
+18911,Curacao,2021-08-23,non_who,0,0.0,49
+18935,Curacao,2021-09-06,non_who,0,0.0,47
+18959,Curacao,2021-09-20,non_who,0,0.0,58
+18983,Curacao,2021-10-04,non_who,0,0.0,56
+19007,Curacao,2021-10-18,non_who,0,0.0,53
+19031,Curacao,2021-11-01,non_who,0,0.0,47
+19055,Curacao,2021-11-15,non_who,0,0.0,28
+19079,Curacao,2021-11-29,non_who,0,0.0,20
+19103,Curacao,2021-12-13,non_who,0,0.0,24
+19127,Cyprus,2020-05-11,non_who,23,100.0,23
+19151,Cyprus,2020-05-25,non_who,20,100.0,20
+19175,Cyprus,2020-06-08,non_who,12,100.0,12
+19199,Cyprus,2020-06-22,non_who,11,100.0,11
+19223,Cyprus,2020-07-06,non_who,2,100.0,2
+19247,Cyprus,2020-07-20,non_who,3,100.0,3
+19271,Cyprus,2020-08-03,non_who,11,100.0,11
+19295,Cyprus,2020-08-17,non_who,24,100.0,24
+19319,Cyprus,2020-08-31,non_who,12,100.0,12
+19343,Cyprus,2020-09-14,non_who,4,100.0,4
+19367,Cyprus,2020-09-28,non_who,39,100.0,39
+19391,Cyprus,2020-10-12,non_who,24,100.0,24
+19415,Cyprus,2020-10-26,non_who,11,100.0,11
+19439,Cyprus,2020-11-09,non_who,159,100.0,159
+19463,Cyprus,2020-11-23,non_who,9,100.0,9
+19487,Cyprus,2020-12-07,non_who,63,100.0,63
+19511,Cyprus,2020-12-21,non_who,3,100.0,3
+19535,Cyprus,2021-01-04,non_who,78,97.5,80
+19559,Cyprus,2021-01-11,non_who,27,96.43,28
+19583,Cyprus,2021-01-25,non_who,25,71.43,35
+19607,Cyprus,2021-02-08,non_who,10,58.82,17
+19631,Czechia,2020-05-11,non_who,6,100.0,6
+19655,Czechia,2020-05-25,non_who,9,100.0,9
+19679,Czechia,2020-06-08,non_who,4,100.0,4
+19703,Czechia,2020-06-22,non_who,9,100.0,9
+19727,Czechia,2020-07-20,non_who,9,100.0,9
+19751,Czechia,2020-08-03,non_who,24,100.0,24
+19775,Czechia,2020-08-17,non_who,26,100.0,26
+19799,Czechia,2020-08-31,non_who,11,100.0,11
+19823,Czechia,2020-09-14,non_who,9,100.0,9
+19847,Czechia,2020-09-28,non_who,23,100.0,23
+19871,Czechia,2020-10-12,non_who,76,100.0,76
+19895,Czechia,2020-10-26,non_who,60,100.0,60
+19919,Czechia,2020-11-09,non_who,56,100.0,56
+19943,Czechia,2020-11-23,non_who,19,100.0,19
+19967,Czechia,2020-12-07,non_who,9,100.0,9
+19991,Czechia,2020-12-21,non_who,16,100.0,16
+20015,Czechia,2021-01-04,non_who,26,100.0,26
+20039,Czechia,2021-01-11,non_who,126,62.69,201
+20063,Czechia,2021-01-25,non_who,41,42.27,97
+20087,Czechia,2021-02-08,non_who,88,23.28,378
+20111,Czechia,2021-02-22,non_who,123,19.93,617
+20135,Czechia,2021-03-08,non_who,122,24.35,501
+20159,Czechia,2021-03-22,non_who,62,11.15,556
+20183,Czechia,2021-04-05,non_who,19,5.08,374
+20207,Czechia,2021-04-19,non_who,31,4.89,635
+20231,Czechia,2021-05-03,non_who,19,2.43,780
+20255,Czechia,2021-05-17,non_who,16,2.87,558
+20279,Czechia,2021-05-31,non_who,10,3.64,275
+20303,Czechia,2021-06-14,non_who,9,2.31,388
+20327,Czechia,2021-06-28,non_who,8,3.66,218
+20351,Czechia,2021-07-12,non_who,18,3.59,501
+20375,Czechia,2021-07-26,non_who,3,0.57,527
+20399,Czechia,2021-08-09,non_who,3,0.53,566
+20423,Czechia,2021-08-23,non_who,3,0.35,875
+20447,Czechia,2021-09-06,non_who,1,0.12,844
+20471,Czechia,2021-09-20,non_who,0,0.0,1382
+20495,Czechia,2021-10-04,non_who,1,0.07,1373
+20519,Czechia,2021-10-18,non_who,0,0.0,1766
+20543,Czechia,2021-11-01,non_who,5,0.25,2031
+20567,Czechia,2021-11-15,non_who,0,0.0,1420
+20591,Czechia,2021-11-29,non_who,2,0.15,1331
+20615,Czechia,2021-12-13,non_who,0,0.0,1431
+20639,Czechia,2021-12-27,non_who,3,0.91,330
+20663,Czechia,2022-01-05,non_who,0,0.0,15
+20687,Denmark,2020-05-11,non_who,155,100.0,155
+20711,Denmark,2020-05-25,non_who,136,100.0,136
+20735,Denmark,2020-06-08,non_who,122,100.0,122
+20759,Denmark,2020-06-22,non_who,169,100.0,169
+20783,Denmark,2020-07-06,non_who,60,100.0,60
+20807,Denmark,2020-07-20,non_who,100,100.0,100
+20831,Denmark,2020-08-03,non_who,152,100.0,152
+20855,Denmark,2020-08-17,non_who,437,100.0,437
+20879,Denmark,2020-08-31,non_who,594,100.0,594
+20903,Denmark,2020-09-14,non_who,979,100.0,979
+20927,Denmark,2020-09-28,non_who,1644,100.0,1644
+20951,Denmark,2020-10-12,non_who,835,100.0,835
+20975,Denmark,2020-10-26,non_who,1554,100.0,1554
+20999,Denmark,2020-11-09,non_who,3067,100.0,3067
+21023,Denmark,2020-11-23,non_who,3162,99.91,3165
+21047,Denmark,2020-12-07,non_who,5050,99.8,5060
+21071,Denmark,2020-12-21,non_who,9270,99.45,9321
+21095,Denmark,2021-01-04,non_who,7542,98.13,7686
+21119,Denmark,2021-01-11,non_who,3983,96.1,4145
+21143,Denmark,2021-01-25,non_who,7321,90.28,8109
+21167,Denmark,2021-02-08,non_who,3609,75.68,4769
+21191,Denmark,2021-02-22,non_who,1858,42.35,4388
+21215,Denmark,2021-03-08,non_who,1025,19.08,5371
+21239,Denmark,2021-03-22,non_who,516,8.12,6351
+21263,Denmark,2021-04-05,non_who,418,5.81,7193
+21287,Denmark,2021-04-19,non_who,225,3.18,7082
+21311,Denmark,2021-05-03,non_who,235,3.06,7679
+21335,Denmark,2021-05-17,non_who,263,2.68,9822
+21359,Denmark,2021-05-31,non_who,21,0.22,9480
+21383,Denmark,2021-06-14,non_who,7,0.12,5882
+21407,Denmark,2021-06-28,non_who,5,0.24,2061
+21431,Denmark,2021-07-12,non_who,4,0.07,5124
+21455,Denmark,2021-07-26,non_who,4,0.03,10876
+21479,Denmark,2021-08-09,non_who,8,0.07,10917
+21503,Denmark,2021-08-23,non_who,2,0.01,11256
+21527,Denmark,2021-09-06,non_who,2,0.03,8743
+21551,Denmark,2021-09-20,non_who,0,0.0,4585
+21575,Denmark,2021-10-04,non_who,1,0.02,4878
+21599,Denmark,2021-10-18,non_who,0,0.0,7662
+21623,Denmark,2021-11-01,non_who,2,0.01,15515
+21647,Denmark,2021-11-15,non_who,1,0.0,22315
+21671,Denmark,2021-11-29,non_who,1,0.0,23829
+21695,Denmark,2021-12-13,non_who,11,0.03,30285
+21719,Denmark,2021-12-27,non_who,204,3.0,6817
+21743,Djibouti,2020-05-11,non_who,2,100.0,2
+21767,Djibouti,2020-05-25,non_who,2,100.0,2
+21791,Djibouti,2020-06-08,non_who,5,100.0,5
+21815,Djibouti,2020-06-22,non_who,13,100.0,13
+21839,Djibouti,2020-07-06,non_who,1,100.0,1
+21863,Djibouti,2020-07-20,non_who,2,100.0,2
+21887,Djibouti,2020-08-03,non_who,2,100.0,2
+21911,Djibouti,2020-10-26,non_who,1,100.0,1
+21935,Djibouti,2020-11-09,non_who,1,100.0,1
+21959,Djibouti,2020-11-23,non_who,14,100.0,14
+21983,Djibouti,2020-12-07,non_who,1,100.0,1
+22007,Djibouti,2020-12-21,non_who,5,100.0,5
+22031,Djibouti,2021-01-04,non_who,2,100.0,2
+22055,Djibouti,2021-01-25,non_who,11,100.0,11
+22079,Djibouti,2021-02-08,non_who,3,100.0,3
+22103,Djibouti,2021-02-22,non_who,27,90.0,30
+22127,Djibouti,2021-03-08,non_who,0,0.0,56
+22151,Djibouti,2021-03-22,non_who,0,0.0,26
+22175,Djibouti,2021-04-05,non_who,2,3.12,64
+22199,Djibouti,2021-04-19,non_who,1,2.7,37
+22223,Djibouti,2021-05-03,non_who,0,0.0,23
+22247,Djibouti,2021-05-17,non_who,0,0.0,5
+22271,Djibouti,2021-05-31,non_who,0,0.0,1
+22295,Djibouti,2021-07-12,non_who,0,0.0,1
+22319,Djibouti,2021-08-09,non_who,0,0.0,2
+22343,Djibouti,2021-09-06,non_who,0,0.0,2
+22367,Djibouti,2021-09-20,non_who,0,0.0,9
+22391,Djibouti,2021-10-04,non_who,0,0.0,25
+22415,Djibouti,2021-10-18,non_who,0,0.0,19
+22439,Djibouti,2021-11-01,non_who,0,0.0,2
+22463,Dominican Republic,2020-05-11,non_who,5,100.0,5
+22487,Dominican Republic,2020-11-23,non_who,1,100.0,1
+22511,Dominican Republic,2021-01-04,non_who,0,0.0,1
+22535,Dominican Republic,2021-01-25,non_who,30,90.91,33
+22559,Dominican Republic,2021-02-08,non_who,21,87.5,24
+22583,Dominican Republic,2021-02-22,non_who,0,0.0,3
+22607,Dominican Republic,2021-03-08,non_who,9,81.82,11
+22631,Dominican Republic,2021-03-22,non_who,48,82.75,58
+22655,Dominican Republic,2021-04-05,non_who,3,23.08,13
+22679,Dominican Republic,2021-04-19,non_who,8,47.07,17
+22703,Dominican Republic,2021-05-03,non_who,0,0.0,1
+22727,Dominican Republic,2021-05-17,non_who,31,35.63,87
+22751,Dominican Republic,2021-05-31,non_who,19,18.82,101
+22775,Dominican Republic,2021-06-14,non_who,4,21.05,19
+22799,Dominican Republic,2021-06-28,non_who,2,15.38,13
+22823,Dominican Republic,2021-07-12,non_who,1,10.0,10
+22847,Dominican Republic,2021-07-26,non_who,2,20.0,10
+22871,Dominican Republic,2021-08-09,non_who,7,24.14,29
+22895,Dominican Republic,2021-08-23,non_who,1,25.0,4
+22919,Dominican Republic,2021-09-06,non_who,0,0.0,2
+22943,Dominican Republic,2021-09-20,non_who,0,0.0,3
+22967,Dominican Republic,2021-10-04,non_who,0,0.0,1
+22991,Dominican Republic,2021-10-18,non_who,0,0.0,99
+23015,Dominican Republic,2021-11-01,non_who,0,0.0,20
+23039,Ecuador,2020-05-11,non_who,7,100.0,7
+23063,Ecuador,2020-05-25,non_who,4,100.0,4
+23087,Ecuador,2020-06-08,non_who,8,100.0,8
+23111,Ecuador,2020-06-22,non_who,3,100.0,3
+23135,Ecuador,2020-07-06,non_who,18,100.0,18
+23159,Ecuador,2020-07-20,non_who,3,100.0,3
+23183,Ecuador,2020-08-03,non_who,6,100.0,6
+23207,Ecuador,2020-08-17,non_who,26,100.0,26
+23231,Ecuador,2020-08-31,non_who,17,100.0,17
+23255,Ecuador,2020-09-14,non_who,19,100.0,19
+23279,Ecuador,2020-09-28,non_who,3,100.0,3
+23303,Ecuador,2020-10-12,non_who,13,100.0,13
+23327,Ecuador,2020-10-26,non_who,5,100.0,5
+23351,Ecuador,2020-11-09,non_who,6,100.0,6
+23375,Ecuador,2020-11-23,non_who,3,100.0,3
+23399,Ecuador,2020-12-07,non_who,6,100.0,6
+23423,Ecuador,2020-12-21,non_who,12,100.0,12
+23447,Ecuador,2021-01-04,non_who,10,100.0,10
+23471,Ecuador,2021-01-11,non_who,7,53.85,13
+23495,Ecuador,2021-01-25,non_who,16,88.89,18
+23519,Ecuador,2021-02-08,non_who,2,100.0,2
+23543,Ecuador,2021-02-22,non_who,2,100.0,2
+23567,Ecuador,2021-03-08,non_who,5,83.33,6
+23591,Ecuador,2021-03-22,non_who,9,52.94,17
+23615,Ecuador,2021-04-05,non_who,8,34.78,23
+23639,Ecuador,2021-04-19,non_who,16,28.07,57
+23663,Ecuador,2021-05-03,non_who,18,27.7,65
+23687,Ecuador,2021-05-17,non_who,41,29.49,139
+23711,Ecuador,2021-05-31,non_who,28,27.45,102
+23735,Ecuador,2021-06-14,non_who,33,19.76,167
+23759,Ecuador,2021-06-28,non_who,13,8.97,145
+23783,Ecuador,2021-07-12,non_who,39,10.66,366
+23807,Ecuador,2021-07-26,non_who,43,7.61,565
+23831,Ecuador,2021-08-09,non_who,28,12.06,232
+23855,Ecuador,2021-08-23,non_who,16,6.14,261
+23879,Ecuador,2021-09-06,non_who,6,1.98,306
+23903,Ecuador,2021-09-20,non_who,1,0.64,155
+23927,Ecuador,2021-10-04,non_who,2,0.93,214
+23951,Ecuador,2021-10-18,non_who,6,6.45,93
+23975,Ecuador,2021-11-01,non_who,1,4.35,23
+23999,Ecuador,2021-11-15,non_who,2,2.0,100
+24023,Ecuador,2021-11-29,non_who,1,0.74,135
+24047,Ecuador,2021-12-13,non_who,0,0.0,93
+24071,Ecuador,2021-12-27,non_who,0,0.0,55
+24095,Egypt,2020-05-11,non_who,38,100.0,38
+24119,Egypt,2020-05-25,non_who,22,100.0,22
+24143,Egypt,2020-06-08,non_who,141,100.0,141
+24167,Egypt,2020-06-22,non_who,77,100.0,77
+24191,Egypt,2020-07-06,non_who,128,100.0,128
+24215,Egypt,2020-07-20,non_who,44,100.0,44
+24239,Egypt,2020-08-03,non_who,41,100.0,41
+24263,Egypt,2020-08-17,non_who,29,100.0,29
+24287,Egypt,2020-08-31,non_who,43,100.0,43
+24311,Egypt,2020-09-14,non_who,25,100.0,25
+24335,Egypt,2020-09-28,non_who,17,100.0,17
+24359,Egypt,2020-10-12,non_who,15,100.0,15
+24383,Egypt,2020-10-26,non_who,11,100.0,11
+24407,Egypt,2020-11-09,non_who,12,100.0,12
+24431,Egypt,2020-11-23,non_who,12,100.0,12
+24455,Egypt,2020-12-07,non_who,3,100.0,3
+24479,Egypt,2020-12-21,non_who,14,100.0,14
+24503,Egypt,2021-01-04,non_who,99,100.0,99
+24527,Egypt,2021-01-11,non_who,40,100.0,40
+24551,Egypt,2021-01-25,non_who,3,100.0,3
+24575,Egypt,2021-02-22,non_who,79,100.0,79
+24599,Egypt,2021-03-08,non_who,18,85.71,21
+24623,Egypt,2021-03-22,non_who,11,91.67,12
+24647,Egypt,2021-04-05,non_who,64,86.49,74
+24671,Egypt,2021-04-19,non_who,9,90.0,10
+24695,Egypt,2021-05-03,non_who,81,91.01,89
+24719,Egypt,2021-05-17,non_who,39,92.86,42
+24743,Egypt,2021-05-31,non_who,20,86.96,23
+24767,Egypt,2021-06-14,non_who,10,100.0,10
+24791,Egypt,2021-06-28,non_who,3,75.0,4
+24815,Egypt,2021-07-12,non_who,3,100.0,3
+24839,Egypt,2021-07-26,non_who,0,0.0,1
+24863,Egypt,2021-08-09,non_who,1,11.11,9
+24887,Egypt,2021-09-06,non_who,0,0.0,23
+24911,Egypt,2021-09-20,non_who,0,0.0,5
+24935,Egypt,2021-10-04,non_who,0,0.0,9
+24959,Egypt,2021-10-18,non_who,1,4.76,21
+24983,Egypt,2021-11-01,non_who,1,1.52,66
+25007,Egypt,2021-11-15,non_who,0,0.0,13
+25031,Egypt,2021-11-29,non_who,0,0.0,6
+25055,Egypt,2021-12-13,non_who,0,0.0,1
+25079,Estonia,2020-09-14,non_who,9,100.0,9
+25103,Estonia,2020-09-28,non_who,120,100.0,120
+25127,Estonia,2020-10-12,non_who,55,100.0,55
+25151,Estonia,2020-10-26,non_who,21,100.0,21
+25175,Estonia,2020-11-09,non_who,53,100.0,53
+25199,Estonia,2020-11-23,non_who,18,100.0,18
+25223,Estonia,2020-12-21,non_who,2,100.0,2
+25247,Estonia,2021-01-04,non_who,37,80.43,46
+25271,Estonia,2021-01-11,non_who,5,100.0,5
+25295,Estonia,2021-01-25,non_who,9,90.0,10
+25319,Estonia,2021-02-08,non_who,46,97.87,47
+25343,Estonia,2021-02-22,non_who,429,76.07,564
+25367,Estonia,2021-03-08,non_who,56,34.36,163
+25391,Estonia,2021-03-22,non_who,243,23.87,1018
+25415,Estonia,2021-04-05,non_who,121,10.8,1121
+25439,Estonia,2021-04-19,non_who,9,2.44,368
+25463,Estonia,2021-05-03,non_who,3,0.85,351
+25487,Estonia,2021-05-17,non_who,6,1.84,326
+25511,Estonia,2021-06-14,non_who,0,0.0,137
+25535,Estonia,2021-06-28,non_who,0,0.0,45
+25559,Estonia,2021-07-12,non_who,0,0.0,138
+25583,Estonia,2021-07-26,non_who,0,0.0,252
+25607,Estonia,2021-08-09,non_who,0,0.0,360
+25631,Estonia,2021-08-23,non_who,0,0.0,371
+25655,Estonia,2021-09-06,non_who,0,0.0,369
+25679,Estonia,2021-09-20,non_who,0,0.0,346
+25703,Estonia,2021-10-04,non_who,0,0.0,348
+25727,Estonia,2021-10-18,non_who,0,0.0,319
+25751,Estonia,2021-11-01,non_who,0,0.0,344
+25775,Estonia,2021-11-15,non_who,0,0.0,294
+25799,Estonia,2021-11-29,non_who,0,0.0,340
+25823,Estonia,2021-12-13,non_who,0,0.0,82
+25847,Ethiopia,2020-11-23,non_who,4,100.0,4
+25871,Ethiopia,2020-12-21,non_who,4,100.0,4
+25895,Ethiopia,2021-01-25,non_who,4,66.67,6
+25919,Ethiopia,2021-02-08,non_who,9,90.0,10
+25943,Ethiopia,2021-02-22,non_who,1,25.0,4
+25967,Ethiopia,2021-03-08,non_who,2,15.39,13
+25991,Ethiopia,2021-03-22,non_who,1,25.0,4
+26015,Ethiopia,2021-04-05,non_who,1,16.67,6
+26039,Ethiopia,2021-04-19,non_who,0,0.0,1
+26063,Ethiopia,2021-05-03,non_who,1,50.0,2
+26087,Ethiopia,2021-05-31,non_who,2,7.69,26
+26111,Ethiopia,2021-06-14,non_who,0,0.0,5
+26135,Ethiopia,2021-07-12,non_who,0,0.0,6
+26159,Ethiopia,2021-07-26,non_who,24,40.68,59
+26183,Ethiopia,2021-08-09,non_who,1,0.4,253
+26207,Ethiopia,2021-08-23,non_who,0,0.0,119
+26231,Fiji,2020-08-31,non_who,1,100.0,1
+26255,Fiji,2020-11-23,non_who,2,100.0,2
+26279,Fiji,2020-12-07,non_who,2,100.0,2
+26303,Fiji,2021-01-04,non_who,1,50.0,2
+26327,Fiji,2021-02-08,non_who,1,100.0,1
+26351,Fiji,2021-03-08,non_who,0,0.0,1
+26375,Fiji,2021-03-22,non_who,1,100.0,1
+26399,Fiji,2021-04-19,non_who,0,0.0,7
+26423,Fiji,2021-05-03,non_who,0,0.0,18
+26447,Fiji,2021-05-17,non_who,0,0.0,22
+26471,Fiji,2021-05-31,non_who,0,0.0,24
+26495,Fiji,2021-06-14,non_who,0,0.0,52
+26519,Fiji,2021-06-28,non_who,0,0.0,252
+26543,Fiji,2021-07-12,non_who,0,0.0,140
+26567,Finland,2020-05-11,non_who,102,100.0,102
+26591,Finland,2020-05-25,non_who,51,100.0,51
+26615,Finland,2020-06-08,non_who,37,100.0,37
+26639,Finland,2020-06-22,non_who,4,100.0,4
+26663,Finland,2020-08-17,non_who,10,100.0,10
+26687,Finland,2020-08-31,non_who,14,100.0,14
+26711,Finland,2020-09-14,non_who,23,100.0,23
+26735,Finland,2020-09-28,non_who,96,100.0,96
+26759,Finland,2020-10-12,non_who,283,100.0,283
+26783,Finland,2020-10-26,non_who,98,100.0,98
+26807,Finland,2020-11-09,non_who,51,100.0,51
+26831,Finland,2020-11-23,non_who,54,100.0,54
+26855,Finland,2020-12-07,non_who,156,100.0,156
+26879,Finland,2020-12-21,non_who,110,96.49,114
+26903,Finland,2021-01-04,non_who,101,68.24,148
+26927,Finland,2021-01-11,non_who,110,88.71,124
+26951,Finland,2021-01-25,non_who,510,66.67,765
+26975,Finland,2021-02-08,non_who,590,47.59,1240
+26999,Finland,2021-02-22,non_who,482,30.38,1587
+27023,Finland,2021-03-08,non_who,444,26.86,1653
+27047,Finland,2021-03-22,non_who,239,13.94,1715
+27071,Finland,2021-04-05,non_who,99,10.03,987
+27095,Finland,2021-04-19,non_who,38,5.42,702
+27119,Finland,2021-05-03,non_who,18,3.33,542
+27143,Finland,2021-05-17,non_who,21,3.49,601
+27167,Finland,2021-05-31,non_who,13,2.46,529
+27191,Finland,2021-06-14,non_who,14,4.77,294
+27215,Finland,2021-06-28,non_who,12,1.64,734
+27239,Finland,2021-07-12,non_who,5,0.61,822
+27263,Finland,2021-07-26,non_who,0,0.0,1484
+27287,Finland,2021-08-09,non_who,2,0.12,1655
+27311,Finland,2021-08-23,non_who,0,0.01,1027
+27335,Finland,2021-09-06,non_who,0,0.0,930
+27359,Finland,2021-09-20,non_who,0,0.0,749
+27383,Finland,2021-10-04,non_who,0,0.0,967
+27407,Finland,2021-10-18,non_who,0,0.0,864
+27431,Finland,2021-11-01,non_who,0,0.0,670
+27455,Finland,2021-11-15,non_who,0,0.0,417
+27479,Finland,2021-11-29,non_who,0,0.0,61
+27503,France,2020-05-11,non_who,201,100.0,201
+27527,France,2020-05-25,non_who,64,100.0,64
+27551,France,2020-06-08,non_who,33,100.0,33
+27575,France,2020-06-22,non_who,45,100.0,45
+27599,France,2020-07-06,non_who,30,100.0,30
+27623,France,2020-07-20,non_who,71,100.0,71
+27647,France,2020-08-03,non_who,140,100.0,140
+27671,France,2020-08-17,non_who,239,100.0,239
+27695,France,2020-08-31,non_who,251,100.0,251
+27719,France,2020-09-14,non_who,822,100.0,822
+27743,France,2020-09-28,non_who,488,100.0,488
+27767,France,2020-10-12,non_who,427,100.0,427
+27791,France,2020-10-26,non_who,868,99.77,870
+27815,France,2020-11-09,non_who,1017,99.71,1020
+27839,France,2020-11-23,non_who,616,99.52,619
+27863,France,2020-12-07,non_who,346,99.71,347
+27887,France,2020-12-21,non_who,403,99.75,404
+27911,France,2021-01-04,non_who,431,83.21,518
+27935,France,2021-01-11,non_who,521,70.6,738
+27959,France,2021-01-25,non_who,1382,63.6,2173
+27983,France,2021-02-08,non_who,1552,38.84,3995
+28007,France,2021-02-22,non_who,1242,41.53,2991
+28031,France,2021-03-08,non_who,1090,25.5,4276
+28055,France,2021-03-22,non_who,765,11.92,6421
+28079,France,2021-04-05,non_who,521,8.65,6026
+28103,France,2021-04-19,non_who,289,5.78,5009
+28127,France,2021-05-03,non_who,161,3.66,4393
+28151,France,2021-05-17,non_who,74,2.27,3260
+28175,France,2021-05-31,non_who,113,3.62,3135
+28199,France,2021-06-14,non_who,101,4.56,2215
+28223,France,2021-06-28,non_who,54,2.78,1950
+28247,France,2021-07-12,non_who,49,1.14,4263
+28271,France,2021-07-26,non_who,40,0.3,13457
+28295,France,2021-08-09,non_who,14,0.16,9502
+28319,France,2021-08-23,non_who,8,0.1,8879
+28343,France,2021-09-06,non_who,9,0.11,8082
+28367,France,2021-09-20,non_who,2,0.04,4638
+28391,France,2021-10-04,non_who,5,0.14,3410
+28415,France,2021-10-18,non_who,15,0.41,3568
+28439,France,2021-11-01,non_who,29,0.28,10296
+28463,France,2021-11-15,non_who,40,0.4,10101
+28487,France,2021-11-29,non_who,70,0.88,8030
+28511,France,2021-12-13,non_who,143,1.37,10382
+28535,France,2021-12-27,non_who,20,0.9,2220
+28559,France,2022-01-05,non_who,0,0.0,117
+28583,Gambia,2020-05-11,non_who,13,100.0,13
+28607,Gambia,2020-05-25,non_who,14,100.0,14
+28631,Gambia,2020-06-08,non_who,11,100.0,11
+28655,Gambia,2020-06-22,non_who,5,100.0,5
+28679,Gambia,2020-07-06,non_who,23,100.0,23
+28703,Gambia,2020-07-20,non_who,4,100.0,4
+28727,Gambia,2020-08-03,non_who,241,100.0,241
+28751,Gambia,2020-08-17,non_who,30,100.0,30
+28775,Gambia,2020-08-31,non_who,37,100.0,37
+28799,Gambia,2020-09-14,non_who,21,100.0,21
+28823,Gambia,2020-09-28,non_who,4,100.0,4
+28847,Gambia,2020-10-12,non_who,5,100.0,5
+28871,Gambia,2020-10-26,non_who,1,100.0,1
+28895,Gambia,2021-01-04,non_who,1,100.0,1
+28919,Gambia,2021-01-11,non_who,0,0.0,2
+28943,Gambia,2021-01-25,non_who,6,75.0,8
+28967,Gambia,2021-02-08,non_who,11,100.0,11
+28991,Gambia,2021-02-22,non_who,8,100.0,8
+29015,Gambia,2021-03-08,non_who,7,33.33,21
+29039,Gambia,2021-03-22,non_who,9,20.93,43
+29063,Gambia,2021-04-05,non_who,3,21.43,14
+29087,Gambia,2021-04-19,non_who,1,20.0,5
+29111,Gambia,2021-05-03,non_who,9,81.82,11
+29135,Gambia,2021-05-17,non_who,0,0.0,2
+29159,Gambia,2021-05-31,non_who,5,41.67,12
+29183,Gambia,2021-06-14,non_who,0,0.0,2
+29207,Gambia,2021-06-28,non_who,0,0.0,5
+29231,Gambia,2021-07-12,non_who,1,1.45,69
+29255,Gambia,2021-07-26,non_who,0,0.0,40
+29279,Gambia,2021-08-09,non_who,2,1.57,127
+29303,Gambia,2021-08-23,non_who,1,1.37,73
+29327,Georgia,2020-05-11,non_who,4,100.0,4
+29351,Georgia,2020-06-08,non_who,1,100.0,1
+29375,Georgia,2020-06-22,non_who,1,100.0,1
+29399,Georgia,2020-09-28,non_who,2,100.0,2
+29423,Georgia,2020-10-12,non_who,1,100.0,1
+29447,Georgia,2020-11-09,non_who,2,100.0,2
+29471,Georgia,2020-11-23,non_who,3,75.0,4
+29495,Georgia,2020-12-07,non_who,1,100.0,1
+29519,Georgia,2020-12-21,non_who,3,100.0,3
+29543,Georgia,2021-01-04,non_who,1,100.0,1
+29567,Georgia,2021-01-11,non_who,1,100.0,1
+29591,Georgia,2021-01-25,non_who,3,75.0,4
+29615,Georgia,2021-02-08,non_who,3,75.0,4
+29639,Georgia,2021-02-22,non_who,3,33.33,9
+29663,Georgia,2021-03-08,non_who,3,30.0,10
+29687,Georgia,2021-03-22,non_who,1,16.67,6
+29711,Georgia,2021-04-05,non_who,1,25.0,4
+29735,Georgia,2021-04-19,non_who,0,0.0,1
+29759,Georgia,2021-05-03,non_who,2,66.67,3
+29783,Georgia,2021-05-17,non_who,14,60.87,23
+29807,Georgia,2021-05-31,non_who,5,17.86,28
+29831,Georgia,2021-06-14,non_who,1,5.88,17
+29855,Georgia,2021-06-28,non_who,0,0.0,17
+29879,Georgia,2021-07-12,non_who,0,0.0,27
+29903,Georgia,2021-07-26,non_who,0,0.0,8
+29927,Georgia,2021-08-09,non_who,1,6.25,16
+29951,Georgia,2021-08-23,non_who,0,0.0,12
+29975,Georgia,2021-09-06,non_who,1,3.33,30
+29999,Georgia,2021-09-20,non_who,0,0.0,5
+30023,Georgia,2021-10-04,non_who,0,0.0,70
+30047,Georgia,2021-10-18,non_who,0,0.0,94
+30071,Georgia,2021-11-01,non_who,0,0.0,33
+30095,Georgia,2021-11-15,non_who,0,0.0,81
+30119,Georgia,2021-11-29,non_who,0,0.0,78
+30143,Georgia,2021-12-13,non_who,0,0.0,129
+30167,Georgia,2021-12-27,non_who,0,0.0,110
+30191,Germany,2020-05-11,non_who,105,100.0,105
+30215,Germany,2020-05-25,non_who,94,100.0,94
+30239,Germany,2020-06-08,non_who,82,100.0,82
+30263,Germany,2020-06-22,non_who,1528,100.0,1528
+30287,Germany,2020-07-06,non_who,390,100.0,390
+30311,Germany,2020-07-20,non_who,103,100.0,103
+30335,Germany,2020-08-03,non_who,53,100.0,53
+30359,Germany,2020-08-17,non_who,144,100.0,144
+30383,Germany,2020-08-31,non_who,174,100.0,174
+30407,Germany,2020-09-14,non_who,115,100.0,115
+30431,Germany,2020-09-28,non_who,324,100.0,324
+30455,Germany,2020-10-12,non_who,349,100.0,349
+30479,Germany,2020-10-26,non_who,387,100.0,387
+30503,Germany,2020-11-09,non_who,493,99.8,494
+30527,Germany,2020-11-23,non_who,589,100.0,589
+30551,Germany,2020-12-07,non_who,767,99.61,770
+30575,Germany,2020-12-21,non_who,991,99.2,999
+30599,Germany,2021-01-04,non_who,634,95.2,666
+30623,Germany,2021-01-11,non_who,508,96.95,524
+30647,Germany,2021-01-25,non_who,2797,88.49,3161
+30671,Germany,2021-02-08,non_who,4966,78.45,6330
+30695,Germany,2021-02-22,non_who,4599,50.63,9085
+30719,Germany,2021-03-08,non_who,4638,40.29,11511
+30743,Germany,2021-03-22,non_who,2567,17.73,14479
+30767,Germany,2021-04-05,non_who,1363,8.33,16353
+30791,Germany,2021-04-19,non_who,639,3.31,19363
+30815,Germany,2021-05-03,non_who,352,1.82,19306
+30839,Germany,2021-05-17,non_who,332,2.13,15645
+30863,Germany,2021-05-31,non_who,251,2.56,9815
+30887,Germany,2021-06-14,non_who,226,4.18,5401
+30911,Germany,2021-06-28,non_who,107,4.06,2632
+30935,Germany,2021-07-12,non_who,97,3.66,2651
+30959,Germany,2021-07-26,non_who,29,0.65,4588
+30983,Germany,2021-08-09,non_who,19,0.3,6197
+31007,Germany,2021-08-23,non_who,13,0.1,13221
+31031,Germany,2021-09-06,non_who,13,0.06,19285
+31055,Germany,2021-09-20,non_who,4,0.01,19996
+31079,Germany,2021-10-04,non_who,15,0.1,15758
+31103,Germany,2021-10-18,non_who,2,0.01,12393
+31127,Germany,2021-11-01,non_who,2,0.01,15674
+31151,Germany,2021-11-15,non_who,4,0.02,17801
+31175,Germany,2021-11-29,non_who,5,0.02,23129
+31199,Germany,2021-12-13,non_who,33,0.15,22895
+31223,Germany,2021-12-27,non_who,24,0.19,12584
+31247,Ghana,2020-05-11,non_who,1,100.0,1
+31271,Ghana,2020-05-25,non_who,18,100.0,18
+31295,Ghana,2020-06-08,non_who,8,100.0,8
+31319,Ghana,2020-06-22,non_who,8,100.0,8
+31343,Ghana,2020-07-06,non_who,1,100.0,1
+31367,Ghana,2020-07-20,non_who,10,100.0,10
+31391,Ghana,2020-08-03,non_who,43,100.0,43
+31415,Ghana,2020-08-17,non_who,5,100.0,5
+31439,Ghana,2020-08-31,non_who,20,100.0,20
+31463,Ghana,2020-09-14,non_who,19,100.0,19
+31487,Ghana,2020-09-28,non_who,1,100.0,1
+31511,Ghana,2020-10-12,non_who,3,100.0,3
+31535,Ghana,2020-11-09,non_who,20,100.0,20
+31559,Ghana,2020-11-23,non_who,16,94.12,17
+31583,Ghana,2020-12-07,non_who,31,96.88,32
+31607,Ghana,2020-12-21,non_who,19,82.61,23
+31631,Ghana,2021-01-04,non_who,14,63.64,22
+31655,Ghana,2021-01-11,non_who,46,40.0,115
+31679,Ghana,2021-01-25,non_who,20,21.97,91
+31703,Ghana,2021-02-08,non_who,14,18.43,76
+31727,Ghana,2021-02-22,non_who,12,12.63,95
+31751,Ghana,2021-03-08,non_who,7,12.73,55
+31775,Ghana,2021-03-22,non_who,13,21.31,61
+31799,Ghana,2021-04-05,non_who,16,34.79,46
+31823,Ghana,2021-04-19,non_who,31,32.29,96
+31847,Ghana,2021-05-03,non_who,30,35.72,84
+31871,Ghana,2021-05-17,non_who,46,76.67,60
+31895,Ghana,2021-05-31,non_who,58,74.36,78
+31919,Ghana,2021-06-14,non_who,45,77.59,58
+31943,Ghana,2021-06-28,non_who,20,19.24,104
+31967,Ghana,2021-07-12,non_who,24,15.38,156
+31991,Ghana,2021-07-26,non_who,6,3.57,168
+32015,Ghana,2021-08-09,non_who,9,8.18,110
+32039,Ghana,2021-08-23,non_who,0,0.0,112
+32063,Ghana,2021-09-06,non_who,0,0.0,17
+32087,Ghana,2021-09-20,non_who,2,1.32,151
+32111,Ghana,2021-10-04,non_who,8,12.5,64
+32135,Ghana,2021-10-18,non_who,11,12.22,90
+32159,Ghana,2021-11-01,non_who,8,12.5,64
+32183,Ghana,2021-11-15,non_who,2,6.9,29
+32207,Ghana,2021-11-29,non_who,2,2.63,76
+32231,Ghana,2021-12-13,non_who,2,5.55,36
+32255,Greece,2020-05-11,non_who,8,100.0,8
+32279,Greece,2020-05-25,non_who,8,100.0,8
+32303,Greece,2020-08-03,non_who,2,100.0,2
+32327,Greece,2020-08-17,non_who,15,100.0,15
+32351,Greece,2020-08-31,non_who,2,100.0,2
+32375,Greece,2020-09-14,non_who,24,100.0,24
+32399,Greece,2020-09-28,non_who,40,100.0,40
+32423,Greece,2020-10-12,non_who,42,100.0,42
+32447,Greece,2020-10-26,non_who,22,100.0,22
+32471,Greece,2020-11-09,non_who,207,100.0,207
+32495,Greece,2020-11-23,non_who,141,100.0,141
+32519,Greece,2020-12-07,non_who,78,100.0,78
+32543,Greece,2020-12-21,non_who,254,96.21,264
+32567,Greece,2021-01-04,non_who,161,93.6,172
+32591,Greece,2021-01-11,non_who,39,81.25,48
+32615,Greece,2021-01-25,non_who,92,64.79,142
+32639,Greece,2021-02-08,non_who,47,42.34,111
+32663,Greece,2021-02-22,non_who,70,48.95,143
+32687,Greece,2021-03-08,non_who,122,10.95,1114
+32711,Greece,2021-03-22,non_who,63,6.05,1040
+32735,Greece,2021-04-05,non_who,38,11.23,338
+32759,Greece,2021-04-19,non_who,64,10.52,609
+32783,Greece,2021-05-03,non_who,242,19.07,1269
+32807,Greece,2021-05-17,non_who,237,18.88,1255
+32831,Greece,2021-05-31,non_who,140,24.91,562
+32855,Greece,2021-06-14,non_who,129,70.49,183
+32879,Greece,2021-06-28,non_who,40,47.62,84
+32903,Greece,2021-07-12,non_who,13,4.4,296
+32927,Greece,2021-07-26,non_who,3,0.85,354
+32951,Greece,2021-08-09,non_who,3,1.38,218
+32975,Greece,2021-08-23,non_who,0,0.0,175
+32999,Greece,2021-09-06,non_who,0,0.0,347
+33023,Greece,2021-09-20,non_who,0,0.0,649
+33047,Greece,2021-10-04,non_who,0,0.0,321
+33071,Greece,2021-10-18,non_who,0,0.0,12
+33095,Greece,2021-11-01,non_who,0,0.0,155
+33119,Greece,2021-11-15,non_who,0,0.0,586
+33143,Greece,2021-11-29,non_who,0,0.0,558
+33167,Greece,2021-12-13,non_who,0,0.0,610
+33191,Guatemala,2020-05-25,non_who,3,100.0,3
+33215,Guatemala,2020-06-08,non_who,6,100.0,6
+33239,Guatemala,2020-06-22,non_who,19,100.0,19
+33263,Guatemala,2020-07-06,non_who,11,100.0,11
+33287,Guatemala,2020-07-20,non_who,6,100.0,6
+33311,Guatemala,2020-08-03,non_who,10,100.0,10
+33335,Guatemala,2020-08-17,non_who,3,100.0,3
+33359,Guatemala,2020-08-31,non_who,1,100.0,1
+33383,Guatemala,2020-09-14,non_who,1,100.0,1
+33407,Guatemala,2020-09-28,non_who,4,100.0,4
+33431,Guatemala,2020-10-12,non_who,48,100.0,48
+33455,Guatemala,2020-10-26,non_who,31,100.0,31
+33479,Guatemala,2020-11-09,non_who,29,100.0,29
+33503,Guatemala,2020-11-23,non_who,7,100.0,7
+33527,Guatemala,2020-12-07,non_who,17,100.0,17
+33551,Guatemala,2020-12-21,non_who,10,100.0,10
+33575,Guatemala,2021-01-04,non_who,11,100.0,11
+33599,Guatemala,2021-01-11,non_who,32,91.43,35
+33623,Guatemala,2021-01-25,non_who,45,88.24,51
+33647,Guatemala,2021-02-08,non_who,28,96.55,29
+33671,Guatemala,2021-02-22,non_who,7,77.78,9
+33695,Guatemala,2021-03-08,non_who,43,97.73,44
+33719,Guatemala,2021-03-22,non_who,12,85.71,14
+33743,Guatemala,2021-04-05,non_who,5,55.56,9
+33767,Guatemala,2021-04-19,non_who,14,51.85,27
+33791,Guatemala,2021-05-03,non_who,5,62.5,8
+33815,Guatemala,2021-05-17,non_who,10,90.91,11
+33839,Guatemala,2021-05-31,non_who,18,94.74,19
+33863,Guatemala,2021-06-14,non_who,16,66.67,24
+33887,Guatemala,2021-06-28,non_who,53,64.63,82
+33911,Guatemala,2021-07-12,non_who,92,53.81,171
+33935,Guatemala,2021-07-26,non_who,23,41.82,55
+33959,Guatemala,2021-08-09,non_who,19,25.0,76
+33983,Guatemala,2021-08-23,non_who,15,17.64,85
+34007,Guatemala,2021-09-06,non_who,5,5.26,95
+34031,Guatemala,2021-09-20,non_who,4,2.96,135
+34055,Guatemala,2021-10-04,non_who,3,2.4,125
+34079,Guatemala,2021-10-18,non_who,0,0.0,59
+34103,Guatemala,2021-11-01,non_who,0,0.0,23
+34127,Guatemala,2021-11-15,non_who,0,0.0,24
+34151,Guatemala,2021-11-29,non_who,0,0.0,18
+34175,Guatemala,2021-12-13,non_who,0,0.0,4
+34199,Hong Kong,2020-05-11,non_who,3,100.0,3
+34223,Hong Kong,2020-05-25,non_who,4,100.0,4
+34247,Hong Kong,2020-06-08,non_who,8,100.0,8
+34271,Hong Kong,2020-06-22,non_who,5,100.0,5
+34295,Hong Kong,2020-07-06,non_who,34,100.0,34
+34319,Hong Kong,2020-07-20,non_who,234,100.0,234
+34343,Hong Kong,2020-08-03,non_who,248,100.0,248
+34367,Hong Kong,2020-08-17,non_who,105,100.0,105
+34391,Hong Kong,2020-08-31,non_who,55,100.0,55
+34415,Hong Kong,2020-09-14,non_who,29,100.0,29
+34439,Hong Kong,2020-09-28,non_who,40,100.0,40
+34463,Hong Kong,2020-10-12,non_who,65,100.0,65
+34487,Hong Kong,2020-10-26,non_who,13,100.0,13
+34511,Hong Kong,2020-11-09,non_who,26,100.0,26
+34535,Hong Kong,2020-11-23,non_who,114,100.0,114
+34559,Hong Kong,2020-12-07,non_who,233,99.57,234
+34583,Hong Kong,2020-12-21,non_who,136,96.45,141
+34607,Hong Kong,2021-01-04,non_who,174,95.6,182
+34631,Hong Kong,2021-01-11,non_who,17,89.47,19
+34655,Hong Kong,2021-01-25,non_who,66,98.51,67
+34679,Hong Kong,2021-02-08,non_who,45,100.0,45
+34703,Hong Kong,2021-02-22,non_who,9,75.0,12
+34727,Hong Kong,2021-03-08,non_who,21,75.0,28
+34751,Hong Kong,2021-03-22,non_who,117,84.17,139
+34775,Hong Kong,2021-04-05,non_who,15,34.89,43
+34799,Hong Kong,2021-04-19,non_who,22,28.58,77
+34823,Hong Kong,2021-05-03,non_who,3,7.5,40
+34847,Hong Kong,2021-05-17,non_who,2,9.52,21
+34871,Hong Kong,2021-05-31,non_who,3,37.5,8
+34895,Hong Kong,2021-06-14,non_who,3,10.0,30
+34919,Hong Kong,2021-06-28,non_who,0,0.0,52
+34943,Hong Kong,2021-07-12,non_who,1,3.03,33
+34967,Hong Kong,2021-07-26,non_who,0,0.0,15
+34991,Hong Kong,2021-08-09,non_who,0,0.0,26
+35015,Hong Kong,2021-08-23,non_who,0,0.0,27
+35039,Hong Kong,2021-09-06,non_who,0,0.0,49
+35063,Hong Kong,2021-09-20,non_who,0,0.0,29
+35087,Hong Kong,2021-10-04,non_who,0,0.0,24
+35111,Hong Kong,2021-10-18,non_who,0,0.0,28
+35135,Hong Kong,2021-11-01,non_who,0,0.0,25
+35159,Hong Kong,2021-11-15,non_who,0,0.0,31
+35183,Hong Kong,2021-11-29,non_who,0,0.0,40
+35207,Hong Kong,2021-12-13,non_who,0,0.0,25
+35231,Hong Kong,2021-12-27,non_who,0,0.0,46
+35255,Hungary,2020-05-11,non_who,7,100.0,7
+35279,Hungary,2020-05-25,non_who,5,100.0,5
+35303,Hungary,2020-06-08,non_who,10,100.0,10
+35327,Hungary,2020-06-22,non_who,4,100.0,4
+35351,Hungary,2020-07-06,non_who,3,100.0,3
+35375,Hungary,2020-07-20,non_who,1,100.0,1
+35399,Hungary,2020-08-31,non_who,7,100.0,7
+35423,Hungary,2020-09-14,non_who,71,100.0,71
+35447,Hungary,2020-10-12,non_who,106,100.0,106
+35471,Hungary,2020-10-26,non_who,6,100.0,6
+35495,Hungary,2020-11-09,non_who,37,100.0,37
+35519,Hungary,2020-12-21,non_who,1,100.0,1
+35543,Hungary,2021-01-11,non_who,2,25.0,8
+35567,Hungary,2021-01-25,non_who,15,78.95,19
+35591,Hungary,2021-02-08,non_who,14,51.85,27
+35615,Hungary,2021-02-22,non_who,7,63.64,11
+35639,Hungary,2021-03-08,non_who,1,33.33,3
+35663,Iceland,2020-08-03,non_who,58,100.0,58
+35687,Iceland,2020-08-17,non_who,86,100.0,86
+35711,Iceland,2020-08-31,non_who,80,100.0,80
+35735,Iceland,2020-09-14,non_who,47,100.0,47
+35759,Iceland,2020-09-28,non_who,468,100.0,468
+35783,Iceland,2020-10-12,non_who,867,100.0,867
+35807,Iceland,2020-10-26,non_who,851,100.0,851
+35831,Iceland,2020-11-09,non_who,538,100.0,538
+35855,Iceland,2020-11-23,non_who,170,100.0,170
+35879,Iceland,2020-12-07,non_who,192,99.48,193
+35903,Iceland,2020-12-21,non_who,152,98.06,155
+35927,Iceland,2021-01-04,non_who,127,90.71,140
+35951,Iceland,2021-01-11,non_who,88,84.62,104
+35975,Iceland,2021-01-25,non_who,75,89.29,84
+35999,Iceland,2021-02-08,non_who,17,58.62,29
+36023,Iceland,2021-02-22,non_who,5,23.81,21
+36047,Iceland,2021-03-08,non_who,4,26.66,15
+36071,Iceland,2021-03-22,non_who,1,1.85,54
+36095,Iceland,2021-04-05,non_who,0,0.0,103
+36119,Iceland,2021-04-19,non_who,3,3.41,88
+36143,Iceland,2021-05-03,non_who,1,0.64,157
+36167,Iceland,2021-05-17,non_who,3,4.76,63
+36191,Iceland,2021-05-31,non_who,0,0.0,41
+36215,Iceland,2021-06-14,non_who,3,6.67,45
+36239,Iceland,2021-06-28,non_who,2,5.4,37
+36263,Iceland,2021-07-12,non_who,0,0.0,40
+36287,Iceland,2021-07-26,non_who,0,0.0,623
+36311,Iceland,2021-08-09,non_who,1,0.07,1449
+36335,Iceland,2021-08-23,non_who,0,0.0,1268
+36359,Iceland,2021-09-06,non_who,0,0.0,400
+36383,India,2020-05-11,non_who,471,100.0,471
+36407,India,2020-05-25,non_who,649,100.0,649
+36431,India,2020-06-08,non_who,617,100.0,617
+36455,India,2020-06-22,non_who,766,100.0,766
+36479,India,2020-07-06,non_who,276,100.0,276
+36503,India,2020-07-20,non_who,317,100.0,317
+36527,India,2020-08-03,non_who,393,100.0,393
+36551,India,2020-08-17,non_who,418,100.0,418
+36575,India,2020-08-31,non_who,235,100.0,235
+36599,India,2020-09-14,non_who,423,100.0,423
+36623,India,2020-09-28,non_who,397,100.0,397
+36647,India,2020-10-12,non_who,409,100.0,409
+36671,India,2020-10-26,non_who,327,99.39,329
+36695,India,2020-11-09,non_who,341,96.33,354
+36719,India,2020-11-23,non_who,270,94.41,286
+36743,India,2020-12-07,non_who,1099,97.25,1130
+36767,India,2020-12-21,non_who,1520,98.32,1546
+36791,India,2021-01-04,non_who,1188,91.88,1293
+36815,India,2021-01-11,non_who,522,89.38,584
+36839,India,2021-01-25,non_who,1082,92.48,1170
+36863,India,2021-02-08,non_who,1170,87.58,1336
+36887,India,2021-02-22,non_who,1188,70.02,1697
+36911,India,2021-03-08,non_who,1376,55.54,2478
+36935,India,2021-03-22,non_who,1089,28.96,3761
+36959,India,2021-04-05,non_who,1018,21.5,4734
+36983,India,2021-04-19,non_who,986,13.21,7463
+37007,India,2021-05-03,non_who,798,9.87,8086
+37031,India,2021-05-17,non_who,300,4.67,6417
+37055,India,2021-05-31,non_who,289,5.4,5348
+37079,India,2021-06-14,non_who,157,3.68,4258
+37103,India,2021-06-28,non_who,101,2.66,3779
+37127,India,2021-07-12,non_who,149,4.37,3408
+37151,India,2021-07-26,non_who,70,2.13,3285
+37175,India,2021-08-09,non_who,68,2.36,2888
+37199,India,2021-08-23,non_who,40,1.51,2645
+37223,India,2021-09-06,non_who,44,1.2,3657
+37247,India,2021-09-20,non_who,29,0.9,3224
+37271,India,2021-10-04,non_who,34,1.4,2436
+37295,India,2021-10-18,non_who,28,1.42,1978
+37319,India,2021-11-01,non_who,47,2.64,1781
+37343,India,2021-11-15,non_who,103,7.57,1362
+37367,India,2021-11-29,non_who,62,4.55,1360
+37391,India,2021-12-13,non_who,18,1.65,1085
+37415,India,2021-12-27,non_who,21,4.21,499
+37439,Indonesia,2020-05-11,non_who,11,100.0,11
+37463,Indonesia,2020-05-25,non_who,13,100.0,13
+37487,Indonesia,2020-06-08,non_who,18,100.0,18
+37511,Indonesia,2020-06-22,non_who,20,100.0,20
+37535,Indonesia,2020-07-06,non_who,16,100.0,16
+37559,Indonesia,2020-07-20,non_who,18,100.0,18
+37583,Indonesia,2020-08-03,non_who,28,100.0,28
+37607,Indonesia,2020-08-17,non_who,26,100.0,26
+37631,Indonesia,2020-08-31,non_who,24,100.0,24
+37655,Indonesia,2020-09-14,non_who,41,100.0,41
+37679,Indonesia,2020-09-28,non_who,22,100.0,22
+37703,Indonesia,2020-10-12,non_who,29,100.0,29
+37727,Indonesia,2020-10-26,non_who,55,100.0,55
+37751,Indonesia,2020-11-09,non_who,43,100.0,43
+37775,Indonesia,2020-11-23,non_who,82,100.0,82
+37799,Indonesia,2020-12-07,non_who,79,100.0,79
+37823,Indonesia,2020-12-21,non_who,98,100.0,98
+37847,Indonesia,2021-01-04,non_who,156,100.0,156
+37871,Indonesia,2021-01-11,non_who,222,97.8,227
+37895,Indonesia,2021-01-25,non_who,384,99.48,386
+37919,Indonesia,2021-02-08,non_who,234,97.5,240
+37943,Indonesia,2021-02-22,non_who,187,97.4,192
+37967,Indonesia,2021-03-08,non_who,298,99.0,301
+37991,Indonesia,2021-03-22,non_who,243,96.43,252
+38015,Indonesia,2021-04-05,non_who,162,92.58,175
+38039,Indonesia,2021-04-19,non_who,165,90.16,183
+38063,Indonesia,2021-05-03,non_who,205,82.67,248
+38087,Indonesia,2021-05-17,non_who,302,85.54,353
+38111,Indonesia,2021-05-31,non_who,409,69.32,590
+38135,Indonesia,2021-06-14,non_who,202,31.08,650
+38159,Indonesia,2021-06-28,non_who,129,12.39,1041
+38183,Indonesia,2021-07-12,non_who,64,6.55,977
+38207,Indonesia,2021-07-26,non_who,24,3.19,752
+38231,Indonesia,2021-08-09,non_who,13,1.28,1015
+38255,Indonesia,2021-08-23,non_who,0,0.0,555
+38279,Indonesia,2021-09-06,non_who,4,0.61,651
+38303,Indonesia,2021-09-20,non_who,3,0.76,393
+38327,Indonesia,2021-10-04,non_who,6,2.17,276
+38351,Indonesia,2021-10-18,non_who,4,1.65,243
+38375,Indonesia,2021-11-01,non_who,0,0.0,145
+38399,Indonesia,2021-11-15,non_who,0,0.0,136
+38423,Indonesia,2021-11-29,non_who,0,0.0,143
+38447,Indonesia,2021-12-13,non_who,3,1.5,200
+38471,Indonesia,2021-12-27,non_who,2,0.65,308
+38495,Iran,2020-05-11,non_who,12,100.0,12
+38519,Iran,2020-05-25,non_who,8,100.0,8
+38543,Iran,2020-06-08,non_who,5,100.0,5
+38567,Iran,2020-06-22,non_who,11,100.0,11
+38591,Iran,2020-07-06,non_who,6,100.0,6
+38615,Iran,2020-07-20,non_who,4,100.0,4
+38639,Iran,2020-08-31,non_who,6,100.0,6
+38663,Iran,2020-09-28,non_who,3,100.0,3
+38687,Iran,2020-10-12,non_who,2,100.0,2
+38711,Iran,2020-10-26,non_who,3,100.0,3
+38735,Iran,2020-11-09,non_who,19,100.0,19
+38759,Iran,2020-11-23,non_who,13,100.0,13
+38783,Iran,2020-12-07,non_who,15,100.0,15
+38807,Iran,2020-12-21,non_who,13,100.0,13
+38831,Iran,2021-01-04,non_who,7,100.0,7
+38855,Iran,2021-01-11,non_who,14,93.33,15
+38879,Iran,2021-01-25,non_who,9,90.0,10
+38903,Iran,2021-02-08,non_who,34,62.96,54
+38927,Iran,2021-02-22,non_who,16,48.48,33
+38951,Iran,2021-03-08,non_who,2,15.38,13
+38975,Iran,2021-04-05,non_who,8,47.06,17
+38999,Iran,2021-04-19,non_who,2,9.09,22
+39023,Iran,2021-05-03,non_who,1,2.09,48
+39047,Iran,2021-05-17,non_who,0,0.0,17
+39071,Iran,2021-05-31,non_who,0,0.0,4
+39095,Iran,2021-07-26,non_who,0,0.0,1
+39119,Iran,2021-08-09,non_who,0,0.0,3
+39143,Iran,2021-09-06,non_who,0,0.0,2
+39167,Iran,2021-12-13,non_who,2,100.0,2
+39191,Iran,2021-12-27,non_who,0,0.0,1
+39215,Iraq,2020-06-08,non_who,10,100.0,10
+39239,Iraq,2020-06-22,non_who,18,100.0,18
+39263,Iraq,2020-07-06,non_who,2,100.0,2
+39287,Iraq,2020-10-12,non_who,2,100.0,2
+39311,Iraq,2020-12-21,non_who,2,100.0,2
+39335,Iraq,2021-01-04,non_who,0,0.0,2
+39359,Iraq,2021-01-11,non_who,0,0.0,1
+39383,Iraq,2021-01-25,non_who,2,50.0,4
+39407,Iraq,2021-02-08,non_who,2,50.0,4
+39431,Iraq,2021-02-22,non_who,8,12.7,63
+39455,Iraq,2021-03-08,non_who,4,26.66,15
+39479,Iraq,2021-03-22,non_who,0,0.0,5
+39503,Iraq,2021-04-05,non_who,0,0.0,5
+39527,Iraq,2021-04-19,non_who,0,0.0,2
+39551,Iraq,2021-05-03,non_who,5,41.66,12
+39575,Iraq,2021-05-17,non_who,0,0.0,3
+39599,Iraq,2021-05-31,non_who,0,0.0,2
+39623,Iraq,2021-06-14,non_who,0,0.0,2
+39647,Iraq,2021-07-12,non_who,0,0.0,2
+39671,Iraq,2021-07-26,non_who,0,0.0,8
+39695,Iraq,2021-08-09,non_who,0,0.0,2
+39719,Iraq,2021-11-15,non_who,0,0.0,1
+39743,Ireland,2020-05-11,non_who,115,100.0,115
+39767,Ireland,2020-05-25,non_who,43,100.0,43
+39791,Ireland,2020-06-08,non_who,8,100.0,8
+39815,Ireland,2020-06-22,non_who,5,100.0,5
+39839,Ireland,2020-07-06,non_who,9,100.0,9
+39863,Ireland,2020-07-20,non_who,32,100.0,32
+39887,Ireland,2020-08-03,non_who,59,100.0,59
+39911,Ireland,2020-08-17,non_who,87,100.0,87
+39935,Ireland,2020-08-31,non_who,22,100.0,22
+39959,Ireland,2020-09-14,non_who,79,100.0,79
+39983,Ireland,2020-09-28,non_who,102,100.0,102
+40007,Ireland,2020-10-12,non_who,85,100.0,85
+40031,Ireland,2020-10-26,non_who,100,100.0,100
+40055,Ireland,2020-11-09,non_who,67,95.71,70
+40079,Ireland,2020-11-23,non_who,95,100.0,95
+40103,Ireland,2020-12-07,non_who,91,100.0,91
+40127,Ireland,2020-12-21,non_who,88,88.0,100
+40151,Ireland,2021-01-04,non_who,105,50.48,208
+40175,Ireland,2021-01-11,non_who,66,47.15,140
+40199,Ireland,2021-01-25,non_who,185,36.63,505
+40223,Ireland,2021-02-08,non_who,202,17.18,1177
+40247,Ireland,2021-02-22,non_who,172,11.68,1474
+40271,Ireland,2021-03-08,non_who,81,4.97,1630
+40295,Ireland,2021-03-22,non_who,44,2.56,1718
+40319,Ireland,2021-04-05,non_who,44,3.18,1383
+40343,Ireland,2021-04-19,non_who,93,6.35,1464
+40367,Ireland,2021-05-03,non_who,90,4.74,1901
+40391,Ireland,2021-05-17,non_who,64,3.42,1873
+40415,Ireland,2021-05-31,non_who,41,1.74,2353
+40439,Ireland,2021-06-14,non_who,36,2.57,1402
+40463,Ireland,2021-06-28,non_who,11,0.71,1570
+40487,Ireland,2021-07-12,non_who,5,0.29,1759
+40511,Ireland,2021-07-26,non_who,6,0.21,2900
+40535,Ireland,2021-08-09,non_who,2,0.07,3011
+40559,Ireland,2021-08-23,non_who,2,0.07,2888
+40583,Ireland,2021-09-06,non_who,0,0.0,2161
+40607,Ireland,2021-09-20,non_who,0,0.0,2429
+40631,Ireland,2021-10-04,non_who,0,0.0,1681
+40655,Ireland,2021-10-18,non_who,0,0.0,2961
+40679,Ireland,2021-11-01,non_who,0,0.0,3373
+40703,Ireland,2021-11-15,non_who,0,0.0,990
+40727,Ireland,2021-11-29,non_who,0,0.0,487
+40751,Ireland,2021-12-13,non_who,0,0.0,888
+40775,Israel,2020-05-11,non_who,8,100.0,8
+40799,Israel,2020-05-25,non_who,4,100.0,4
+40823,Israel,2020-06-08,non_who,18,100.0,18
+40847,Israel,2020-06-22,non_who,7,100.0,7
+40871,Israel,2020-07-06,non_who,16,100.0,16
+40895,Israel,2020-07-20,non_who,6,100.0,6
+40919,Israel,2020-08-03,non_who,48,100.0,48
+40943,Israel,2020-08-17,non_who,9,100.0,9
+40967,Israel,2020-08-31,non_who,1,100.0,1
+40991,Israel,2020-09-14,non_who,3,100.0,3
+41015,Israel,2020-09-28,non_who,1,100.0,1
+41039,Israel,2020-10-26,non_who,1,100.0,1
+41063,Israel,2020-11-23,non_who,0,0.0,1
+41087,Israel,2020-12-07,non_who,9,100.0,9
+41111,Israel,2020-12-21,non_who,47,87.04,54
+41135,Israel,2021-01-04,non_who,1081,77.11,1402
+41159,Israel,2021-01-11,non_who,292,41.96,696
+41183,Israel,2021-01-25,non_who,491,42.08,1167
+41207,Israel,2021-02-08,non_who,572,24.49,2335
+41231,Israel,2021-02-22,non_who,94,10.63,885
+41255,Israel,2021-03-08,non_who,135,6.73,2004
+41279,Israel,2021-03-22,non_who,10,1.08,925
+41303,Israel,2021-04-05,non_who,3,0.36,830
+41327,Israel,2021-04-19,non_who,22,4.56,482
+41351,Israel,2021-05-03,non_who,5,1.4,357
+41375,Israel,2021-05-17,non_who,6,2.94,204
+41399,Israel,2021-05-31,non_who,10,6.66,150
+41423,Israel,2021-06-14,non_who,4,3.51,114
+41447,Israel,2021-06-28,non_who,10,1.18,847
+41471,Israel,2021-07-12,non_who,51,3.14,1627
+41495,Israel,2021-07-26,non_who,2,0.39,512
+41519,Israel,2021-08-09,non_who,7,0.43,1647
+41543,Israel,2021-08-23,non_who,3,0.2,1562
+41567,Israel,2021-09-06,non_who,5,0.22,2177
+41591,Israel,2021-09-20,non_who,0,0.0,2418
+41615,Israel,2021-10-04,non_who,1,0.13,779
+41639,Israel,2021-10-18,non_who,12,0.78,1546
+41663,Israel,2021-11-01,non_who,31,2.98,1041
+41687,Israel,2021-11-15,non_who,18,1.09,1652
+41711,Israel,2021-11-29,non_who,30,1.14,2632
+41735,Israel,2021-12-13,non_who,68,2.36,2885
+41759,Israel,2021-12-27,non_who,13,0.45,2935
+41783,Italy,2020-05-11,non_who,128,100.0,128
+41807,Italy,2020-05-25,non_who,51,100.0,51
+41831,Italy,2020-06-08,non_who,35,100.0,35
+41855,Italy,2020-06-22,non_who,51,100.0,51
+41879,Italy,2020-07-06,non_who,109,100.0,109
+41903,Italy,2020-07-20,non_who,33,100.0,33
+41927,Italy,2020-08-03,non_who,28,100.0,28
+41951,Italy,2020-08-17,non_who,30,100.0,30
+41975,Italy,2020-08-31,non_who,133,100.0,133
+41999,Italy,2020-09-14,non_who,155,100.0,155
+42023,Italy,2020-09-28,non_who,164,100.0,164
+42047,Italy,2020-10-12,non_who,152,99.35,153
+42071,Italy,2020-10-26,non_who,218,98.64,221
+42095,Italy,2020-11-09,non_who,487,99.59,489
+42119,Italy,2020-11-23,non_who,259,99.23,261
+42143,Italy,2020-12-07,non_who,262,99.24,264
+42167,Italy,2020-12-21,non_who,691,95.57,723
+42191,Italy,2021-01-04,non_who,621,81.28,764
+42215,Italy,2021-01-11,non_who,332,77.21,430
+42239,Italy,2021-01-25,non_who,886,73.71,1202
+42263,Italy,2021-02-08,non_who,383,36.93,1037
+42287,Italy,2021-02-22,non_who,1461,46.74,3126
+42311,Italy,2021-03-08,non_who,1084,25.85,4193
+42335,Italy,2021-03-22,non_who,840,14.87,5646
+42359,Italy,2021-04-05,non_who,215,6.28,3420
+42383,Italy,2021-04-19,non_who,111,2.9,3809
+42407,Italy,2021-05-03,non_who,161,3.96,4066
+42431,Italy,2021-05-17,non_who,66,2.78,2377
+42455,Italy,2021-05-31,non_who,161,6.01,2678
+42479,Italy,2021-06-14,non_who,89,5.77,1546
+42503,Italy,2021-06-28,non_who,91,4.63,1968
+42527,Italy,2021-07-12,non_who,69,2.26,3054
+42551,Italy,2021-07-26,non_who,56,1.19,4771
+42575,Italy,2021-08-09,non_who,61,1.48,4135
+42599,Italy,2021-08-23,non_who,6,0.19,3261
+42623,Italy,2021-09-06,non_who,2,0.06,3515
+42647,Italy,2021-09-20,non_who,1,0.04,2256
+42671,Italy,2021-10-04,non_who,1,0.04,2494
+42695,Italy,2021-10-18,non_who,18,0.82,2186
+42719,Italy,2021-11-01,non_who,3,0.12,2505
+42743,Italy,2021-11-15,non_who,9,0.3,3024
+42767,Italy,2021-11-29,non_who,19,0.56,3356
+42791,Italy,2021-12-13,non_who,1,0.03,3415
+42815,Italy,2021-12-27,non_who,3,0.13,2356
+42839,Jamaica,2021-01-04,non_who,1,20.0,5
+42863,Jamaica,2021-01-25,non_who,1,14.29,7
+42887,Jamaica,2021-02-08,non_who,2,20.0,10
+42911,Jamaica,2021-02-22,non_who,0,0.0,3
+42935,Jamaica,2021-03-08,non_who,0,0.0,112
+42959,Jamaica,2021-03-22,non_who,0,0.0,1
+42983,Jamaica,2021-04-05,non_who,0,0.0,9
+43007,Jamaica,2021-04-19,non_who,0,0.0,10
+43031,Jamaica,2021-05-03,non_who,0,0.0,1
+43055,Jamaica,2021-05-17,non_who,2,6.67,30
+43079,Jamaica,2021-05-31,non_who,0,0.0,26
+43103,Jamaica,2021-07-26,non_who,2,2.17,92
+43127,Jamaica,2021-08-09,non_who,2,25.0,8
+43151,Jamaica,2021-08-23,non_who,11,32.35,34
+43175,Jamaica,2021-09-06,non_who,2,22.22,9
+43199,Jamaica,2021-10-04,non_who,0,0.0,1
+43223,Jamaica,2021-10-18,non_who,0,0.0,1
+43247,Jamaica,2021-11-01,non_who,2,28.57,7
+43271,Japan,2020-05-11,non_who,415,100.0,415
+43295,Japan,2020-05-25,non_who,116,100.0,116
+43319,Japan,2020-06-08,non_who,146,100.0,146
+43343,Japan,2020-06-22,non_who,189,100.0,189
+43367,Japan,2020-07-06,non_who,386,100.0,386
+43391,Japan,2020-07-20,non_who,779,100.0,779
+43415,Japan,2020-08-03,non_who,1843,100.0,1843
+43439,Japan,2020-08-17,non_who,2125,100.0,2125
+43463,Japan,2020-08-31,non_who,1450,100.0,1450
+43487,Japan,2020-09-14,non_who,764,100.0,764
+43511,Japan,2020-09-28,non_who,523,100.0,523
+43535,Japan,2020-10-12,non_who,546,100.0,546
+43559,Japan,2020-10-26,non_who,685,100.0,685
+43583,Japan,2020-11-09,non_who,818,100.0,818
+43607,Japan,2020-11-23,non_who,1745,100.0,1745
+43631,Japan,2020-12-07,non_who,1975,99.95,1976
+43655,Japan,2020-12-21,non_who,2232,99.65,2240
+43679,Japan,2021-01-04,non_who,2408,98.66,2441
+43703,Japan,2021-01-11,non_who,2280,99.0,2303
+43727,Japan,2021-01-25,non_who,3581,98.46,3637
+43751,Japan,2021-02-08,non_who,2256,95.37,2366
+43775,Japan,2021-02-22,non_who,1204,91.48,1316
+43799,Japan,2021-03-08,non_who,1106,84.56,1308
+43823,Japan,2021-03-22,non_who,1616,73.18,2208
+43847,Japan,2021-04-05,non_who,1780,43.62,4081
+43871,Japan,2021-04-19,non_who,1849,33.12,5582
+43895,Japan,2021-05-03,non_who,1377,13.52,10178
+43919,Japan,2021-05-17,non_who,774,8.22,9411
+43943,Japan,2021-05-31,non_who,342,5.78,5920
+43967,Japan,2021-06-14,non_who,110,2.61,4207
+43991,Japan,2021-06-28,non_who,28,0.67,4220
+44015,Japan,2021-07-12,non_who,9,0.16,5720
+44039,Japan,2021-07-26,non_who,8,0.08,10145
+44063,Japan,2021-08-09,non_who,4,0.02,17302
+44087,Japan,2021-08-23,non_who,3,0.01,28942
+44111,Japan,2021-09-06,non_who,7,0.04,24621
+44135,Japan,2021-09-20,non_who,1,0.01,9641
+44159,Japan,2021-10-04,non_who,0,0.0,2773
+44183,Japan,2021-10-18,non_who,0,0.0,1163
+44207,Japan,2021-11-01,non_who,0,0.0,531
+44231,Japan,2021-11-15,non_who,0,0.0,423
+44255,Japan,2021-11-29,non_who,0,0.0,275
+44279,Japan,2021-12-13,non_who,0,0.0,226
+44303,Japan,2021-12-27,non_who,0,0.0,153
+44327,Jordan,2020-06-08,non_who,2,100.0,2
+44351,Jordan,2020-06-22,non_who,1,100.0,1
+44375,Jordan,2020-07-06,non_who,3,100.0,3
+44399,Jordan,2020-08-17,non_who,1,100.0,1
+44423,Jordan,2020-08-31,non_who,13,100.0,13
+44447,Jordan,2020-09-14,non_who,27,100.0,27
+44471,Jordan,2020-09-28,non_who,15,100.0,15
+44495,Jordan,2020-10-12,non_who,311,100.0,311
+44519,Jordan,2020-10-26,non_who,90,100.0,90
+44543,Jordan,2020-11-09,non_who,48,100.0,48
+44567,Jordan,2020-12-07,non_who,2,100.0,2
+44591,Jordan,2020-12-21,non_who,0,0.0,2
+44615,Jordan,2021-01-04,non_who,2,22.22,9
+44639,Jordan,2021-01-11,non_who,9,21.43,42
+44663,Jordan,2021-01-25,non_who,5,83.33,6
+44687,Jordan,2021-02-08,non_who,9,36.0,25
+44711,Jordan,2021-02-22,non_who,7,41.18,17
+44735,Jordan,2021-03-08,non_who,0,0.0,12
+44759,Jordan,2021-03-22,non_who,7,24.14,29
+44783,Jordan,2021-04-05,non_who,3,23.08,13
+44807,Jordan,2021-04-19,non_who,8,42.1,19
+44831,Jordan,2021-05-03,non_who,1,6.25,16
+44855,Jordan,2021-05-17,non_who,5,29.41,17
+44879,Jordan,2021-05-31,non_who,3,21.43,14
+44903,Jordan,2021-06-14,non_who,1,3.71,27
+44927,Jordan,2021-06-28,non_who,0,0.0,16
+44951,Jordan,2021-07-12,non_who,1,8.33,12
+44975,Jordan,2021-07-26,non_who,0,0.0,5
+44999,Jordan,2021-08-09,non_who,0,0.0,13
+45023,Jordan,2021-08-23,non_who,0,0.0,12
+45047,Jordan,2021-09-06,non_who,0,0.0,22
+45071,Jordan,2021-09-20,non_who,0,0.0,35
+45095,Jordan,2021-10-04,non_who,0,0.0,71
+45119,Jordan,2021-10-18,non_who,0,0.0,64
+45143,Jordan,2021-11-01,non_who,0,0.0,43
+45167,Jordan,2021-11-15,non_who,0,0.0,39
+45191,Jordan,2021-11-29,non_who,0,0.0,38
+45215,Jordan,2021-12-13,non_who,0,0.0,26
+45239,Jordan,2021-12-27,non_who,0,0.0,32
+45263,Kazakhstan,2020-05-11,non_who,2,100.0,2
+45287,Kazakhstan,2020-05-25,non_who,1,100.0,1
+45311,Kazakhstan,2020-11-23,non_who,9,100.0,9
+45335,Kazakhstan,2020-12-07,non_who,2,100.0,2
+45359,Kazakhstan,2020-12-21,non_who,13,100.0,13
+45383,Kazakhstan,2021-01-04,non_who,9,100.0,9
+45407,Kazakhstan,2021-01-11,non_who,7,100.0,7
+45431,Kazakhstan,2021-01-25,non_who,1,100.0,1
+45455,Kazakhstan,2021-03-08,non_who,14,87.5,16
+45479,Kazakhstan,2021-03-22,non_who,1,2.56,39
+45503,Kazakhstan,2021-04-05,non_who,0,0.0,59
+45527,Kazakhstan,2021-04-19,non_who,0,0.0,35
+45551,Kazakhstan,2021-05-03,non_who,0,0.0,47
+45575,Kazakhstan,2021-07-26,non_who,0,0.0,1
+45599,Kazakhstan,2021-08-23,non_who,0,0.0,93
+45623,Kazakhstan,2021-09-06,non_who,0,0.0,3
+45647,Kazakhstan,2021-09-20,non_who,0,0.0,19
+45671,Kazakhstan,2021-10-04,non_who,0,0.0,20
+45695,Kazakhstan,2021-10-18,non_who,0,0.0,53
+45719,Kenya,2020-05-11,non_who,76,100.0,76
+45743,Kenya,2020-05-25,non_who,125,100.0,125
+45767,Kenya,2020-06-08,non_who,38,100.0,38
+45791,Kenya,2020-06-22,non_who,57,100.0,57
+45815,Kenya,2020-07-06,non_who,89,100.0,89
+45839,Kenya,2020-07-20,non_who,67,100.0,67
+45863,Kenya,2020-08-03,non_who,38,100.0,38
+45887,Kenya,2020-08-17,non_who,56,100.0,56
+45911,Kenya,2020-08-31,non_who,54,100.0,54
+45935,Kenya,2020-09-14,non_who,54,100.0,54
+45959,Kenya,2020-09-28,non_who,17,100.0,17
+45983,Kenya,2020-10-12,non_who,67,98.53,68
+46007,Kenya,2020-10-26,non_who,157,100.0,157
+46031,Kenya,2020-11-09,non_who,344,100.0,344
+46055,Kenya,2020-11-23,non_who,256,100.0,256
+46079,Kenya,2020-12-07,non_who,157,100.0,157
+46103,Kenya,2020-12-21,non_who,72,96.0,75
+46127,Kenya,2021-01-04,non_who,26,89.65,29
+46151,Kenya,2021-01-11,non_who,37,100.0,37
+46175,Kenya,2021-01-25,non_who,38,73.08,52
+46199,Kenya,2021-02-08,non_who,47,67.14,70
+46223,Kenya,2021-02-22,non_who,12,18.76,64
+46247,Kenya,2021-03-08,non_who,51,22.77,224
+46271,Kenya,2021-03-22,non_who,46,17.63,261
+46295,Kenya,2021-04-05,non_who,11,6.51,169
+46319,Kenya,2021-04-19,non_who,5,3.77,133
+46343,Kenya,2021-05-03,non_who,17,12.5,136
+46367,Kenya,2021-05-17,non_who,4,3.41,117
+46391,Kenya,2021-05-31,non_who,4,2.05,194
+46415,Kenya,2021-06-14,non_who,0,0.0,132
+46439,Kenya,2021-06-28,non_who,3,1.74,173
+46463,Kenya,2021-07-12,non_who,4,1.43,278
+46487,Kenya,2021-07-26,non_who,7,3.15,222
+46511,Kenya,2021-08-09,non_who,8,2.7,296
+46535,Kenya,2021-08-23,non_who,1,0.34,290
+46559,Kenya,2021-09-06,non_who,0,0.0,230
+46583,Kenya,2021-09-20,non_who,0,0.0,157
+46607,Kenya,2021-10-04,non_who,2,2.02,99
+46631,Kenya,2021-10-18,non_who,3,4.69,64
+46655,Kenya,2021-11-01,non_who,0,0.0,33
+46679,Kenya,2021-11-15,non_who,1,2.13,47
+46703,Kenya,2021-11-29,non_who,0,0.0,18
+46727,Kenya,2021-12-13,non_who,2,4.55,44
+46751,Kosovo,2020-05-11,non_who,1,100.0,1
+46775,Kosovo,2020-07-20,non_who,4,100.0,4
+46799,Kosovo,2020-08-03,non_who,4,100.0,4
+46823,Kosovo,2020-11-23,non_who,1,100.0,1
+46847,Kosovo,2020-12-21,non_who,3,100.0,3
+46871,Kosovo,2021-01-04,non_who,7,100.0,7
+46895,Kosovo,2021-01-11,non_who,11,78.57,14
+46919,Kosovo,2021-05-03,non_who,0,0.0,2
+46943,Kosovo,2021-05-17,non_who,0,0.0,11
+46967,Kosovo,2021-05-31,non_who,0,0.0,1
+46991,Kosovo,2021-06-14,non_who,0,0.0,7
+47015,Kosovo,2021-07-12,non_who,0,0.0,3
+47039,Kosovo,2021-07-26,non_who,0,0.0,44
+47063,Kosovo,2021-08-09,non_who,0,0.0,166
+47087,Kosovo,2021-08-23,non_who,0,0.0,154
+47111,Kosovo,2021-09-06,non_who,0,0.0,64
+47135,Kosovo,2021-09-20,non_who,0,0.0,243
+47159,Kosovo,2021-10-04,non_who,0,0.0,110
+47183,Kosovo,2021-10-18,non_who,0,0.0,39
+47207,Kosovo,2021-11-01,non_who,0,0.0,42
+47231,Kosovo,2021-11-15,non_who,0,0.0,40
+47255,Kosovo,2021-11-29,non_who,0,0.0,26
+47279,Kosovo,2021-12-13,non_who,0,0.0,4
+47303,Kuwait,2021-01-04,non_who,14,93.33,15
+47327,Kuwait,2021-01-25,non_who,0,0.0,5
+47351,Kuwait,2021-02-08,non_who,0,0.0,5
+47375,Kuwait,2021-04-19,non_who,0,0.0,3
+47399,Kuwait,2021-05-31,non_who,1,14.28,7
+47423,Kuwait,2021-06-14,non_who,4,12.51,32
+47447,Kuwait,2021-06-28,non_who,1,2.5,40
+47471,Kuwait,2021-07-12,non_who,0,0.0,66
+47495,Kuwait,2021-08-09,non_who,0,0.0,8
+47519,Kuwait,2021-08-23,non_who,0,0.0,32
+47543,Kuwait,2021-09-06,non_who,0,0.0,5
+47567,Kuwait,2021-09-20,non_who,0,0.0,18
+47591,Kuwait,2021-10-04,non_who,0,0.0,30
+47615,Kuwait,2021-10-18,non_who,1,4.55,22
+47639,Kuwait,2021-11-01,non_who,0,0.0,21
+47663,Kuwait,2021-11-15,non_who,0,0.0,4
+47687,Kuwait,2021-11-29,non_who,0,0.0,12
+47711,Kuwait,2021-12-13,non_who,0,0.0,3
+47735,Latvia,2020-05-11,non_who,19,100.0,19
+47759,Latvia,2020-06-08,non_who,3,100.0,3
+47783,Latvia,2020-06-22,non_who,5,100.0,5
+47807,Latvia,2020-07-06,non_who,3,100.0,3
+47831,Latvia,2020-07-20,non_who,29,100.0,29
+47855,Latvia,2020-08-03,non_who,11,100.0,11
+47879,Latvia,2020-08-17,non_who,18,100.0,18
+47903,Latvia,2020-08-31,non_who,21,100.0,21
+47927,Latvia,2020-09-14,non_who,23,100.0,23
+47951,Latvia,2020-09-28,non_who,46,100.0,46
+47975,Latvia,2020-10-12,non_who,297,100.0,297
+47999,Latvia,2020-10-26,non_who,12,100.0,12
+48023,Latvia,2020-11-09,non_who,1,100.0,1
+48047,Latvia,2020-11-23,non_who,1,100.0,1
+48071,Latvia,2020-12-21,non_who,5,100.0,5
+48095,Latvia,2021-01-04,non_who,1,100.0,1
+48119,Latvia,2021-01-11,non_who,3,100.0,3
+48143,Latvia,2021-01-25,non_who,77,93.9,82
+48167,Latvia,2021-02-08,non_who,238,95.58,249
+48191,Latvia,2021-02-22,non_who,365,85.48,427
+48215,Latvia,2021-03-08,non_who,305,65.17,468
+48239,Latvia,2021-03-22,non_who,492,49.65,991
+48263,Latvia,2021-04-05,non_who,121,26.42,458
+48287,Latvia,2021-04-19,non_who,112,14.93,750
+48311,Latvia,2021-05-03,non_who,63,8.69,725
+48335,Latvia,2021-05-17,non_who,25,4.91,509
+48359,Latvia,2021-05-31,non_who,13,2.51,517
+48383,Latvia,2021-06-14,non_who,0,0.0,65
+48407,Latvia,2021-06-28,non_who,0,-0.01,71
+48431,Latvia,2021-07-12,non_who,6,5.55,108
+48455,Latvia,2021-07-26,non_who,0,0.0,137
+48479,Latvia,2021-08-09,non_who,4,2.68,149
+48503,Latvia,2021-08-23,non_who,0,0.0,86
+48527,Lebanon,2020-06-08,non_who,3,100.0,3
+48551,Lebanon,2020-07-06,non_who,2,100.0,2
+48575,Lebanon,2020-08-03,non_who,4,100.0,4
+48599,Lebanon,2020-08-17,non_who,3,100.0,3
+48623,Lebanon,2020-09-14,non_who,10,100.0,10
+48647,Lebanon,2020-10-12,non_who,3,100.0,3
+48671,Lebanon,2020-12-07,non_who,2,100.0,2
+48695,Lebanon,2020-12-21,non_who,1,100.0,1
+48719,Lebanon,2021-01-04,non_who,15,83.33,18
+48743,Lebanon,2021-01-11,non_who,26,83.87,31
+48767,Lebanon,2021-01-25,non_who,36,57.14,63
+48791,Lebanon,2021-02-08,non_who,8,12.9,62
+48815,Lebanon,2021-02-22,non_who,6,4.32,139
+48839,Lebanon,2021-03-08,non_who,1,0.64,157
+48863,Lebanon,2021-03-22,non_who,0,0.0,130
+48887,Lebanon,2021-04-05,non_who,0,0.0,117
+48911,Lebanon,2021-04-19,non_who,0,0.0,77
+48935,Lebanon,2021-05-03,non_who,1,1.1,91
+48959,Lebanon,2021-05-17,non_who,0,0.0,11
+48983,Lebanon,2021-06-28,non_who,0,0.0,4
+49007,Lebanon,2021-07-12,non_who,0,0.0,52
+49031,Lebanon,2021-07-26,non_who,0,0.0,25
+49055,Lebanon,2021-12-13,non_who,0,0.0,4
+49079,Liechtenstein,2020-10-26,non_who,3,100.0,3
+49103,Liechtenstein,2020-11-23,non_who,1,100.0,1
+49127,Liechtenstein,2020-12-07,non_who,2,100.0,2
+49151,Liechtenstein,2020-12-21,non_who,12,100.0,12
+49175,Liechtenstein,2021-01-04,non_who,15,100.0,15
+49199,Liechtenstein,2021-01-25,non_who,2,66.67,3
+49223,Liechtenstein,2021-02-08,non_who,3,33.33,9
+49247,Liechtenstein,2021-02-22,non_who,1,100.0,1
+49271,Liechtenstein,2021-03-08,non_who,0,0.0,3
+49295,Liechtenstein,2021-04-05,non_who,1,100.0,1
+49319,Liechtenstein,2021-04-19,non_who,11,68.75,16
+49343,Liechtenstein,2021-05-03,non_who,9,75.0,12
+49367,Liechtenstein,2021-05-17,non_who,6,85.71,7
+49391,Liechtenstein,2021-05-31,non_who,1,50.0,2
+49415,Liechtenstein,2021-06-14,non_who,0,0.0,2
+49439,Liechtenstein,2021-06-28,non_who,0,0.0,2
+49463,Liechtenstein,2021-07-12,non_who,0,0.0,2
+49487,Liechtenstein,2021-07-26,non_who,0,0.0,4
+49511,Liechtenstein,2021-08-09,non_who,0,0.0,2
+49535,Liechtenstein,2021-08-23,non_who,0,0.0,11
+49559,Liechtenstein,2021-09-06,non_who,0,0.0,7
+49583,Liechtenstein,2021-09-20,non_who,0,0.0,5
+49607,Liechtenstein,2021-10-04,non_who,0,0.0,4
+49631,Liechtenstein,2021-10-18,non_who,0,0.0,4
+49655,Liechtenstein,2021-11-01,non_who,0,0.0,11
+49679,Liechtenstein,2021-11-15,non_who,0,0.0,63
+49703,Liechtenstein,2021-11-29,non_who,0,0.0,131
+49727,Liechtenstein,2021-12-13,non_who,0,0.0,126
+49751,Lithuania,2020-05-25,non_who,13,100.0,13
+49775,Lithuania,2020-06-08,non_who,2,100.0,2
+49799,Lithuania,2020-08-03,non_who,9,100.0,9
+49823,Lithuania,2020-08-17,non_who,16,100.0,16
+49847,Lithuania,2020-08-31,non_who,14,100.0,14
+49871,Lithuania,2020-09-14,non_who,30,100.0,30
+49895,Lithuania,2020-09-28,non_who,4,100.0,4
+49919,Lithuania,2020-10-12,non_who,4,100.0,4
+49943,Lithuania,2020-10-26,non_who,2,100.0,2
+49967,Lithuania,2020-11-09,non_who,3,100.0,3
+49991,Lithuania,2020-11-23,non_who,17,100.0,17
+50015,Lithuania,2020-12-07,non_who,199,100.0,199
+50039,Lithuania,2020-12-21,non_who,206,100.0,206
+50063,Lithuania,2021-01-04,non_who,112,100.0,112
+50087,Lithuania,2021-01-11,non_who,122,100.0,122
+50111,Lithuania,2021-01-25,non_who,191,100.0,191
+50135,Lithuania,2021-02-08,non_who,172,95.03,181
+50159,Lithuania,2021-02-22,non_who,786,89.22,881
+50183,Lithuania,2021-03-08,non_who,846,70.62,1198
+50207,Lithuania,2021-03-22,non_who,557,39.93,1395
+50231,Lithuania,2021-04-05,non_who,327,20.14,1624
+50255,Lithuania,2021-04-19,non_who,179,10.46,1710
+50279,Lithuania,2021-05-03,non_who,98,6.06,1619
+50303,Lithuania,2021-05-17,non_who,52,3.66,1422
+50327,Lithuania,2021-05-31,non_who,47,3.17,1484
+50351,Lithuania,2021-06-14,non_who,58,8.74,664
+50375,Lithuania,2021-06-28,non_who,6,2.84,211
+50399,Lithuania,2021-07-12,non_who,2,0.85,236
+50423,Lithuania,2021-07-26,non_who,2,0.21,993
+50447,Lithuania,2021-08-09,non_who,0,0.0,1516
+50471,Lithuania,2021-08-23,non_who,0,0.0,1415
+50495,Lithuania,2021-09-06,non_who,0,0.0,1200
+50519,Lithuania,2021-09-20,non_who,0,0.0,871
+50543,Lithuania,2021-10-04,non_who,0,0.0,731
+50567,Lithuania,2021-10-18,non_who,1,0.11,944
+50591,Lithuania,2021-11-01,non_who,0,0.0,1008
+50615,Lithuania,2021-11-15,non_who,2,0.17,1167
+50639,Lithuania,2021-11-29,non_who,0,0.0,858
+50663,Lithuania,2021-12-13,non_who,1,0.11,899
+50687,Lithuania,2021-12-27,non_who,0,0.0,212
+50711,Luxembourg,2020-05-11,non_who,6,100.0,6
+50735,Luxembourg,2020-05-25,non_who,12,100.0,12
+50759,Luxembourg,2020-06-22,non_who,4,100.0,4
+50783,Luxembourg,2020-07-06,non_who,20,100.0,20
+50807,Luxembourg,2020-07-20,non_who,24,100.0,24
+50831,Luxembourg,2020-08-03,non_who,20,100.0,20
+50855,Luxembourg,2020-08-17,non_who,17,100.0,17
+50879,Luxembourg,2020-08-31,non_who,4,100.0,4
+50903,Luxembourg,2020-09-14,non_who,7,100.0,7
+50927,Luxembourg,2020-09-28,non_who,18,100.0,18
+50951,Luxembourg,2020-10-12,non_who,34,100.0,34
+50975,Luxembourg,2020-10-26,non_who,394,100.0,394
+50999,Luxembourg,2020-11-09,non_who,535,100.0,535
+51023,Luxembourg,2020-11-23,non_who,444,100.0,444
+51047,Luxembourg,2020-12-07,non_who,769,100.0,769
+51071,Luxembourg,2020-12-21,non_who,676,100.0,676
+51095,Luxembourg,2021-01-04,non_who,261,97.75,267
+51119,Luxembourg,2021-01-11,non_who,102,89.47,114
+51143,Luxembourg,2021-01-25,non_who,206,80.46,256
+51167,Luxembourg,2021-02-08,non_who,280,47.22,593
+51191,Luxembourg,2021-02-22,non_who,106,29.95,354
+51215,Luxembourg,2021-03-08,non_who,155,20.55,754
+51239,Luxembourg,2021-03-22,non_who,75,10.98,683
+51263,Luxembourg,2021-04-05,non_who,33,3.48,948
+51287,Luxembourg,2021-04-19,non_who,18,1.74,1043
+51311,Luxembourg,2021-05-03,non_who,22,2.05,1073
+51335,Luxembourg,2021-05-17,non_who,40,5.38,744
+51359,Luxembourg,2021-05-31,non_who,27,6.87,392
+51383,Luxembourg,2021-06-14,non_who,8,3.34,240
+51407,Luxembourg,2021-06-28,non_who,1,0.77,130
+51431,Luxembourg,2021-07-12,non_who,2,0.21,944
+51455,Luxembourg,2021-07-26,non_who,1,0.14,699
+51479,Luxembourg,2021-08-09,non_who,0,-0.01,459
+51503,Luxembourg,2021-08-23,non_who,0,0.0,413
+51527,Luxembourg,2021-09-06,non_who,0,0.0,549
+51551,Luxembourg,2021-09-20,non_who,0,0.0,600
+51575,Luxembourg,2021-10-04,non_who,0,0.0,705
+51599,Luxembourg,2021-10-18,non_who,0,0.0,764
+51623,Luxembourg,2021-11-01,non_who,0,0.0,798
+51647,Luxembourg,2021-11-15,non_who,0,0.0,766
+51671,Luxembourg,2021-11-29,non_who,0,0.0,1044
+51695,Luxembourg,2021-12-13,non_who,0,0.0,653
+51719,Madagascar,2020-05-11,non_who,13,100.0,13
+51743,Madagascar,2020-05-25,non_who,14,100.0,14
+51767,Madagascar,2020-06-08,non_who,35,100.0,35
+51791,Madagascar,2020-06-22,non_who,23,100.0,23
+51815,Madagascar,2020-07-06,non_who,31,100.0,31
+51839,Madagascar,2020-07-20,non_who,36,100.0,36
+51863,Madagascar,2020-08-03,non_who,29,100.0,29
+51887,Madagascar,2020-08-17,non_who,15,100.0,15
+51911,Madagascar,2020-08-31,non_who,26,100.0,26
+51935,Madagascar,2020-09-14,non_who,25,100.0,25
+51959,Madagascar,2020-09-28,non_who,9,100.0,9
+51983,Madagascar,2020-10-12,non_who,13,100.0,13
+52007,Madagascar,2020-10-26,non_who,10,100.0,10
+52031,Madagascar,2020-11-09,non_who,9,90.0,10
+52055,Madagascar,2020-11-23,non_who,19,100.0,19
+52079,Madagascar,2020-12-07,non_who,10,100.0,10
+52103,Madagascar,2020-12-21,non_who,21,100.0,21
+52127,Madagascar,2021-01-04,non_who,13,100.0,13
+52151,Madagascar,2021-01-11,non_who,17,100.0,17
+52175,Madagascar,2021-01-25,non_who,38,100.0,38
+52199,Madagascar,2021-02-08,non_who,33,100.0,33
+52223,Madagascar,2021-02-22,non_who,10,52.63,19
+52247,Madagascar,2021-03-08,non_who,13,46.43,28
+52271,Madagascar,2021-03-22,non_who,5,12.82,39
+52295,Madagascar,2021-04-05,non_who,6,11.53,52
+52319,Madagascar,2021-04-19,non_who,1,0.89,113
+52343,Madagascar,2021-05-03,non_who,0,0.0,16
+52367,Madagascar,2021-05-17,non_who,0,0.0,15
+52391,Madagascar,2021-05-31,non_who,0,0.0,10
+52415,Madagascar,2021-07-12,non_who,0,0.0,17
+52439,Madagascar,2021-07-26,non_who,0,0.0,23
+52463,Malawi,2020-08-17,non_who,1,100.0,1
+52487,Malawi,2020-09-28,non_who,1,100.0,1
+52511,Malawi,2020-12-07,non_who,0,0.0,2
+52535,Malawi,2020-12-21,non_who,1,100.0,1
+52559,Malawi,2021-01-04,non_who,2,11.11,18
+52583,Malawi,2021-01-11,non_who,1,8.33,12
+52607,Malawi,2021-01-25,non_who,6,3.9,154
+52631,Malawi,2021-02-08,non_who,4,5.8,69
+52655,Malawi,2021-02-22,non_who,1,4.76,21
+52679,Malawi,2021-03-08,non_who,0,0.0,45
+52703,Malawi,2021-03-22,non_who,0,0.01,23
+52727,Malawi,2021-04-05,non_who,0,0.0,6
+52751,Malawi,2021-04-19,non_who,0,0.0,40
+52775,Malawi,2021-05-03,non_who,16,48.49,33
+52799,Malawi,2021-05-17,non_who,0,0.0,4
+52823,Malawi,2021-05-31,non_who,1,4.16,24
+52847,Malawi,2021-06-14,non_who,1,2.0,50
+52871,Malawi,2021-06-28,non_who,0,0.0,72
+52895,Malawi,2021-07-12,non_who,0,0.0,76
+52919,Malawi,2021-07-26,non_who,0,0.0,33
+52943,Malawi,2021-08-09,non_who,0,0.0,38
+52967,Malawi,2021-08-23,non_who,0,0.0,15
+52991,Malawi,2021-09-06,non_who,0,0.0,12
+53015,Malawi,2021-09-20,non_who,0,0.0,24
+53039,Malawi,2021-10-04,non_who,0,0.0,2
+53063,Malawi,2021-11-01,non_who,0,0.0,1
+53087,Malawi,2021-12-13,non_who,0,0.0,13
+53111,Malawi,2021-12-27,non_who,0,0.0,21
+53135,Malaysia,2020-05-11,non_who,7,100.0,7
+53159,Malaysia,2020-05-25,non_who,14,100.0,14
+53183,Malaysia,2020-06-08,non_who,8,100.0,8
+53207,Malaysia,2020-06-22,non_who,3,100.0,3
+53231,Malaysia,2020-07-20,non_who,2,100.0,2
+53255,Malaysia,2020-08-03,non_who,6,100.0,6
+53279,Malaysia,2020-08-17,non_who,9,100.0,9
+53303,Malaysia,2020-08-31,non_who,1,100.0,1
+53327,Malaysia,2020-09-14,non_who,23,100.0,23
+53351,Malaysia,2020-10-12,non_who,26,100.0,26
+53375,Malaysia,2020-10-26,non_who,41,100.0,41
+53399,Malaysia,2020-11-09,non_who,76,100.0,76
+53423,Malaysia,2020-11-23,non_who,62,100.0,62
+53447,Malaysia,2020-12-07,non_who,41,97.62,42
+53471,Malaysia,2020-12-21,non_who,65,100.0,65
+53495,Malaysia,2021-01-04,non_who,36,97.3,37
+53519,Malaysia,2021-01-11,non_who,55,98.21,56
+53543,Malaysia,2021-01-25,non_who,169,99.41,170
+53567,Malaysia,2021-02-08,non_who,101,97.12,104
+53591,Malaysia,2021-02-22,non_who,105,99.06,106
+53615,Malaysia,2021-03-08,non_who,48,84.21,57
+53639,Malaysia,2021-03-22,non_who,42,65.63,64
+53663,Malaysia,2021-04-05,non_who,95,86.36,110
+53687,Malaysia,2021-04-19,non_who,125,60.1,208
+53711,Malaysia,2021-05-03,non_who,53,42.4,125
+53735,Malaysia,2021-05-17,non_who,64,51.2,125
+53759,Malaysia,2021-05-31,non_who,33,45.2,73
+53783,Malaysia,2021-06-14,non_who,21,29.16,72
+53807,Malaysia,2021-06-28,non_who,32,30.78,104
+53831,Malaysia,2021-07-12,non_who,11,8.21,134
+53855,Malaysia,2021-07-26,non_who,13,6.13,212
+53879,Malaysia,2021-08-09,non_who,30,6.63,452
+53903,Malaysia,2021-08-23,non_who,7,1.12,627
+53927,Malaysia,2021-09-06,non_who,1,0.14,686
+53951,Malaysia,2021-09-20,non_who,1,0.13,819
+53975,Malaysia,2021-10-04,non_who,0,0.0,683
+53999,Malaysia,2021-10-18,non_who,0,0.0,458
+54023,Malaysia,2021-11-01,non_who,0,0.0,417
+54047,Malaysia,2021-11-15,non_who,2,0.51,397
+54071,Malaysia,2021-11-29,non_who,0,0.0,301
+54095,Malaysia,2021-12-13,non_who,0,0.0,218
+54119,Malaysia,2021-12-27,non_who,0,0.0,42
+54143,Maldives,2020-05-11,non_who,1,100.0,1
+54167,Maldives,2020-05-25,non_who,1,100.0,1
+54191,Maldives,2020-06-08,non_who,1,100.0,1
+54215,Maldives,2020-06-22,non_who,1,100.0,1
+54239,Maldives,2020-07-20,non_who,2,100.0,2
+54263,Maldives,2020-08-03,non_who,1,100.0,1
+54287,Maldives,2020-08-17,non_who,3,100.0,3
+54311,Maldives,2020-09-28,non_who,1,100.0,1
+54335,Maldives,2020-11-09,non_who,1,100.0,1
+54359,Maldives,2020-11-23,non_who,1,100.0,1
+54383,Maldives,2021-01-04,non_who,1,25.0,4
+54407,Maldives,2021-01-11,non_who,2,100.0,2
+54431,Maldives,2021-01-25,non_who,1,100.0,1
+54455,Maldives,2021-02-08,non_who,2,40.0,5
+54479,Maldives,2021-02-22,non_who,0,0.0,1
+54503,Maldives,2021-03-08,non_who,1,20.0,5
+54527,Maldives,2021-03-22,non_who,0,0.0,2
+54551,Maldives,2021-04-05,non_who,0,0.0,3
+54575,Maldives,2021-05-03,non_who,0,0.0,5
+54599,Maldives,2021-05-17,non_who,0,0.0,4
+54623,Maldives,2021-05-31,non_who,0,0.0,5
+54647,Maldives,2021-06-14,non_who,0,0.0,1
+54671,Maldives,2021-06-28,non_who,0,0.0,7
+54695,Maldives,2021-07-12,non_who,0,0.0,3
+54719,Maldives,2021-07-26,non_who,0,0.0,17
+54743,Maldives,2021-08-09,non_who,0,0.0,24
+54767,Maldives,2021-08-23,non_who,0,0.0,51
+54791,Maldives,2021-09-06,non_who,0,0.0,106
+54815,Maldives,2021-09-20,non_who,0,0.0,61
+54839,Maldives,2021-10-04,non_who,0,0.0,113
+54863,Maldives,2021-10-18,non_who,0,0.0,97
+54887,Maldives,2021-11-01,non_who,0,0.0,52
+54911,Maldives,2021-11-15,non_who,0,0.0,85
+54935,Maldives,2021-11-29,non_who,0,0.0,59
+54959,Maldives,2021-12-13,non_who,0,0.0,107
+54983,Maldives,2021-12-27,non_who,0,0.0,32
+55007,Malta,2020-08-17,non_who,1,100.0,1
+55031,Malta,2020-08-31,non_who,2,100.0,2
+55055,Malta,2020-09-14,non_who,7,100.0,7
+55079,Malta,2021-04-05,non_who,4,10.53,38
+55103,Malta,2021-04-19,non_who,3,9.38,32
+55127,Malta,2021-05-03,non_who,7,15.91,44
+55151,Malta,2021-05-17,non_who,1,3.12,32
+55175,Malta,2021-05-31,non_who,2,13.32,15
+55199,Malta,2021-06-14,non_who,0,0.0,11
+55223,Malta,2021-06-28,non_who,1,11.12,9
+55247,Malta,2021-07-12,non_who,0,0.0,60
+55271,Malta,2021-07-26,non_who,0,0.0,48
+55295,Malta,2021-08-09,non_who,0,0.0,19
+55319,Malta,2021-10-18,non_who,0,0.0,52
+55343,Malta,2021-11-01,non_who,0,0.0,24
+55367,Malta,2021-11-15,non_who,0,0.0,22
+55391,Malta,2021-11-29,non_who,0,0.0,132
+55415,Malta,2021-12-13,non_who,0,0.0,21
+55439,Malta,2021-12-27,non_who,0,0.0,34
+55463,Mauritius,2020-10-26,non_who,2,100.0,2
+55487,Mauritius,2020-11-09,non_who,1,100.0,1
+55511,Mauritius,2020-11-23,non_who,3,100.0,3
+55535,Mauritius,2020-12-07,non_who,3,75.0,4
+55559,Mauritius,2020-12-21,non_who,1,50.0,2
+55583,Mauritius,2021-01-04,non_who,2,100.0,2
+55607,Mauritius,2021-01-11,non_who,5,62.5,8
+55631,Mauritius,2021-01-25,non_who,5,83.33,6
+55655,Mauritius,2021-02-08,non_who,5,100.0,5
+55679,Mauritius,2021-02-22,non_who,2,66.67,3
+55703,Mauritius,2021-03-08,non_who,8,100.0,8
+55727,Mauritius,2021-03-22,non_who,89,100.0,89
+55751,Mauritius,2021-04-05,non_who,10,100.0,10
+55775,Mauritius,2021-04-19,non_who,3,100.0,3
+55799,Mauritius,2021-05-03,non_who,8,100.0,8
+55823,Mauritius,2021-05-17,non_who,38,95.0,40
+55847,Mauritius,2021-05-31,non_who,8,100.0,8
+55871,Mauritius,2021-06-14,non_who,11,84.62,13
+55895,Mauritius,2021-06-28,non_who,6,33.33,18
+55919,Mauritius,2021-07-12,non_who,21,91.3,23
+55943,Mauritius,2021-07-26,non_who,19,90.48,21
+55967,Mauritius,2021-08-09,non_who,10,100.0,10
+55991,Mauritius,2021-08-23,non_who,4,57.14,7
+56015,Mauritius,2021-09-06,non_who,18,100.0,18
+56039,Mauritius,2021-09-20,non_who,11,100.0,11
+56063,Mauritius,2021-10-04,non_who,2,15.38,13
+56087,Mauritius,2021-10-18,non_who,6,35.29,17
+56111,Mauritius,2021-11-01,non_who,8,25.81,31
+56135,Mauritius,2021-11-15,non_who,0,0.0,2
+56159,Mauritius,2021-11-29,non_who,2,2.44,82
+56183,Mexico,2020-05-11,non_who,208,100.0,208
+56207,Mexico,2020-05-25,non_who,264,100.0,264
+56231,Mexico,2020-06-08,non_who,290,100.0,290
+56255,Mexico,2020-06-22,non_who,166,100.0,166
+56279,Mexico,2020-07-06,non_who,219,100.0,219
+56303,Mexico,2020-07-20,non_who,135,100.0,135
+56327,Mexico,2020-08-03,non_who,155,100.0,155
+56351,Mexico,2020-08-17,non_who,144,100.0,144
+56375,Mexico,2020-08-31,non_who,178,100.0,178
+56399,Mexico,2020-09-14,non_who,123,100.0,123
+56423,Mexico,2020-09-28,non_who,61,98.39,62
+56447,Mexico,2020-10-12,non_who,81,100.0,81
+56471,Mexico,2020-10-26,non_who,90,100.0,90
+56495,Mexico,2020-11-09,non_who,89,100.0,89
+56519,Mexico,2020-11-23,non_who,167,98.24,170
+56543,Mexico,2020-12-07,non_who,219,93.99,233
+56567,Mexico,2020-12-21,non_who,277,89.35,310
+56591,Mexico,2021-01-04,non_who,262,94.59,277
+56615,Mexico,2021-01-11,non_who,124,96.88,128
+56639,Mexico,2021-01-25,non_who,336,92.05,365
+56663,Mexico,2021-02-08,non_who,341,94.2,362
+56687,Mexico,2021-02-22,non_who,1071,94.94,1128
+56711,Mexico,2021-03-08,non_who,1245,93.81,1327
+56735,Mexico,2021-03-22,non_who,1036,91.67,1130
+56759,Mexico,2021-04-05,non_who,916,90.6,1011
+56783,Mexico,2021-04-19,non_who,1078,85.35,1263
+56807,Mexico,2021-05-03,non_who,1038,74.67,1390
+56831,Mexico,2021-05-17,non_who,997,62.74,1589
+56855,Mexico,2021-05-31,non_who,809,46.93,1724
+56879,Mexico,2021-06-14,non_who,599,26.95,2222
+56903,Mexico,2021-06-28,non_who,392,20.75,1889
+56927,Mexico,2021-07-12,non_who,197,9.29,2121
+56951,Mexico,2021-07-26,non_who,110,4.5,2443
+56975,Mexico,2021-08-09,non_who,383,12.66,3024
+56999,Mexico,2021-08-23,non_who,233,9.22,2528
+57023,Mexico,2021-09-06,non_who,8,0.38,2069
+57047,Mexico,2021-09-20,non_who,4,0.19,2057
+57071,Mexico,2021-10-04,non_who,5,0.2,2511
+57095,Mexico,2021-10-18,non_who,0,0.0,1868
+57119,Mexico,2021-11-01,non_who,3,0.17,1724
+57143,Mexico,2021-11-15,non_who,3,0.22,1384
+57167,Mexico,2021-11-29,non_who,2,0.21,938
+57191,Mexico,2021-12-13,non_who,0,0.0,998
+57215,Mexico,2021-12-27,non_who,0,0.0,435
+57239,Mexico,2022-01-05,non_who,0,0.0,11
+57263,Moldova,2020-06-22,non_who,4,100.0,4
+57287,Moldova,2020-09-14,non_who,8,100.0,8
+57311,Moldova,2021-02-08,non_who,0,0.0,3
+57335,Moldova,2021-02-22,non_who,0,0.0,1
+57359,Moldova,2021-03-08,non_who,0,0.0,7
+57383,Moldova,2021-03-22,non_who,0,0.0,2
+57407,Moldova,2021-04-05,non_who,0,0.0,5
+57431,Moldova,2021-04-19,non_who,0,0.0,2
+57455,Moldova,2021-05-03,non_who,0,0.0,4
+57479,Moldova,2021-05-17,non_who,1,8.34,12
+57503,Moldova,2021-05-31,non_who,0,0.0,1
+57527,Moldova,2021-06-28,non_who,0,0.0,6
+57551,Moldova,2021-07-12,non_who,0,0.0,7
+57575,Moldova,2021-08-23,non_who,0,0.0,4
+57599,Moldova,2021-09-06,non_who,0,0.0,9
+57623,Moldova,2021-09-20,non_who,0,0.0,26
+57647,Moldova,2021-11-01,non_who,0,0.0,2
+57671,Moldova,2021-11-15,non_who,0,0.0,10
+57695,Moldova,2021-11-29,non_who,0,0.0,9
+57719,Moldova,2021-12-13,non_who,0,0.0,15
+57743,Moldova,2021-12-27,non_who,0,0.0,15
+57767,Monaco,2021-01-25,non_who,1,100.0,1
+57791,Monaco,2021-02-08,non_who,0,0.0,1
+57815,Monaco,2021-03-08,non_who,3,75.0,4
+57839,Monaco,2021-04-19,non_who,0,0.0,2
+57863,Monaco,2021-05-31,non_who,0,0.0,1
+57887,Monaco,2021-06-14,non_who,0,0.0,11
+57911,Monaco,2021-06-28,non_who,0,0.0,20
+57935,Monaco,2021-07-12,non_who,0,0.0,1
+57959,Monaco,2021-07-26,non_who,0,0.0,14
+57983,Monaco,2021-08-09,non_who,0,0.0,14
+58007,Monaco,2021-09-06,non_who,0,0.0,6
+58031,Monaco,2021-09-20,non_who,0,0.0,2
+58055,Monaco,2021-11-01,non_who,0,0.0,3
+58079,Monaco,2021-11-15,non_who,0,0.0,3
+58103,Monaco,2021-12-27,non_who,0,0.0,1
+58127,Mongolia,2020-08-17,non_who,1,100.0,1
+58151,Mongolia,2020-10-12,non_who,1,100.0,1
+58175,Mongolia,2020-11-09,non_who,2,100.0,2
+58199,Mongolia,2020-11-23,non_who,1,100.0,1
+58223,Mongolia,2020-12-07,non_who,1,100.0,1
+58247,Mongolia,2020-12-21,non_who,1,100.0,1
+58271,Mongolia,2021-01-04,non_who,2,100.0,2
+58295,Mongolia,2021-01-11,non_who,2,100.0,2
+58319,Mongolia,2021-01-25,non_who,2,100.0,2
+58343,Mongolia,2021-02-08,non_who,1,100.0,1
+58367,Mongolia,2021-02-22,non_who,3,100.0,3
+58391,Mongolia,2021-03-08,non_who,2,100.0,2
+58415,Mongolia,2021-03-22,non_who,1,14.28,7
+58439,Mongolia,2021-04-19,non_who,0,0.0,2
+58463,Mongolia,2021-05-17,non_who,0,0.0,3
+58487,Mongolia,2021-06-28,non_who,1,6.25,16
+58511,Mongolia,2021-07-12,non_who,0,0.0,34
+58535,Mongolia,2021-07-26,non_who,0,0.0,17
+58559,Mongolia,2021-08-09,non_who,0,0.0,52
+58583,Montenegro,2020-07-20,non_who,9,100.0,9
+58607,Montenegro,2021-01-25,non_who,12,63.16,19
+58631,Montenegro,2021-06-14,non_who,0,0.0,17
+58655,Montenegro,2021-06-28,non_who,0,0.0,18
+58679,Montenegro,2021-07-12,non_who,0,0.0,20
+58703,Montenegro,2021-07-26,non_who,0,0.0,30
+58727,Montenegro,2021-08-09,non_who,0,-0.01,72
+58751,Montenegro,2021-08-23,non_who,1,2.44,41
+58775,Montenegro,2021-09-06,non_who,0,0.0,34
+58799,Montenegro,2021-09-20,non_who,0,0.0,5
+58823,Montenegro,2021-10-04,non_who,0,0.0,1
+58847,Montenegro,2021-10-18,non_who,0,0.0,15
+58871,Montenegro,2021-11-01,non_who,0,0.0,34
+58895,Montenegro,2021-11-15,non_who,0,0.0,38
+58919,Montenegro,2021-11-29,non_who,0,0.0,25
+58943,Montenegro,2021-12-13,non_who,0,0.0,69
+58967,Morocco,2020-05-11,non_who,25,100.0,25
+58991,Morocco,2020-05-25,non_who,3,100.0,3
+59015,Morocco,2020-06-08,non_who,1,100.0,1
+59039,Morocco,2020-06-22,non_who,1,100.0,1
+59063,Morocco,2020-07-06,non_who,2,100.0,2
+59087,Morocco,2020-07-20,non_who,19,100.0,19
+59111,Morocco,2020-08-17,non_who,2,100.0,2
+59135,Morocco,2020-09-28,non_who,2,100.0,2
+59159,Morocco,2020-11-09,non_who,1,100.0,1
+59183,Morocco,2020-12-21,non_who,26,100.0,26
+59207,Morocco,2021-01-04,non_who,15,100.0,15
+59231,Morocco,2021-01-11,non_who,21,95.45,22
+59255,Morocco,2021-01-25,non_who,1,100.0,1
+59279,Morocco,2021-02-08,non_who,3,75.0,4
+59303,Morocco,2021-03-08,non_who,0,0.0,17
+59327,Morocco,2021-03-22,non_who,0,0.0,24
+59351,Morocco,2021-04-05,non_who,4,22.22,18
+59375,Morocco,2021-04-19,non_who,1,5.0,20
+59399,Morocco,2021-05-03,non_who,0,0.0,5
+59423,Morocco,2021-05-31,non_who,0,0.0,1
+59447,Morocco,2021-06-14,non_who,0,0.0,1
+59471,Morocco,2021-06-28,non_who,1,14.28,7
+59495,Morocco,2021-07-12,non_who,1,11.11,9
+59519,Morocco,2021-07-26,non_who,0,0.0,31
+59543,Morocco,2021-09-06,non_who,0,0.0,45
+59567,Morocco,2021-09-20,non_who,0,0.0,15
+59591,Morocco,2021-10-04,non_who,0,0.0,2
+59615,Morocco,2021-10-18,non_who,0,0.0,26
+59639,Morocco,2021-11-01,non_who,0,0.0,20
+59663,Morocco,2021-11-15,non_who,0,0.0,8
+59687,Morocco,2021-11-29,non_who,0,0.0,9
+59711,Morocco,2021-12-13,non_who,0,0.0,2
+59735,Morocco,2021-12-27,non_who,0,0.0,16
+59759,Mozambique,2020-07-20,non_who,7,100.0,7
+59783,Mozambique,2020-08-17,non_who,1,100.0,1
+59807,Mozambique,2020-08-31,non_who,4,40.0,10
+59831,Mozambique,2020-09-14,non_who,5,100.0,5
+59855,Mozambique,2020-09-28,non_who,4,80.0,5
+59879,Mozambique,2020-10-12,non_who,8,61.54,13
+59903,Mozambique,2020-10-26,non_who,0,0.0,2
+59927,Mozambique,2020-11-09,non_who,5,15.62,32
+59951,Mozambique,2020-11-23,non_who,7,63.64,11
+59975,Mozambique,2020-12-07,non_who,29,100.0,29
+59999,Mozambique,2020-12-21,non_who,9,81.82,11
+60023,Mozambique,2021-01-04,non_who,21,70.0,30
+60047,Mozambique,2021-01-11,non_who,11,35.48,31
+60071,Mozambique,2021-01-25,non_who,12,11.54,104
+60095,Mozambique,2021-02-08,non_who,3,7.14,42
+60119,Mozambique,2021-02-22,non_who,2,4.26,47
+60143,Mozambique,2021-03-08,non_who,0,0.0,22
+60167,Mozambique,2021-03-22,non_who,27,32.53,83
+60191,Mozambique,2021-04-05,non_who,0,0.0,11
+60215,Mozambique,2021-04-19,non_who,1,11.11,9
+60239,Mozambique,2021-05-03,non_who,2,10.0,20
+60263,Mozambique,2021-05-17,non_who,2,22.23,9
+60287,Mozambique,2021-05-31,non_who,0,0.0,12
+60311,Mozambique,2021-06-14,non_who,0,0.0,8
+60335,Mozambique,2021-06-28,non_who,1,0.88,114
+60359,Mozambique,2021-07-12,non_who,0,0.0,109
+60383,Mozambique,2021-07-26,non_who,0,0.0,64
+60407,Mozambique,2021-08-09,non_who,0,0.0,24
+60431,Mozambique,2021-08-23,non_who,0,0.0,1
+60455,Mozambique,2021-09-06,non_who,0,0.0,15
+60479,Mozambique,2021-09-20,non_who,0,0.0,14
+60503,Mozambique,2021-10-04,non_who,0,0.0,9
+60527,Mozambique,2021-10-18,non_who,0,0.0,2
+60551,Mozambique,2021-11-01,non_who,0,0.0,2
+60575,Mozambique,2021-11-15,non_who,0,0.0,1
+60599,Mozambique,2021-11-29,non_who,0,0.0,4
+60623,Mozambique,2021-12-13,non_who,0,0.0,14
+60647,Nepal,2020-08-03,non_who,2,100.0,2
+60671,Nepal,2020-08-17,non_who,12,100.0,12
+60695,Nepal,2020-08-31,non_who,1,100.0,1
+60719,Nepal,2020-10-12,non_who,1,100.0,1
+60743,Nepal,2020-11-23,non_who,1,100.0,1
+60767,Nepal,2020-12-07,non_who,1,100.0,1
+60791,Nepal,2021-04-19,non_who,0,0.0,4
+60815,Nepal,2021-05-03,non_who,0,0.0,17
+60839,Nepal,2021-05-17,non_who,0,0.0,30
+60863,Nepal,2021-05-31,non_who,0,0.0,18
+60887,Nepal,2021-06-14,non_who,0,0.0,39
+60911,Nepal,2021-06-28,non_who,0,0.0,14
+60935,Nepal,2021-07-12,non_who,0,0.0,25
+60959,Nepal,2021-07-26,non_who,0,0.0,15
+60983,Nepal,2021-08-09,non_who,0,0.0,22
+61007,Nepal,2021-08-23,non_who,0,0.0,43
+61031,Nepal,2021-09-06,non_who,0,0.0,11
+61055,Nepal,2021-09-20,non_who,0,0.0,25
+61079,Nepal,2021-10-04,non_who,0,0.0,22
+61103,Nepal,2021-11-01,non_who,0,0.0,5
+61127,Nepal,2021-11-15,non_who,0,0.0,6
+61151,Nepal,2021-11-29,non_who,0,0.0,25
+61175,Nepal,2021-12-13,non_who,0,0.0,25
+61199,Nepal,2021-12-27,non_who,0,0.0,4
+61223,Netherlands,2020-05-11,non_who,214,100.0,214
+61247,Netherlands,2020-05-25,non_who,226,100.0,226
+61271,Netherlands,2020-06-08,non_who,144,100.0,144
+61295,Netherlands,2020-06-22,non_who,98,100.0,98
+61319,Netherlands,2020-07-06,non_who,91,100.0,91
+61343,Netherlands,2020-07-20,non_who,67,100.0,67
+61367,Netherlands,2020-08-03,non_who,90,100.0,90
+61391,Netherlands,2020-08-17,non_who,123,100.0,123
+61415,Netherlands,2020-08-31,non_who,127,100.0,127
+61439,Netherlands,2020-09-14,non_who,120,100.0,120
+61463,Netherlands,2020-09-28,non_who,273,100.0,273
+61487,Netherlands,2020-10-12,non_who,297,100.0,297
+61511,Netherlands,2020-10-26,non_who,436,100.0,436
+61535,Netherlands,2020-11-09,non_who,416,100.0,416
+61559,Netherlands,2020-11-23,non_who,436,99.77,437
+61583,Netherlands,2020-12-07,non_who,531,99.62,533
+61607,Netherlands,2020-12-21,non_who,790,96.58,818
+61631,Netherlands,2021-01-04,non_who,991,86.78,1142
+61655,Netherlands,2021-01-11,non_who,662,83.8,790
+61679,Netherlands,2021-01-25,non_who,1295,74.0,1750
+61703,Netherlands,2021-02-08,non_who,1490,65.66,2269
+61727,Netherlands,2021-02-22,non_who,1080,44.42,2431
+61751,Netherlands,2021-03-08,non_who,561,17.72,3167
+61775,Netherlands,2021-03-22,non_who,286,7.08,4040
+61799,Netherlands,2021-04-05,non_who,95,2.46,3860
+61823,Netherlands,2021-04-19,non_who,27,0.74,3602
+61847,Netherlands,2021-05-03,non_who,22,0.56,3934
+61871,Netherlands,2021-05-17,non_who,13,0.37,3490
+61895,Netherlands,2021-05-31,non_who,16,0.54,2969
+61919,Netherlands,2021-06-14,non_who,28,1.06,2635
+61943,Netherlands,2021-06-28,non_who,20,1.06,1888
+61967,Netherlands,2021-07-12,non_who,24,0.65,3583
+61991,Netherlands,2021-07-26,non_who,2,0.04,4845
+62015,Netherlands,2021-08-09,non_who,2,0.06,3079
+62039,Netherlands,2021-08-23,non_who,0,-0.01,3129
+62063,Netherlands,2021-09-06,non_who,3,0.08,3390
+62087,Netherlands,2021-09-20,non_who,0,0.0,2691
+62111,Netherlands,2021-10-04,non_who,3,0.14,2258
+62135,Netherlands,2021-10-18,non_who,2,0.07,2733
+62159,Netherlands,2021-11-01,non_who,1,0.03,3174
+62183,Netherlands,2021-11-15,non_who,0,0.0,3645
+62207,Netherlands,2021-11-29,non_who,0,0.0,3714
+62231,Netherlands,2021-12-13,non_who,2,0.07,3137
+62255,Netherlands,2021-12-27,non_who,1,0.11,867
+62279,Netherlands,2022-01-05,non_who,1,4.0,25
+62303,New Zealand,2020-05-11,non_who,8,100.0,8
+62327,New Zealand,2020-05-25,non_who,1,100.0,1
+62351,New Zealand,2020-06-22,non_who,5,100.0,5
+62375,New Zealand,2020-07-06,non_who,3,100.0,3
+62399,New Zealand,2020-07-20,non_who,3,100.0,3
+62423,New Zealand,2020-08-03,non_who,2,100.0,2
+62447,New Zealand,2020-08-17,non_who,37,100.0,37
+62471,New Zealand,2020-08-31,non_who,74,100.0,74
+62495,New Zealand,2020-09-14,non_who,33,100.0,33
+62519,New Zealand,2020-09-28,non_who,16,100.0,16
+62543,New Zealand,2020-10-12,non_who,14,100.0,14
+62567,New Zealand,2020-10-26,non_who,36,100.0,36
+62591,New Zealand,2020-11-09,non_who,33,100.0,33
+62615,New Zealand,2020-11-23,non_who,20,100.0,20
+62639,New Zealand,2020-12-07,non_who,27,96.43,28
+62663,New Zealand,2020-12-21,non_who,14,70.0,20
+62687,New Zealand,2021-01-04,non_who,13,46.43,28
+62711,New Zealand,2021-01-11,non_who,8,72.73,11
+62735,New Zealand,2021-01-25,non_who,6,27.27,22
+62759,New Zealand,2021-02-08,non_who,2,11.77,17
+62783,New Zealand,2021-02-22,non_who,7,36.84,19
+62807,New Zealand,2021-03-08,non_who,5,19.23,26
+62831,New Zealand,2021-03-22,non_who,7,25.01,28
+62855,New Zealand,2021-04-05,non_who,2,6.9,29
+62879,New Zealand,2021-04-19,non_who,0,0.0,26
+62903,New Zealand,2021-05-03,non_who,2,10.53,19
+62927,New Zealand,2021-05-17,non_who,2,28.57,7
+62951,New Zealand,2021-05-31,non_who,1,12.5,8
+62975,New Zealand,2021-06-14,non_who,1,7.14,14
+62999,New Zealand,2021-06-28,non_who,0,0.0,16
+63023,New Zealand,2021-07-12,non_who,1,8.33,12
+63047,New Zealand,2021-07-26,non_who,0,0.0,49
+63071,New Zealand,2021-08-09,non_who,0,0.0,31
+63095,New Zealand,2021-08-23,non_who,0,0.0,173
+63119,New Zealand,2021-09-06,non_who,0,0.0,615
+63143,New Zealand,2021-09-20,non_who,0,0.0,238
+63167,New Zealand,2021-10-04,non_who,0,0.0,276
+63191,New Zealand,2021-10-18,non_who,0,0.0,583
+63215,New Zealand,2021-11-01,non_who,0,0.0,605
+63239,New Zealand,2021-11-15,non_who,0,0.0,567
+63263,New Zealand,2021-11-29,non_who,0,0.0,460
+63287,New Zealand,2021-12-13,non_who,0,0.0,313
+63311,New Zealand,2021-12-27,non_who,0,0.0,223
+63335,New Zealand,2022-01-05,non_who,0,0.0,11
+63359,Nigeria,2020-05-11,non_who,26,100.0,26
+63383,Nigeria,2020-05-25,non_who,31,100.0,31
+63407,Nigeria,2020-06-08,non_who,16,100.0,16
+63431,Nigeria,2020-06-22,non_who,27,100.0,27
+63455,Nigeria,2020-07-06,non_who,28,100.0,28
+63479,Nigeria,2020-07-20,non_who,48,100.0,48
+63503,Nigeria,2020-08-03,non_who,5,100.0,5
+63527,Nigeria,2020-08-17,non_who,11,100.0,11
+63551,Nigeria,2020-08-31,non_who,5,100.0,5
+63575,Nigeria,2020-09-14,non_who,5,100.0,5
+63599,Nigeria,2020-10-12,non_who,5,100.0,5
+63623,Nigeria,2020-10-26,non_who,7,100.0,7
+63647,Nigeria,2020-11-09,non_who,1,100.0,1
+63671,Nigeria,2020-11-23,non_who,4,100.0,4
+63695,Nigeria,2020-12-07,non_who,31,100.0,31
+63719,Nigeria,2020-12-21,non_who,31,91.18,34
+63743,Nigeria,2021-01-04,non_who,41,56.16,73
+63767,Nigeria,2021-01-11,non_who,33,25.19,131
+63791,Nigeria,2021-01-25,non_who,20,15.75,127
+63815,Nigeria,2021-02-08,non_who,39,16.88,231
+63839,Nigeria,2021-02-22,non_who,28,17.07,164
+63863,Nigeria,2021-03-08,non_who,33,29.73,111
+63887,Nigeria,2021-03-22,non_who,14,31.11,45
+63911,Nigeria,2021-04-05,non_who,7,38.89,18
+63935,Nigeria,2021-04-19,non_who,3,42.86,7
+63959,Nigeria,2021-05-03,non_who,11,47.83,23
+63983,Nigeria,2021-05-17,non_who,5,62.5,8
+64007,Nigeria,2021-05-31,non_who,2,33.33,6
+64031,Nigeria,2021-06-14,non_who,0,0.0,7
+64055,Nigeria,2021-06-28,non_who,2,14.29,14
+64079,Nigeria,2021-07-12,non_who,7,16.27,43
+64103,Nigeria,2021-07-26,non_who,3,3.19,94
+64127,Nigeria,2021-08-09,non_who,31,6.23,498
+64151,Nigeria,2021-08-23,non_who,14,2.62,535
+64175,Nigeria,2021-09-06,non_who,7,1.22,576
+64199,Nigeria,2021-09-20,non_who,10,3.02,331
+64223,Nigeria,2021-10-04,non_who,0,0.0,93
+64247,Nigeria,2021-10-18,non_who,0,0.0,60
+64271,Nigeria,2021-11-01,non_who,0,0.0,34
+64295,Nigeria,2021-11-15,non_who,0,0.0,22
+64319,Nigeria,2021-11-29,non_who,0,0.0,56
+64343,Nigeria,2021-12-13,non_who,1,1.37,73
+64367,Nigeria,2021-12-27,non_who,0,0.0,10
+64391,North Macedonia,2020-05-25,non_who,1,100.0,1
+64415,North Macedonia,2020-06-08,non_who,17,100.0,17
+64439,North Macedonia,2020-06-22,non_who,18,100.0,18
+64463,North Macedonia,2020-07-06,non_who,20,100.0,20
+64487,North Macedonia,2020-07-20,non_who,5,100.0,5
+64511,North Macedonia,2020-08-03,non_who,6,100.0,6
+64535,North Macedonia,2020-08-17,non_who,8,100.0,8
+64559,North Macedonia,2020-08-31,non_who,2,100.0,2
+64583,North Macedonia,2020-09-14,non_who,9,100.0,9
+64607,North Macedonia,2020-10-12,non_who,7,100.0,7
+64631,North Macedonia,2020-10-26,non_who,13,100.0,13
+64655,North Macedonia,2020-11-09,non_who,20,100.0,20
+64679,North Macedonia,2020-11-23,non_who,8,100.0,8
+64703,North Macedonia,2020-12-07,non_who,4,100.0,4
+64727,North Macedonia,2020-12-21,non_who,16,100.0,16
+64751,North Macedonia,2021-01-04,non_who,27,100.0,27
+64775,North Macedonia,2021-01-11,non_who,20,86.96,23
+64799,North Macedonia,2021-01-25,non_who,60,88.24,68
+64823,North Macedonia,2021-02-08,non_who,45,73.77,61
+64847,North Macedonia,2021-02-22,non_who,29,50.0,58
+64871,North Macedonia,2021-03-08,non_who,0,0.0,15
+64895,North Macedonia,2021-03-22,non_who,2,7.69,26
+64919,North Macedonia,2021-04-05,non_who,1,2.78,36
+64943,North Macedonia,2021-04-19,non_who,2,1.94,103
+64967,North Macedonia,2021-05-03,non_who,1,6.67,15
+64991,North Macedonia,2021-05-17,non_who,0,0.0,30
+65015,North Macedonia,2021-05-31,non_who,0,0.0,17
+65039,North Macedonia,2021-06-14,non_who,0,0.0,12
+65063,North Macedonia,2021-06-28,non_who,0,0.0,4
+65087,North Macedonia,2021-07-12,non_who,0,0.0,7
+65111,North Macedonia,2021-07-26,non_who,0,0.0,22
+65135,North Macedonia,2021-08-09,non_who,0,0.0,12
+65159,North Macedonia,2021-11-01,non_who,0,0.0,11
+65183,North Macedonia,2021-11-15,non_who,0,0.0,37
+65207,Norway,2020-05-11,non_who,28,100.0,28
+65231,Norway,2020-05-25,non_who,18,100.0,18
+65255,Norway,2020-06-08,non_who,8,100.0,8
+65279,Norway,2020-06-22,non_who,31,100.0,31
+65303,Norway,2020-07-06,non_who,61,100.0,61
+65327,Norway,2020-07-20,non_who,33,100.0,33
+65351,Norway,2020-08-03,non_who,84,100.0,84
+65375,Norway,2020-08-17,non_who,164,100.0,164
+65399,Norway,2020-08-31,non_who,47,100.0,47
+65423,Norway,2020-09-14,non_who,109,100.0,109
+65447,Norway,2020-09-28,non_who,117,100.0,117
+65471,Norway,2020-10-12,non_who,156,100.0,156
+65495,Norway,2020-10-26,non_who,204,100.0,204
+65519,Norway,2020-11-09,non_who,265,100.0,265
+65543,Norway,2020-11-23,non_who,163,100.0,163
+65567,Norway,2020-12-07,non_who,187,100.0,187
+65591,Norway,2020-12-21,non_who,257,93.8,274
+65615,Norway,2021-01-04,non_who,240,88.23,272
+65639,Norway,2021-01-11,non_who,235,88.34,266
+65663,Norway,2021-01-25,non_who,641,86.62,740
+65687,Norway,2021-02-08,non_who,1006,71.86,1400
+65711,Norway,2021-02-22,non_who,659,46.93,1404
+65735,Norway,2021-03-08,non_who,242,15.66,1547
+65759,Norway,2021-03-22,non_who,81,4.84,1671
+65783,Norway,2021-04-05,non_who,24,1.8,1328
+65807,Norway,2021-04-19,non_who,22,1.2,1847
+65831,Norway,2021-05-03,non_who,20,1.22,1654
+65855,Norway,2021-05-17,non_who,13,0.71,1837
+65879,Norway,2021-05-31,non_who,9,0.63,1417
+65903,Norway,2021-06-14,non_who,6,0.53,1134
+65927,Norway,2021-06-28,non_who,8,0.96,827
+65951,Norway,2021-07-12,non_who,6,0.68,867
+65975,Norway,2021-07-26,non_who,10,1.13,892
+65999,Norway,2021-08-09,non_who,0,0.0,1320
+66023,Norway,2021-08-23,non_who,0,0.0,1747
+66047,Norway,2021-09-06,non_who,1,0.05,1917
+66071,Norway,2021-09-20,non_who,0,0.0,2089
+66095,Norway,2021-10-04,non_who,0,0.0,1632
+66119,Norway,2021-10-18,non_who,0,0.0,1421
+66143,Norway,2021-11-01,non_who,0,0.0,2045
+66167,Norway,2021-11-15,non_who,0,0.0,1848
+66191,Norway,2021-11-29,non_who,0,0.0,1532
+66215,Norway,2021-12-13,non_who,0,0.0,988
+66239,Norway,2021-12-27,non_who,0,0.0,67
+66263,Oman,2020-05-11,non_who,22,100.0,22
+66287,Oman,2020-05-25,non_who,55,100.0,55
+66311,Oman,2020-06-08,non_who,25,100.0,25
+66335,Oman,2020-06-22,non_who,11,100.0,11
+66359,Oman,2020-07-06,non_who,8,100.0,8
+66383,Oman,2020-07-20,non_who,8,100.0,8
+66407,Oman,2020-08-03,non_who,1,100.0,1
+66431,Oman,2020-08-17,non_who,7,100.0,7
+66455,Oman,2020-08-31,non_who,1,100.0,1
+66479,Oman,2020-09-14,non_who,6,100.0,6
+66503,Oman,2020-09-28,non_who,6,100.0,6
+66527,Oman,2020-10-12,non_who,1,100.0,1
+66551,Oman,2020-10-26,non_who,1,100.0,1
+66575,Oman,2020-11-23,non_who,1,100.0,1
+66599,Oman,2021-01-04,non_who,1,33.33,3
+66623,Oman,2021-01-11,non_who,1,33.33,3
+66647,Oman,2021-01-25,non_who,0,0.0,3
+66671,Oman,2021-02-08,non_who,6,50.0,12
+66695,Oman,2021-02-22,non_who,3,33.33,9
+66719,Oman,2021-03-08,non_who,1,10.0,10
+66743,Oman,2021-03-22,non_who,0,0.0,7
+66767,Oman,2021-04-05,non_who,2,18.18,11
+66791,Oman,2021-04-19,non_who,1,5.55,18
+66815,Oman,2021-05-03,non_who,0,0.0,53
+66839,Oman,2021-05-17,non_who,1,4.77,21
+66863,Oman,2021-05-31,non_who,2,16.67,12
+66887,Oman,2021-06-14,non_who,0,0.0,43
+66911,Oman,2021-06-28,non_who,0,0.0,71
+66935,Oman,2021-07-12,non_who,1,14.28,7
+66959,Oman,2021-09-06,non_who,0,0.0,1
+66983,Oman,2021-12-13,non_who,0,0.0,8
+67007,Oman,2021-12-27,non_who,0,0.0,1
+67031,Pakistan,2020-05-11,non_who,3,100.0,3
+67055,Pakistan,2020-05-25,non_who,10,100.0,10
+67079,Pakistan,2020-06-08,non_who,24,100.0,24
+67103,Pakistan,2020-06-22,non_who,8,100.0,8
+67127,Pakistan,2020-07-06,non_who,5,100.0,5
+67151,Pakistan,2020-07-20,non_who,6,100.0,6
+67175,Pakistan,2020-08-17,non_who,10,100.0,10
+67199,Pakistan,2020-09-14,non_who,3,100.0,3
+67223,Pakistan,2020-10-12,non_who,8,100.0,8
+67247,Pakistan,2020-10-26,non_who,1,100.0,1
+67271,Pakistan,2020-11-09,non_who,1,100.0,1
+67295,Pakistan,2020-11-23,non_who,8,100.0,8
+67319,Pakistan,2020-12-07,non_who,20,100.0,20
+67343,Pakistan,2020-12-21,non_who,26,100.0,26
+67367,Pakistan,2021-01-04,non_who,4,28.57,14
+67391,Pakistan,2021-01-11,non_who,5,71.43,7
+67415,Pakistan,2021-01-25,non_who,3,100.0,3
+67439,Pakistan,2021-02-08,non_who,4,100.0,4
+67463,Pakistan,2021-02-22,non_who,1,33.34,3
+67487,Pakistan,2021-03-08,non_who,2,28.57,7
+67511,Pakistan,2021-03-22,non_who,0,0.0,31
+67535,Pakistan,2021-04-05,non_who,0,0.0,6
+67559,Pakistan,2021-04-19,non_who,3,2.18,138
+67583,Pakistan,2021-05-03,non_who,2,3.77,53
+67607,Pakistan,2021-05-17,non_who,1,3.34,30
+67631,Pakistan,2021-05-31,non_who,4,5.0,80
+67655,Pakistan,2021-06-14,non_who,5,2.57,195
+67679,Pakistan,2021-06-28,non_who,0,0.0,54
+67703,Pakistan,2021-07-12,non_who,0,0.01,59
+67727,Pakistan,2021-07-26,non_who,0,0.0,67
+67751,Pakistan,2021-08-09,non_who,0,0.0,121
+67775,Pakistan,2021-08-23,non_who,0,0.0,108
+67799,Pakistan,2021-09-06,non_who,1,0.56,176
+67823,Pakistan,2021-09-20,non_who,0,0.0,65
+67847,Pakistan,2021-10-04,non_who,0,0.0,26
+67871,Pakistan,2021-10-18,non_who,0,0.0,51
+67895,Pakistan,2021-11-01,non_who,0,0.0,40
+67919,Pakistan,2021-11-15,non_who,0,0.0,41
+67943,Pakistan,2021-11-29,non_who,2,20.0,10
+67967,Pakistan,2021-12-13,non_who,7,28.0,25
+67991,Pakistan,2021-12-27,non_who,1,5.27,19
+68015,Pakistan,2022-01-05,non_who,0,0.0,6
+68039,Papua New Guinea,2020-07-20,non_who,4,100.0,4
+68063,Papua New Guinea,2020-08-03,non_who,34,100.0,34
+68087,Papua New Guinea,2020-08-17,non_who,55,100.0,55
+68111,Papua New Guinea,2020-08-31,non_who,7,100.0,7
+68135,Papua New Guinea,2020-09-14,non_who,2,100.0,2
+68159,Papua New Guinea,2020-09-28,non_who,2,100.0,2
+68183,Papua New Guinea,2020-10-12,non_who,6,100.0,6
+68207,Papua New Guinea,2020-12-07,non_who,22,100.0,22
+68231,Papua New Guinea,2020-12-21,non_who,9,100.0,9
+68255,Papua New Guinea,2021-01-04,non_who,11,100.0,11
+68279,Papua New Guinea,2021-01-11,non_who,3,100.0,3
+68303,Papua New Guinea,2021-01-25,non_who,2,100.0,2
+68327,Papua New Guinea,2021-02-08,non_who,11,100.0,11
+68351,Papua New Guinea,2021-02-22,non_who,60,100.0,60
+68375,Papua New Guinea,2021-03-08,non_who,190,100.0,190
+68399,Papua New Guinea,2021-03-22,non_who,368,100.0,368
+68423,Papua New Guinea,2021-04-05,non_who,598,100.0,598
+68447,Papua New Guinea,2021-04-19,non_who,100,100.0,100
+68471,Papua New Guinea,2021-05-03,non_who,128,100.0,128
+68495,Papua New Guinea,2021-05-17,non_who,193,100.0,193
+68519,Papua New Guinea,2021-05-31,non_who,18,100.0,18
+68543,Papua New Guinea,2021-06-14,non_who,14,100.0,14
+68567,Papua New Guinea,2021-06-28,non_who,3,100.0,3
+68591,Papua New Guinea,2021-07-12,non_who,7,43.75,16
+68615,Papua New Guinea,2021-07-26,non_who,12,63.16,19
+68639,Papua New Guinea,2021-08-09,non_who,3,15.79,19
+68663,Papua New Guinea,2021-08-23,non_who,4,3.77,106
+68687,Papua New Guinea,2021-09-06,non_who,0,0.0,385
+68711,Papua New Guinea,2021-09-20,non_who,6,2.8,214
+68735,Papua New Guinea,2021-10-04,non_who,7,1.9,368
+68759,Papua New Guinea,2021-10-18,non_who,0,0.0,242
+68783,Papua New Guinea,2021-11-01,non_who,0,0.0,116
+68807,Papua New Guinea,2021-11-15,non_who,0,0.0,34
+68831,Papua New Guinea,2021-11-29,non_who,0,0.0,7
+68855,Paraguay,2020-05-11,non_who,5,100.0,5
+68879,Paraguay,2020-05-25,non_who,2,100.0,2
+68903,Paraguay,2020-06-08,non_who,3,100.0,3
+68927,Paraguay,2020-06-22,non_who,1,100.0,1
+68951,Paraguay,2020-07-06,non_who,5,100.0,5
+68975,Paraguay,2020-07-20,non_who,5,100.0,5
+68999,Paraguay,2020-08-03,non_who,2,100.0,2
+69023,Paraguay,2020-08-17,non_who,14,100.0,14
+69047,Paraguay,2020-08-31,non_who,2,100.0,2
+69071,Paraguay,2020-09-14,non_who,7,100.0,7
+69095,Paraguay,2020-09-28,non_who,1,100.0,1
+69119,Paraguay,2020-10-12,non_who,3,100.0,3
+69143,Paraguay,2020-11-09,non_who,1,100.0,1
+69167,Paraguay,2020-11-23,non_who,1,100.0,1
+69191,Paraguay,2020-12-07,non_who,2,100.0,2
+69215,Paraguay,2020-12-21,non_who,14,100.0,14
+69239,Paraguay,2021-01-04,non_who,3,100.0,3
+69263,Paraguay,2021-01-11,non_who,15,100.0,15
+69287,Paraguay,2021-01-25,non_who,9,100.0,9
+69311,Paraguay,2021-02-08,non_who,63,95.45,66
+69335,Paraguay,2021-02-22,non_who,49,80.33,61
+69359,Paraguay,2021-03-08,non_who,52,74.28,70
+69383,Paraguay,2021-03-22,non_who,30,54.54,55
+69407,Paraguay,2021-04-05,non_who,4,28.57,14
+69431,Paraguay,2021-04-19,non_who,7,22.58,31
+69455,Paraguay,2021-05-03,non_who,2,10.0,20
+69479,Paraguay,2021-05-17,non_who,0,0.0,26
+69503,Paraguay,2021-05-31,non_who,0,0.0,14
+69527,Paraguay,2021-06-14,non_who,0,0.0,41
+69551,Paraguay,2021-06-28,non_who,0,0.0,18
+69575,Paraguay,2021-07-12,non_who,6,10.17,59
+69599,Paraguay,2021-07-26,non_who,6,24.0,25
+69623,Paraguay,2021-08-09,non_who,1,1.56,64
+69647,Paraguay,2021-08-23,non_who,1,1.67,60
+69671,Paraguay,2021-09-06,non_who,0,0.0,78
+69695,Paraguay,2021-09-20,non_who,0,0.0,26
+69719,Paraguay,2021-10-04,non_who,1,3.03,33
+69743,Paraguay,2021-10-18,non_who,0,0.0,9
+69767,Paraguay,2021-11-01,non_who,1,7.14,14
+69791,Peru,2020-05-11,non_who,49,100.0,49
+69815,Peru,2020-05-25,non_who,50,100.0,50
+69839,Peru,2020-06-08,non_who,5,100.0,5
+69863,Peru,2020-06-22,non_who,92,100.0,92
+69887,Peru,2020-07-06,non_who,35,100.0,35
+69911,Peru,2020-07-20,non_who,10,100.0,10
+69935,Peru,2020-08-03,non_who,12,100.0,12
+69959,Peru,2020-08-17,non_who,49,100.0,49
+69983,Peru,2020-08-31,non_who,105,100.0,105
+70007,Peru,2020-09-14,non_who,44,100.0,44
+70031,Peru,2020-09-28,non_who,33,100.0,33
+70055,Peru,2020-10-12,non_who,8,100.0,8
+70079,Peru,2020-10-26,non_who,128,100.0,128
+70103,Peru,2020-11-09,non_who,3,100.0,3
+70127,Peru,2020-11-23,non_who,32,100.0,32
+70151,Peru,2020-12-07,non_who,33,100.0,33
+70175,Peru,2020-12-21,non_who,129,99.23,130
+70199,Peru,2021-01-04,non_who,95,87.16,109
+70223,Peru,2021-01-11,non_who,21,72.41,29
+70247,Peru,2021-01-25,non_who,82,66.67,123
+70271,Peru,2021-02-08,non_who,56,61.54,91
+70295,Peru,2021-02-22,non_who,66,55.0,120
+70319,Peru,2021-03-08,non_who,45,29.03,155
+70343,Peru,2021-03-22,non_who,30,12.61,238
+70367,Peru,2021-04-05,non_who,25,13.16,190
+70391,Peru,2021-04-19,non_who,28,5.36,523
+70415,Peru,2021-05-03,non_who,9,2.8,321
+70439,Peru,2021-05-17,non_who,8,2.45,325
+70463,Peru,2021-05-31,non_who,5,1.77,284
+70487,Peru,2021-06-14,non_who,10,1.25,803
+70511,Peru,2021-06-28,non_who,12,2.41,496
+70535,Peru,2021-07-12,non_who,9,1.93,467
+70559,Peru,2021-07-26,non_who,2,0.35,586
+70583,Peru,2021-08-09,non_who,4,0.79,507
+70607,Peru,2021-08-23,non_who,4,0.62,645
+70631,Peru,2021-09-06,non_who,3,0.5,603
+70655,Peru,2021-09-20,non_who,0,0.0,782
+70679,Peru,2021-10-04,non_who,0,0.01,819
+70703,Peru,2021-10-18,non_who,0,0.01,805
+70727,Peru,2021-11-01,non_who,0,-0.01,721
+70751,Peru,2021-11-15,non_who,0,0.0,858
+70775,Peru,2021-11-29,non_who,0,0.0,717
+70799,Peru,2021-12-13,non_who,0,-0.01,65
+70823,Peru,2021-12-27,non_who,0,0.0,10
+70847,Philippines,2020-06-08,non_who,1,100.0,1
+70871,Philippines,2020-06-22,non_who,5,100.0,5
+70895,Philippines,2020-07-06,non_who,9,100.0,9
+70919,Philippines,2020-07-20,non_who,4,100.0,4
+70943,Philippines,2020-09-14,non_who,2,100.0,2
+70967,Philippines,2020-09-28,non_who,3,100.0,3
+70991,Philippines,2020-10-12,non_who,1,100.0,1
+71015,Philippines,2020-10-26,non_who,3,100.0,3
+71039,Philippines,2020-11-09,non_who,141,100.0,141
+71063,Philippines,2020-11-23,non_who,178,100.0,178
+71087,Philippines,2020-12-07,non_who,233,100.0,233
+71111,Philippines,2020-12-21,non_who,297,99.66,298
+71135,Philippines,2021-01-04,non_who,232,97.48,238
+71159,Philippines,2021-01-11,non_who,324,95.29,340
+71183,Philippines,2021-01-25,non_who,494,93.21,530
+71207,Philippines,2021-02-08,non_who,532,95.68,556
+71231,Philippines,2021-02-22,non_who,322,71.4,451
+71255,Philippines,2021-03-08,non_who,127,41.92,303
+71279,Philippines,2021-03-22,non_who,121,15.51,780
+71303,Philippines,2021-04-05,non_who,93,9.16,1016
+71327,Philippines,2021-04-19,non_who,48,12.44,386
+71351,Philippines,2021-05-03,non_who,38,9.65,394
+71375,Philippines,2021-05-17,non_who,15,4.37,343
+71399,Philippines,2021-05-31,non_who,10,3.02,331
+71423,Philippines,2021-06-14,non_who,25,4.35,575
+71447,Philippines,2021-06-28,non_who,37,4.43,836
+71471,Philippines,2021-07-12,non_who,68,7.68,886
+71495,Philippines,2021-07-26,non_who,76,6.83,1114
+71519,Philippines,2021-08-09,non_who,62,4.43,1400
+71543,Philippines,2021-08-23,non_who,11,0.99,1119
+71567,Philippines,2021-09-06,non_who,1,0.39,262
+71591,Poland,2020-05-11,non_who,59,100.0,59
+71615,Poland,2020-05-25,non_who,26,100.0,26
+71639,Poland,2020-06-08,non_who,23,100.0,23
+71663,Poland,2020-06-22,non_who,4,100.0,4
+71687,Poland,2020-08-31,non_who,3,100.0,3
+71711,Poland,2020-09-14,non_who,6,100.0,6
+71735,Poland,2020-09-28,non_who,6,100.0,6
+71759,Poland,2020-10-12,non_who,2,100.0,2
+71783,Poland,2020-10-26,non_who,1,100.0,1
+71807,Poland,2020-11-09,non_who,6,100.0,6
+71831,Poland,2020-11-23,non_who,16,100.0,16
+71855,Poland,2020-12-07,non_who,27,100.0,27
+71879,Poland,2020-12-21,non_who,53,100.0,53
+71903,Poland,2021-01-04,non_who,119,99.17,120
+71927,Poland,2021-01-11,non_who,55,98.21,56
+71951,Poland,2021-01-25,non_who,235,90.73,259
+71975,Poland,2021-02-08,non_who,310,81.79,379
+71999,Poland,2021-02-22,non_who,320,43.89,729
+72023,Poland,2021-03-08,non_who,341,22.96,1485
+72047,Poland,2021-03-22,non_who,180,8.38,2146
+72071,Poland,2021-04-05,non_who,44,2.44,1803
+72095,Poland,2021-04-19,non_who,29,1.04,2782
+72119,Poland,2021-05-03,non_who,10,0.38,2636
+72143,Poland,2021-05-17,non_who,12,0.47,2568
+72167,Poland,2021-05-31,non_who,7,0.44,1627
+72191,Poland,2021-06-14,non_who,9,1.46,621
+72215,Poland,2021-06-28,non_who,6,4.0,150
+72239,Poland,2021-07-12,non_who,7,3.75,186
+72263,Poland,2021-07-26,non_who,6,2.47,243
+72287,Poland,2021-08-09,non_who,10,3.01,333
+72311,Poland,2021-08-23,non_who,1,0.13,751
+72335,Poland,2021-09-06,non_who,0,0.0,935
+72359,Poland,2021-09-20,non_who,0,0.0,1424
+72383,Poland,2021-10-04,non_who,2,0.11,1724
+72407,Poland,2021-10-18,non_who,0,0.0,2282
+72431,Poland,2021-11-01,non_who,3,0.11,2785
+72455,Poland,2021-11-15,non_who,0,0.0,4144
+72479,Poland,2021-11-29,non_who,0,0.0,2239
+72503,Poland,2021-12-13,non_who,1,0.03,3352
+72527,Poland,2021-12-27,non_who,0,0.0,1269
+72551,Poland,2022-01-05,non_who,0,0.0,124
+72575,Portugal,2020-05-11,non_who,26,100.0,26
+72599,Portugal,2020-05-25,non_who,28,100.0,28
+72623,Portugal,2020-06-08,non_who,92,100.0,92
+72647,Portugal,2020-06-22,non_who,37,100.0,37
+72671,Portugal,2020-07-06,non_who,53,100.0,53
+72695,Portugal,2020-07-20,non_who,27,100.0,27
+72719,Portugal,2020-08-31,non_who,36,100.0,36
+72743,Portugal,2020-09-14,non_who,3,100.0,3
+72767,Portugal,2020-10-26,non_who,1,100.0,1
+72791,Portugal,2020-11-09,non_who,27,100.0,27
+72815,Portugal,2020-11-23,non_who,371,99.73,372
+72839,Portugal,2020-12-07,non_who,32,100.0,32
+72863,Portugal,2020-12-21,non_who,22,50.0,44
+72887,Portugal,2021-01-04,non_who,217,73.81,294
+72911,Portugal,2021-01-11,non_who,198,83.19,238
+72935,Portugal,2021-01-25,non_who,618,83.85,737
+72959,Portugal,2021-02-08,non_who,108,53.73,201
+72983,Portugal,2021-02-22,non_who,393,43.61,901
+73007,Portugal,2021-03-08,non_who,104,14.15,735
+73031,Portugal,2021-03-22,non_who,68,15.35,443
+73055,Portugal,2021-04-05,non_who,2,2.86,70
+73079,Portugal,2021-04-19,non_who,41,2.59,1586
+73103,Portugal,2021-05-03,non_who,11,11.22,98
+73127,Portugal,2021-05-17,non_who,48,4.52,1061
+73151,Portugal,2021-05-31,non_who,1,0.91,110
+73175,Portugal,2021-06-14,non_who,9,0.73,1247
+73199,Portugal,2021-06-28,non_who,2,0.17,1170
+73223,Portugal,2021-07-12,non_who,1,0.07,1132
+73247,Portugal,2021-07-26,non_who,2,0.16,1250
+73271,Portugal,2021-08-09,non_who,0,0.01,955
+73295,Portugal,2021-08-23,non_who,2,0.2,1002
+73319,Portugal,2021-09-06,non_who,0,0.0,1110
+73343,Portugal,2021-09-20,non_who,0,0.0,1093
+73367,Portugal,2021-10-04,non_who,0,0.0,1041
+73391,Portugal,2021-10-18,non_who,0,0.0,891
+73415,Portugal,2021-11-01,non_who,0,0.0,1079
+73439,Portugal,2021-11-15,non_who,1,0.1,958
+73463,Portugal,2021-11-29,non_who,0,0.0,1286
+73487,Portugal,2021-12-13,non_who,0,0.0,916
+73511,Portugal,2021-12-27,non_who,0,0.0,510
+73535,Qatar,2020-05-11,non_who,172,100.0,172
+73559,Qatar,2020-05-25,non_who,175,100.0,175
+73583,Qatar,2020-06-08,non_who,179,100.0,179
+73607,Qatar,2020-06-22,non_who,154,100.0,154
+73631,Qatar,2020-07-06,non_who,97,100.0,97
+73655,Qatar,2020-07-20,non_who,61,100.0,61
+73679,Qatar,2020-08-03,non_who,8,100.0,8
+73703,Qatar,2020-08-17,non_who,90,100.0,90
+73727,Qatar,2020-08-31,non_who,47,100.0,47
+73751,Qatar,2020-09-14,non_who,57,100.0,57
+73775,Qatar,2020-09-28,non_who,12,100.0,12
+73799,Qatar,2020-10-12,non_who,34,100.0,34
+73823,Qatar,2020-10-26,non_who,21,100.0,21
+73847,Qatar,2020-11-09,non_who,14,100.0,14
+73871,Qatar,2020-11-23,non_who,20,100.0,20
+73895,Qatar,2020-12-07,non_who,23,100.0,23
+73919,Qatar,2020-12-21,non_who,2,100.0,2
+73943,Qatar,2021-01-04,non_who,136,93.16,146
+73967,Qatar,2021-01-11,non_who,0,0.0,13
+73991,Qatar,2021-01-25,non_who,11,42.3,26
+74015,Qatar,2021-02-08,non_who,33,48.53,68
+74039,Qatar,2021-02-22,non_who,30,31.91,94
+74063,Qatar,2021-03-08,non_who,10,11.11,90
+74087,Qatar,2021-03-22,non_who,2,1.65,121
+74111,Qatar,2021-04-05,non_who,2,2.81,71
+74135,Qatar,2021-04-19,non_who,4,3.37,119
+74159,Qatar,2021-05-03,non_who,40,11.42,350
+74183,Qatar,2021-05-17,non_who,37,18.97,195
+74207,Qatar,2021-05-31,non_who,14,17.95,78
+74231,Qatar,2021-06-14,non_who,0,0.0,58
+74255,Qatar,2021-08-09,non_who,0,0.0,1
+74279,Qatar,2021-08-23,non_who,0,0.0,520
+74303,Qatar,2021-09-06,non_who,0,0.0,444
+74327,Qatar,2021-09-20,non_who,0,0.0,183
+74351,Qatar,2021-10-04,non_who,0,0.0,84
+74375,Qatar,2021-10-18,non_who,0,0.0,13
+74399,Qatar,2021-11-01,non_who,0,0.0,50
+74423,Qatar,2021-11-15,non_who,0,0.0,75
+74447,Qatar,2021-11-29,non_who,0,0.0,82
+74471,Romania,2020-05-11,non_who,33,100.0,33
+74495,Romania,2020-05-25,non_who,18,100.0,18
+74519,Romania,2020-06-08,non_who,18,100.0,18
+74543,Romania,2020-06-22,non_who,17,100.0,17
+74567,Romania,2020-07-06,non_who,10,100.0,10
+74591,Romania,2020-07-20,non_who,23,100.0,23
+74615,Romania,2020-08-03,non_who,81,100.0,81
+74639,Romania,2020-08-17,non_who,15,100.0,15
+74663,Romania,2020-08-31,non_who,79,100.0,79
+74687,Romania,2020-09-14,non_who,49,100.0,49
+74711,Romania,2020-09-28,non_who,63,100.0,63
+74735,Romania,2020-10-12,non_who,18,90.0,20
+74759,Romania,2020-10-26,non_who,54,100.0,54
+74783,Romania,2020-11-09,non_who,83,98.81,84
+74807,Romania,2020-11-23,non_who,136,100.0,136
+74831,Romania,2020-12-07,non_who,171,100.0,171
+74855,Romania,2020-12-21,non_who,100,99.01,101
+74879,Romania,2021-01-04,non_who,96,100.0,96
+74903,Romania,2021-01-11,non_who,61,91.04,67
+74927,Romania,2021-01-25,non_who,71,77.17,92
+74951,Romania,2021-02-08,non_who,71,42.26,168
+74975,Romania,2021-02-22,non_who,27,16.27,166
+74999,Romania,2021-03-08,non_who,62,23.05,269
+75023,Romania,2021-03-22,non_who,22,8.46,260
+75047,Romania,2021-04-05,non_who,17,5.72,297
+75071,Romania,2021-04-19,non_who,9,4.83,186
+75095,Romania,2021-05-03,non_who,4,3.05,131
+75119,Romania,2021-05-17,non_who,2,1.19,167
+75143,Romania,2021-05-31,non_who,1,0.66,152
+75167,Romania,2021-06-14,non_who,2,1.68,119
+75191,Romania,2021-06-28,non_who,0,0.0,72
+75215,Romania,2021-07-12,non_who,2,3.45,58
+75239,Romania,2021-07-26,non_who,1,1.03,97
+75263,Romania,2021-08-09,non_who,2,0.77,262
+75287,Romania,2021-08-23,non_who,0,0.0,281
+75311,Romania,2021-09-06,non_who,0,0.0,587
+75335,Romania,2021-09-20,non_who,0,0.0,1056
+75359,Romania,2021-10-04,non_who,0,0.0,985
+75383,Romania,2021-10-18,non_who,0,0.0,884
+75407,Romania,2021-11-01,non_who,0,0.0,612
+75431,Romania,2021-11-15,non_who,0,0.0,229
+75455,Romania,2021-11-29,non_who,0,0.0,132
+75479,Romania,2021-12-13,non_who,0,0.0,86
+75503,Romania,2021-12-27,non_who,0,0.0,83
+75527,Russia,2020-05-11,non_who,65,100.0,65
+75551,Russia,2020-05-25,non_who,122,100.0,122
+75575,Russia,2020-06-08,non_who,154,100.0,154
+75599,Russia,2020-06-22,non_who,63,100.0,63
+75623,Russia,2020-07-06,non_who,37,100.0,37
+75647,Russia,2020-07-20,non_who,77,100.0,77
+75671,Russia,2020-08-03,non_who,53,100.0,53
+75695,Russia,2020-08-17,non_who,59,100.0,59
+75719,Russia,2020-08-31,non_who,73,100.0,73
+75743,Russia,2020-09-14,non_who,134,100.0,134
+75767,Russia,2020-09-28,non_who,228,100.0,228
+75791,Russia,2020-10-12,non_who,228,100.0,228
+75815,Russia,2020-10-26,non_who,104,100.0,104
+75839,Russia,2020-11-09,non_who,91,100.0,91
+75863,Russia,2020-11-23,non_who,275,100.0,275
+75887,Russia,2020-12-07,non_who,145,100.0,145
+75911,Russia,2020-12-21,non_who,188,100.0,188
+75935,Russia,2021-01-04,non_who,246,99.6,247
+75959,Russia,2021-01-11,non_who,48,100.0,48
+75983,Russia,2021-01-25,non_who,69,93.24,74
+76007,Russia,2021-02-08,non_who,15,78.95,19
+76031,Russia,2021-02-22,non_who,285,93.75,304
+76055,Russia,2021-03-08,non_who,156,79.59,196
+76079,Russia,2021-03-22,non_who,219,83.27,263
+76103,Russia,2021-04-05,non_who,138,62.74,220
+76127,Russia,2021-04-19,non_who,245,78.27,313
+76151,Russia,2021-05-03,non_who,219,69.96,313
+76175,Russia,2021-05-17,non_who,146,50.18,291
+76199,Russia,2021-05-31,non_who,117,22.9,511
+76223,Russia,2021-06-14,non_who,77,8.52,904
+76247,Russia,2021-06-28,non_who,16,2.95,543
+76271,Russia,2021-07-12,non_who,3,0.45,665
+76295,Russia,2021-07-26,non_who,10,4.67,214
+76319,Russia,2021-08-09,non_who,14,5.47,256
+76343,Russia,2021-08-23,non_who,13,5.73,227
+76367,Russia,2021-09-06,non_who,0,0.0,277
+76391,Russia,2021-09-20,non_who,1,0.26,380
+76415,Russia,2021-10-04,non_who,2,0.47,425
+76439,Russia,2021-10-18,non_who,0,0.0,707
+76463,Russia,2021-11-01,non_who,0,0.0,913
+76487,Russia,2021-11-15,non_who,0,0.0,511
+76511,Russia,2021-11-29,non_who,1,0.32,316
+76535,Russia,2021-12-13,non_who,0,0.0,151
+76559,Russia,2021-12-27,non_who,1,0.65,155
+76583,Rwanda,2020-06-08,non_who,1,100.0,1
+76607,Rwanda,2020-06-22,non_who,8,100.0,8
+76631,Rwanda,2020-07-20,non_who,4,100.0,4
+76655,Rwanda,2020-08-03,non_who,4,100.0,4
+76679,Rwanda,2020-08-17,non_who,11,100.0,11
+76703,Rwanda,2020-08-31,non_who,59,100.0,59
+76727,Rwanda,2020-09-14,non_who,5,100.0,5
+76751,Rwanda,2020-10-26,non_who,10,100.0,10
+76775,Rwanda,2020-11-09,non_who,8,100.0,8
+76799,Rwanda,2020-12-07,non_who,2,100.0,2
+76823,Rwanda,2020-12-21,non_who,47,100.0,47
+76847,Rwanda,2021-01-04,non_who,23,92.0,25
+76871,Rwanda,2021-01-11,non_who,18,94.74,19
+76895,Rwanda,2021-01-25,non_who,49,87.5,56
+76919,Rwanda,2021-02-08,non_who,10,47.62,21
+76943,Rwanda,2021-02-22,non_who,16,76.19,21
+76967,Rwanda,2021-03-08,non_who,2,20.0,10
+76991,Rwanda,2021-03-22,non_who,4,100.0,4
+77015,Rwanda,2021-04-05,non_who,17,80.95,21
+77039,Rwanda,2021-04-19,non_who,4,66.66,6
+77063,Rwanda,2021-05-03,non_who,3,60.0,5
+77087,Rwanda,2021-05-17,non_who,6,75.0,8
+77111,Rwanda,2021-05-31,non_who,0,0.0,4
+77135,Rwanda,2021-06-14,non_who,2,33.33,6
+77159,Rwanda,2021-06-28,non_who,8,6.73,119
+77183,Rwanda,2021-07-12,non_who,2,3.39,59
+77207,Rwanda,2021-07-26,non_who,1,4.76,21
+77231,Rwanda,2021-08-09,non_who,0,0.0,56
+77255,Rwanda,2021-08-23,non_who,1,8.33,12
+77279,Rwanda,2021-09-06,non_who,2,5.0,40
+77303,Rwanda,2021-09-20,non_who,0,0.0,5
+77327,Rwanda,2021-10-04,non_who,0,0.0,5
+77351,Rwanda,2021-11-01,non_who,0,0.0,7
+77375,Senegal,2020-06-08,non_who,13,100.0,13
+77399,Senegal,2020-06-22,non_who,62,100.0,62
+77423,Senegal,2020-07-06,non_who,8,100.0,8
+77447,Senegal,2020-07-20,non_who,12,100.0,12
+77471,Senegal,2020-08-03,non_who,19,100.0,19
+77495,Senegal,2020-08-17,non_who,20,100.0,20
+77519,Senegal,2020-08-31,non_who,5,100.0,5
+77543,Senegal,2020-09-14,non_who,4,100.0,4
+77567,Senegal,2020-09-28,non_who,3,100.0,3
+77591,Senegal,2020-10-26,non_who,1,100.0,1
+77615,Senegal,2020-12-21,non_who,10,83.33,12
+77639,Senegal,2021-01-04,non_who,75,90.36,83
+77663,Senegal,2021-01-11,non_who,48,96.0,50
+77687,Senegal,2021-01-25,non_who,39,90.7,43
+77711,Senegal,2021-02-08,non_who,36,97.3,37
+77735,Senegal,2021-02-22,non_who,5,71.42,7
+77759,Senegal,2021-03-08,non_who,6,60.0,10
+77783,Senegal,2021-03-22,non_who,2,40.0,5
+77807,Senegal,2021-04-05,non_who,3,17.65,17
+77831,Senegal,2021-04-19,non_who,2,40.0,5
+77855,Senegal,2021-05-03,non_who,0,0.0,2
+77879,Senegal,2021-05-17,non_who,2,33.34,6
+77903,Senegal,2021-05-31,non_who,1,33.33,3
+77927,Senegal,2021-06-14,non_who,15,30.0,50
+77951,Senegal,2021-06-28,non_who,0,0.0,1
+77975,Senegal,2021-07-12,non_who,0,0.0,3
+77999,Senegal,2021-07-26,non_who,3,6.38,47
+78023,Senegal,2021-08-09,non_who,10,23.26,43
+78047,Senegal,2021-08-23,non_who,0,0.0,16
+78071,Senegal,2021-09-06,non_who,2,8.7,23
+78095,Senegal,2021-09-20,non_who,0,0.0,1
+78119,Senegal,2021-10-04,non_who,0,0.0,5
+78143,Senegal,2021-10-18,non_who,0,0.0,5
+78167,Senegal,2021-11-01,non_who,0,0.0,17
+78191,Senegal,2021-11-15,non_who,0,0.0,9
+78215,Senegal,2021-11-29,non_who,0,0.0,6
+78239,Senegal,2021-12-13,non_who,0,0.0,22
+78263,Senegal,2021-12-27,non_who,1,5.0,20
+78287,Serbia,2020-05-11,non_who,30,100.0,30
+78311,Serbia,2020-05-25,non_who,8,100.0,8
+78335,Serbia,2020-06-08,non_who,3,100.0,3
+78359,Serbia,2020-06-22,non_who,11,100.0,11
+78383,Serbia,2020-07-06,non_who,13,100.0,13
+78407,Serbia,2020-07-20,non_who,27,100.0,27
+78431,Serbia,2020-08-03,non_who,32,100.0,32
+78455,Serbia,2020-08-17,non_who,21,100.0,21
+78479,Serbia,2020-08-31,non_who,3,100.0,3
+78503,Serbia,2020-09-14,non_who,1,100.0,1
+78527,Serbia,2020-09-28,non_who,14,100.0,14
+78551,Serbia,2020-10-12,non_who,29,96.67,30
+78575,Serbia,2020-10-26,non_who,18,100.0,18
+78599,Serbia,2020-11-09,non_who,7,100.0,7
+78623,Serbia,2020-11-23,non_who,14,100.0,14
+78647,Serbia,2020-12-07,non_who,6,100.0,6
+78671,Serbia,2020-12-21,non_who,8,88.89,9
+78695,Serbia,2021-01-04,non_who,16,100.0,16
+78719,Serbia,2021-01-11,non_who,14,100.0,14
+78743,Serbia,2021-01-25,non_who,6,100.0,6
+78767,Serbia,2021-02-08,non_who,11,78.57,14
+78791,Serbia,2021-02-22,non_who,4,33.33,12
+78815,Serbia,2021-03-08,non_who,2,11.76,17
+78839,Serbia,2021-03-22,non_who,1,9.09,11
+78863,Serbia,2021-04-05,non_who,0,0.0,1
+78887,Serbia,2021-04-19,non_who,0,0.0,8
+78911,Serbia,2021-05-03,non_who,1,7.14,14
+78935,Serbia,2021-05-17,non_who,0,0.0,29
+78959,Serbia,2021-05-31,non_who,0,0.0,18
+78983,Serbia,2021-06-14,non_who,0,0.0,5
+79007,Serbia,2021-06-28,non_who,0,0.0,1
+79031,Serbia,2021-07-12,non_who,0,0.0,15
+79055,Serbia,2021-07-26,non_who,0,0.0,15
+79079,Serbia,2021-08-09,non_who,0,0.0,5
+79103,Serbia,2021-08-23,non_who,0,0.0,2
+79127,Serbia,2021-09-06,non_who,0,0.0,12
+79151,Serbia,2021-09-20,non_who,0,0.0,1
+79175,Serbia,2021-10-18,non_who,0,0.0,14
+79199,Seychelles,2020-07-06,non_who,2,100.0,2
+79223,Seychelles,2020-09-28,non_who,1,100.0,1
+79247,Seychelles,2020-10-12,non_who,1,100.0,1
+79271,Seychelles,2021-01-04,non_who,1,100.0,1
+79295,Seychelles,2021-01-11,non_who,4,100.0,4
+79319,Seychelles,2021-02-08,non_who,0,0.0,2
+79343,Seychelles,2021-02-22,non_who,0,0.0,1
+79367,Seychelles,2021-04-19,non_who,0,0.0,1
+79391,Seychelles,2021-05-03,non_who,0,0.0,3
+79415,Seychelles,2021-05-17,non_who,0,0.0,2
+79439,Seychelles,2021-05-31,non_who,1,2.27,44
+79463,Seychelles,2021-06-14,non_who,0,0.0,54
+79487,Seychelles,2021-06-28,non_who,0,0.0,15
+79511,Seychelles,2021-07-12,non_who,0,0.0,4
+79535,Seychelles,2021-07-26,non_who,0,0.0,10
+79559,Seychelles,2021-08-09,non_who,0,0.0,23
+79583,Seychelles,2021-08-23,non_who,0,0.0,97
+79607,Seychelles,2021-09-06,non_who,0,0.0,57
+79631,Seychelles,2021-09-20,non_who,0,0.0,83
+79655,Seychelles,2021-10-04,non_who,0,0.0,59
+79679,Seychelles,2021-10-18,non_who,1,1.72,58
+79703,Seychelles,2021-11-01,non_who,0,0.0,21
+79727,Singapore,2020-05-11,non_who,112,100.0,112
+79751,Singapore,2020-05-25,non_who,72,100.0,72
+79775,Singapore,2020-06-08,non_who,61,100.0,61
+79799,Singapore,2020-06-22,non_who,48,100.0,48
+79823,Singapore,2020-07-06,non_who,74,100.0,74
+79847,Singapore,2020-07-20,non_who,73,100.0,73
+79871,Singapore,2020-08-03,non_who,22,100.0,22
+79895,Singapore,2020-08-17,non_who,18,100.0,18
+79919,Singapore,2020-08-31,non_who,28,100.0,28
+79943,Singapore,2020-09-14,non_who,24,100.0,24
+79967,Singapore,2020-09-28,non_who,11,100.0,11
+79991,Singapore,2020-10-12,non_who,27,100.0,27
+80015,Singapore,2020-10-26,non_who,24,100.0,24
+80039,Singapore,2020-11-09,non_who,23,100.0,23
+80063,Singapore,2020-11-23,non_who,26,100.0,26
+80087,Singapore,2020-12-07,non_who,24,100.0,24
+80111,Singapore,2020-12-21,non_who,32,88.89,36
+80135,Singapore,2021-01-04,non_who,54,88.52,61
+80159,Singapore,2021-01-11,non_who,32,86.49,37
+80183,Singapore,2021-01-25,non_who,48,71.64,67
+80207,Singapore,2021-02-08,non_who,51,68.93,74
+80231,Singapore,2021-02-22,non_who,31,73.81,42
+80255,Singapore,2021-03-08,non_who,17,54.84,31
+80279,Singapore,2021-03-22,non_who,17,37.78,45
+80303,Singapore,2021-04-05,non_who,23,14.02,164
+80327,Singapore,2021-04-19,non_who,32,17.01,188
+80351,Singapore,2021-05-03,non_who,13,6.81,191
+80375,Singapore,2021-05-17,non_who,12,5.46,220
+80399,Singapore,2021-05-31,non_who,17,5.15,330
+80423,Singapore,2021-06-14,non_who,3,1.7,178
+80447,Singapore,2021-06-28,non_who,4,1.85,217
+80471,Singapore,2021-07-12,non_who,2,2.67,75
+80495,Singapore,2021-07-26,non_who,1,0.12,836
+80519,Singapore,2021-08-09,non_who,0,0.0,864
+80543,Singapore,2021-08-23,non_who,1,0.16,643
+80567,Singapore,2021-09-06,non_who,0,0.0,1007
+80591,Singapore,2021-09-20,non_who,0,0.0,700
+80615,Singapore,2021-10-04,non_who,0,0.0,611
+80639,Singapore,2021-10-18,non_who,0,0.0,571
+80663,Singapore,2021-11-01,non_who,0,0.0,537
+80687,Singapore,2021-11-15,non_who,0,0.0,542
+80711,Singapore,2021-11-29,non_who,0,0.0,466
+80735,Singapore,2021-12-13,non_who,1,0.24,424
+80759,Singapore,2021-12-27,non_who,3,0.6,499
+80783,Sint Maarten (Dutch part),2021-01-25,non_who,10,100.0,10
+80807,Sint Maarten (Dutch part),2021-02-22,non_who,36,90.0,40
+80831,Sint Maarten (Dutch part),2021-03-08,non_who,3,60.0,5
+80855,Sint Maarten (Dutch part),2021-03-22,non_who,0,0.0,7
+80879,Sint Maarten (Dutch part),2021-04-05,non_who,0,0.0,40
+80903,Sint Maarten (Dutch part),2021-04-19,non_who,0,0.0,20
+80927,Sint Maarten (Dutch part),2021-05-03,non_who,3,9.09,33
+80951,Sint Maarten (Dutch part),2021-05-17,non_who,2,7.15,28
+80975,Sint Maarten (Dutch part),2021-05-31,non_who,0,0.0,111
+80999,Sint Maarten (Dutch part),2021-06-14,non_who,0,0.0,51
+81023,Sint Maarten (Dutch part),2021-06-28,non_who,0,0.0,68
+81047,Sint Maarten (Dutch part),2021-07-12,non_who,0,0.0,39
+81071,Sint Maarten (Dutch part),2021-07-26,non_who,0,0.0,67
+81095,Sint Maarten (Dutch part),2021-08-09,non_who,0,-0.0,147
+81119,Sint Maarten (Dutch part),2021-08-23,non_who,0,0.0,425
+81143,Sint Maarten (Dutch part),2021-09-06,non_who,0,0.01,284
+81167,Sint Maarten (Dutch part),2021-09-20,non_who,0,-0.01,148
+81191,Sint Maarten (Dutch part),2021-10-04,non_who,0,0.0,153
+81215,Sint Maarten (Dutch part),2021-10-18,non_who,0,0.0,34
+81239,Sint Maarten (Dutch part),2021-11-01,non_who,0,0.0,39
+81263,Sint Maarten (Dutch part),2021-11-15,non_who,0,0.0,17
+81287,Sint Maarten (Dutch part),2021-11-29,non_who,0,0.0,20
+81311,Sint Maarten (Dutch part),2021-12-13,non_who,0,0.0,12
+81335,Slovakia,2020-05-11,non_who,3,100.0,3
+81359,Slovakia,2020-05-25,non_who,1,100.0,1
+81383,Slovakia,2020-07-06,non_who,2,100.0,2
+81407,Slovakia,2020-07-20,non_who,1,100.0,1
+81431,Slovakia,2020-08-03,non_who,1,100.0,1
+81455,Slovakia,2020-08-17,non_who,2,100.0,2
+81479,Slovakia,2020-08-31,non_who,1,100.0,1
+81503,Slovakia,2020-09-14,non_who,4,100.0,4
+81527,Slovakia,2020-09-28,non_who,6,100.0,6
+81551,Slovakia,2020-10-12,non_who,1,100.0,1
+81575,Slovakia,2020-10-26,non_who,1,100.0,1
+81599,Slovakia,2020-11-09,non_who,1,100.0,1
+81623,Slovakia,2020-11-23,non_who,15,100.0,15
+81647,Slovakia,2020-12-07,non_who,54,98.18,55
+81671,Slovakia,2020-12-21,non_who,1,100.0,1
+81695,Slovakia,2021-01-04,non_who,78,81.25,96
+81719,Slovakia,2021-01-11,non_who,13,25.0,52
+81743,Slovakia,2021-01-25,non_who,9,30.0,30
+81767,Slovakia,2021-02-08,non_who,18,15.38,117
+81791,Slovakia,2021-02-22,non_who,9,14.52,62
+81815,Slovakia,2021-03-08,non_who,17,3.89,437
+81839,Slovakia,2021-03-22,non_who,16,2.75,583
+81863,Slovakia,2021-04-05,non_who,13,1.97,660
+81887,Slovakia,2021-04-19,non_who,3,0.49,616
+81911,Slovakia,2021-05-03,non_who,0,0.0,337
+81935,Slovakia,2021-05-17,non_who,0,0.0,338
+81959,Slovakia,2021-05-31,non_who,3,0.44,691
+81983,Slovakia,2021-06-14,non_who,3,0.5,594
+82007,Slovakia,2021-06-28,non_who,3,1.2,249
+82031,Slovakia,2021-07-12,non_who,2,0.83,242
+82055,Slovakia,2021-07-26,non_who,1,0.37,271
+82079,Slovakia,2021-08-09,non_who,0,0.0,372
+82103,Slovakia,2021-08-23,non_who,0,0.0,619
+82127,Slovakia,2021-09-06,non_who,0,0.0,782
+82151,Slovakia,2021-09-20,non_who,0,0.0,1205
+82175,Slovakia,2021-10-04,non_who,0,0.0,845
+82199,Slovakia,2021-10-18,non_who,1,0.06,1710
+82223,Slovakia,2021-11-01,non_who,0,0.0,1733
+82247,Slovakia,2021-11-15,non_who,0,0.0,2290
+82271,Slovakia,2021-11-29,non_who,0,0.0,1254
+82295,Slovakia,2021-12-13,non_who,0,0.0,1289
+82319,Slovakia,2021-12-27,non_who,1,1.26,79
+82343,Slovenia,2020-05-11,non_who,4,100.0,4
+82367,Slovenia,2020-06-08,non_who,4,100.0,4
+82391,Slovenia,2020-06-22,non_who,11,100.0,11
+82415,Slovenia,2020-07-06,non_who,52,100.0,52
+82439,Slovenia,2020-07-20,non_who,58,100.0,58
+82463,Slovenia,2020-08-03,non_who,65,100.0,65
+82487,Slovenia,2020-08-17,non_who,76,100.0,76
+82511,Slovenia,2020-08-31,non_who,101,100.0,101
+82535,Slovenia,2020-09-14,non_who,176,100.0,176
+82559,Slovenia,2020-09-28,non_who,168,100.0,168
+82583,Slovenia,2020-10-12,non_who,341,100.0,341
+82607,Slovenia,2020-10-26,non_who,353,99.44,355
+82631,Slovenia,2020-11-09,non_who,888,99.89,889
+82655,Slovenia,2020-11-23,non_who,129,98.47,131
+82679,Slovenia,2020-12-07,non_who,967,99.9,968
+82703,Slovenia,2020-12-21,non_who,884,99.55,888
+82727,Slovenia,2021-01-04,non_who,440,99.55,442
+82751,Slovenia,2021-01-11,non_who,655,99.7,657
+82775,Slovenia,2021-01-25,non_who,355,98.07,362
+82799,Slovenia,2021-02-08,non_who,1541,97.72,1577
+82823,Slovenia,2021-02-22,non_who,1143,88.75,1288
+82847,Slovenia,2021-03-08,non_who,1181,80.99,1458
+82871,Slovenia,2021-03-22,non_who,626,48.04,1303
+82895,Slovenia,2021-04-05,non_who,476,28.75,1656
+82919,Slovenia,2021-04-19,non_who,320,15.63,2046
+82943,Slovenia,2021-05-03,non_who,186,9.4,1979
+82967,Slovenia,2021-05-17,non_who,61,4.81,1267
+82991,Slovenia,2021-05-31,non_who,12,1.72,699
+83015,Slovenia,2021-06-14,non_who,4,0.61,658
+83039,Slovenia,2021-06-28,non_who,20,5.2,385
+83063,Slovenia,2021-07-12,non_who,14,2.96,474
+83087,Slovenia,2021-07-26,non_who,5,0.66,749
+83111,Slovenia,2021-08-09,non_who,3,0.22,1341
+83135,Slovenia,2021-08-23,non_who,2,0.1,2022
+83159,Slovenia,2021-09-06,non_who,1,0.04,2598
+83183,Slovenia,2021-09-20,non_who,1,0.05,2162
+83207,Slovenia,2021-10-04,non_who,1,0.05,2328
+83231,Slovenia,2021-10-18,non_who,0,0.0,2736
+83255,Slovenia,2021-11-01,non_who,0,0.0,2786
+83279,Slovenia,2021-11-15,non_who,0,0.0,2276
+83303,Slovenia,2021-11-29,non_who,0,0.0,2620
+83327,Slovenia,2021-12-13,non_who,0,0.0,1520
+83351,South Africa,2020-05-11,non_who,135,100.0,135
+83375,South Africa,2020-05-25,non_who,93,100.0,93
+83399,South Africa,2020-06-08,non_who,105,100.0,105
+83423,South Africa,2020-06-22,non_who,190,100.0,190
+83447,South Africa,2020-07-06,non_who,290,100.0,290
+83471,South Africa,2020-07-20,non_who,470,100.0,470
+83495,South Africa,2020-08-03,non_who,551,100.0,551
+83519,South Africa,2020-08-17,non_who,220,100.0,220
+83543,South Africa,2020-08-31,non_who,116,89.92,129
+83567,South Africa,2020-09-14,non_who,312,87.64,356
+83591,South Africa,2020-09-28,non_who,162,72.65,223
+83615,South Africa,2020-10-12,non_who,245,80.59,304
+83639,South Africa,2020-10-26,non_who,219,61.17,358
+83663,South Africa,2020-11-09,non_who,227,47.49,478
+83687,South Africa,2020-11-23,non_who,121,28.95,418
+83711,South Africa,2020-12-07,non_who,58,11.89,488
+83735,South Africa,2020-12-21,non_who,29,5.31,546
+83759,South Africa,2021-01-04,non_who,45,5.15,874
+83783,South Africa,2021-01-11,non_who,59,8.83,668
+83807,South Africa,2021-01-25,non_who,22,3.88,566
+83831,South Africa,2021-02-08,non_who,11,2.8,393
+83855,South Africa,2021-02-22,non_who,6,2.03,296
+83879,South Africa,2021-03-08,non_who,5,2.23,225
+83903,South Africa,2021-03-22,non_who,20,4.47,448
+83927,South Africa,2021-04-05,non_who,20,6.17,324
+83951,South Africa,2021-04-19,non_who,18,7.2,250
+83975,South Africa,2021-05-03,non_who,33,8.46,390
+83999,South Africa,2021-05-17,non_who,63,11.56,545
+84023,South Africa,2021-05-31,non_who,55,8.52,646
+84047,South Africa,2021-06-14,non_who,104,9.44,1101
+84071,South Africa,2021-06-28,non_who,126,7.58,1661
+84095,South Africa,2021-07-12,non_who,129,5.8,2226
+84119,South Africa,2021-07-26,non_who,65,3.9,1667
+84143,South Africa,2021-08-09,non_who,60,3.76,1601
+84167,South Africa,2021-08-23,non_who,27,2.18,1242
+84191,South Africa,2021-09-06,non_who,30,2.36,1269
+84215,South Africa,2021-09-20,non_who,39,4.22,925
+84239,South Africa,2021-10-04,non_who,29,5.55,522
+84263,South Africa,2021-10-18,non_who,28,6.18,453
+84287,South Africa,2021-11-01,non_who,8,3.83,209
+84311,South Africa,2021-11-15,non_who,9,7.76,116
+84335,South Africa,2021-11-29,non_who,15,1.81,829
+84359,South Africa,2021-12-13,non_who,30,2.67,1121
+84383,South Africa,2021-12-27,non_who,4,6.15,65
+84407,South Korea,2020-05-11,non_who,48,100.0,48
+84431,South Korea,2020-05-25,non_who,64,100.0,64
+84455,South Korea,2020-06-08,non_who,165,100.0,165
+84479,South Korea,2020-06-22,non_who,108,100.0,108
+84503,South Korea,2020-07-06,non_who,159,100.0,159
+84527,South Korea,2020-07-20,non_who,110,100.0,110
+84551,South Korea,2020-08-03,non_who,98,100.0,98
+84575,South Korea,2020-08-17,non_who,123,100.0,123
+84599,South Korea,2020-08-31,non_who,176,100.0,176
+84623,South Korea,2020-09-14,non_who,64,100.0,64
+84647,South Korea,2020-09-28,non_who,63,100.0,63
+84671,South Korea,2020-10-12,non_who,57,100.0,57
+84695,South Korea,2020-10-26,non_who,84,100.0,84
+84719,South Korea,2020-11-09,non_who,77,100.0,77
+84743,South Korea,2020-11-23,non_who,171,100.0,171
+84767,South Korea,2020-12-07,non_who,160,100.0,160
+84791,South Korea,2020-12-21,non_who,169,94.95,178
+84815,South Korea,2021-01-04,non_who,168,89.85,187
+84839,South Korea,2021-01-11,non_who,67,93.05,72
+84863,South Korea,2021-01-25,non_who,118,80.82,146
+84887,South Korea,2021-02-08,non_who,149,75.63,197
+84911,South Korea,2021-02-22,non_who,179,73.97,242
+84935,South Korea,2021-03-08,non_who,216,83.71,258
+84959,South Korea,2021-03-22,non_who,244,90.03,271
+84983,South Korea,2021-04-05,non_who,236,72.84,324
+85007,South Korea,2021-04-19,non_who,297,72.78,408
+85031,South Korea,2021-05-03,non_who,317,59.8,530
+85055,South Korea,2021-05-17,non_who,129,57.84,223
+85079,South Korea,2021-05-31,non_who,185,88.1,210
+85103,South Korea,2021-06-14,non_who,414,87.53,473
+85127,South Korea,2021-06-28,non_who,324,56.35,575
+85151,South Korea,2021-07-12,non_who,285,39.86,715
+85175,South Korea,2021-07-26,non_who,303,28.54,1062
+85199,South Korea,2021-08-09,non_who,119,12.4,960
+85223,South Korea,2021-08-23,non_who,27,2.97,909
+85247,South Korea,2021-09-06,non_who,10,0.76,1318
+85271,South Korea,2021-09-20,non_who,5,0.41,1216
+85295,South Korea,2021-10-04,non_who,1,0.1,943
+85319,South Korea,2021-10-18,non_who,0,0.0,1137
+85343,South Korea,2021-11-01,non_who,0,0.0,1562
+85367,South Korea,2021-11-15,non_who,0,0.0,1574
+85391,South Korea,2021-11-29,non_who,0,0.0,1368
+85415,South Korea,2021-12-13,non_who,0,0.0,1620
+85439,South Korea,2021-12-27,non_who,0,0.0,393
+85463,Spain,2020-05-11,non_who,180,100.0,180
+85487,Spain,2020-05-25,non_who,95,100.0,95
+85511,Spain,2020-06-08,non_who,63,100.0,63
+85535,Spain,2020-06-22,non_who,73,100.0,73
+85559,Spain,2020-07-06,non_who,140,100.0,140
+85583,Spain,2020-07-20,non_who,149,100.0,149
+85607,Spain,2020-08-03,non_who,170,100.0,170
+85631,Spain,2020-08-17,non_who,251,100.0,251
+85655,Spain,2020-08-31,non_who,281,100.0,281
+85679,Spain,2020-09-14,non_who,444,100.0,444
+85703,Spain,2020-09-28,non_who,488,100.0,488
+85727,Spain,2020-10-12,non_who,513,100.0,513
+85751,Spain,2020-10-26,non_who,478,100.0,478
+85775,Spain,2020-11-09,non_who,355,98.61,360
+85799,Spain,2020-11-23,non_who,406,99.27,409
+85823,Spain,2020-12-07,non_who,470,99.79,471
+85847,Spain,2020-12-21,non_who,963,99.59,967
+85871,Spain,2021-01-04,non_who,938,85.66,1095
+85895,Spain,2021-01-11,non_who,350,55.38,632
+85919,Spain,2021-01-25,non_who,1783,68.05,2620
+85943,Spain,2021-02-08,non_who,2038,66.98,3043
+85967,Spain,2021-02-22,non_who,1349,51.33,2628
+85991,Spain,2021-03-08,non_who,911,34.06,2674
+86015,Spain,2021-03-22,non_who,477,19.62,2431
+86039,Spain,2021-04-05,non_who,246,8.81,2788
+86063,Spain,2021-04-19,non_who,169,5.72,2957
+86087,Spain,2021-05-03,non_who,82,2.91,2815
+86111,Spain,2021-05-17,non_who,77,2.3,3341
+86135,Spain,2021-05-31,non_who,80,3.04,2613
+86159,Spain,2021-06-14,non_who,145,4.49,3221
+86183,Spain,2021-06-28,non_who,109,3.62,3000
+86207,Spain,2021-07-12,non_who,48,0.81,5987
+86231,Spain,2021-07-26,non_who,27,0.52,5278
+86255,Spain,2021-08-09,non_who,25,0.46,5388
+86279,Spain,2021-08-23,non_who,23,0.63,3647
+86303,Spain,2021-09-06,non_who,18,0.55,3246
+86327,Spain,2021-09-20,non_who,5,0.23,2186
+86351,Spain,2021-10-04,non_who,3,0.2,1510
+86375,Spain,2021-10-18,non_who,1,0.09,1213
+86399,Spain,2021-11-01,non_who,0,0.0,1559
+86423,Spain,2021-11-15,non_who,2,0.12,1713
+86447,Spain,2021-11-29,non_who,0,0.0,2010
+86471,Spain,2021-12-13,non_who,1,0.05,2121
+86495,Spain,2021-12-27,non_who,1,0.1,991
+86519,Sri Lanka,2020-05-11,non_who,1,100.0,1
+86543,Sri Lanka,2020-06-22,non_who,1,100.0,1
+86567,Sri Lanka,2020-08-03,non_who,4,100.0,4
+86591,Sri Lanka,2020-10-12,non_who,3,100.0,3
+86615,Sri Lanka,2020-10-26,non_who,11,100.0,11
+86639,Sri Lanka,2020-11-09,non_who,8,100.0,8
+86663,Sri Lanka,2020-11-23,non_who,2,100.0,2
+86687,Sri Lanka,2020-12-07,non_who,6,100.0,6
+86711,Sri Lanka,2020-12-21,non_who,1,100.0,1
+86735,Sri Lanka,2021-01-04,non_who,9,90.0,10
+86759,Sri Lanka,2021-01-11,non_who,3,100.0,3
+86783,Sri Lanka,2021-01-25,non_who,50,92.59,54
+86807,Sri Lanka,2021-02-08,non_who,57,82.61,69
+86831,Sri Lanka,2021-02-22,non_who,50,96.15,52
+86855,Sri Lanka,2021-03-08,non_who,18,75.0,24
+86879,Sri Lanka,2021-03-22,non_who,39,81.25,48
+86903,Sri Lanka,2021-04-05,non_who,8,66.66,12
+86927,Sri Lanka,2021-04-19,non_who,4,50.0,8
+86951,Sri Lanka,2021-05-03,non_who,6,9.09,66
+86975,Sri Lanka,2021-05-17,non_who,4,9.09,44
+86999,Sri Lanka,2021-05-31,non_who,2,4.65,43
+87023,Sri Lanka,2021-06-14,non_who,1,1.64,61
+87047,Sri Lanka,2021-06-28,non_who,6,4.23,142
+87071,Sri Lanka,2021-07-12,non_who,1,1.4,71
+87095,Sri Lanka,2021-07-26,non_who,1,1.22,82
+87119,Sri Lanka,2021-08-09,non_who,1,0.84,118
+87143,Sri Lanka,2021-08-23,non_who,0,0.0,103
+87167,Sri Lanka,2021-09-06,non_who,0,0.0,223
+87191,Sri Lanka,2021-09-20,non_who,0,0.0,143
+87215,Sri Lanka,2021-10-04,non_who,0,0.0,83
+87239,Sri Lanka,2021-10-18,non_who,5,2.97,168
+87263,Sri Lanka,2021-11-01,non_who,0,0.0,106
+87287,Sri Lanka,2021-11-15,non_who,0,0.0,84
+87311,Sri Lanka,2021-11-29,non_who,0,0.0,101
+87335,Sri Lanka,2021-12-13,non_who,0,0.0,197
+87359,Sri Lanka,2021-12-27,non_who,4,2.1,191
+87383,Sri Lanka,2022-01-05,non_who,1,9.09,11
+87407,Suriname,2020-05-11,non_who,1,100.0,1
+87431,Suriname,2020-06-22,non_who,3,100.0,3
+87455,Suriname,2020-07-06,non_who,33,100.0,33
+87479,Suriname,2020-07-20,non_who,24,100.0,24
+87503,Suriname,2020-08-03,non_who,2,100.0,2
+87527,Suriname,2020-08-17,non_who,22,100.0,22
+87551,Suriname,2020-08-31,non_who,3,100.0,3
+87575,Suriname,2020-12-21,non_who,10,100.0,10
+87599,Suriname,2021-01-04,non_who,6,100.0,6
+87623,Suriname,2021-01-25,non_who,17,100.0,17
+87647,Suriname,2021-02-08,non_who,8,100.0,8
+87671,Suriname,2021-02-22,non_who,8,88.89,9
+87695,Suriname,2021-03-08,non_who,25,80.65,31
+87719,Suriname,2021-03-22,non_who,7,53.85,13
+87743,Suriname,2021-04-05,non_who,16,28.08,57
+87767,Suriname,2021-04-19,non_who,12,24.49,49
+87791,Suriname,2021-05-03,non_who,4,17.39,23
+87815,Suriname,2021-05-17,non_who,3,6.98,43
+87839,Suriname,2021-05-31,non_who,2,3.78,53
+87863,Suriname,2021-06-14,non_who,2,5.41,37
+87887,Suriname,2021-06-28,non_who,2,4.0,50
+87911,Suriname,2021-07-12,non_who,3,7.69,39
+87935,Suriname,2021-07-26,non_who,2,5.72,35
+87959,Suriname,2021-08-09,non_who,1,2.0,50
+87983,Suriname,2021-08-23,non_who,0,0.0,43
+88007,Suriname,2021-09-06,non_who,0,0.0,57
+88031,Suriname,2021-09-20,non_who,0,0.0,64
+88055,Suriname,2021-10-04,non_who,0,0.0,31
+88079,Suriname,2021-10-18,non_who,0,0.0,39
+88103,Suriname,2021-11-01,non_who,0,0.0,16
+88127,Suriname,2021-11-15,non_who,0,0.0,23
+88151,Suriname,2021-11-29,non_who,0,0.0,17
+88175,Suriname,2021-12-13,non_who,0,0.0,23
+88199,Sweden,2020-05-11,non_who,52,100.0,52
+88223,Sweden,2020-05-25,non_who,81,100.0,81
+88247,Sweden,2020-06-08,non_who,83,100.0,83
+88271,Sweden,2020-06-22,non_who,36,100.0,36
+88295,Sweden,2020-07-06,non_who,43,100.0,43
+88319,Sweden,2020-07-20,non_who,40,100.0,40
+88343,Sweden,2020-08-03,non_who,15,100.0,15
+88367,Sweden,2020-08-17,non_who,41,100.0,41
+88391,Sweden,2020-08-31,non_who,43,100.0,43
+88415,Sweden,2020-09-14,non_who,38,100.0,38
+88439,Sweden,2020-09-28,non_who,54,100.0,54
+88463,Sweden,2020-10-12,non_who,44,97.78,45
+88487,Sweden,2020-10-26,non_who,43,100.0,43
+88511,Sweden,2020-11-09,non_who,120,96.0,125
+88535,Sweden,2020-11-23,non_who,102,97.15,105
+88559,Sweden,2020-12-07,non_who,145,100.0,145
+88583,Sweden,2020-12-21,non_who,173,99.43,174
+88607,Sweden,2021-01-04,non_who,492,91.96,535
+88631,Sweden,2021-01-11,non_who,229,79.23,289
+88655,Sweden,2021-01-25,non_who,1984,90.05,2203
+88679,Sweden,2021-02-08,non_who,4003,72.17,5546
+88703,Sweden,2021-02-22,non_who,3262,35.05,9307
+88727,Sweden,2021-03-08,non_who,2010,17.8,11288
+88751,Sweden,2021-03-22,non_who,1061,7.91,13397
+88775,Sweden,2021-04-05,non_who,357,3.44,10365
+88799,Sweden,2021-04-19,non_who,182,2.44,7416
+88823,Sweden,2021-05-03,non_who,138,2.05,6766
+88847,Sweden,2021-05-17,non_who,47,0.67,7046
+88871,Sweden,2021-05-31,non_who,42,0.8,5268
+88895,Sweden,2021-06-14,non_who,38,0.99,3876
+88919,Sweden,2021-06-28,non_who,30,0.9,3329
+88943,Sweden,2021-07-12,non_who,29,1.31,2229
+88967,Sweden,2021-07-26,non_who,14,0.41,3358
+88991,Sweden,2021-08-09,non_who,1,0.02,4585
+89015,Sweden,2021-08-23,non_who,0,0.0,6148
+89039,Sweden,2021-09-06,non_who,0,0.0,5028
+89063,Sweden,2021-09-20,non_who,0,0.0,4183
+89087,Sweden,2021-10-04,non_who,0,0.0,3358
+89111,Sweden,2021-10-18,non_who,0,0.0,2824
+89135,Sweden,2021-11-01,non_who,1,0.02,4604
+89159,Sweden,2021-11-15,non_who,1,0.02,4812
+89183,Sweden,2021-11-29,non_who,0,0.0,4120
+89207,Sweden,2021-12-13,non_who,2,0.06,3572
+89231,Sweden,2021-12-27,non_who,28,2.26,1239
+89255,Switzerland,2020-05-11,non_who,106,100.0,106
+89279,Switzerland,2020-05-25,non_who,23,100.0,23
+89303,Switzerland,2020-06-08,non_who,27,100.0,27
+89327,Switzerland,2020-06-22,non_who,25,100.0,25
+89351,Switzerland,2020-07-06,non_who,89,100.0,89
+89375,Switzerland,2020-07-20,non_who,169,100.0,169
+89399,Switzerland,2020-08-03,non_who,145,100.0,145
+89423,Switzerland,2020-08-17,non_who,174,100.0,174
+89447,Switzerland,2020-08-31,non_who,306,100.0,306
+89471,Switzerland,2020-09-14,non_who,288,100.0,288
+89495,Switzerland,2020-09-28,non_who,52,100.0,52
+89519,Switzerland,2020-10-12,non_who,448,100.0,448
+89543,Switzerland,2020-10-26,non_who,998,100.0,998
+89567,Switzerland,2020-11-09,non_who,1607,100.0,1607
+89591,Switzerland,2020-11-23,non_who,1671,99.17,1685
+89615,Switzerland,2020-12-07,non_who,1412,99.37,1421
+89639,Switzerland,2020-12-21,non_who,2407,99.22,2426
+89663,Switzerland,2021-01-04,non_who,3124,96.75,3229
+89687,Switzerland,2021-01-11,non_who,1581,88.57,1785
+89711,Switzerland,2021-01-25,non_who,3113,87.37,3563
+89735,Switzerland,2021-02-08,non_who,1807,59.19,3053
+89759,Switzerland,2021-02-22,non_who,696,38.27,1819
+89783,Switzerland,2021-03-08,non_who,396,20.46,1936
+89807,Switzerland,2021-03-22,non_who,253,10.02,2524
+89831,Switzerland,2021-04-05,non_who,150,5.95,2521
+89855,Switzerland,2021-04-19,non_who,145,4.54,3200
+89879,Switzerland,2021-05-03,non_who,184,4.56,4034
+89903,Switzerland,2021-05-17,non_who,127,4.42,2882
+89927,Switzerland,2021-05-31,non_who,100,4.51,2210
+89951,Switzerland,2021-06-14,non_who,41,3.7,1108
+89975,Switzerland,2021-06-28,non_who,21,4.39,479
+89999,Switzerland,2021-07-12,non_who,28,2.93,963
+90023,Switzerland,2021-07-26,non_who,21,0.71,2932
+90047,Switzerland,2021-08-09,non_who,62,1.35,4623
+90071,Switzerland,2021-08-23,non_who,9,0.14,6633
+90095,Switzerland,2021-09-06,non_who,3,0.07,4379
+90119,Switzerland,2021-09-20,non_who,1,0.02,4396
+90143,Switzerland,2021-10-04,non_who,0,0.0,3784
+90167,Switzerland,2021-10-18,non_who,1,0.03,3230
+90191,Switzerland,2021-11-01,non_who,7,0.13,5102
+90215,Switzerland,2021-11-15,non_who,1,0.02,6584
+90239,Switzerland,2021-11-29,non_who,0,-0.01,6568
+90263,Switzerland,2021-12-13,non_who,1,0.02,4811
+90287,Switzerland,2021-12-27,non_who,0,0.0,1330
+90311,Thailand,2020-08-03,non_who,5,100.0,5
+90335,Thailand,2020-08-31,non_who,2,100.0,2
+90359,Thailand,2020-09-28,non_who,2,100.0,2
+90383,Thailand,2020-10-12,non_who,7,100.0,7
+90407,Thailand,2020-10-26,non_who,7,100.0,7
+90431,Thailand,2020-11-09,non_who,6,100.0,6
+90455,Thailand,2020-11-23,non_who,9,100.0,9
+90479,Thailand,2020-12-07,non_who,18,100.0,18
+90503,Thailand,2020-12-21,non_who,76,100.0,76
+90527,Thailand,2021-01-04,non_who,36,97.3,37
+90551,Thailand,2021-01-11,non_who,45,95.74,47
+90575,Thailand,2021-01-25,non_who,30,90.91,33
+90599,Thailand,2021-02-08,non_who,25,75.76,33
+90623,Thailand,2021-02-22,non_who,95,87.96,108
+90647,Thailand,2021-03-08,non_who,20,68.96,29
+90671,Thailand,2021-03-22,non_who,25,75.76,33
+90695,Thailand,2021-04-05,non_who,8,27.58,29
+90719,Thailand,2021-04-19,non_who,9,6.97,129
+90743,Thailand,2021-05-03,non_who,2,2.02,99
+90767,Thailand,2021-05-17,non_who,13,2.21,589
+90791,Thailand,2021-05-31,non_who,22,3.59,613
+90815,Thailand,2021-06-14,non_who,0,0.01,274
+90839,Thailand,2021-06-28,non_who,2,0.52,391
+90863,Thailand,2021-07-12,non_who,0,0.01,208
+90887,Thailand,2021-07-26,non_who,2,0.34,590
+90911,Thailand,2021-08-09,non_who,1,0.33,298
+90935,Thailand,2021-08-23,non_who,0,0.0,310
+90959,Thailand,2021-09-06,non_who,0,0.01,308
+90983,Thailand,2021-09-20,non_who,1,0.24,437
+91007,Thailand,2021-10-04,non_who,0,0.0,807
+91031,Thailand,2021-10-18,non_who,0,0.0,951
+91055,Thailand,2021-11-01,non_who,0,0.0,948
+91079,Thailand,2021-11-15,non_who,0,0.0,586
+91103,Thailand,2021-11-29,non_who,0,0.0,516
+91127,Thailand,2021-12-13,non_who,0,0.0,460
+91151,Thailand,2021-12-27,non_who,0,0.0,23
+91175,Togo,2020-05-25,non_who,3,100.0,3
+91199,Togo,2020-06-08,non_who,4,100.0,4
+91223,Togo,2020-07-20,non_who,2,100.0,2
+91247,Togo,2020-09-28,non_who,5,100.0,5
+91271,Togo,2020-10-12,non_who,1,100.0,1
+91295,Togo,2020-11-23,non_who,1,100.0,1
+91319,Togo,2020-12-07,non_who,1,100.0,1
+91343,Togo,2020-12-21,non_who,8,100.0,8
+91367,Togo,2021-01-04,non_who,5,100.0,5
+91391,Togo,2021-01-25,non_who,3,50.0,6
+91415,Togo,2021-02-08,non_who,23,57.5,40
+91439,Togo,2021-02-22,non_who,11,27.5,40
+91463,Togo,2021-03-08,non_who,14,38.89,36
+91487,Togo,2021-03-22,non_who,3,25.0,12
+91511,Togo,2021-04-05,non_who,2,25.0,8
+91535,Togo,2021-04-19,non_who,4,28.57,14
+91559,Togo,2021-05-03,non_who,2,25.0,8
+91583,Togo,2021-06-14,non_who,9,36.0,25
+91607,Togo,2021-06-28,non_who,6,22.23,27
+91631,Togo,2021-07-12,non_who,3,12.5,24
+91655,Togo,2021-07-26,non_who,1,4.17,24
+91679,Togo,2021-08-09,non_who,0,0.0,44
+91703,Trinidad and Tobago,2020-06-22,non_who,1,100.0,1
+91727,Trinidad and Tobago,2020-08-17,non_who,1,100.0,1
+91751,Trinidad and Tobago,2020-08-31,non_who,10,100.0,10
+91775,Trinidad and Tobago,2020-09-14,non_who,5,100.0,5
+91799,Trinidad and Tobago,2020-09-28,non_who,1,100.0,1
+91823,Trinidad and Tobago,2020-11-09,non_who,4,100.0,4
+91847,Trinidad and Tobago,2020-11-23,non_who,1,100.0,1
+91871,Trinidad and Tobago,2020-12-07,non_who,9,100.0,9
+91895,Trinidad and Tobago,2020-12-21,non_who,3,100.0,3
+91919,Trinidad and Tobago,2021-01-25,non_who,0,0.0,1
+91943,Trinidad and Tobago,2021-02-22,non_who,4,100.0,4
+91967,Trinidad and Tobago,2021-03-08,non_who,2,100.0,2
+91991,Trinidad and Tobago,2021-03-22,non_who,6,100.0,6
+92015,Trinidad and Tobago,2021-04-05,non_who,3,37.5,8
+92039,Trinidad and Tobago,2021-04-19,non_who,64,91.43,70
+92063,Trinidad and Tobago,2021-05-03,non_who,88,44.67,197
+92087,Trinidad and Tobago,2021-05-17,non_who,15,10.56,142
+92111,Trinidad and Tobago,2021-05-31,non_who,1,3.57,28
+92135,Trinidad and Tobago,2021-06-14,non_who,0,0.0,23
+92159,Trinidad and Tobago,2021-06-28,non_who,0,0.0,11
+92183,Trinidad and Tobago,2021-07-12,non_who,0,0.0,8
+92207,Trinidad and Tobago,2021-07-26,non_who,0,0.0,12
+92231,Trinidad and Tobago,2021-08-09,non_who,4,8.0,50
+92255,Trinidad and Tobago,2021-08-23,non_who,0,0.0,60
+92279,Trinidad and Tobago,2021-09-06,non_who,1,6.66,15
+92303,Trinidad and Tobago,2021-09-20,non_who,1,2.0,50
+92327,Trinidad and Tobago,2021-10-04,non_who,0,0.0,65
+92351,Trinidad and Tobago,2021-10-18,non_who,0,0.0,124
+92375,Trinidad and Tobago,2021-11-01,non_who,0,0.0,117
+92399,Trinidad and Tobago,2021-11-15,non_who,0,0.0,162
+92423,Trinidad and Tobago,2021-11-29,non_who,2,1.89,106
+92447,Trinidad and Tobago,2021-12-13,non_who,0,0.0,105
+92471,Trinidad and Tobago,2021-12-27,non_who,0,0.0,35
+92495,Turkey,2020-05-11,non_who,95,100.0,95
+92519,Turkey,2020-05-25,non_who,74,100.0,74
+92543,Turkey,2020-06-08,non_who,33,100.0,33
+92567,Turkey,2020-06-22,non_who,21,100.0,21
+92591,Turkey,2020-07-06,non_who,20,100.0,20
+92615,Turkey,2020-07-20,non_who,1,100.0,1
+92639,Turkey,2020-08-03,non_who,10,100.0,10
+92663,Turkey,2020-08-17,non_who,4,100.0,4
+92687,Turkey,2020-08-31,non_who,10,100.0,10
+92711,Turkey,2020-09-14,non_who,11,100.0,11
+92735,Turkey,2020-09-28,non_who,11,100.0,11
+92759,Turkey,2020-10-12,non_who,2,100.0,2
+92783,Turkey,2020-10-26,non_who,2,100.0,2
+92807,Turkey,2020-11-23,non_who,32,100.0,32
+92831,Turkey,2020-12-07,non_who,1,100.0,1
+92855,Turkey,2020-12-21,non_who,24,100.0,24
+92879,Turkey,2021-01-04,non_who,52,77.61,67
+92903,Turkey,2021-01-11,non_who,4,33.33,12
+92927,Turkey,2021-01-25,non_who,74,32.18,230
+92951,Turkey,2021-02-08,non_who,115,34.33,335
+92975,Turkey,2021-02-22,non_who,814,73.73,1104
+92999,Turkey,2021-03-08,non_who,976,85.99,1135
+93023,Turkey,2021-03-22,non_who,459,46.93,978
+93047,Turkey,2021-04-05,non_who,1149,83.56,1375
+93071,Turkey,2021-04-19,non_who,4,19.04,21
+93095,Turkey,2021-05-03,non_who,141,97.92,144
+93119,Turkey,2021-05-17,non_who,282,96.58,292
+93143,Turkey,2021-05-31,non_who,263,90.69,290
+93167,Turkey,2021-06-14,non_who,86,31.85,270
+93191,Turkey,2021-06-28,non_who,462,40.43,1143
+93215,Turkey,2021-07-12,non_who,135,3.34,4053
+93239,Turkey,2021-07-26,non_who,835,66.26,1260
+93263,Turkey,2021-08-09,non_who,5670,45.58,12442
+93287,Turkey,2021-08-23,non_who,4700,14.44,32547
+93311,Turkey,2021-09-06,non_who,0,0.0,1319
+93335,Turkey,2021-09-20,non_who,0,0.0,2714
+93359,Turkey,2021-10-04,non_who,0,0.0,3008
+93383,Turkey,2021-10-18,non_who,0,0.0,1716
+93407,Turkey,2021-11-01,non_who,0,0.0,361
+93431,Turkey,2021-11-15,non_who,0,0.0,2426
+93455,Turkey,2021-11-29,non_who,1,0.04,2383
+93479,Turkey,2021-12-13,non_who,0,0.0,2782
+93503,Turkey,2021-12-27,non_who,3,0.14,2100
+93527,Uganda,2020-05-11,non_who,27,100.0,27
+93551,Uganda,2020-05-25,non_who,1,100.0,1
+93575,Uganda,2020-07-06,non_who,4,100.0,4
+93599,Uganda,2020-07-20,non_who,2,100.0,2
+93623,Uganda,2020-08-03,non_who,9,100.0,9
+93647,Uganda,2020-08-17,non_who,31,100.0,31
+93671,Uganda,2020-08-31,non_who,27,100.0,27
+93695,Uganda,2020-09-14,non_who,37,100.0,37
+93719,Uganda,2020-09-28,non_who,10,100.0,10
+93743,Uganda,2020-10-12,non_who,8,100.0,8
+93767,Uganda,2020-10-26,non_who,2,100.0,2
+93791,Uganda,2020-11-09,non_who,26,100.0,26
+93815,Uganda,2020-11-23,non_who,29,100.0,29
+93839,Uganda,2020-12-07,non_who,2,100.0,2
+93863,Uganda,2020-12-21,non_who,39,100.0,39
+93887,Uganda,2021-01-04,non_who,59,100.0,59
+93911,Uganda,2021-01-25,non_who,25,100.0,25
+93935,Uganda,2021-02-08,non_who,2,100.0,2
+93959,Uganda,2021-02-22,non_who,6,75.0,8
+93983,Uganda,2021-03-08,non_who,6,66.67,9
+94007,Uganda,2021-03-22,non_who,7,70.0,10
+94031,Uganda,2021-04-05,non_who,7,26.92,26
+94055,Uganda,2021-04-19,non_who,12,70.59,17
+94079,Uganda,2021-05-03,non_who,4,36.37,11
+94103,Uganda,2021-05-17,non_who,2,11.76,17
+94127,Uganda,2021-05-31,non_who,0,0.0,21
+94151,Uganda,2021-06-14,non_who,5,2.91,172
+94175,Uganda,2021-06-28,non_who,6,5.26,114
+94199,Uganda,2021-07-12,non_who,0,0.0,12
+94223,Uganda,2021-07-26,non_who,1,6.67,15
+94247,Uganda,2021-08-09,non_who,1,5.88,17
+94271,Uganda,2021-08-23,non_who,0,0.0,5
+94295,Uganda,2021-12-13,non_who,0,0.0,1
+94319,Ukraine,2020-05-11,non_who,2,100.0,2
+94343,Ukraine,2020-05-25,non_who,9,100.0,9
+94367,Ukraine,2020-06-08,non_who,23,100.0,23
+94391,Ukraine,2020-07-06,non_who,14,100.0,14
+94415,Ukraine,2020-07-20,non_who,3,100.0,3
+94439,Ukraine,2020-08-03,non_who,3,100.0,3
+94463,Ukraine,2020-08-17,non_who,10,100.0,10
+94487,Ukraine,2020-09-28,non_who,2,100.0,2
+94511,Ukraine,2020-10-12,non_who,3,100.0,3
+94535,Ukraine,2020-10-26,non_who,2,100.0,2
+94559,Ukraine,2020-11-23,non_who,1,100.0,1
+94583,Ukraine,2020-12-07,non_who,1,100.0,1
+94607,Ukraine,2021-01-04,non_who,45,100.0,45
+94631,Ukraine,2021-01-11,non_who,27,100.0,27
+94655,Ukraine,2021-01-25,non_who,25,100.0,25
+94679,Ukraine,2021-02-22,non_who,1,16.67,6
+94703,Ukraine,2021-03-08,non_who,3,11.54,26
+94727,Ukraine,2021-03-22,non_who,0,0.0,36
+94751,Ukraine,2021-04-05,non_who,1,50.0,2
+94775,Ukraine,2021-05-17,non_who,1,25.0,4
+94799,Ukraine,2021-05-31,non_who,0,0.0,21
+94823,Ukraine,2021-06-14,non_who,0,0.0,3
+94847,Ukraine,2021-06-28,non_who,3,6.97,43
+94871,Ukraine,2021-07-12,non_who,1,3.03,33
+94895,Ukraine,2021-07-26,non_who,0,0.0,32
+94919,Ukraine,2021-09-06,non_who,0,0.0,10
+94943,Ukraine,2021-09-20,non_who,0,0.0,41
+94967,Ukraine,2021-10-04,non_who,0,0.0,12
+94991,Ukraine,2021-10-18,non_who,0,0.0,2
+95015,Ukraine,2021-11-01,non_who,0,0.0,106
+95039,Ukraine,2021-11-15,non_who,0,0.0,10
+95063,Ukraine,2021-11-29,non_who,0,0.0,48
+95087,Ukraine,2021-12-13,non_who,0,0.0,8
+95111,Ukraine,2021-12-27,non_who,0,0.0,1
+95135,United Arab Emirates,2020-05-11,non_who,133,100.0,133
+95159,United Arab Emirates,2020-05-25,non_who,891,100.0,891
+95183,United Arab Emirates,2020-06-08,non_who,18,100.0,18
+95207,United Arab Emirates,2020-06-22,non_who,106,100.0,106
+95231,United Arab Emirates,2020-07-06,non_who,151,100.0,151
+95255,United Arab Emirates,2020-07-20,non_who,4,100.0,4
+95279,United Arab Emirates,2020-08-17,non_who,6,100.0,6
+95303,United Arab Emirates,2020-08-31,non_who,64,98.46,65
+95327,United Arab Emirates,2020-09-14,non_who,24,100.0,24
+95351,United Arab Emirates,2020-09-28,non_who,39,100.0,39
+95375,United Arab Emirates,2020-10-12,non_who,67,97.1,69
+95399,United Arab Emirates,2020-10-26,non_who,56,100.0,56
+95423,United Arab Emirates,2020-11-09,non_who,21,100.0,21
+95447,United Arab Emirates,2020-11-23,non_who,64,95.52,67
+95471,United Arab Emirates,2020-12-07,non_who,56,98.25,57
+95495,United Arab Emirates,2020-12-21,non_who,37,92.5,40
+95519,United Arab Emirates,2021-01-04,non_who,110,70.96,155
+95543,United Arab Emirates,2021-01-11,non_who,46,57.5,80
+95567,United Arab Emirates,2021-01-25,non_who,57,39.86,143
+95591,United Arab Emirates,2021-02-08,non_who,88,27.16,324
+95615,United Arab Emirates,2021-02-22,non_who,2,14.29,14
+95639,United Arab Emirates,2021-05-03,non_who,0,0.0,5
+95663,United Arab Emirates,2021-06-14,non_who,0,0.0,2
+95687,United Arab Emirates,2021-06-28,non_who,0,0.0,20
+95711,United Kingdom,2020-05-11,non_who,4753,100.0,4753
+95735,United Kingdom,2020-05-25,non_who,2767,100.0,2767
+95759,United Kingdom,2020-06-08,non_who,1761,100.0,1761
+95783,United Kingdom,2020-06-22,non_who,4716,100.0,4716
+95807,United Kingdom,2020-07-06,non_who,2286,100.0,2286
+95831,United Kingdom,2020-07-20,non_who,1088,100.0,1088
+95855,United Kingdom,2020-08-03,non_who,1190,100.0,1190
+95879,United Kingdom,2020-08-17,non_who,2357,100.0,2357
+95903,United Kingdom,2020-08-31,non_who,4144,100.0,4144
+95927,United Kingdom,2020-09-14,non_who,5667,100.0,5667
+95951,United Kingdom,2020-09-28,non_who,9719,99.97,9722
+95975,United Kingdom,2020-10-12,non_who,11591,99.94,11598
+95999,United Kingdom,2020-10-26,non_who,16154,99.77,16191
+96023,United Kingdom,2020-11-09,non_who,17579,98.04,17930
+96047,United Kingdom,2020-11-23,non_who,16615,92.18,18024
+96071,United Kingdom,2020-12-07,non_who,7393,87.34,8465
+96095,United Kingdom,2020-12-21,non_who,12850,59.38,21638
+96119,United Kingdom,2021-01-04,non_who,6730,35.83,18777
+96143,United Kingdom,2021-01-11,non_who,3025,23.87,12673
+96167,United Kingdom,2021-01-25,non_who,4953,16.06,30847
+96191,United Kingdom,2021-02-08,non_who,2564,7.67,33472
+96215,United Kingdom,2021-02-22,non_who,1229,3.74,32917
+96239,United Kingdom,2021-03-08,non_who,660,2.17,30391
+96263,United Kingdom,2021-03-22,non_who,456,1.3,35371
+96287,United Kingdom,2021-04-05,non_who,236,0.81,29673
+96311,United Kingdom,2021-04-19,non_who,177,1.1,15908
+96335,United Kingdom,2021-05-03,non_who,145,1.01,14275
+96359,United Kingdom,2021-05-17,non_who,187,1.31,14374
+96383,United Kingdom,2021-05-31,non_who,101,0.42,23824
+96407,United Kingdom,2021-06-14,non_who,90,0.24,37317
+96431,United Kingdom,2021-06-28,non_who,79,0.19,43442
+96455,United Kingdom,2021-07-12,non_who,24,0.04,56140
+96479,United Kingdom,2021-07-26,non_who,23,0.05,57203
+96503,United Kingdom,2021-08-09,non_who,13,0.02,64528
+96527,United Kingdom,2021-08-23,non_who,10,0.02,63959
+96551,United Kingdom,2021-09-06,non_who,24,0.03,77119
+96575,United Kingdom,2021-09-20,non_who,2,0.01,77089
+96599,United Kingdom,2021-10-04,non_who,61,0.09,75474
+96623,United Kingdom,2021-10-18,non_who,20,0.03,76720
+96647,United Kingdom,2021-11-01,non_who,5,0.01,86068
+96671,United Kingdom,2021-11-15,non_who,9,0.01,96946
+96695,United Kingdom,2021-11-29,non_who,18,0.02,112772
+96719,United Kingdom,2021-12-13,non_who,61,0.05,127342
+96743,United Kingdom,2021-12-27,non_who,108,0.13,80002
+96767,United Kingdom,2022-01-05,non_who,0,0.0,562
+96791,United States,2020-05-11,non_who,5804,100.0,5804
+96815,United States,2020-05-25,non_who,4736,100.0,4736
+96839,United States,2020-06-08,non_who,4035,100.0,4035
+96863,United States,2020-06-22,non_who,6070,100.0,6070
+96887,United States,2020-07-06,non_who,8371,100.0,8371
+96911,United States,2020-07-20,non_who,10122,100.0,10122
+96935,United States,2020-08-03,non_who,7801,100.0,7801
+96959,United States,2020-08-17,non_who,5991,99.98,5992
+96983,United States,2020-08-31,non_who,4887,99.98,4888
+97007,United States,2020-09-14,non_who,4356,99.86,4362
+97031,United States,2020-09-28,non_who,5067,99.8,5077
+97055,United States,2020-10-12,non_who,5742,99.62,5764
+97079,United States,2020-10-26,non_who,7486,99.35,7535
+97103,United States,2020-11-09,non_who,12433,99.15,12540
+97127,United States,2020-11-23,non_who,13360,98.52,13561
+97151,United States,2020-12-07,non_who,12709,95.8,13266
+97175,United States,2020-12-21,non_who,17782,89.2,19936
+97199,United States,2021-01-04,non_who,18950,89.39,21204
+97223,United States,2021-01-11,non_who,15129,82.0,18451
+97247,United States,2021-01-25,non_who,29983,78.3,38293
+97271,United States,2021-02-08,non_who,23912,68.61,34853
+97295,United States,2021-02-22,non_who,23049,64.16,35919
+97319,United States,2021-03-08,non_who,21104,52.84,39935
+97343,United States,2021-03-22,non_who,19635,37.33,52615
+97367,United States,2021-04-05,non_who,15183,22.04,68922
+97391,United States,2021-04-19,non_who,11403,14.13,80542
+97415,United States,2021-05-03,non_who,6621,9.67,68541
+97439,United States,2021-05-17,non_who,4326,8.42,51424
+97463,United States,2021-05-31,non_who,2379,8.24,28913
+97487,United States,2021-06-14,non_who,1504,7.42,20283
+97511,United States,2021-06-28,non_who,1179,5.3,22291
+97535,United States,2021-07-12,non_who,1017,2.72,37254
+97559,United States,2021-07-26,non_who,917,1.14,79713
+97583,United States,2021-08-09,non_who,957,0.65,146170
+97607,United States,2021-08-23,non_who,544,0.41,130754
+97631,United States,2021-09-06,non_who,778,0.56,137159
+97655,United States,2021-09-20,non_who,733,0.55,134718
+97679,United States,2021-10-04,non_who,412,0.37,111660
+97703,United States,2021-10-18,non_who,440,0.4,107920
+97727,United States,2021-11-01,non_who,418,0.41,104883
+97751,United States,2021-11-15,non_who,719,0.62,117419
+97775,United States,2021-11-29,non_who,680,0.68,100281
+97799,United States,2021-12-13,non_who,202,0.21,102430
+97823,United States,2021-12-27,non_who,155,0.32,49235
+97847,United States,2022-01-05,non_who,0,0.0,35
+97871,Uruguay,2020-05-11,non_who,3,100.0,3
+97895,Uruguay,2020-05-25,non_who,14,100.0,14
+97919,Uruguay,2020-06-08,non_who,11,100.0,11
+97943,Uruguay,2020-06-22,non_who,15,100.0,15
+97967,Uruguay,2020-07-06,non_who,13,100.0,13
+97991,Uruguay,2020-07-20,non_who,12,100.0,12
+98015,Uruguay,2020-08-03,non_who,7,100.0,7
+98039,Uruguay,2020-08-17,non_who,1,100.0,1
+98063,Uruguay,2020-09-28,non_who,6,100.0,6
+98087,Uruguay,2020-10-12,non_who,2,100.0,2
+98111,Uruguay,2020-11-09,non_who,3,100.0,3
+98135,Uruguay,2020-11-23,non_who,2,100.0,2
+98159,Uruguay,2020-12-07,non_who,8,100.0,8
+98183,Uruguay,2020-12-21,non_who,13,100.0,13
+98207,Uruguay,2021-01-04,non_who,11,100.0,11
+98231,Uruguay,2021-01-11,non_who,15,100.0,15
+98255,Uruguay,2021-01-25,non_who,50,100.0,50
+98279,Uruguay,2021-02-08,non_who,60,100.0,60
+98303,Uruguay,2021-02-22,non_who,53,100.0,53
+98327,Uruguay,2021-03-08,non_who,80,79.21,101
+98351,Uruguay,2021-03-22,non_who,9,15.79,57
+98375,Uruguay,2021-04-05,non_who,36,51.43,70
+98399,Uruguay,2021-04-19,non_who,62,46.26,134
+98423,Uruguay,2021-05-03,non_who,21,100.0,21
+98447,Vietnam,2021-01-04,non_who,1,100.0,1
+98471,Vietnam,2021-01-11,non_who,0,0.0,1
+98495,Vietnam,2021-02-08,non_who,1,50.0,2
+98519,Vietnam,2021-02-22,non_who,4,100.0,4
+98543,Vietnam,2021-05-03,non_who,0,0.0,15
+98567,Vietnam,2021-05-17,non_who,0,0.0,58
+98591,Vietnam,2021-05-31,non_who,0,0.0,26
+98615,Vietnam,2021-06-14,non_who,0,0.0,14
+98639,Vietnam,2021-06-28,non_who,0,0.0,6
+98663,Vietnam,2021-07-26,non_who,0,0.0,67
+98687,Vietnam,2021-08-09,non_who,0,0.0,106
+98711,Vietnam,2021-08-23,non_who,0,0.0,139
+98735,Vietnam,2021-09-06,non_who,0,0.0,862
+98759,Vietnam,2021-09-20,non_who,0,0.0,63
+98783,Vietnam,2021-10-04,non_who,0,0.0,88
+98807,Vietnam,2021-10-18,non_who,0,0.0,58
+98831,Vietnam,2021-11-01,non_who,0,0.0,82
+98855,Vietnam,2021-11-15,non_who,0,0.0,69
+98879,Vietnam,2021-11-29,non_who,0,0.0,59
+98903,Vietnam,2021-12-13,non_who,0,0.0,35
+98927,Vietnam,2021-12-27,non_who,0,0.0,50
+98951,Zambia,2020-05-11,non_who,4,100.0,4
+98975,Zambia,2020-06-08,non_who,21,100.0,21
+98999,Zambia,2020-06-22,non_who,25,100.0,25
+99023,Zambia,2020-07-06,non_who,29,100.0,29
+99047,Zambia,2020-07-20,non_who,62,100.0,62
+99071,Zambia,2020-08-03,non_who,184,100.0,184
+99095,Zambia,2020-08-17,non_who,62,98.41,63
+99119,Zambia,2020-08-31,non_who,35,100.0,35
+99143,Zambia,2020-09-14,non_who,2,100.0,2
+99167,Zambia,2020-10-12,non_who,4,100.0,4
+99191,Zambia,2020-10-26,non_who,1,100.0,1
+99215,Zambia,2020-12-07,non_who,0,0.0,4
+99239,Zambia,2020-12-21,non_who,2,20.0,10
+99263,Zambia,2021-01-04,non_who,1,5.0,20
+99287,Zambia,2021-01-11,non_who,5,19.23,26
+99311,Zambia,2021-01-25,non_who,3,7.89,38
+99335,Zambia,2021-02-08,non_who,3,6.12,49
+99359,Zambia,2021-02-22,non_who,1,1.31,76
+99383,Zambia,2021-03-08,non_who,0,0.0,8
+99407,Zambia,2021-03-22,non_who,0,0.0,5
+99431,Zambia,2021-04-05,non_who,0,0.0,9
+99455,Zambia,2021-04-19,non_who,1,50.0,2
+99479,Zambia,2021-05-03,non_who,3,16.66,18
+99503,Zambia,2021-05-31,non_who,0,0.0,87
+99527,Zambia,2021-06-14,non_who,0,0.01,94
+99551,Zambia,2021-06-28,non_who,0,0.0,22
+99575,Zambia,2021-07-12,non_who,0,0.0,70
+99599,Zambia,2021-07-26,non_who,0,0.0,41
+99623,Zambia,2021-08-09,non_who,0,0.0,17
+99647,Zambia,2021-08-23,non_who,0,0.0,7
+99671,Zambia,2021-09-06,non_who,0,0.0,37
+99695,Zambia,2021-09-20,non_who,0,0.0,1
+99719,Zambia,2021-12-13,non_who,0,0.0,39
+99743,Zambia,2021-12-27,non_who,0,0.0,7
+99767,Zimbabwe,2020-05-11,non_who,35,100.0,35
+99791,Zimbabwe,2020-06-08,non_who,41,100.0,41
+99815,Zimbabwe,2020-08-03,non_who,24,100.0,24
+99839,Zimbabwe,2020-08-17,non_who,5,100.0,5
+99863,Zimbabwe,2020-08-31,non_who,7,100.0,7
+99887,Zimbabwe,2020-09-14,non_who,7,87.5,8
+99911,Zimbabwe,2020-10-12,non_who,5,100.0,5
+99935,Zimbabwe,2020-10-26,non_who,4,100.0,4
+99959,Zimbabwe,2020-11-09,non_who,1,100.0,1
+99983,Zimbabwe,2020-11-23,non_who,0,0.0,1
+100007,Zimbabwe,2020-12-07,non_who,0,0.0,1
+100031,Zimbabwe,2020-12-21,non_who,9,32.14,28
+100055,Zimbabwe,2021-01-04,non_who,38,23.75,160
+100079,Zimbabwe,2021-01-11,non_who,5,4.39,114
+100103,Zimbabwe,2021-01-25,non_who,3,5.26,57
+100127,Zimbabwe,2021-02-08,non_who,0,0.0,37
+100151,Zimbabwe,2021-02-22,non_who,0,0.0,1
+100175,Zimbabwe,2021-03-08,non_who,0,0.0,8
+100199,Zimbabwe,2021-06-28,non_who,0,0.0,3
+100223,Zimbabwe,2021-07-12,non_who,0,0.0,42
+100247,Zimbabwe,2021-07-26,non_who,0,0.0,35
+100271,Zimbabwe,2021-08-09,non_who,1,5.56,18
+100295,Zimbabwe,2021-08-23,non_who,0,0.0,18
+100319,Zimbabwe,2021-09-06,non_who,0,0.0,14
+100343,Zimbabwe,2021-09-20,non_who,0,0.0,6
+100367,Zimbabwe,2021-10-04,non_who,0,0.0,2
+100391,Zimbabwe,2021-10-18,non_who,0,0.0,5
+100415,Zimbabwe,2021-11-01,non_who,0,0.0,6
