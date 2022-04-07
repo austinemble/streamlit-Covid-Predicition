@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import variantTemplate;
+import variantsApps.variantTemplate as variantTemplate;
 def navBar():  
   # Nav Bar Section
   st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)

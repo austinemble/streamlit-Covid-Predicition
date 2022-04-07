@@ -1,10 +1,10 @@
 import streamlit as st
 
-class MultiApp:
+class MultiApp2:
     def __init__(self):
-        self.apps = []
+        self.apps2 = []
 
-    def add_app(self, title, func):
+    def add_app2(self, title, func):
         """Adds a new application.
         Parameters
         ----------
@@ -13,14 +13,14 @@ class MultiApp:
         title:
             title of the app. Appears in the dropdown in the sidebar.
         """
-        self.apps.append({
+        self.apps2.append({
             "title": title,
             "function": func
         })  
 
-    def run(self):
+    def run2(self):
         app = st.sidebar.selectbox(
-            'Main Navigation',
-            self.apps,
+            'Variant Navigation',
+            self.apps2,
             format_func=lambda app: app['title'])
         app['function']()

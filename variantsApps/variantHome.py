@@ -85,4 +85,4 @@ Mutations included on CoVariants are mutations associated with VoCs or other var
     
 
 
-app()
+            
